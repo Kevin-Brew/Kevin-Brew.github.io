@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+{% include header.html %}
+
+<div class="page-content">
+    <div class="wrapper">
+        <div class="blog">
+            <h1 class="page-heading">{{ page.title }}</h1>
+            {{ content }}
+
+            <p class="blog-post-list">
+                {% for post in site.posts %}
+                {% if post.draft != true %}
+
+                <div class="card">
+                  <h3><b>{{ post.date | date: "%-m/%-d/%y" }} :: <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
+                      {{ post.title }}
+                </a></b></h3>
+                  {% if post.og_image %}
+                  <img src="{{ post.og_image }}" alt="blog" style="width:100%">
+                  {% endif %}
+                  <div class="container">
+
+
+                    {% if post.blurb != true %}
+                    <p>{{ post.blurb}}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+            </p>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
+
+{% include foot.html %}
+</body>
+</html>

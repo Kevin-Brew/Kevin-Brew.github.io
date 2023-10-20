@@ -1,2 +1,2 @@
-# atbrew.github.io
-My github pages [page](http://atbrew.github.io)
+# automated-anglican
+A repository of stuff Im doing for Dads old Sermons

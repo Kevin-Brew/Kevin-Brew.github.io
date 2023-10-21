@@ -1,27 +1,37 @@
 ---
 layout: post
-title:  "Back in the water"
-date:   2023-06-02 10:00:40
-blurb: "Dont forget what you loved, just because others things have displaced them. "
+title:  "Ceasefire: Hope Amidst Uncertainty"
+date:   1994-08-30
+blurb: "The sermon reflects on the recent ceasefire, expressing a mix of hope and fear. It emphasizes the need for calm, harmony, trust, and common purpose for true peace, and calls for prayers for political leaders to guide the community forward."
 og_image: /assets/img/content/first-post/back-in-the-water.jpeg
 ---
 
-<img src="{{ "/assets/img/content/first-post/back-in-the-water.jpeg" | absolute_url }}" alt="Liffey swim" class="post-pic"/>
-<br />
-<br />
+PENTECOST 15 (Trinity 14 - 1994) "Thoughts about the ceasefire"
 
-In the context of this post, I would summarise it as the following principle. <b>Take time to return to old things</b>. This is because often we leave old things behind, not because we want to but our life becomes too busy and new things come and displace them and make you doubt "why" you ever did them.
+Over the last twenty five years, amidst the murder and mayhem, we have prayed for peace in our province. How long can this go on we have asked. Do our children have to grow up in this atmosphere of suspicion and fear. In addition to the human toll, the situation here has had a devastating effect on the local economy. Potential investors have been scared off. Many of our young people have felt the need to emigrate, many never to return.
 
-To set off with a bad analogy. At this time of year, as with many open water swimmers, if you could get into their head you would hear their inner voice battling "Are you really sure you like this?", after those first nerves pass an "one arm goes in front of the other" for a few <a href="https://leinsteropensea.com/results/2022/swimmers/b14b4509-302a-4fdd-a5c6-b5a0f5b02b35">swims</a> you inevitably find yourself surrounded by a heave of men walking down the ramp singing Molly Malone as we prepare for the annual Liffey Swim.   
+And of course in an atmosphere such as we have had to live in, suspicions are inevitable. For those working in the security forces - suspicion is part of self-preservation. Even on holidays well away from home you meet people from particular areas of the province and you feel you have to be cautious about how much you say about yourself.
 
-It turns out that first nerves is because other habits have filled the void, the 50 m pool at UCD is warm, the sauna and jacuzzi after the swim set are truly inviting. But truth be told, they are orchestrated and routine. And in reality only a preparation for next years open water season where a real infinite adventure awaits. 
+Then there are individuals and families and communities for whom murder has been horribly personal. Thousands have been maimed in body and mind by what has happened. During this time there have been hopes raised only to be dashed and, if we are honest with ourselves, Opportunities missed or mishandled.
 
-Why then the hesitation? Was I scared I couldn't do it anymore? Maybe I can do it but I will suck and come last? In reality no, it just because I haven't done it for a while. I might well come last, but as I pull deep and lose myself in a swim I remember why I love this, I can get lost in something much bigger and more powerful than myself.
+What we have come to euphemistically call "The Troubles" have given us a wariness - wariness of other people, wariness of new developments for fear of where they may lead us. And so many of us have found it hard to identify with the euphoria coming from commentators on our TV or in the papers.
 
-That brings me to this first post. Years ago I found joy in writing inventive software "for me" not "for money". I was lucky to get to practice the craft of building software products and get good at it. In work I learnt it but the creative expression was something I always did for "fun". As I progressed in my career I also found joy in discovering (in a product management sense) what we should build as a team. I really enjoy helping the teams I lead "zone in" on that focus and deliver as a team. How can invention be discovered "bottom up" and aligned "top down"? I'd lived it first hand seeing how mis-understanding between team members made a project with two people often go slower than if one person jammed it out. These new "fun" things and a wonderful distraction of a few kids meant I stopped writing software "for fun". 
+I must confess myself on Wednesday & Thursday to a mixture of emotions. Over the last number of years, I have prayed for peace and led others in prayers for peace. An essential element of that had to be an end of IRA violence. One part of me wanted to rejoice and one part of me was afraid. As I ploughed through the paper on Thursday I came across a comment by the Belfast correspondent of the London Independent that rang true for me:
 
-I was lucky to dabble again when I started leading the Zalando NLP team by completing the awesome <a href="https://web.stanford.edu/class/cs224n/">Stanford NLP course </a>, and with the rise of all things ChatGPT I got to play with helping the team I led at <a href="https://www.linkedin.com/posts/streetbees_ai-marketresearch-activity-7069319446992969728-t-Zx?utm_source=share&utm_medium=member_desktop">Streetbees</a> build an end-to-end system that leveraged this advance from survey generation to survey collection to survey processing and insights & data delivery system using. I have realised I can learn new things "through" the learnings of my team (e.g. in experimental & system reviews) but I still also love learning by doing.  
+"Northern Ireland faces a moment without exact precedent - a moment alive with both opportunities and dangers." There was another comment in an interview on the morning news: "The time has come to light a candle rather than curse the darkness."
 
-So now my toes are back in the water, and this is my first post. Im currently working on bringing a <a href="hideprice.com">site</a> I wrote for my wife and with my wife back to life. The intention is not to make it "work" again, its to learn howto deploy in 2024 (FWIW using GitHub actions and Terraform as my CI-CD system). As with all parents Im going to try to bring the joy of invention to my kids so next up will be shell projects for them that we can see where they will swim.
+What is needed more than ever is a period of calm. We have a possibility of peace but we do not have peace. For peace is more than an absence of conflict. There has to be an element of harmony, trust and common purpose. The establishment of that is a long term business requiring patience and sensitivity on all sides.
 
-It looks like I have one arm moving after the other, I'm looking forward to swiming the Liffey.
+At this time our political leaders have a great task before them. More than ever they need our prayers. For political leaders are called upon not only to articulate the aspirations and fears of their own community but also to point a way forward. This may involve saying things that may not initially be very popular with all sections of their community. Let us pray for them in the days to come, that God may guide them and strengthen them in the task that lies before them.
+
+As I said the events of the last twenty five years have given us a wariness. There are feelings in our hearts of suspicion, of anger, of bitterness. There are good reasons for these feelings. It would be unreal to suggest that it should be otherwise in the light of what has happened. If our province is to have the sort of future that will encourage our young people to stay, that will encourage businesses to invest then these feelings of suspicion, of anger have to loosen their grip on our hearts.
+
+This is not something that will happen overnight or in our own strength. This is something that God and God alone will do for us. What is required is for us to want this to happen. Maybe that is the first gift we need to ask of God, that he might plant this desire in our hearts.
+
+Please don't misunderstand me. There are good reasons for these feelings in our hearts and God understands that - but God does want to lift this burden from us.
+
+In the versicles and responses of Morning and Evening Prayer we have the petition: "O God make clean our hearts within us; And take not thy Holy Spirit from us”
+
+This can be a prayer for us. That God by his holy Spirit would work in us and through us to bring his healing touch to bear on our Province.
+
+As the man in the paper said, this is a time of both opportunity and danger. Peace has not yet come - there is a possibility. As such our political leaders shoulder a heavy burden. May God direct them and strengthen them at this time. We have prayed for peace and we continue in our prayers. May God keep us and direct us in both the opportunities and dangers of this time - that his peace may finally settle upon this land of ours.

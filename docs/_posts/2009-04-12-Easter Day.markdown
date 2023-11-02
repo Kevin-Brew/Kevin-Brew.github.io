@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Easter Day 2009"
+date:   2009-04-12
+blurb: "The sermon on Easter Day 2009 focuses on the theme of resurrection and the movement between the Upper Room and the tomb. It explores the journey from despair, through confusion, to faith. The sermon emphasizes that resurrection is more than just resuscitation; it's about the living presence of Christ, who understands human suffering and offers hope and purpose."
+---
+[Original PDF](/assets/pdf/Easter Day.pdf)    
+The Easter story, the story of Mary Magdalene going to the tomb and finding it empty is one of the most familiar of all the Bible stories. The theme of resurrection lies at the heart of our Christian faith.
+
+This year, as I read this very familiar story, the feature that stood out for me was that of movement, lots of movement, between the Upper Room, where the disciples had gathered since Jesus’ death the previous Friday afternoon, and the tomb where he had been hastily buried before the start of the Passover celebrations. There were a number of journeys in the early hours of that morning between the Upper Room, a place of sanctuary but also of fear, and the tomb, a place of death, of fear, a reminder of their failure to stand by Jesus in his hour of need; a tomb that held not just the body of Jesus but also all the early hopes and optimism as they had followed him in the days of his ministry.
+
+The day begins before first light as Mary makes her way to the tomb, a quiet visit to the grave of a dead friend. On her arrival we are told she finds the tomb empty – one thinks of all sorts of thoughts that would rush through your mind – what would make someone vandalise a grave? Enemies, not content with crucifixion, have not only robbed him of life – they cannot even leave him in peace in his grave.
+
+She now rushes back to the others – you can imagine the panic, the tears. She bursts into the room – ‘The grave is empty!!’ ‘What do you mean, the grave is empty?’ ‘The grave is empty. The body is gone.’
+
+The rush back to the tomb; they rush in past Mary. They have a look round then they rush back past her, back to the security of the Upper Room to work out what has happened, what to do next – Mary is left by herself.
+
+Mary is left with the uncertainty, with the unanswered questions. Then John tells us of an experience that cuts through Mary’s despair and confusion on that first Easter morning.
+
+She experiences the presence, a living, personal presence of the one she had followed, had loved, had served, had mourned a wept over. Not just an abstract presence but an awareness of him speaking, comforting, relating to her. Now there is one final journey back to the Upper Room – not in the earlier despair and confusion but one marked by joy and purpose and she declares to the disciples ‘I have seen the Lord’
+
+I spoke of a number of journeys that took place that first Easter morning between the Upper Room and the Tomb. There is another underlying journey – one from despair, through confusion and on into faith. This is where the first Easter experience impinges on my experience, on my life, my concerns, my doubts and fears.
+
+Resurrection is about far more than mere resuscitation of a corpse. It is, as Paul will declare to the Corinthians, about a far more glorious life. It is about a living presence of Christ, who knows what it is to be human, what it is to be hurt, to be lonely, to be scared; what it is to die.
+
+Who knows what lies ahead for us in these coming months? There will be those among us who will know sickness, bereavement; who will know what it is to lose the security of employment, of relationship. The Easter faith is about the Christ who comes to us in the garden of our doubt and despair and reveals his presence; it is about the Christ who travels the road of our disappointment and confusion and speaks to us of purpose and hope; it is about the Christ who comes to us when our best efforts have come to nothing and urges us to cast the net one more time into the resources of his plenty.

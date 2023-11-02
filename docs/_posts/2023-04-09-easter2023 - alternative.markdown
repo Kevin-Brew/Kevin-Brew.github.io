@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Doubting Thomas"
+date:   2023-04-09
+blurb: "This sermon revolves around the story of 'Doubting Thomas' and the struggle between doubt and faith. It discusses how people may question their beliefs due to various reasons, such as trauma, bereavement, or illness. The sermon emphasizes that doubt is a common part of faith, as even some of Jesus' disciples doubted him."
+---
+[Original PDF](/assets/pdf/easter2023 - alternative.pdf)    
+'Rector, I'm not sure what I believe anymore.' Many is the time that I have heard that comment in the privacy of someone's home. People will have come to that position for a number of reasons. It could be trauma or bereavement, or serious illness in themselves or in someone they love. Or perhaps news of some terrible natural disaster leaving many innocents suffering or dead. Or it may be just simply the spark has gone out of living, out of faith.
+
+That remark, and many like it, come to mind as I read our Gospel reading for today with the story of the hapless Thomas, wanting to believe and yet afraid to believe. 'Unless I see the mark of the nails in his hands … I will not believe.' And of course, he has been stuck with the title 'Doubting Thomas' ever since. I must admit a certain affinity to poor Thomas, an affinity I would suspect many of us share in our darker moments of faith as we make our own struggle between doubt and faith.
+
+Then as I think about this a little bit more, I realise that Thomas is not unique. If we go to Matthew's account of the Great Commission, as the risen Jesus sends the disciples out as he prepares to return to the Father, Matthew tells us that as the disciples gathered, 'When they saw him they worshipped him, but some doubted.' Matt 28:17.

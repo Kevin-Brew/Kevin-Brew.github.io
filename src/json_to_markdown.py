@@ -36,10 +36,12 @@ blurb: "{}"
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert json to markdown post.")
     parser.add_argument("--file", required=True, help="Path to the json file.")
+    parser.add_argument("--overwrite", type=bool, default=False)
 
     args = parser.parse_args()
 
     json_file_path = args.file
+    overwrite = args.overwrite
 
     file_name, file_extension = os.path.splitext(json_file_path)
 
@@ -54,13 +56,16 @@ if __name__ == "__main__":
         out_path = f"{dir}/{date}-{name}.markdown"
 
         exists_already = os.path.isfile(out_path)
+        if exists_already:
+            print(f"{out_path} is a file and it already exists!")
+        else:
+            print(f"{out_path} does not exist.")
 
-
-        print(f"Writing {out_path}")
-        content = create_markdown(json_object)
-        with open(out_path, 'w') as file:
-            file.write(content)
-
+        if overwrite or not exists_already:
+            print(f"Writing {out_path}")
+            content = create_markdown(json_object)
+            with open(out_path, 'w') as file:
+                file.write(content)
     else:
         print("Unsupported file format.")
         exit(1)

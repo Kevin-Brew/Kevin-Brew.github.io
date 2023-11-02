@@ -2,7 +2,7 @@
 layout: post
 title:  "Naming of Jesus"
 date:   2023-01-01
-blurb: "In this sermons, Kevin reflects on the transition from the old year to the new one, acknowledging the mixture of emotions that come with it. He emphasizes the constant presence of God in our lives, regardless of our circumstances. The sermons also highlights the significance of the Feast of the Naming and Circumcision of Jesus, and how it underscores God's care and concern for humanity."
+blurb: "In this sermon, Kevin reflects on the transition from the old year to the new one, acknowledging the mixture of emotions that come with it. He emphasizes the constant presence of God in our lives, regardless of our circumstances. The sermon also highlights the significance of the Feast of the Naming and Circumcision of Jesus, and how it underscores God's care and concern for humanity."
 ---
 [Original PDF](/assets/pdf/Naming of Jesus.pdf)    
 Well here we are – 2022 is behind us and 2023 opens up before us. Around this time of year there are a host of ‘End of Year Specials on our radio and TV channels – looking back over the events of the year that is past, looking forward to try and predict what lies in store for us in the year to come. Of course we don’t need the radio or the TV to do that for us – each of us is probably conducting our own review of the year that is past, our own peep into the year that lies ahead.

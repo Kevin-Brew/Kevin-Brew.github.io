@@ -2,7 +2,7 @@
 layout: post
 title:  "Christmas Family Service 2018"
 date:   2018-12-25
-blurb: "This sermons, delivered on Christmas Day 2018, explores the concept of Incarnation and the birth of Jesus Christ. Using a simple story about a man who didn't believe in the 'Jesus Story', the sermons illustrates the idea of God coming to Earth as a man. The man's experience with a flock of birds during a snowstorm helps him understand the concept of Incarnation."
+blurb: "This sermon, delivered on Christmas Day 2018, explores the concept of Incarnation and the birth of Jesus Christ. Using a simple story about a man who didn't believe in the 'Jesus Story', the sermon illustrates the idea of God coming to Earth as a man. The man's experience with a flock of birds during a snowstorm helps him understand the concept of Incarnation."
 ---
 [Original PDF](/assets/pdf/christmasfamily2018.pdf)    
 Today is Christmas Day. Today we celebrate the birth of Jesus Christ, Son of God, God coming among us. Adults, theologians, clergy use big words like Incarnation. Hymn writers use words like 'consubstantial, co-eternal, three in one and one in three' – and we can tie ourselves in knots trying to get our heads around it. Sometimes a simple story puts it better.

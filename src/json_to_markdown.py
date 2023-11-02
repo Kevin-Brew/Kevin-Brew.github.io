@@ -57,7 +57,7 @@ if __name__ == "__main__":
             print(f"{out_path} does not exist.")
 
         if overwrite or not exists_already:
-            print(f"Writing {out_path}")
+            print(f"---> Writing {out_path}")
             content = create_markdown(json_object)
             with open(out_path, 'w') as file:
                 file.write(content)

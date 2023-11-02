@@ -1,18 +1,13 @@
 #! python
 
-
 import argparse
 import json
 import os
-import pdfplumber
-from pdf2image import convert_from_path
-import pytesseract
 
 def get_filename_without_extension(path):
     base_name = os.path.basename(path)  # Get the filename with extension
     file_name_without_extension = os.path.splitext(base_name)[0]  # Split filename and extension
     return file_name_without_extension
-
 
 def create_markdown(json_object):
     ans = """---

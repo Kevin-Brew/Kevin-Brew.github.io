@@ -2,7 +2,7 @@
 layout: post
 title:  "A Chocolate Christmas"
 date:   2015-12-25
-blurb: "This sermon tells the story of Christmas in a unique and engaging way, using different types of chocolates as metaphors. It emphasizes the message that God sent His Son into the world to be our Saviour, to set us free from the things that hold us back from being what he wants us to be. It reminds us that God's gift of His Son is for everyone, and that the Christmas story is cause for celebration."
+blurb: "This sermons tells the story of Christmas in a unique and engaging way, using different types of chocolates as metaphors. It emphasizes the message that God sent His Son into the world to be our Saviour, to set us free from the things that hold us back from being what he wants us to be. It reminds us that God's gift of His Son is for everyone, and that the Christmas story is cause for celebration."
 ---
 [Original PDF](/assets/pdf/christmasfamily2015choc.pdf)    
 Christmas Day 2015 – Family Service – a chocolate Christmas

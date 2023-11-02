@@ -2,7 +2,7 @@
 layout: post
 title:  "Remembrance Day"
 date:   1979-11-11
-blurb: "This sermon, delivered on Remembrance Day, reflects on the importance of remembering those who have died in wars and conflicts. It emphasizes the need to learn from the past and apply those lessons to the present and future, to avoid repeating the same mistakes. The sermon also discusses the role of remembrance in the Church's worship and the impact of past events on our current lives."
+blurb: "This sermons, delivered on Remembrance Day, reflects on the importance of remembering those who have died in wars and conflicts. It emphasizes the need to learn from the past and apply those lessons to the present and future, to avoid repeating the same mistakes. The sermons also discusses the role of remembrance in the Church's worship and the impact of past events on our current lives."
 ---
 [Original PDF](/assets/pdf/1979-11-11-Remembrance-day-Anthony-born.pdf)    
 This Sunday, Remembrance Sunday, our thoughts turn for a short while to those who have died in the wars of this century. There are those here in this Church who have very personal memories of wartime. Memories of experiences, memories of comrades who fell. What I want to do this morning, in the next few minutes, is to think about the part remembrance plays in our lives and in our faith. There has been a move over the last few years to broaden the frame of reference of Remembrance Day to include those who have given their lives while serving in peacekeeping operations with the United Nations and over the past ten years our thoughts are inevitably drawn to the appalling toll of life in Ireland.

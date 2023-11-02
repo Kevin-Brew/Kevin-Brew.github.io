@@ -35,6 +35,7 @@ remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 paginate: 5
 paginate_path: "/sermons/page:num/"
@@ -43,7 +44,8 @@ header:
   pages:
     - name: About
       slug: /     # <-- index.md
-    - name: Sermons  # <-- sermons.md
+    - name: Sermons  # <--
+      url: sermons/index.html
     - name: Links
 
 footer:

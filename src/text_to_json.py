@@ -7,12 +7,12 @@ import json
 
 system_prompt = """
 The user will give a json_blob that follows this schema. 
-The name of the person providing the sermon is Kevin
+The name of the person providing the sermons is Kevin
 {
   "file_name": {
     "type": "string",
-    "description": "this is the file path to the file containing the sermon text, 
-    often hints to the date of the sermon is in this file name, 
+    "description": "this is the file path to the file containing the sermons text, 
+    often hints to the date of the sermons is in this file name, 
     e.g. 
      - Easter_Day - 2009, the date that easter day fell on in 2009
      - advent22015 which would be the 2nd sunday in advert in 2015
@@ -20,9 +20,9 @@ The name of the person providing the sermon is Kevin
     }
   "raw_ocr_content": {
      "type": "string",
-     "description": "This is raw OCR content of the sermon. 
+     "description": "This is raw OCR content of the sermons. 
      It may contain additional artifacts that make the text unclean. 
-     A/ It may have page headers, such as the title of the sermon and 
+     A/ It may have page headers, such as the title of the sermons and 
      pages numbers e.g. 1 of 2. These will break the flow of the main text. 
      You should try to remove these when you process. 
      B/ It may contain handwritten notes (that have become text), 
@@ -69,13 +69,13 @@ def get_processed_data(file_name):
         functions = [
             {
               "name": "send_sermon_details",
-              "description": "send processed and cleaned sermon details for publishing",
+              "description": "send processed and cleaned sermons details for publishing",
               "parameters": {
                 "type": "object",
                 "properties": {
                   "title": {
                     "type": "string",
-                    "description": "A short 3-4 word catchy title for the sermon"
+                    "description": "A short 3-4 word catchy title for the sermons"
                   },
                   "date": {
                     "type": "string",
@@ -87,7 +87,7 @@ def get_processed_data(file_name):
                   },
                   "blurb": {
                         "type": "string",
-                        "description": "A short 3-4 sentence summary of the core message/teaching of the sermon."
+                        "description": "A short 3-4 sentence summary of the core message/teaching of the sermons."
                     },
                   "raw_text": {
                         "type": "string",

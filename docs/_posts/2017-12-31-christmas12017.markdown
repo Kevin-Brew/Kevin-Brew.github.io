@@ -2,7 +2,7 @@
 layout: post
 title:  "Journey into the New Year"
 date:   2017-12-31
-blurb: "This sermon reflects on the transition from 2017 to 2018, discussing the uncertainties of the future and the faith in God's guidance. It highlights the challenges faced globally and locally, while also acknowledging personal triumphs and losses within the community. The sermon emphasizes the importance of trusting in God's plan, even amidst the unknown."
+blurb: "This sermons reflects on the transition from 2017 to 2018, discussing the uncertainties of the future and the faith in God's guidance. It highlights the challenges faced globally and locally, while also acknowledging personal triumphs and losses within the community. The sermons emphasizes the importance of trusting in God's plan, even amidst the unknown."
 ---
 [Original PDF](/assets/pdf/christmas12017.pdf)    
 First Sunday after Christmas – Year B – 2018

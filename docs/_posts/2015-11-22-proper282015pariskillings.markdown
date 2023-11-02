@@ -2,7 +2,7 @@
 layout: post
 title:  "Reflections on Paris Attacks"
 date:   2015-11-22
-blurb: "This sermon reflects on the horrific Paris attacks, questioning where God is in such tragedies and how faith can respond. It emphasizes that God is not the instrument of evil but is present with those facing it. The sermon also discusses the misuse of faith to justify evil deeds and the importance of supporting moderate voices within Islam."
+blurb: "This sermons reflects on the horrific Paris attacks, questioning where God is in such tragedies and how faith can respond. It emphasizes that God is not the instrument of evil but is present with those facing it. The sermons also discusses the misuse of faith to justify evil deeds and the importance of supporting moderate voices within Islam."
 ---
 [Original PDF](/assets/pdf/proper282015pariskillings.pdf)    
 2ND Sunday before Advent – Proper 28 – 2015

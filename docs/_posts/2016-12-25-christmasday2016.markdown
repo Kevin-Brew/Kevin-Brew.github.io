@@ -2,7 +2,7 @@
 layout: post
 title:  "Christmas Day 2016"
 date:   2016-12-25
-blurb: "In this sermon, Kevin reflects on the eventful year of 2016, highlighting the rise of populism and the increase in hate crimes. He draws parallels between these modern issues and the story of Jesus, who was an outsider in his own world. Kevin emphasizes Jesus' teachings of love and acceptance, urging his listeners to reach out to those on the edge and break down barriers of class, creed, race, and difference."
+blurb: "In this sermons, Kevin reflects on the eventful year of 2016, highlighting the rise of populism and the increase in hate crimes. He draws parallels between these modern issues and the story of Jesus, who was an outsider in his own world. Kevin emphasizes Jesus' teachings of love and acceptance, urging his listeners to reach out to those on the edge and break down barriers of class, creed, race, and difference."
 ---
 [Original PDF](/assets/pdf/christmasday2016.pdf)    
 2016 has been an eventful year in the world of international politics. We have seen the UK voting to leave the European Union, Donald Trump being elected as President of the United States. We have also witnessed the rise of far right groupings in France, the Netherlands, Austria.

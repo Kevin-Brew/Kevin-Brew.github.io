@@ -2,7 +2,7 @@
 layout: post
 title:  "Aftermath of 9/11"
 date:   2001-09-16
-blurb: "This sermon reflects on the horrific events of the 9/11 attacks, the raw pain and anger felt by the American society, and the need for healing and understanding. It emphasizes the importance of maintaining Christian values even in times of anger and retaliation, and the need for a just response that doesn't compromise our morality."
+blurb: "This sermons reflects on the horrific events of the 9/11 attacks, the raw pain and anger felt by the American society, and the need for healing and understanding. It emphasizes the importance of maintaining Christian values even in times of anger and retaliation, and the need for a just response that doesn't compromise our morality."
 ---
 [Original PDF](/assets/pdf/2001-09-11-Sunday-after-911.pdf)    
 Sunday after the World Trade Centre attack in New York

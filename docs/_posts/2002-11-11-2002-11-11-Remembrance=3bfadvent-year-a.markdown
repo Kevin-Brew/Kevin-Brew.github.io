@@ -2,7 +2,7 @@
 layout: post
 title:  "Remembrance Sunday"
 date:   2002-11-11
-blurb: "This sermon reflects on the importance of Remembrance Day, the memories of war and the sacrifices made by many. It emphasizes the reality of war and the cost it has on humanity. The sermon also highlights the need for prayer for world leaders in their decision-making, especially in times of international conflict."
+blurb: "This sermons reflects on the importance of Remembrance Day, the memories of war and the sacrifices made by many. It emphasizes the reality of war and the cost it has on humanity. The sermons also highlights the need for prayer for world leaders in their decision-making, especially in times of international conflict."
 ---
 [Original PDF](/assets/pdf/2002-11-11-Remembrance=3bfadvent-year-a.pdf)    
 3rd Sunday before Advent-Remembrance Sunday - 2002-year A

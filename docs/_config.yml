@@ -36,6 +36,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+paginate: 5
+paginate_path: "/sermons/page:num/"
+
 header:
   pages:
     - name: About

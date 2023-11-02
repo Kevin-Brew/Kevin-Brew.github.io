@@ -1,12 +1,30 @@
 #! python
 
-
 import argparse
 import os
 import pdfplumber
 from pdf2image import convert_from_path
 import pytesseract
+import numpy as np
+import cv2
+from google.cloud import vision
 
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/anthonybrew/Development/Personal/Kevin-Brew.github.io/project_key.json"
+
+def google_vision(image) -> str:
+    open_cv_image = np.array(image)
+    # Convert RGB to BGR
+    open_cv_image = open_cv_image[:, :, ::-1].copy()
+
+    roi = open_cv_image
+    roi = cv2.cvtColor(roi, cv2.COLOR_BGR2GRAY)
+    success, encoded_image = cv2.imencode('.jpg', roi)
+    roi_image = encoded_image.tobytes()
+    roi_image = vision.Image(content=roi_image)
+
+    client = vision.ImageAnnotatorClient()
+    response = client.text_detection(image=roi_image)
+    return response.text_annotations[0].description
 
 def extract_text_from_pdf(pdf_path):
     text = []
@@ -25,7 +43,9 @@ def extract_text_from_pdf(pdf_path):
         # pdf plumber has failed lets do a raw extract
         images = convert_from_path(pdf_path)
         for image in images:
-            text.append(pytesseract.image_to_string(image))
+            # t1 = pytesseract.image_to_string(image, config='--psm 1 -l ENG')
+            t1 = google_vision(image)
+            text.append(t1)
 
     return "\n".join(text)
 
@@ -46,7 +66,7 @@ if __name__ == "__main__":
     file_name, file_extension = os.path.splitext(pdf_file_path)
 
     if file_extension.lower() == '.pdf':
-        out_path = f"{file_name}.raw.txt"
+        out_path = f"{file_name}.txt"
         exists_already = os.path.isfile(out_path)
         if exists_already:
             print(f"{out_path} is a file and it already exists!")

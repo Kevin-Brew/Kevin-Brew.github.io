@@ -2,6 +2,8 @@
 
 import argparse
 import os
+from json import JSONDecodeError
+
 import openai
 import json
 
@@ -112,7 +114,7 @@ def get_processed_data(file_name):
         json_object = json.loads(str(response['choices'][0]['message']['function_call']['arguments']))
         json_object["request"] = user
         return json_object
-    except json.decoder.JSONDecodeError as e:
+    except JSONDecodeError as e:
         print(str(response))
         raise e
 

@@ -9,11 +9,9 @@
 
     <div class="wrapper">
         <div class="blog">
-            <h1 class="page-heading">{{ page.title }}</h1>
+<!--            <h1 class="page-heading">{{ page.title }}</h1>-->
+            {% include search-form.html %}
             {{ content }}
-
-            </br>
-            {% include search-form.html %}</br>
 
             <p class="blog-post-list">
             <!-- This loops through the paginated posts -->

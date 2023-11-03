@@ -37,7 +37,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-paginate: 5
+paginate: 8
 paginate_path: "/sermons/page:num/"
 
 header:

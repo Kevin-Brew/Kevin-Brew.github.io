@@ -7,7 +7,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 DIRECTORY="$1"
-BATCH_SIZE=10 # Set the batch size
+BATCH_SIZE=1 # Set the batch size
 
 # Find .doc and .docx files in the specified directory and execute the python script on each
 find "$DIRECTORY" \( -name "*.txt"  \) | xargs -P $BATCH_SIZE -I {} python src/text_to_json.py --file {}

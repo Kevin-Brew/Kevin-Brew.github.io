@@ -3,7 +3,7 @@
 import argparse
 import os
 from json import JSONDecodeError
-
+import tiktoken
 import openai
 import json
 
@@ -42,7 +42,15 @@ The name of the person providing the sermons is Kevin
 You will call the function send_sermon_details based on the users input.
 
 """
+gpt_encoder = tiktoken.encoding_for_model("gpt-4")
 
+
+def count_tokens(content: str) -> int:
+    return len(gpt_encoder.encode(content))
+
+
+sys_count = count_tokens(system_prompt)
+function_count = 294
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -51,72 +59,79 @@ def load_file_to_string(file_path):
     with open(file_path, 'r') as file:
         return file.read()
 
+
 def get_processed_data(file_name):
-    user = {"file_name" : file_name,
+    user = {"file_name": file_name,
             "raw_ocr_content": load_file_to_string(file_name)}
     json_str = json.dumps(user, indent=4)
+
+    user_count = count_tokens(json_str)
 
     response = openai.ChatCompletion.create(
         model="gpt-4",
         messages=[
             {
-              "role": "system",
-              "content": system_prompt
+                "role": "system",
+                "content": system_prompt
             },
             {
-              "role": "user",
-              "content": json_str
+                "role": "user",
+                "content": json_str
             }
-          ],
-        functions = [
+        ],
+        functions=[
             {
-              "name": "send_sermon_details",
-              "description": "send processed and cleaned sermons details for publishing",
-              "parameters": {
-                "type": "object",
-                "properties": {
-                  "title": {
-                    "type": "string",
-                    "description": "A short 3-4 word catchy title for the sermons"
-                  },
-                  "date": {
-                    "type": "string",
-                    "description": "A date in the format YYYY-MM-DD that you have"
-                                   "inferred from the filename and the raw_ocr_content. "
-                                   "typically sermons happen on a Sunday. "
-                                   "and will reference key time periods in the anglican "
-                                   "calendar such as the second sunday of advent"
-                  },
-                  "blurb": {
-                        "type": "string",
-                        "description": "A short 3-4 sentence summary of the core message/teaching of the sermons."
-                    },
-                  "raw_text": {
-                        "type": "string",
-                        "description": "the text from raw_ocr_content cleaned up, "
-                                       "1/ Remove page header information and page numberings. "
-                                       "2/ keep the main text and only make minor coorections fixing "
-                                       "the typos and correct where the OCR has garbled the letters. "
-                                       "3/ allign the text using markdown to create clear pargraphs"
-                                       "4/ where possible if other people are being quoted, try to pull this out in markdown block format"
+                "name": "send_sermon_details",
+                "description": "send processed and cleaned sermons details for publishing",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "title": {
+                            "type": "string",
+                            "description": "A short 3-4 word catchy title for the sermons"
+                        },
+                        "date": {
+                            "type": "string",
+                            "description": "A date in the format YYYY-MM-DD that you have"
+                                           "inferred from the filename and the raw_ocr_content. "
+                                           "typically sermons happen on a Sunday. "
+                                           "and will reference key time periods in the anglican "
+                                           "calendar such as the second sunday of advent"
+                        },
+                        "blurb": {
+                            "type": "string",
+                            "description": "A short 3-4 sentence summary of the core message/teaching of the sermons."
+                        },
+                        "raw_text": {
+                            "type": "string",
+                            "description": "the text from raw_ocr_content cleaned up, "
+                                           "1/ Remove page header information and page numberings. "
+                                           "2/ keep the main text and only make minor coorections fixing "
+                                           "the typos and correct where the OCR has garbled the letters. "
+                                           "3/ allign the text using markdown to create clear pargraphs"
+                                           "4/ where possible if other people are being quoted, try to pull this out in markdown block format"
+                        }
                     }
                 }
-              }
             }
-          ],
+        ],
         temperature=0.31,
-        max_tokens=5143,
+        max_tokens=8191 - user_count - sys_count - function_count,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0
     )
     try:
-        json_object = json.loads(str(response['choices'][0]['message']['function_call']['arguments']))
+        s = str(response['choices'][0]['message']['function_call']['arguments'])
+        json_object = json.loads(s)
         json_object["request"] = user
         return json_object
     except JSONDecodeError as e:
         print(str(response))
-        raise e
+        json_object = {}
+        json_object["request"] = user
+        json_object["base"] = str(response['choices'][0]['message']['function_call']['arguments'])
+        return json_object
 
 
 if __name__ == "__main__":

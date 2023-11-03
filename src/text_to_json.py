@@ -66,7 +66,9 @@ def get_processed_data(file_name):
     json_str = json.dumps(user, indent=4)
 
     user_count = count_tokens(json_str)
+    remaining_tokens = 8191 - user_count - sys_count - function_count
 
+    print("User {}, System {}, Function {}, Completion tokens {}".format(user_count,sys_count, function_count,remaining_tokens))
     response = openai.ChatCompletion.create(
         model="gpt-4",
         messages=[
@@ -116,7 +118,7 @@ def get_processed_data(file_name):
             }
         ],
         temperature=0.31,
-        max_tokens=8191 - user_count - sys_count - function_count,
+        max_tokens=remaining_tokens,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0

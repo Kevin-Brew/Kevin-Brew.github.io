@@ -46,7 +46,6 @@ header:
       slug: /     # <-- index.md
     - name: Sermons  # <--
       url: sermons/index.html
-    - name: Links
 
 footer:
   show_powered_by: false

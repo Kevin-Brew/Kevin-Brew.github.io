@@ -108,9 +108,14 @@ def get_processed_data(file_name):
         frequency_penalty=0,
         presence_penalty=0
     )
-    json_object = json.loads(str(response['choices'][0]['message']['function_call']['arguments']))
-    json_object["request"] = user
-    return json_object
+    try:
+        json_object = json.loads(str(response['choices'][0]['message']['function_call']['arguments']))
+        json_object["request"] = user
+        return json_object
+    except json.decoder.JSONDecodeError as e:
+        print(str(response))
+        raise e
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert text to post.")

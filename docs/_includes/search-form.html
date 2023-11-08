@@ -31,7 +31,11 @@ SimpleJekyllSearch({
   json: '{{ site.baseurl }}/search.json',
   searchResultTemplate: '<div class="card">' +
       '<h3><b>{date} :: <a href={url} class="blog-post-title">{title}</a></b></h3>'
-      + '<div class="container">{blurb}</div></div>'
+      + '<div class="container"><div class="image-container">' +
+      '<img src="{og_image}" alt="blog" id="hp" onerror="this.style.display=\'none\'"/>' +
+      '</div>' +
+      '<div class="text-container"><p>{blurb}</p></div>' +
+      '</div></div>'
 })
 </script>
 

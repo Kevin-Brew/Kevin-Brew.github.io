@@ -141,7 +141,7 @@ def get_processed_data(file_name):
         print(str(response))
         json_object = {}
         json_object["request"] = user
-        json_object["base"] = str(response['choices'][0]['message']['function_call']['arguments'])
+        json_object["base"] = str(response.choices[0].message.function_call.arguments)
         return json_object
 
 

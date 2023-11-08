@@ -3,6 +3,7 @@ layout: post
 title:  "The Unknown Christ"
 date:   2020-12-13
 blurb: "In this sermon, the speaker reflects on the unknown Christ, who is present yet elusive, infinite yet intimate. Drawing from the words of John the Baptist, the speaker encourages us to seek Christ in the unexpected, in service, and in each other. As we approach Christmas, we are reminded to recognize Christ in the marginalized and in our shared worship."
+og_image: "/assets/img/posts/advent32020.png"
 ---
 [Original PDF](/assets/pdf/advent32020.pdf)    
 One of the legendary figures to come out of the Church’s ministry during the First World War and its aftermath was a priest of the Church of Ireland, Geoffrey Studdart Kennedy, known to the troops on the front line as Woodbine Willie, because of a packet of Woodbines he always seemed to produce when he approached a group of men in the trenches. He wrote a huge amount of verse including one that has often appealed to me, ‘Indifference’, evoked by the fate of many ex-servicemen, disabled in war, left to beg on the streets:

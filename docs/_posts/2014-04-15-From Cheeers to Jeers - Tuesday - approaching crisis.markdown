@@ -3,6 +3,7 @@ layout: post
 title:  "From Cheers to Jeers"
 date:   2014-04-15
 blurb: "This sermon focuses on the concept of crisis and judgement, using the metaphor of a seed that must be buried before it can come to life. It emphasizes the importance of self-surrender to find our true selves and God. The sermon also highlights the impending crisis that Jesus faces and the judgement that comes with it."
+og_image: "/assets/img/posts/From Cheeers to Jeers - Tuesday - approaching crisis.png"
 ---
 [Original PDF](/assets/pdf/From Cheeers to Jeers - Tuesday - approaching crisis.pdf)    
 HOLY WEEK 2014 – From Cheers to Jeers

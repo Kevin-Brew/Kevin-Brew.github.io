@@ -3,6 +3,7 @@ layout: post
 title:  "Easter Day 2011"
 date:   2011-04-24
 blurb: "This sermon reflects on the meaning of Easter and the resurrection of Jesus Christ. It emphasizes that the Church is shaped by the death and resurrection of Jesus, and that the resurrection is not just an event that happened to Jesus, but also to his disciples. The sermon also discusses the sacrament of Baptism and its close relation to the death and resurrection of Jesus."
+og_image: "/assets/img/posts/easterday2017.png"
 ---
 [Original PDF](/assets/pdf/easterday2017.pdf)    
 I remember one Easter when I was in Mountmellick going to visit a retired priest in hospital. We had established a friendship early in my time there. He had left Clonaslee (a village that formed part of my Parish) and spent his entire ministry in Birmingham, finishing up as Parish Priest of a Church not far from the part of Birmingham I came from. I had left Birmingham and found myself as Rector of the village of Clonaslee.

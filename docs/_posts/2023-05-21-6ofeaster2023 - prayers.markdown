@@ -3,6 +3,7 @@ layout: post
 title:  "Prayers of Life"
 date:   2023-05-21
 blurb: "This sermon is a series of prayers focusing on the theme of life, drawing from the Christian belief in the resurrection. It includes prayers for the church, for political and community leaders, for places of work and for those who are suffering. It ends with a prayer of thanksgiving and a call for deeper love for God."
+og_image: "/assets/img/posts/6ofeaster2023 - prayers.png"
 ---
 [Original PDF](/assets/pdf/6ofeaster2023 - prayers.pdf)    
 As we gather in the company of the living God, let us pray.

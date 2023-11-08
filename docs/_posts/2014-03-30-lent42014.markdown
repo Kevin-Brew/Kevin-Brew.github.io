@@ -3,6 +3,7 @@ layout: post
 title:  "Mothering Sunday Reflection"
 date:   2014-03-30
 blurb: "This sermon, delivered on Mothering Sunday in 2014, reflects on the significance of the day beyond the commercialized 'Mother's Day'. It emphasizes the importance of gratitude for those who nurtured us, as well as the spiritual significance of returning to our 'mother church'. The sermon also includes a baptism and a reflection on the Christian journey, reminding us of the promises made at baptism and the importance of living in response to these promises."
+og_image: "/assets/img/posts/lent42014.png"
 ---
 [Original PDF](/assets/pdf/lent42014.pdf)    
 Today, in case you have not noticed it, is Mothering Sunday, or as the commercial world has rebranded it, Mothers Day. On this day in our thoughts and prayers we thank God for those who brought us to birth, who watched over us as we grew, absorbed the temper tantrums of our childhood and adolescence, who offered words of advice, comfort and encouragement. While gratitude should be an all the year affair, this is a day for showing particular gratitude and affection.

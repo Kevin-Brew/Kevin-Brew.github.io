@@ -3,6 +3,7 @@ layout: post
 title:  "Lost and Found"
 date:   2010-09-19
 blurb: "This sermon, delivered in 2010, explores the parables of the lost sheep and the lost coin, illustrating God's unrelenting search for those who are lost. It contrasts the exclusionary spirituality of the Pharisees with Jesus' inclusive approach, challenging the Church to reflect the latter. The sermon also encourages the Church to be a welcoming place for all, especially those on the margins of society."
+og_image: "/assets/img/posts/proper192010.png"
 ---
 [Original PDF](/assets/pdf/proper192010.pdf)    
 One of the most famous names in the insurance business is that of Lloyds of London. A number of years ago there were fears of its collapse when several of its 'names' were in danger of not being able to meet their liabilities. At the headquarters of Lloyds, there is a famous bell that sounds every time a ship insured with Lloyds has been lost at sea. There is a grim finality to that bell. The ship is lost. There is little, if any, hope of recovery.

@@ -3,6 +3,7 @@ layout: post
 title:  "Advent People"
 date:   2022-12-04
 blurb: "The sermon emphasizes the importance of being an 'Advent People', a group that waits in hope for the coming of Christ. It stresses the need for faithfulness and active participation in the world, not just passive observation. The sermon also highlights the importance of helping others and showing kindness, as these actions are seen as serving Christ himself."
+og_image: "/assets/img/posts/Advent Carol Service - St Patrick_s - 2022.png"
 ---
 [Original PDF](/assets/pdf/Advent Carol Service - St Patrick_s - 2022.pdf)    
 I recall many years ago when I was Rector in County Laois visiting a retired Roman Catholic Priest in Hospital in Portlaoise one Easter. We had struck up a friendship. He had grown up in the village of Clonaslee in my Parish and ended up as Parish Priest in Birmingham in a Parish near where I had grown up. And I had come from Birmingham and ended up ministering in Clonaslee to where he had come to retire. It was his first Easter since he had been ordained that he had not been leading worship. He said something that Easter Day that has stayed with me ever since. 'We are an Easter people'.

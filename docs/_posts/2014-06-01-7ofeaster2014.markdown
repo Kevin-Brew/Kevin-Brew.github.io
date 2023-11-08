@@ -3,6 +3,7 @@ layout: post
 title:  "The Ascension and Openness to God"
 date:   2014-06-01
 blurb: "This sermon reflects on the interconnectedness of Good Friday, Easter, Ascension and Pentecost. It emphasizes the need for an attentive passivity and a radical openness to God, setting aside our own agendas and preferences. It also highlights the importance of seeing situations, people, and problems through the eyes of God."
+og_image: "/assets/img/posts/7ofeaster2014.png"
 ---
 [Original PDF](/assets/pdf/7ofeaster2014.pdf)    
 7th Sunday of Easter – Sunday after Ascension Day- 2023 – year A – St John’s Whitehouse

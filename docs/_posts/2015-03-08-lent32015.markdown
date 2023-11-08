@@ -3,6 +3,7 @@ layout: post
 title:  "The Power of God's Foolishness"
 date:   2015-03-08
 blurb: "In this sermon, Kevin explores the concept of human power versus divine power, using historical and contemporary examples. He discusses the fall of the Roman Empire, the Cold War, and the financial crisis, contrasting these with the enduring power of God's 'foolishness' and 'weakness'. He emphasizes the need for each generation to make faith their own, and challenges listeners to choose their guiding light between God's 'foolishness' and man's."
+og_image: "/assets/img/posts/lent32015.png"
 ---
 [Original PDF](/assets/pdf/lent32015.pdf)    
 Shortly after the end of the 2nd World War, the world divided into two armed camps. As Churchill remarked, an Iron Curtain came down across Europe. International relationships were set in the context of the “Cold War”, only tempered by the realisation that either side has the power to obliterate the other. Periodically crises arose that threatened this perilous stability – I have memories of the tensions that surrounded the Cuban Missile Crisis. I also recall huge army convoys driving past our house in Birmingham at the time of the Suez Crisis. In more recent days, as we have watched the Civil War in the Ukraine , we have seen a return of the East West tensions that has characterised European politics since the time of Churchill.

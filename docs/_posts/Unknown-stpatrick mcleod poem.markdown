@@ -3,6 +3,7 @@ layout: post
 title:  "Christ Within Us"
 date:   Unknown
 blurb: "This sermon, likely given during Lent, uses vivid imagery to describe the omnipresence of Christ. It emphasizes the belief that Christ is not only above us, but also beneath us, beside us, and within us. The sermon suggests that Christ's presence is not confined to physical temples, but is found in all aspects of creation and within every individual."
+og_image: "/assets/img/posts/stpatrick mcleod poem.png"
 ---
 [Original PDF](/assets/pdf/stpatrick mcleod poem.pdf)    
 Christ above us, Christ beneath us,

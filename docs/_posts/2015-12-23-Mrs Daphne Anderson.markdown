@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Daphne Anderson"
 date:   2015-12-23
 blurb: "This sermon was delivered at the funeral of Mrs Daphne Anderson on 23rd December 2015. It celebrates her life, her independent spirit, and her charitable works. The sermon also provides comfort and hope in the face of loss, reminding the congregation of the eternal life and love in Christ."
+og_image: "/assets/img/posts/Mrs Daphne Anderson.png"
 ---
 [Original PDF](/assets/pdf/Mrs Daphne Anderson.pdf)    
 Last Friday Daphne Anderson died in St James Hospital. For a lady who had lived to the age of 91 in remarkable health, having survived many another medical problem, it was to be as the result of an accident. And so in addition to the sense of loss that comes with any death of a loved one, there is the additional shock at the suddenness of our parting. For however long we have our loved ones, we never have them long enough.

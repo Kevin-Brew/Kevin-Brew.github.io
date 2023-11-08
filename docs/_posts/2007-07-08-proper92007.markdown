@@ -3,6 +3,7 @@ layout: post
 title:  "Kairos Moments"
 date:   2007-07-08
 blurb: "This sermon discusses the concept of 'Kairos' moments - specific opportunities to be grasped, which may not present themselves again. It reflects on the importance of seizing these moments, both in our personal lives and in our interactions with others. The sermon also highlights how these moments can bring about change and fulfillment, as exemplified in the biblical stories of Naaman and the sending out of the seventy."
+og_image: "/assets/img/posts/proper92007.png"
 ---
 [Original PDF](/assets/pdf/proper92007.pdf)    
 One of the glories of the Revised Common Lectionary, a scheme of readings shared by Churches of all traditions right across the world, is the practice of reading sequentially stories in Scripture. So in our Old Testament Lessons of late we have been reading the stories of Elijah and Elisha; this year in our Gospel readings we are predominantly following the story as told to us by the writer of Luke’s Gospel. This Sunday we are finishing a sequence of readings from Paul’s letter to the Galatians.

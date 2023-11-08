@@ -3,6 +3,7 @@ layout: post
 title:  "Facing the Future"
 date:   2019-05-26
 blurb: "The sermon discusses the challenges and changes faced by the church and its community, emphasizing the need for faith and adaptability. It reflects on the declining attendance, societal shifts, and the upcoming population increase in the local area. The sermon encourages the congregation to view these challenges as opportunities for growth and renewal, rather than threats."
+og_image: "/assets/img/posts/7ofeaster2019notes.png"
 ---
 [Original PDF](/assets/pdf/7ofeaster2019notes.pdf)    
 This time last year, as we gathered for our Easter General Vestry, we had recently completed the work on the roof of St Mary’s and associated works. We were quite justifiably feeling good about ourselves, There had been a very positive outcome from our fundraising efforts, we had received grant aid from a number of both Church and State bodies and we were back in the Church.

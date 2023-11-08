@@ -15,6 +15,7 @@ layout: post
 title:  "{}"
 date:   {}
 blurb: "{}"
+og_image: "/assets/img/posts/{}.png"
 ---
 [Original PDF](/assets/pdf/{}.pdf)    
 {}
@@ -22,6 +23,7 @@ blurb: "{}"
         json_object["title"],
         json_object["date"],
         json_object["blurb"],
+        get_filename_without_extension(json_object["request"]["file_name"]),
         get_filename_without_extension(json_object["request"]["file_name"]),
         json_object["raw_text"]
     )

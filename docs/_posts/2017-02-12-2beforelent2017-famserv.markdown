@@ -3,6 +3,7 @@ layout: post
 title:  "God, the Creator"
 date:   2017-02-12
 blurb: "This sermon explores the theme of God as the creator, who is not indifferent to us but knows, loves, and cares. It emphasizes the importance of seeking to understand God's thoughts and intentions, rather than focusing on individual phenomena or details. The sermon encourages listening and watching to know God better, highlighting the importance of prayer as a means of communication with God."
+og_image: "/assets/img/posts/2beforelent2017-famserv.png"
 ---
 [Original PDF](/assets/pdf/2beforelent2017-famserv.pdf)    
 2nd Sunday before Epiphany – 2017 – Family Service (Need powerpoint)

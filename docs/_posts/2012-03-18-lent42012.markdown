@@ -3,6 +3,7 @@ layout: post
 title:  "Unconditional Love"
 date:   2012-03-18
 blurb: "Kevin explores the concept of unconditional love in the context of Mothering Sunday, relating it to the love of God and the love within a community of faith. He emphasizes the importance of forgiveness, graciousness, and positive parenting, drawing parallels between our relationships with each other and our relationship with God."
+og_image: "/assets/img/posts/lent42012.png"
 ---
 [Original PDF](/assets/pdf/lent42012.pdf)    
 I want to begin this morning reflecting on the topic of unconditional love. A love that is simply given, bestowed on the beloved. A love that still loves in the face of ingratitude, tantrums, hurts. A love that is always open to the future. I would suspect that as we do this we will think of close friends, of partners – we will all think of parental love, and in particular the love of a mother.

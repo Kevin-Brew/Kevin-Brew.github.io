@@ -3,6 +3,7 @@ layout: post
 title:  "Beyond Our Comfort Zones"
 date:   2012-02-12
 blurb: "In this sermon, Kevin discusses the importance of stepping out of our comfort zones and recognizing that our understanding of God is always partial. He emphasizes the need for openness, inclusiveness, and humility in our faith journey. He also explores the concept of the Church as the Body of Christ, where every part is valued and contributes to the whole."
+og_image: "/assets/img/posts/3rdbeforelent2012.png"
 ---
 [Original PDF](/assets/pdf/3rdbeforelent2012.pdf)    
 As I read over our Epistle and Gospel set for today, the 3rd Sunday before Lent, my mind went back to a BBC lunchtime radio series I used to enjoy called 'After Henry'. The story centred on three women living together in a house in separate flats. There was a widow getting over the recent loss of her husband Henry. In the flat upstairs was her mother and in the flat below there was her daughter. They were each determined characters in their own way but the figure who came to mind as I read these passages was the grandmother who had very fixed ideas on all social and political issues all reinforced by the conviction that God saw things exactly as she did.

@@ -3,6 +3,7 @@ layout: post
 title:  "Pentecost 2010 - Year C"
 date:   2010-05-23
 blurb: "In his sermon, Kevin reflects on the distinctive vocation of the Anglican Communion and the witness and worship in St George’s Cathedral. He talks about the power of lives inspired and transformed by the Gospel to impact upon, to challenge the wider community in which the Church is set. The sermon also incorporates the sacrament of Baptism and the importance of discipleship."
+og_image: "/assets/img/posts/pentecost2010.png"
 ---
 [Original PDF](/assets/pdf/pentecost2010.pdf)    
 I recall during the course of my training for the ministry, the then Sub-Warden of the Divinity Hostel, the late Canon Jim Hartin was lecturing us in Church History. He had been talking about the growth of the Anglican Communion and the distinctive witness Anglicanism had to offer to the wider Church. Bringing us closer to home, (this was in the late 1970’s) he went on to speak of the distinctive witness the Church of Ireland had to offer in a divided society such as Northern Ireland. Standing as we were between the Reformed tradition, as represented by the Presbyterian Church, and the Roman Catholic tradition we had a vocation to hold the middle ground, to be a sign of reconciliation. The middle of the road he remarked is far from being the easy option many of our critics would maintain it to be – as you tend to be hit by traffic coming in both directions.

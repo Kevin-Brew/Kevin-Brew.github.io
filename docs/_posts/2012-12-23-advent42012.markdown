@@ -3,6 +3,7 @@ layout: post
 title:  "The Magnificat: A Radical Message"
 date:   2012-12-23
 blurb: "In this sermon, Kevin explores the radical message of the Magnificat, a song of praise and gratitude to God, traditionally associated with the Service of Evening Prayer in the Anglican Communion. He reflects on how the Magnificat's message of the powerful being brought low and the humble being lifted up aligns with the teachings of John the Baptist and the core message of Christmas."
+og_image: "/assets/img/posts/advent42012.png"
 ---
 [Original PDF](/assets/pdf/advent42012.pdf)    
 Our Gospel passage this morning, the 4th Sunday of Advent, provides us with the setting of the Magnificat, the Song of Mary, a song of praise and gratitude to God when she goes to meet with her cousin Elizabeth. We will be using the Magnificat as our psalm this morning.

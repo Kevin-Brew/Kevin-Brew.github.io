@@ -3,6 +3,7 @@ layout: post
 title:  "The Good Shepherd"
 date:   2010-04-25
 blurb: "In this sermon, Kevin reflects on the deep sense of belonging that comes from following Jesus. He shares a personal story about a lost sheep that finds its way back to the flock, drawing parallels with our own spiritual journey. Kevin emphasizes the importance of listening and following Jesus, even when we don't fully understand His ways. He assures us of Jesus's protection and love, that nothing can separate us from."
+og_image: "/assets/img/posts/easter42010.png"
 ---
 [Original PDF](/assets/pdf/easter42010.pdf)    
 4th Sunday of Easter – year C – 2013. 27My sheep hear my voice. I know them, and they follow me. John 10:27

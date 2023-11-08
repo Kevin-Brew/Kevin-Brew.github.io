@@ -3,6 +3,7 @@ layout: post
 title:  "Chosen to Bear Fruit"
 date:   2021-05-09
 blurb: "In this sermon, Kevin reflects on the significance of being chosen by God, drawing from his personal experience of confirmation. He emphasizes that everyone is special in God's eyes, not because of their abilities or appearance, but because God has chosen them. He also highlights that we are put in this world to make a difference and bear fruit, using examples of influential figures who have made significant changes rooted in their Christian faith."
+og_image: "/assets/img/posts/6ofeaster2021family.png"
 ---
 [Original PDF](/assets/pdf/6ofeaster2021family.pdf)    
 One of my memories of School is of choosing of teams. Two people are picked as captains and then they take turns in picking their team from the rest of the class. They obviously pick the ones who are best at running, at catching a ball or whatever.

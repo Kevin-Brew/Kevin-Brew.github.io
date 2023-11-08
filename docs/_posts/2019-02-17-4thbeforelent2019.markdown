@@ -3,6 +3,7 @@ layout: post
 title:  "The Call of Peter"
 date:   2019-02-17
 blurb: "This sermon reflects on the story of Peter's call by Jesus, as told by St Luke. It explores the stages of Peter's call, from Jesus meeting him in his own territory to the transformation of a place of failure into a place of success with Jesus's presence. The sermon encourages us to venture into our 'deep places' of fear and failure, not alone, but with the presence of Christ."
+og_image: "/assets/img/posts/4thbeforelent2019.png"
 ---
 [Original PDF](/assets/pdf/4thbeforelent2019.pdf)    
 4th Sunday before Lent – Year C – 2019

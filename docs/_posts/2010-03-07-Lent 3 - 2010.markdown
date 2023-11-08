@@ -3,6 +3,7 @@ layout: post
 title:  "Thirst for God"
 date:   2010-03-07
 blurb: "In this sermon from Lent 3, 2010, Kevin uses the metaphor of a marathon runner's thirst to explore our spiritual thirst for God. He discusses the different ways 'thirst' is used in the Bible, from physical need to spiritual desire, and how our thirst for God is a fundamental part of our humanity. The sermon concludes with the idea that there is a God-shaped hole in our lives that only God can fill."
+og_image: "/assets/img/posts/Lent 3 - 2010.png"
 ---
 [Original PDF](/assets/pdf/Lent 3 - 2010.pdf)    
 One of the hazards of city life around the time of a bank holiday is the City marathon, whether it be in London, Belfast, New York or Dublin or a or a host of other centres. The streets in the centre are shut down, traffic diverted or held up to let the runners go through. Apart from some mild frustration on the part of some who might come across it unawares, there is a general feeling of well being as runners in all shapes, sizes, physical condition and costume . You get the professionals, like the Kenyans who storm ahead of the field, keeping up an amazing pace right through the race.. Then of course there are the ones in funny costumes – time for them is immaterial, they are there to enjoy themselves and make money for their chosen charity.

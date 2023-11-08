@@ -4,8 +4,10 @@ import argparse
 import os
 from json import JSONDecodeError
 import tiktoken
-import openai
 import json
+from jsonmerge import merge
+
+# This code is for v1 of the openai package: pypi.org/project/openai
 
 system_prompt = """
 The user will give a json_blob that follows this schema. 
@@ -42,17 +44,18 @@ The name of the person providing the sermons is Kevin
 You will call the function send_sermon_details based on the users input.
 
 """
-gpt_encoder = tiktoken.encoding_for_model("gpt-4")
+gpt_encoder = None
+function_count = 294
+sys_count = None
 
+def init():
+    global gpt_encoder
+    global sys_count
+    gpt_encoder = tiktoken.encoding_for_model("gpt-4-1106-preview")
+    sys_count = count_tokens(system_prompt)
 
 def count_tokens(content: str) -> int:
     return len(gpt_encoder.encode(content))
-
-
-sys_count = count_tokens(system_prompt)
-function_count = 294
-
-openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 def load_file_to_string(file_path):
@@ -61,16 +64,22 @@ def load_file_to_string(file_path):
 
 
 def get_processed_data(file_name):
+    import openai
+    openai.api_key = os.getenv("OPENAI_API_KEY")
+    from openai import OpenAI
+
     user = {"file_name": file_name,
             "raw_ocr_content": load_file_to_string(file_name)}
     json_str = json.dumps(user, indent=4)
 
     user_count = count_tokens(json_str)
-    remaining_tokens = 8191 - user_count - sys_count - function_count
+    remaining_tokens = 100000 - user_count - sys_count - function_count
 
     print("User {}, System {}, Function {}, Completion tokens {}".format(user_count,sys_count, function_count,remaining_tokens))
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
+
+    client = OpenAI()
+    response = client.chat.completions.create(
+        model="gpt-4-1106-preview",
         messages=[
             {
                 "role": "system",
@@ -118,13 +127,13 @@ def get_processed_data(file_name):
             }
         ],
         temperature=0.31,
-        max_tokens=remaining_tokens,
+        max_tokens=4096, #remaining_tokens,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0
     )
     try:
-        s = str(response['choices'][0]['message']['function_call']['arguments'])
+        s = str(response.choices[0].message.function_call.arguments)
         json_object = json.loads(s)
         json_object["request"] = user
         return json_object
@@ -156,10 +165,16 @@ if __name__ == "__main__":
             print(f"{out_path} does not exist.")
 
         if overwrite or not exists_already:
+            init()
             print(f"Writing {out_path}")
-            raw_data = get_processed_data(file_path)
+            head_data = get_processed_data(file_path)
+            if exists_already:
+                with open(out_path) as file:
+                    base_data = json.load(out_path)
+                    head_data = merge(base_data, head_data)
+
             with open(out_path, 'w') as file:
-                json.dump(raw_data, file, indent=4)
+                json.dump(head_data, file, indent=4)
     else:
         print("Unsupported file format {}".format(file_path))
         exit(1)

@@ -3,6 +3,7 @@ layout: post
 title:  "The God of New Beginnings"
 date:   2015-12-20
 blurb: "This sermon reflects on the significance of small beginnings and the radical message of the Magnificat. It speaks of the new beginnings prophesied by Micah, and the radical reversal of societal norms as expressed in Mary's song. It also emphasizes the call to a new way of living in the world, as exemplified by Jesus."
+og_image: "/assets/img/posts/advent42015.png"
 ---
 [Original PDF](/assets/pdf/advent42015.pdf)    
 ADVENT 4 – Year C – 2015

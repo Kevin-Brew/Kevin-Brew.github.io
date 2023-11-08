@@ -3,6 +3,7 @@ layout: post
 title:  "The Final Takeoff"
 date:   2014-06-01
 blurb: "This sermon reflects on the Ascension of Jesus, drawing parallels between an airplane taking off and the irrevocable change in the relationship between Jesus and his disciples. It encourages listeners to focus on the future and prepare for a life of service and faithfulness in different places and circumstances."
+og_image: "/assets/img/posts/7ofeaster2014notused.png"
 ---
 [Original PDF](/assets/pdf/7ofeaster2014notused.pdf)    
 7th Sunday of Easter (Sunday after Ascension Day) – 2014 – Year A

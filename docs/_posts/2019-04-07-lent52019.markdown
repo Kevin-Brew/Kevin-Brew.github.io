@@ -3,6 +3,7 @@ layout: post
 title:  "Extravagance of Love"
 date:   2019-04-07
 blurb: "In this sermon, Kevin delves into the story of Mary anointing Jesus' feet with expensive perfume, a moment of calm amidst the tumultuous events leading up to Jesus' crucifixion. He explores the themes of exuberance and extravagance, drawing parallels with the Incarnation and the self-emptying, self-abandoning love of Christ. He encourages listeners to respond to Christ's love with the same extravagance, allowing it to permeate every aspect of their lives."
+og_image: "/assets/img/posts/lent52019.png"
 ---
 [Original PDF](/assets/pdf/lent52019.pdf)    
 On this 5th Sunday in Lent, that in earlier years was known as Passion Sunday, we have read as our Gospel reading that lovely passage from St John, giving us the anointing of Jesus in Bethany. But before we go to the passage itself, let us take a look at the wider setting of the story. The Gospel writers tell their story in two ways; first in the individual passages themselves and secondly in the order in which they group their material.

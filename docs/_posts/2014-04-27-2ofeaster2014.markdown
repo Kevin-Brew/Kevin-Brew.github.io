@@ -3,6 +3,7 @@ layout: post
 title:  "Unlocking Doors"
 date:   2014-04-27
 blurb: "In this sermon, Kevin draws parallels between a play about the Northern Ireland conflict and the Gospel story of Jesus' resurrection. He emphasizes the power of forgiveness to unlock doors of resentment, regret, and prejudice, and to initiate new beginnings. He encourages us to be agents of God's healing, reconciling, and door-opening love in our world."
+og_image: "/assets/img/posts/2ofeaster2014.png"
 ---
 [Original PDF](/assets/pdf/2ofeaster2014.pdf)    
 Last Wednesday, Rachel and I went to see a play in the Peacock Theatre, 'Quietly'. The play is set in a bar in Nationalist Belfast. The action begins with an amazing act of violence. As the story unfolds, it transpires that 25 years earlier Jimmy’s Dad had been killed in the same bar, with five others watching a football match. Ian, then 16, the same age as Jimmy, had been the one who had thrown the bomb into the pub.

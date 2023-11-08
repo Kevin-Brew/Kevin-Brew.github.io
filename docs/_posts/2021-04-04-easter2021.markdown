@@ -3,6 +3,7 @@ layout: post
 title:  "Easter 2021 - Year B"
 date:   2021-04-04
 blurb: "The sermon reflects on the Easter story, focusing on the movement between the Upper Room and the tomb. It highlights the journey from despair to faith, emphasizing the living presence of Christ who knows human suffering. The sermon ends with a message of hope and resilience, urging us to cast our nets into the resources of Christ's plenty."
+og_image: "/assets/img/posts/easter2021.png"
 ---
 [Original PDF](/assets/pdf/easter2021.pdf)    
 The Easter story, the story of Mary Magdalene going to the tomb and finding it empty is one of the most familiar of all the Bible stories. The theme of resurrection lies at the heart of our Christian faith.

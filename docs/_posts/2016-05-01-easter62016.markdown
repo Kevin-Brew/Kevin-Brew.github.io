@@ -3,6 +3,7 @@ layout: post
 title:  "Never Alone"
 date:   2016-05-01
 blurb: "This sermon, delivered on the Sixth Sunday of Easter in 2016, explores the theme of loneliness and the promise of Jesus' presence. It reflects on the disciples' distress at Jesus' impending departure and the assurance of His return. The sermon emphasizes the promise of God's enduring presence and love, which eliminates the feeling of loneliness."
+og_image: "/assets/img/posts/easter62016.png"
 ---
 [Original PDF](/assets/pdf/easter62016.pdf)    
 Sixth Sunday of Easter – 2016 – Year C

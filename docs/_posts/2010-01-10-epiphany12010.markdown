@@ -3,6 +3,7 @@ layout: post
 title:  "God's Personal Care and Concern"
 date:   2010-01-10
 blurb: "In this sermon, Kevin reflects on the personal and intimate relationship between God and his people. Drawing parallels between personal letters and the scriptures, he emphasizes the timeless and personal nature of God's messages. The sermon highlights God's constant presence and support in our lives, reminding us that we are individually called and redeemed by Him."
+og_image: "/assets/img/posts/epiphany12010.png"
 ---
 [Original PDF](/assets/pdf/epiphany12010.pdf)    
 1st Sunday of Epiphany – year C – 2010

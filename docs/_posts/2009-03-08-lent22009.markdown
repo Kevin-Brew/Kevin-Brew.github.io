@@ -3,6 +3,7 @@ layout: post
 title:  "Choices in Lent"
 date:   2009-03-08
 blurb: "In this sermon, Kevin explores the concept of temptation and choices, emphasizing that they are part and parcel of our human condition. He encourages us to let our Christian commitment challenge our social and cultural norms. He highlights the importance of self-denial and conforming to Christ in our decision-making process, especially in times of societal challenges."
+og_image: "/assets/img/posts/lent22009.png"
 ---
 [Original PDF](/assets/pdf/lent22009.pdf)    
 Last Sunday, the first Sunday in Lent, our Gospel reading made reference to the temptations of Jesus in the wilderness. It is a familiar story – but the familiarity and its associations with the desert tends to foster the idea that temptation was for Jesus a once off effort, that, once overcome, did not have to be faced again.

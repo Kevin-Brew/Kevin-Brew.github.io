@@ -3,6 +3,7 @@ layout: post
 title:  "Pentecost 2019"
 date:   2019-06-09
 blurb: "In this sermon, Kevin explores the different perceptions of the Holy Spirit and its role in our lives. He emphasizes the Spirit's enabling power to help us grow in likeness to Jesus Christ. Through the story of a young boy and a master musician, Kevin illustrates how the Holy Spirit, like the master musician, draws out the best in us."
+og_image: "/assets/img/posts/pentecost2019.png"
 ---
 [Original PDF](/assets/pdf/pentecost2019.pdf)    
 As we celebrate the Feast of Pentecost this Sunday, I think of two very different perceptions of the gift of the Spirit that we find in the Bible. There is the rushing wind, the tongues of flames, the speaking in different languages in the lesson from Acts. On the evening of that first Easter day there is the gentle breath of the risen Christ as he greets disciples sheltering in the Upper Room. Different parts of the New Testament will bear witness to the various gifts of the Spirit. In the recent Service of Confirmation here in Howth the Archbishop prayed that the candidates may be confirmed in the Holy Spirit. So we have a picture of the Spirit as empowering, as inspiring in the life of the Church.

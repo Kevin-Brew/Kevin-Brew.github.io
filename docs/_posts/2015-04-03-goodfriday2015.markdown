@@ -3,6 +3,7 @@ layout: post
 title:  "Good Friday 2015"
 date:   2015-04-03
 blurb: "This sermon reflects on the significance of Good Friday, the day Jesus Christ was crucified. It explores the eternal significance of the Cross, the pain and loneliness Jesus experienced, and the ultimate triumph of his sacrifice. It emphasizes the personal relevance of the Cross, urging believers to see Jesus' sacrifice as not just a general act, but one that was done for each individual."
+og_image: "/assets/img/posts/goodfriday2015.png"
 ---
 [Original PDF](/assets/pdf/goodfriday2015.pdf)    
 On this night Christians of all traditions around the world are remembering the death of our Lord Jesus Christ on a Cross outside the city of Jerusalem nearly two thousand years ago.

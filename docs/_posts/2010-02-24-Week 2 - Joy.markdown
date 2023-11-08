@@ -3,6 +3,7 @@ layout: post
 title:  "Fruits of the Spirit - Joy"
 date:   2010-02-24
 blurb: "In this sermon, Kevin explores the concept of joy as a fruit of the Spirit. He discusses the importance of harmony with God and our neighbours, and how joy is a deeper emotion that arises from love experienced in Christ. He also emphasizes that joy is a gift from God, not something we can manufacture ourselves."
+og_image: "/assets/img/posts/Week 2 - Joy.png"
 ---
 [Original PDF](/assets/pdf/Week 2 - Joy.pdf)    
 Fruit of the Spirit (2) - Joy

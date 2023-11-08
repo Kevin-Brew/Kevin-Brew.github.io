@@ -3,6 +3,7 @@ layout: post
 title:  "Light set on a hill"
 date:   2020-02-16
 blurb: "In this sermon, Kevin discusses the metaphor of a lighthouse as a guiding light, and how Jesus encourages his followers to be like lights. The sermon emphasizes the importance of embodying the fruits of the spirit, and how this can sometimes be challenging. The ultimate goal is to become more like Jesus, shining as lights in the world."
+og_image: "/assets/img/posts/epiphany32020famserv.png"
 ---
 [Original PDF](/assets/pdf/epiphany32020famserv.pdf)    
 3rd before Lent – Year A – 2020 – Family Service

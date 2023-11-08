@@ -3,6 +3,7 @@ layout: post
 title:  "Covid-19: A Spiritual Perspective"
 date:   2020-03-29
 blurb: "In this sermon, Kevin discusses the spiritual lessons that the Covid-19 pandemic is teaching us. He emphasizes that the virus is a reminder of our equality, interconnectedness, and the importance of health, family, and our true purpose. He also highlights the choices we have in how we respond, and the opportunity for growth and learning."
+og_image: "/assets/img/posts/lent52020 - Bill Gates on Covid 19.png"
 ---
 [Original PDF](/assets/pdf/lent52020 - Bill Gates on Covid 19.pdf)    
 What is the Corona/ Covid-19 Virus Really Teaching us?

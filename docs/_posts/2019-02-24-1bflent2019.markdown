@@ -3,6 +3,7 @@ layout: post
 title:  "Standing on Holy Ground"
 date:   2019-02-24
 blurb: "In this sermon, Kevin explores the concept of standing on 'holy ground', using the Transfiguration of Jesus as a reference point. He discusses the importance of acknowledging the mystery of Christ and the need for reflection, especially during the Lent season. The sermon also includes the celebration of a baptism, marking the beginning of a spiritual journey."
+og_image: "/assets/img/posts/1bflent2019.png"
 ---
 [Original PDF](/assets/pdf/1bflent2019.pdf)    
 Sunday before Lent – Year C (Transfiguration) – 2019

@@ -3,6 +3,7 @@ layout: post
 title:  "Memorial Service for Geoff Rowden"
 date:   2013-11-16
 blurb: "This sermon is a tribute to Geoff Rowden, a man who loved the outdoors and was deeply committed to issues of justice and care for those in need. The sermon reflects on Geoff's life, his love for his family, and his work with children and young people in care. It draws parallels between Geoff's values and the teachings of Jesus, particularly the parable of the sheep and the goats."
+og_image: "/assets/img/posts/Geoff Rowden - Memorial Service.png"
 ---
 [Original PDF](/assets/pdf/Geoff Rowden - Memorial Service.pdf)    
 Three weeks ago Geoff Rowden was planning to do what he loved doing, planning to walk and camp in the mountains, this time the ridge walk on Mweelrea Mountain in Mayo. He loved the open air, the solitude, the peace. An experienced walker, he had left a route and was well equipped for the climb. On the Wednesday it was clear he was missing. Over three days Geoff’s family and friends knew the agony of waiting, of hoping, of dreading as Mayo Mountain Rescue Unit assisted by volunteers and friends from clubs all over the country searched the hills until, on Saturday morning, Geoff was found where he had fallen.

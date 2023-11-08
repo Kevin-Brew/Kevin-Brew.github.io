@@ -3,6 +3,7 @@ layout: post
 title:  "The Ascension and Openness to God"
 date:   2023-05-28
 blurb: "This sermon reflects on the Ascension of Jesus Christ, emphasizing the interconnectedness of Good Friday, Easter, Ascension, and Pentecost. It highlights the transformation of the disciples from guilt-ridden followers into evangelists. The sermon underscores the importance of being open to God's will, setting aside personal agendas, and viewing situations and people through God's eyes."
+og_image: "/assets/img/posts/7ofeaster2023.png"
 ---
 [Original PDF](/assets/pdf/7ofeaster2023.pdf)    
 7th Sunday of Easter – Sunday after Ascension Day- 2023 – year A – St John’s Whitehouse

@@ -3,6 +3,7 @@ layout: post
 title:  "Anticipation and Excitement"
 date:   2020-12-20
 blurb: "In this sermon, Kevin explores the anticipation and excitement that comes with the expected arrival of a child, drawing parallels with the anticipation of Christmas and the birth of Jesus. He reflects on the Magnificat and its message of God's mercy and the overturning of worldly hierarchies. He calls on the congregation to offer a different vision in the face of despair and division, to be instruments of reconciliation."
+og_image: "/assets/img/posts/advent42020.png"
 ---
 [Original PDF](/assets/pdf/advent42020.pdf)    
 On this Sunday, with Christmas just a matter of days away, it is lovely to be celebrating a Baptism in the context of our morning service. I want to begin with the sense of anticipation and excitement that comes with the expected arrival of a child in a house. There are all those questions that are asked of parents. When is the baby due? Do you know whether it is to be a boy or a girl? Have you chosen any names yet? The mother is asked all those intrusive questions, are you happy, are you surprised, are you feeling well, are you feeling sick, how long will you be working for?

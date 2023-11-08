@@ -3,6 +3,7 @@ layout: post
 title:  "Advent 3 - Year B"
 date:   2017-12-17
 blurb: "This sermon, delivered on the third Sunday of Advent in 2017, discusses the expectations of the coming of a Messianic figure during the time of John the Baptist. It emphasizes the importance of recognizing Christ in our daily lives and the special place of the poor and marginalized in the Kingdom of God. The sermon calls for hope, integrity, reconciliation, and compassion in a fractured world."
+og_image: "/assets/img/posts/advent32017.png"
 ---
 [Original PDF](/assets/pdf/advent32017.pdf)    
 ADVENT 3 – Year B – 2017

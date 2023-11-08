@@ -3,6 +3,7 @@ layout: post
 title:  "Identity and Witness"
 date:   2012-04-22
 blurb: "In this sermon, Kevin Brew discusses the concept of identity and how it relates to our faith. He uses the story of Jesus appearing to his disciples after the resurrection to illustrate how our identity in Christ is not just about our physical characteristics, but also about our values and priorities. He emphasizes the importance of being witnesses of Christ's love and peace, and challenges us to shine as lights in the world."
+og_image: "/assets/img/posts/3ofeaster2012.png"
 ---
 [Original PDF](/assets/pdf/3ofeaster2012.pdf)    
 Not so very long ago I had to call at the sorting office in Baldoyle. The postman had called at the Rectory to deliver a parcel and there was no one at home. He left a note telling me to call at the sorting office to collect it myself. When I went there to ask for the item I was asked, “Do you have any photo identification?” The man at the counter wanted to know who I was; he wanted to be sure that I was not trying to get hold of a parcel that wasn’t mine.

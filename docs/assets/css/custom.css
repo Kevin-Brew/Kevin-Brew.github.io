@@ -2,7 +2,9 @@
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     border-radius: 5px; /* 5px rounded corners */
+    overflow: hidden; /* Clear float */
 }
+
 
 /* Add rounded corners to the top left and the top right corner of the image */
 img {
@@ -57,4 +59,20 @@ span.post-meta {
 .overlay input[type=text]:hover {
     background: #f1f1f1;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.image-container {
+  float: left;
+  width: 35%; /* Adjust the width as needed */
+  margin-left: 10px; /* Add some margin for spacing */
+    margin-right: 10px; /* Add some margin for spacing */
+}
+
+.text-container {
+  /*width: 55%; !* Adjust the width as needed *!*/
+}
+
+h3 {
+  margin-bottom: 10px; /* Add some spacing between the title and the content */
 }

@@ -3,6 +3,7 @@ layout: post
 title:  "Work in Progress"
 date:   2015-12-06
 blurb: "This sermon, delivered on the second Sunday of Advent in 2015, explores the theme of life as a 'work in progress' under God's guidance. Drawing on the words of Philippians 1:6, the sermon underscores the continuous nature of our spiritual journey, likening it to a sacrificial offering in progress. It emphasizes that God is present at every stage of this journey, guiding us towards becoming more like Him."
+og_image: "/assets/img/posts/advent22015.png"
 ---
 [Original PDF](/assets/pdf/advent22015.pdf)    
 2nd Sunday of Advent - 2015 - year C

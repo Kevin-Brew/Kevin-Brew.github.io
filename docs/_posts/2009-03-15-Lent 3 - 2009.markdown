@@ -3,6 +3,7 @@ layout: post
 title:  "The Foolishness of God"
 date:   2009-03-15
 blurb: "This sermon discusses the concept of human power versus divine power, drawing on historical and contemporary examples. It contrasts the might of the Roman Empire with the 'weakness' of the Church, and the sophistication of Graeco-Roman culture with the simplicity of Christian teachings. The sermon concludes with the assertion that God's 'foolishness' and 'weakness' are wiser and stronger than human wisdom and strength."
+og_image: "/assets/img/posts/Lent 3 - 2009.png"
 ---
 [Original PDF](/assets/pdf/Lent 3 - 2009.pdf)    
 Shortly after the end of the 2nd World War, the world divided into two armed camps. As Churchill remarked, an Iron Curtain came down across Europe. International relationships were set in the context of the “Cold War”, only tempered by the realisation that either side has the power to obliterate the other. Periodically crises arose that threatened this perilous stability – I have memories of the tensions that surrounded the Cuban Missile Crisis. I also recall huge army convoys driving past our house in Birmingham at the time of the Suez Crisis. In more recent days, as we have watched the Civil War in the Ukraine, we have seen a return of the East West tensions that has characterised European politics since the time of Churchill.

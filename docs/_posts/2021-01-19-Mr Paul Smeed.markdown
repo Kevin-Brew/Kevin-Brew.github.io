@@ -3,6 +3,7 @@ layout: post
 title:  "Funeral of Mr Paul Smeed"
 date:   2021-01-19
 blurb: "This sermon is a touching tribute to Mr Paul Smeed, a man remembered for his love for life, his family, and his community. Despite his illness, he faced life with courage and determination. The sermon offers comfort and hope, reminding us of the Christian belief in life after death and the promise of peace in the presence of God."
+og_image: "/assets/img/posts/Mr Paul Smeed.png"
 ---
 [Original PDF](/assets/pdf/Mr Paul Smeed.pdf)    
 This morning we have gathered in St Mary’s for the funeral of Mr Paul Smeed. His family remember a family man, a man with a love and zest for life. A native of England, he had made his home here in Howth and had fully entered into the life of this community, very proud of this place. They remember a father and a grandfather, a loving husband to his wife Aileen. They remember a man who faced illness with a dogged defiance. The deterioration over the last few years has been hard for the family to watch, hard for Paul. As David has said, 'he was told over two years ago that he had been dealt this ‘bad hand’ but being the true professional and character that he was, he played that bad hand so well.’

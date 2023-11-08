@@ -3,6 +3,7 @@ layout: post
 title:  "Joy Smith's Funeral"
 date:   2021-06-07
 blurb: "This sermon is a tribute to Mrs. Joy Smith who passed away on 7th June 2021. The sermon reflects on her life, her devotion to her family and community, and her strong faith. The sermon also highlights her enduring spirit and her ability to find joy in caring for others."
+og_image: "/assets/img/posts/Joy Smith.png"
 ---
 [Original PDF](/assets/pdf/Joy Smith.pdf)    
 Funeral of Mrs Joy Smith – 7th June 2021

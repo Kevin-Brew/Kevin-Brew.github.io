@@ -3,6 +3,7 @@ layout: post
 title:  "Funeral of Mrs May McCabe"
 date:   2012-12-07
 blurb: "This sermon was delivered at the funeral of Mrs May McCabe, a beloved member of the community. It celebrates her life, her resilience, and her faith. It also addresses the pain of loss and the hope of eternal life in God."
+og_image: "/assets/img/posts/Funeral of Mrs May McCabe.png"
 ---
 [Original PDF](/assets/pdf/Funeral of Mrs May McCabe.pdf)    
 This morning we have gathered here in St Mary’s for the funeral of May McCabe, a dearly loved sister, aunt, friend. At the end of a long life graciously lived, lived and savoured to the full, we come to remember with thanksgiving one who has been taken from us, one we have loved and whose love has sustained us, one who has been part of our lives. Along with our thankfulness we come with a very proper sadness and loss. However much we know the end is coming, however much we want the suffering of a loved one to be over, there is still that loss, that gap in our lives that no one else can fill in quite the same way. Those of us outside the immediate family circle come to support those who will miss her most, her sisters Norrie and Kay, her nephews and nieces. Ian has spoken of the love and affection in which May was held by all those who loved her.

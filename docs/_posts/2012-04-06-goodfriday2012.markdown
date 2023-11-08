@@ -3,6 +3,7 @@ layout: post
 title:  "Good Friday 2012 - Beatitudes"
 date:   2012-04-06
 blurb: "This sermon reflects on the Beatitudes, simple affirmations and promises from the Sermon on the Mount. The speaker discusses the true meanings of being 'blessed', suggesting it carries the meaning of being happy or joyful. The sermon emphasizes the importance of humility, service, and self-sacrifice, and the peace and contentment that comes from being one with Christ."
+og_image: "/assets/img/posts/goodfriday2012.png"
 ---
 [Original PDF](/assets/pdf/goodfriday2012.pdf)    
 Good Friday 2012 – Beatitudes

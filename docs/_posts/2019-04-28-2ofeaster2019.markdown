@@ -3,6 +3,7 @@ layout: post
 title:  "Scars of Sacrifice"
 date:   2019-04-28
 blurb: "This sermon reflects on the scars of Christ and the scars we bear in our own lives. It discusses the anger and pain caused by tragic events in Sri Lanka and the death of journalist Lyra McKee in Derry. It emphasizes the importance of forgiveness, healing, and reconciliation, and the role of the Church in facilitating these processes."
+og_image: "/assets/img/posts/2ofeaster2019.png"
 ---
 [Original PDF](/assets/pdf/2ofeaster2019.pdf)    
 Second Sunday of Easter – Year C – 2019

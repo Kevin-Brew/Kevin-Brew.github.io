@@ -3,6 +3,7 @@ layout: post
 title:  "Fruits of the Spirit"
 date:   2010-03-01
 blurb: "The sermon explores the fruits of the Spirit as described in Galatians 5:22-25, emphasizing the need for Christians to embody love, joy, peace, patience, kindness, generosity, faithfulness, gentleness, and self-control. It also draws from Philippians 2:1-11 to highlight the importance of humility, selflessness, and obedience to God, as exemplified by Jesus Christ."
+og_image: "/assets/img/posts/week 4.png"
 ---
 [Original PDF](/assets/pdf/week 4.pdf)    
 By contrast, the fruit of the Spirit is love, joy, peace, patience, kindness, generosity, faithfulness, gentleness, and self-control. There is no law against such things. And those who belong to Christ Jesus have crucified the flesh with its passions and desires. If we live by the Spirit, let us also be guided by the Spirit. Let us not become conceited, competing against one another, envying one another. (Gal 5:22-25)

@@ -3,6 +3,7 @@ layout: post
 title:  "Christmas - 2010"
 date:   2010-12-25
 blurb: "This sermon reflects on the importance of recognizing God's presence not just in worship, but also in the ordinary aspects of life. It emphasizes the values of care and compassion, and the idea of God present in the world today. The sermon also encourages us to think beyond the immediate, and to consider our role in making God present in the world."
+og_image: "/assets/img/posts/christmasday2010.png"
 ---
 [Original PDF](/assets/pdf/christmasday2010.pdf)    
 Ten days ago, as I do every year at this time, I travelled into the Focus Ireland café on Eustace Street, on the edge of Temple Bar to hand over the gifts you gave to Focus Ireland. As I remarked at the 9:30 last Sunday, I always find this a very humbling experience. There is the gratitude of the staff for our modest offering. Then there are the stories of those they meet in the café and out on the streets. That place is a symbol of hope and care ever more necessary in our straightened times. For me it is also a very hopeful sign that fundamental values of care and compassion that marked Irish society were not entirely swamped by the Celtic Tiger. That place is also a sign of God’s presence in our society. Those who work there may or may not have a specifically Christian commitment but they are definitely channels of God’s love and care.

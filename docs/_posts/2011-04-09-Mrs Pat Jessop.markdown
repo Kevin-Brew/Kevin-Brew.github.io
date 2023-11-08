@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Mrs Pat Jessop"
 date:   2011-04-09
 blurb: "This sermon was given at the funeral of Mrs Pat Jessop, a remarkable lady who lived a full life of service and love. She was a pillar of the Sutton/Howth area, a devoted wife and mother, and a dedicated community member. Her life was marked by her practical help, including cooking in a convent and establishing Riding for the Disabled in her area. The sermon also reflects on the cycle of life and death, and the hope of resurrection."
+og_image: "/assets/img/posts/Mrs Pat Jessop.png"
 ---
 [Original PDF](/assets/pdf/Mrs Pat Jessop.pdf)    
 Funeral of Mrs Pat Jessop – Glasnevin Crematorium -9th April 2011

@@ -3,6 +3,7 @@ layout: post
 title:  "Pentecost 2014"
 date:   2014-06-08
 blurb: "On this Pentecost Sunday, Kevin discusses the different perceptions of the gift of the Spirit and its role in enabling us to grow in likeness to Jesus Christ. He uses the story of a young boy and a master musician to illustrate how God, like the musician, draws out the best in us by accompanying us. He emphasizes the importance of being open to the Spirit's work in our lives."
+og_image: "/assets/img/posts/pentecost2014.png"
 ---
 [Original PDF](/assets/pdf/pentecost2014.pdf)    
 # PENTECOST – 2014

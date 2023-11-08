@@ -3,6 +3,7 @@ layout: post
 title:  "Following in the Footsteps of Jesus"
 date:   2018-01-14
 blurb: "In this sermon, Kevin explores the concept of discipleship, contrasting it with the modern idea of 'following' someone on social media. He emphasizes that Jesus is looking for true disciples, not just admirers, and that discipleship involves a deep commitment and a willingness to learn and grow. The sermon also highlights the idea of Jesus as a gift from God, not to be admired from a distance but to be received and followed."
+og_image: "/assets/img/posts/epiphany22018family.png"
 ---
 [Original PDF](/assets/pdf/epiphany22018family.pdf)    
 2nd Sunday of Epiphany – year B – 2018 – Family Service

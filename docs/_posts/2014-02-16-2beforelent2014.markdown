@@ -3,6 +3,7 @@ layout: post
 title:  "How Big Is Your God?"
 date:   2014-02-16
 blurb: "In this sermon, Kevin explores the theme of 'How big is our God?' He reflects on the biblical stories of creation, covenant, and redemption, and how they reveal God's greatness and relevance in our lives. He encourages us to recognize God's presence in our daily lives and challenges, and to allow our faith to impact our decisions, attitudes, and relationships."
+og_image: "/assets/img/posts/2beforelent2014.png"
 ---
 [Original PDF](/assets/pdf/2beforelent2014.pdf)    
 We read as our Lesson this morning that first opening chapter of Genesis, the story of creation, a story that captures the amazing diversity of creation, the majesty of the creation, from the sun, the moon and the stars and the rich diversity of life on the face of the earth. 'God saw all that he had made, and it was very good.'

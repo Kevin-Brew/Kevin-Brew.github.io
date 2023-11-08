@@ -3,6 +3,7 @@ layout: post
 title:  "Prayers for Loughile"
 date:   2022-11-20
 blurb: "This sermon is a series of prayers offered for various causes and people. It includes prayers for the Church, the world, the leaders of nations, and those affected by global issues such as climate change and economic hardships. It also includes prayers for the sick, the dying, the mourners, and refugees. The sermon emphasizes the importance of reaching out to one another with love and understanding."
+og_image: "/assets/img/posts/sundaybeforeadvent2022 - prayers.png"
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent2022 - prayers.pdf)    
 PRAYERS FOR LOUGHILE

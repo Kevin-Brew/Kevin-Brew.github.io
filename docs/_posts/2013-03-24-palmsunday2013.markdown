@@ -3,6 +3,7 @@ layout: post
 title:  "Palm Sunday 2013 - Baptism"
 date:   2013-03-24
 blurb: "The sermon discusses the concept of life and faith as a journey, using the framework of the Church of Ireland Service of Baptism. It emphasizes the continuous learning and discovery in life, faith, and understanding God. The sermon also highlights the importance of the promises of Baptism and the journey of Jesus from Galilee to Jerusalem, culminating in his death and resurrection."
+og_image: "/assets/img/posts/palmsunday2013.png"
 ---
 [Original PDF](/assets/pdf/palmsunday2013.pdf)    
 Palm Sunday 2013 – Baptism – finishing the Journey

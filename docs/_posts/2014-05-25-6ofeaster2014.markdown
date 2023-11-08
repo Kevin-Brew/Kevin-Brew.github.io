@@ -3,6 +3,7 @@ layout: post
 title:  "Looking Back and Forward"
 date:   2014-05-25
 blurb: "This sermon discusses the shift in focus from the resurrection of Jesus to the coming of the Holy Spirit during the Easter season. It explores the concept of looking back and forward, using a poem by Minnie Louise Haskins as a metaphor for stepping into the unknown with faith in God. The sermon also addresses the anxieties and uncertainties of the future, assuring that the Holy Spirit is always with us."
+og_image: "/assets/img/posts/6ofeaster2014.png"
 ---
 [Original PDF](/assets/pdf/6ofeaster2014.pdf)    
 6th Sunday of Easter – 2014 – year A

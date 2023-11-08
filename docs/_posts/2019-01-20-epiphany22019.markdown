@@ -3,6 +3,7 @@ layout: post
 title:  "Grace in Imperfection"
 date:   2019-01-20
 blurb: "This sermon reflects on the power of human resilience and the concept of grace. It draws parallels between the diverse and divided Corinthian Church and the Church today, emphasizing the need for unity and recognition of varied gifts and talents. The sermon also discusses the changes in Ireland and the Church over the years, and the challenges they face today. It concludes with a call for the Church to embody the healing, reconciling, and transforming presence of Christ in today's world."
+og_image: "/assets/img/posts/epiphany22019.png"
 ---
 [Original PDF](/assets/pdf/epiphany22019.pdf)    
 Second Sunday after the Epiphany – Year C – 2019

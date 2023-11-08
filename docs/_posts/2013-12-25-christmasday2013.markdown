@@ -3,6 +3,7 @@ layout: post
 title:  "Light in the Darkness"
 date:   2013-12-25
 blurb: "This sermon, delivered on Christmas Day 2013, explores the theme of light overcoming darkness. Drawing on passages from John's Gospel and Matthew, it emphasizes the power of Jesus as the 'light of the world' and calls upon disciples to let their light shine before others. The sermon uses the imagery of the winter solstice and the stars to illustrate the enduring and far-reaching power of light."
+og_image: "/assets/img/posts/christmasday2013.png"
 ---
 [Original PDF](/assets/pdf/christmasday2013.pdf)    
 What has come into being in him was life, and the life was the light of all people. The light shines in the darkness, and the darkness did not overcome it. John 1:4,5

@@ -3,6 +3,7 @@ layout: post
 title:  "Here is your King"
 date:   2011-04-17
 blurb: "This sermon explores the use of the word 'King' in John's Gospel, examining various passages where it is mentioned. It delves into the concept of Jesus as the 'King of the Jews' and the implications of this title in the context of the Gospel. The sermon encourages listeners to reflect on the nature of Jesus' kingship and its significance in their faith journey."
+og_image: "/assets/img/posts/Here is your King - notes.png"
 ---
 [Original PDF](/assets/pdf/Here is your King - notes.pdf)    
 USE OF THE WORD ‘KING’ IN JOHN’S Gospel

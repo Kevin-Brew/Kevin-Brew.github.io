@@ -3,6 +3,7 @@ layout: post
 title:  "Thirst for God"
 date:   2010-03-07
 blurb: "This sermon, delivered on the third Sunday of Lent in 2010, uses the metaphor of a marathon runner's thirst to explore the deep spiritual thirst that humans have for God. It discusses the different types of thirst found in the Bible, from physical thirst to a deeper spiritual longing, and emphasizes that only God can satisfy this deep-seated hunger within us."
+og_image: "/assets/img/posts/lent32010.png"
 ---
 [Original PDF](/assets/pdf/lent32010.pdf)    
 One of the hazards of city life around the time of a bank holiday is the City marathon, whether it be in London, Belfast, New York or Dublin or a host of other centres. The streets in the centre are shut down, traffic diverted or held up to let the runners go through. Apart from some mild frustration on the part of some who might come across it unawares, there is a general feeling of well being as runners in all shapes, sizes, physical condition and costume . You get the professionals, like the Kenyans who storm ahead of the field, keeping up an amazing pace right through the race.. Then of course there are the ones in funny costumes – time for them is immaterial, they are there to enjoy themselves and make money for their chosen charity.

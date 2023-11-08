@@ -3,6 +3,7 @@ layout: post
 title:  "Easter Day 2019"
 date:   2019-04-21
 blurb: "This sermon reflects on the profound transformation that Mary and the disciples experienced upon encountering the risen Jesus. It emphasizes the unexpected ways in which Christ comes to us, offering hope, forgiveness, and peace in our moments of sorrow, weakness, and confusion. The sermon encourages us to be open to seeing Christ's presence in others and to serve as channels of His presence."
+og_image: "/assets/img/posts/easter2019.png"
 ---
 [Original PDF](/assets/pdf/easter2019.pdf)    
 EASTER DAY 2019

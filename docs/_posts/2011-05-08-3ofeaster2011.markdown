@@ -3,6 +3,7 @@ layout: post
 title:  "Journey from Doubt to Faith"
 date:   2011-05-08
 blurb: "This sermon discusses the journey of faith, from doubt to belief, using the story of the disciples on the road to Emmaus as a metaphor. The sermon emphasizes the importance of being Christ for each other, listening and sharing in each other's pain, and the realization of Christ's presence in our lives."
+og_image: "/assets/img/posts/3ofeaster2011.png"
 ---
 [Original PDF](/assets/pdf/3ofeaster2011.pdf)    
 3rd Sunday of Easter – 2011 –year A

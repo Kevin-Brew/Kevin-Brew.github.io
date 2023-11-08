@@ -3,6 +3,7 @@ layout: post
 title:  "Journey of Faith"
 date:   2013-02-24
 blurb: "This sermon, delivered during the second week of Lent in 2013, explores the concept of life and faith as a journey. It emphasizes the importance of the promises made during Baptism and how these set the stage for a lifelong journey of discovery and growth in faith. The sermon also highlights the communal aspect of this journey, urging the congregation to support and accompany each other."
+og_image: "/assets/img/posts/lent22013.png"
 ---
 [Original PDF](/assets/pdf/lent22013.pdf)    
 As we come out of the winter months and see signs of new growth, we feel we can start looking forward to the summer. Some I know are planning their holidays – where are we going – how will we travel. Once on the road there is a mixture of anticipation – once my caravan goes through Sutton Cross I am beginning to look forward to meals in the open air, cycling country lanes. There can be an element of impatience – the cries from the back seat, ‘Are we there yet? How much longer till we get there?’

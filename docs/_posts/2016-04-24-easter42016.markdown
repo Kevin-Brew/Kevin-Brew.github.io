@@ -3,6 +3,7 @@ layout: post
 title:  "Seize the Day"
 date:   2016-04-24
 blurb: "This sermon, delivered on the 4th Sunday of Easter in 2016, uses the film 'Dead Poets Society' as a metaphor to discuss the importance of attentiveness and discernment in life. It emphasizes the need to listen to God's voice amidst the various voices in the world, and to find peace, purpose, and contentment through God."
+og_image: "/assets/img/posts/easter42016.png"
 ---
 [Original PDF](/assets/pdf/easter42016.pdf)    
 A film that became something of a classic some 15-20 years ago was the film 'Dead Poets’ Society' starring the late Robin Williams. It is one of those films that would still appear on the TV from time to time. It is set in an elite boys’ private school in the United States. This school has a strong sense of its traditions, having a record of producing leaders in both the political and business establishment.

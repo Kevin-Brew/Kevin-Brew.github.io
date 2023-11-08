@@ -3,6 +3,7 @@ layout: post
 title:  "Guiding Light"
 date:   2018-01-07
 blurb: "In this sermon, Kevin explores the theme of light as a guide in our lives, drawing parallels from his personal experience of sea fishing at night and the biblical account of the Magi following a star. He challenges us to consider what our guiding star in life is, urging us to look beyond self-interest and embody values of justice, truth, compassion, mercy, and peace in our daily lives."
+og_image: "/assets/img/posts/epiphany2018.png"
 ---
 [Original PDF](/assets/pdf/epiphany2018.pdf)    
 Sometime last year someone reminded me of a sermon I preached at my first midnight communion service here in Howth. I had included in my sermon a memory I had of going out sea fishing off the Antrim coast with a member of the Parish of Ahoghill. By the time we came back in, it was after dark. Looking from the boat towards the shore I was aware of a mass of lights - street lights, traffic lights, car lights, lights from houses – somewhere in the midst of them all were the lights marking the entrance into Carnlough harbour. Fortunately my friend knew this part of the Antrim coast well. He knew which lights to set his course by and before I knew it we had made our way back into the harbour.

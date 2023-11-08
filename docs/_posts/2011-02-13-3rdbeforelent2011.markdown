@@ -3,6 +3,7 @@ layout: post
 title:  "Religion and Politics"
 date:   2011-02-13
 blurb: "The sermon discusses the role of religious conviction in political choices, emphasizing the importance of voting with integrity and considering the greater good of society. It explores the concept of covenant in politics, which implies mutual respect and consent between the governed and the governors. The sermon urges the congregation to reflect on how their Christian values influence their political decisions."
+og_image: "/assets/img/posts/3rdbeforelent2011.png"
 ---
 [Original PDF](/assets/pdf/3rdbeforelent2011.pdf)    
 The long awaited election is finally upon us. We have been inundated with interviews, debates, claims and counterclaims as to who is to be best suited to lead this country through the next crucial period in our history. Next Friday the responsibility falls upon the electorate to exercise our responsibility as we cast our votes. What are the issues that will influence our choice? Will it be local or national issues that hold most sway in our minds? Will our choice be determined by what the candidates have to offer to our particular interest group or are we prepared to recognise that maybe our interests need to be subordinated to the greater good of our society.

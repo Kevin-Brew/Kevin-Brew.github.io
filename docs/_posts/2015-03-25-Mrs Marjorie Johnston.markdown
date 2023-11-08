@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Marjorie Johnston"
 date:   2015-03-25
 blurb: "This sermon is a tribute to Mrs. Marjorie Johnston, a beloved member of the Howth parish community. It reflects on her life, her love for languages, her resilience in the face of adversity, and her deep connection with nature. The sermon also draws parallels between Marjorie's love for gardening and the themes of resurrection and renewal, offering comfort and hope to the bereaved."
+og_image: "/assets/img/posts/Mrs Marjorie Johnston.png"
 ---
 [Original PDF](/assets/pdf/Mrs Marjorie Johnston.pdf)    
 Funeral of Mrs Marjorie Johnston – 25th March 2015 – Howth

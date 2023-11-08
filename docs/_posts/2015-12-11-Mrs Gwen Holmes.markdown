@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Gwen Holmes"
 date:   2015-12-11
 blurb: "This sermon is a tribute to Gwen Holmes, who passed away suddenly. Gwen was a cherished member of the parish, known for her love of music, family, and faith. Despite the loss of her husband, Peter, Gwen remained active and independent, continuing to participate in church activities and travel. The sermon emphasizes the enduring hope found in faith and the comfort of memories."
+og_image: "/assets/img/posts/Mrs Gwen Holmes.png"
 ---
 [Original PDF](/assets/pdf/Mrs Gwen Holmes.pdf)    
 Funeral of Gwen Holmes – 11th December 2015

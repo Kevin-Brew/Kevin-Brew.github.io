@@ -3,6 +3,7 @@ layout: post
 title:  "From Cheers to Jeers"
 date:   2014-04-16
 blurb: "This sermon reflects on the betrayal of Jesus by Judas during Holy Week. It explores the motivations behind Judas' actions and the concept of personal agendas. It emphasizes that God's purposes are not limited by our own narrow visions and that He works through us despite our imperfections."
+og_image: "/assets/img/posts/From Cheeers to Jeers - Wednesday - Betrayal and Glory.png"
 ---
 [Original PDF](/assets/pdf/From Cheeers to Jeers - Wednesday - Betrayal and Glory.pdf)    
 I grew up in Birmingham in the 50’s and 60’s. It was the time of the Cold War. I remember vividly the fear that went through Britain during the Cuban Missile Crisis, as the world teetered on the edge of nuclear conflict. Reports of espionage trials, trials of those accused of spying for Russia, would appear in the paper from time to time.

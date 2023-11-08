@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Mrs Jean Wall"
 date:   2013-05-15
 blurb: "This sermon is a tribute to Mrs Jean Wall, delivered at her funeral. It highlights her strength, determination, and down-to-earth approach to life. It also acknowledges the support and sympathy offered to her family during this difficult time."
+og_image: "/assets/img/posts/Mrs Jean Wall.png"
 ---
 [Original PDF](/assets/pdf/Mrs Jean Wall.pdf)    
 Funeral of Mrs Jean Wall – Glasnevin – 15th May 2013

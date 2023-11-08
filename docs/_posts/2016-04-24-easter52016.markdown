@@ -3,6 +3,7 @@ layout: post
 title:  "Love at Full Stretch"
 date:   2016-04-24
 blurb: "In this sermon, Kevin explores the concept of 'love at full stretch', drawing from the Gospel reading where Jesus commands his disciples to love one another. He emphasizes that love is not just an experience, but a vocation, and that it has the power to transform both the beloved and the lover. He uses the story of Jean Valjean from 'Les Miserables' to illustrate the transformative power of love."
+og_image: "/assets/img/posts/easter52016.png"
 ---
 [Original PDF](/assets/pdf/easter52016.pdf)    
 I remember one time putting our older son to bed around the time he had just started school. He asked me 'Daddy do you love me this much?' – his hands would have been just a few inches apart. Then step by step his hands got further and further apart, with the same question, 'Daddy do you love me this much until the hands were at full stretch. I suppose he was rejoicing in the fact that there seemed to be no limit to our love for him.

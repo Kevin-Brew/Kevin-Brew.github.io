@@ -3,6 +3,7 @@ layout: post
 title:  "The Mystery of God's Knowledge"
 date:   2004-11-14
 blurb: "In this sermon, Kevin explores the concept of human understanding of God's knowledge. He emphasizes the importance of acknowledging our limitations and the incomprehensibility of God. Drawing from various biblical passages and personal experiences, Kevin encourages the acceptance of uncertainty and the pursuit of faith, even in the face of unanswered questions."
+og_image: "/assets/img/posts/proper272004.png"
 ---
 [Original PDF](/assets/pdf/proper272004.pdf)    
 "Gentlemen, we just don't know, do we?"

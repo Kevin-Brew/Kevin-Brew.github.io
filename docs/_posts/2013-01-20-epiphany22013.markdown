@@ -3,6 +3,7 @@ layout: post
 title:  "Grace and Transformation"
 date:   2013-01-20
 blurb: "In this sermon, Kevin discusses the concept of grace and the transformative power of Christ. Drawing from the story of the wedding at Cana and Paul's letter to the Corinthians, he explores how God's grace can empower, inspire, and work through our strengths and weaknesses. He also reflects on the role of the Church in a rapidly changing society and the importance of embodying Christ's healing and reconciling presence in the world."
+og_image: "/assets/img/posts/epiphany22013.png"
 ---
 [Original PDF](/assets/pdf/epiphany22013.pdf)    
 With weddings in the air, at this time of year I will often find myself meeting with couples planning their marriage service. One of the choices to be made of course will be the lessons that are to be read. Very often the Gospel appointed for today, the account given to us by St John of the wedding at Cana in Galilee, will feature on the list. It is a story that can be read on a number of levels.

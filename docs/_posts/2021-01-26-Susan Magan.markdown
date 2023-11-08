@@ -3,6 +3,7 @@ layout: post
 title:  "Funeral of Susan Magan"
 date:   2021-01-26
 blurb: "This sermon was given at the funeral of Susan Magan, a quiet and reserved woman who loved her garden and art. The sermon reflects on the cycle of life and death, and the hope of eternal life with God. It is a message of letting go, finding our true selves, and the assurance of peace in the closer presence of God."
+og_image: "/assets/img/posts/Susan Magan.png"
 ---
 [Original PDF](/assets/pdf/Susan Magan.pdf)    
 We gather here today in Dardistown for the Funeral of Susan Magan. But for Covid 19, this service would have taken place in St Mary’s where Susan worshipped. True to her nature as a very private person she would have slipped in and out. Her many friends would have joined you her family to thank God for Susan Magan and to support you, her immediate family, in your loss.

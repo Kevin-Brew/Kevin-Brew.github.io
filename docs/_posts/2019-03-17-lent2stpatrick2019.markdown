@@ -3,6 +3,7 @@ layout: post
 title:  "Journey of Reconciliation"
 date:   2019-03-17
 blurb: "This sermon, delivered on St. Patrick's Day 2019, explores the journey of St. Patrick, from being a slave to becoming a beacon of the Gospel. It discusses how we respond when life goes wrong and emphasizes the importance of not retaliating but seeking reconciliation. The sermon also addresses the recent terrorist attack in New Zealand, condemning all forms of terrorism and urging listeners to stand alongside voices of reason and truth."
+og_image: "/assets/img/posts/lent2stpatrick2019.png"
 ---
 [Original PDF](/assets/pdf/lent2stpatrick2019.pdf)    
 Each morning I came down to breakfast in the Rectory in Ahoghill, as I filled the kettle for the first cup of tea, I would look out of the window and see Slemish Mountain in the distance. It was on Slemish that the young Patrick is reputed to have worked as a slave watching over sheep. He had been captured by pirates and transported from his native land. Sometimes Slemish was bathed in sunshine, sometimes covered in snow.

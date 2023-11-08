@@ -3,6 +3,7 @@ layout: post
 title:  "Virtual Assembly - November 2020"
 date:   2020-11-29
 blurb: "Kevin addresses the Burrow School community in a virtual assembly, acknowledging the challenges faced during the pandemic and the things they've missed out on. He expresses his anticipation for the new classrooms to replace the prefabs next year. Despite the changes to the usual Christmas celebrations, he reminds everyone of the true meaning of Christmas and encourages them to enjoy the lead up to the holiday."
+og_image: "/assets/img/posts/Virtual Assembly - November 2020.png"
 ---
 [Original PDF](/assets/pdf/Virtual Assembly - November 2020.pdf)    
 First of all I want to say a huge thank you to everyone in the Burrow School for the many ways you have handled yourselves this term in the face of the virus - a huge thank you to Miss Lynn and the teaching staff; to all students. This has not been an easy time for any of you – people have been anxious, not sure how it would all work out. But you’ve done it, thanks to everyone’s collective efforts, you have kept the Burrow safe.

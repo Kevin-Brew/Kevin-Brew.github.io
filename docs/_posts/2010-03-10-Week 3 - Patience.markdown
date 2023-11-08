@@ -3,6 +3,7 @@ layout: post
 title:  "Patience - Fruits of the Spirit"
 date:   2010-03-10
 blurb: "This sermon explores the concept of patience as a fruit of the Spirit. It delves into the biblical accounts of God's patience with humanity, Jesus' patience with his disciples, and how patience allows space for healing in relationships. The sermon encourages believers to show the same patience God has shown them, not seeking immediate revenge for wrongs done to them."
+og_image: "/assets/img/posts/Week 3 - Patience.png"
 ---
 [Original PDF](/assets/pdf/Week 3 - Patience.pdf)    
 Riches of language can lie in the different sayings people have in different parts of the country 'So and so – wouldn’t he try the patience of a saint?' Idea of someone of great sanctity struggling to keep their cool. What is the patience of a saint? - raised in the passage we have been focusing on this Lent. We read Galatians 5:22-25. Each week we have been looking at how each of these attributes are found in the Bible, in God, in Jesus. Set alongside teaching of Catechism on work of the Holy Spirit.

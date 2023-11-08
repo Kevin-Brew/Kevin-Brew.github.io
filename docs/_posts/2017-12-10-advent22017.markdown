@@ -3,6 +3,7 @@ layout: post
 title:  "Hope Amidst Uncertainty"
 date:   2017-12-10
 blurb: "In this sermon, Kevin reflects on the challenges of 2020 and the enduring hope found in faith. Drawing parallels between the hardships endured during the pandemic and the biblical exile of the Israelites, he emphasizes the importance of hope and faith during times of uncertainty. He encourages the congregation to remain vigilant and hopeful, looking forward to a time when normalcy will return."
+og_image: "/assets/img/posts/advent22017.png"
 ---
 [Original PDF](/assets/pdf/advent22017.pdf)    
 2020 has not been a good year. 12 months ago all that we have endured would have been the stuff of nightmares. Home and family life, business and community life, school and college life, Church life – all have been traumatised by a virus we had not even heard of this time last year. A virus that even on this island has killed thousands, left people with debilitating disease, left people afraid to leave their own homes, meet their own families. Ordinary rites of passage that we would celebrate as a community, births, marriages, deaths – all reduced to small numbers – people left without the supports from extended family, neighbours and friends in time of grievous loss.

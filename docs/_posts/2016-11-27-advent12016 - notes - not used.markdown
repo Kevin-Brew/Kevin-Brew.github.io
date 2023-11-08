@@ -3,6 +3,7 @@ layout: post
 title:  "Putting on Christ"
 date:   2016-11-27
 blurb: "This sermon focuses on the Romans passage and develops the theme of 'putting on Christ'. The core message is about being recognized for what we are, a follower of Jesus."
+og_image: "/assets/img/posts/advent12016 - notes - not used.png"
 ---
 [Original PDF](/assets/pdf/advent12016 - notes - not used.pdf)    
 Advent 1 – notes

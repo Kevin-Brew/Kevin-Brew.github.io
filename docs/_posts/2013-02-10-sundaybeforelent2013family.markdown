@@ -3,6 +3,7 @@ layout: post
 title:  "Sunday before Lent 2013"
 date:   2013-02-10
 blurb: "In this sermon, Kevin speaks about the time Jesus went off with his disciples, Peter, James, and John. He emphasizes the importance of seeing God in Jesus and how others might see Jesus in us. He also prepares the congregation for the upcoming season of Lent, a time for self-reflection and getting closer to Jesus."
+og_image: "/assets/img/posts/sundaybeforelent2013family.png"
 ---
 [Original PDF](/assets/pdf/sundaybeforelent2013family.pdf)    
 Show 'Hell's Grannies' video clip. Does anyone here have a granny like that? That's not how our grans behave is it? When we go to their houses they are kind, they give us treats.

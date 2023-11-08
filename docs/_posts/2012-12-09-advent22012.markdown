@@ -3,6 +3,7 @@ layout: post
 title:  "Work in Progress"
 date:   2012-12-09
 blurb: "This sermon, delivered on the 2nd Sunday of Advent in 2012, explores the theme of life as a 'work in progress'. Drawing from Philippians 1:6, the speaker encourages listeners to view their spiritual journey as an ongoing process, guided and supported by God. The sermon emphasizes the importance of patience, faith, and the continual striving towards a deeper relationship with Christ."
+og_image: "/assets/img/posts/advent22012.png"
 ---
 [Original PDF](/assets/pdf/advent22012.pdf)    
 2nd Sunday of Advent - 2006 - year C

@@ -3,6 +3,7 @@ layout: post
 title:  "Jennifer Guinness Booth - A Life Remembered"
 date:   2016-01-27
 blurb: "This sermon is a memorial service for Jennifer Guinness Booth, a beloved mother, grandmother, wife, and friend. It highlights her resilience and determination, particularly during her kidnapping ordeal and her battle with cancer. Jennifer's contributions to Victim Support and her impact on the lives of many are also acknowledged. The sermon ends with a hopeful message about life, death, and the Christian faith."
+og_image: "/assets/img/posts/Mrs Jennifer Guinness Booth - memorial service.png"
 ---
 [Original PDF](/assets/pdf/Mrs Jennifer Guinness Booth - memorial service.pdf)    
 Yesterday afternoon, in the Victorian Chapel in Mount Jerome, the family of Jennifer Guinness Booth gathered for the funeral service of Jennifer, a beloved mother, grand mother, wife and dear friend who had died last Saturday morning surrounded by those she loved at the end of a dogged battle with cancer. That service was personal, it was private space for a family coming to terms with their loss.

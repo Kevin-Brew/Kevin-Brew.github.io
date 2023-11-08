@@ -3,6 +3,7 @@ layout: post
 title:  "The Unending Light"
 date:   2020-12-25
 blurb: "This sermon reflects on the first Christmas Family Service in Howth and the enduring light of Jesus. Despite the changes brought by the pandemic, the sermon emphasizes the importance of remembering Jesus, the heart of Christmas celebrations. It uses the metaphor of a light that doesn't go out, symbolizing Jesus' enduring presence and influence."
+og_image: "/assets/img/posts/christmas2020family.png"
 ---
 [Original PDF](/assets/pdf/christmas2020family.pdf)    
 I remember my first Christmas Family Service here in Howth. The buzz around the Church packed with people. Many, and not just the children, had brought at least one of their Christmas presents. It is a lovely way to start our Christmas celebrations, gathering in Church to remember the one who is at the heart of celebrations. It is a very different Christmas this year but it is lovely to see you on screen. That first Family Service I set up a birthday cake at the front of the Church, lit a candle and invited someone up to blow it out – of course as soon as the young fellow turned his back to go back to his seat the candle lit up again.

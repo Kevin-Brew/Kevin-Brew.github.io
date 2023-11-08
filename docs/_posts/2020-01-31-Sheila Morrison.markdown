@@ -3,6 +3,7 @@ layout: post
 title:  "Sheila Morrison's Funeral"
 date:   2020-01-31
 blurb: "This sermon was given at the funeral of Mrs. Sheila Morrison, a remarkable lady known for her resilience, zest for life, humor, and kindness. She was a longstanding and faithful member of the parish, who embraced modern technology and lived life to the fullest. The sermon reflects on her life, her love for her family, and her faith in God."
+og_image: "/assets/img/posts/Sheila Morrison.png"
 ---
 [Original PDF](/assets/pdf/Sheila Morrison.pdf)    
 On Tuesday evening news started spreading that Sheila Morrison had died in the Blackrock Clinic. As the news spread, people started to share memories of this remarkable lady. A number of words started coming to mind: Resilient, Zest for life, Humour, Kindness. Then the stories started to be told of her determination to keep up to date with modern technology – why shouldn’t she use a computer, why shouldn’t she have a smart phone – how else was she going to use Whatsapp and Facebook?

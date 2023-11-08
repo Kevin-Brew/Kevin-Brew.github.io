@@ -3,6 +3,7 @@ layout: post
 title:  "End of Year Reflection"
 date:   2009-06-23
 blurb: "This sermon delivered by Kevin at the end of the school year at Burrow National School emphasizes the importance of gratitude. It highlights the significance of saying 'thank you' and acknowledging the effort and kindness of others. The sermon also addresses the transition of students moving on to new schools and experiences, and the values they carry with them."
+og_image: "/assets/img/posts/Burrow NS End of Year - 2009.png"
 ---
 [Original PDF](/assets/pdf/Burrow NS End of Year - 2009.pdf)    
 Thank you – an expression of gratitude. When someone gives me something, does something for me – I say thank you. When I do that I am saying that was good, I really appreciate that. Acknowledging someone has gone to some trouble in choosing the gift, in taking the time and effort to help. Thank you – its good to say that simple word.

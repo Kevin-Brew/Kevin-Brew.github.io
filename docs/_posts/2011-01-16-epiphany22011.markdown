@@ -3,6 +3,7 @@ layout: post
 title:  "The Call and Vocation"
 date:   2011-01-16
 blurb: "The sermon discusses the joy and significance of Baptism, the importance of names in the Bible, and the transformation of individuals when they accept God's call. It emphasizes the idea of vocation and purpose, using examples of biblical figures like Simon becoming Peter and Saul becoming Paul. The sermon also encourages reflection on one's discipleship and the reaffirmation of baptismal promises."
+og_image: "/assets/img/posts/epiphany22011.png"
 ---
 [Original PDF](/assets/pdf/epiphany22011.pdf)    
 EPIPHANY 2 – 2011 – Year A

@@ -3,6 +3,7 @@ layout: post
 title:  "Moments of Epiphany"
 date:   2014-01-05
 blurb: "This sermon explores the concept of Epiphany, moments when God breaks through and seems very real. It discusses how God makes himself known through creation, how humans are created in God's image and are called to reveal God in their daily lives, and the mystery of the incarnation. It also touches on the vocation that flows from baptism."
+og_image: "/assets/img/posts/epiphany12014 -930.png"
 ---
 [Original PDF](/assets/pdf/epiphany12014 -930.pdf)    
 1st Sunday of Epiphany – 2014

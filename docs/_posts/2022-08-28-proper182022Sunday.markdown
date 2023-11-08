@@ -3,6 +3,7 @@ layout: post
 title:  "God's Patient Work"
 date:   2022-08-28
 blurb: "This sermon reflects on the image of a potter at work, shaping and reshaping clay, as a symbol of God's patient work in our lives. It explores the themes of God's commitment to humanity, our need to respond to God, and the challenge of not being possessed by our possessions. The sermon concludes with a call to live out our baptismal call to discipleship."
+og_image: "/assets/img/posts/proper182022Sunday.png"
 ---
 [Original PDF](/assets/pdf/proper182022Sunday.pdf)    
 Our Old Testament Lesson begins with an image that would have been familiar to the citizens of Jerusalem at the time of Jeremiah. Jeremiah is watching a potter working at his wheel. This is a very skilled job. The clay has be properly prepared, kneaded to make sure there are no air pockets to cause the pot to crack when it is fired. The lump of clay has to be centred on the wheel. Then begins the process of carefully forming the pot. The potter must keep his hands moist and steady – any sudden movement and the pot goes all over the place and he has to start the process all over again.

@@ -3,6 +3,7 @@ layout: post
 title:  "Journey of Faith"
 date:   2019-04-14
 blurb: "In this sermon, Kevin reflects on the concept of life and faith as a journey. He emphasizes the importance of baptism and confirmation as key milestones in this journey. He draws parallels between our personal journey and Jesus' journey to his crucifixion, highlighting the power of Jesus' resurrection and the role of the Holy Spirit in shaping us in the likeness of Christ. The sermon concludes with a quote from Dietrich Boenhoffer, emphasizing the transformative power of Christ's incarnation."
+og_image: "/assets/img/posts/palmsunday2019.png"
 ---
 [Original PDF](/assets/pdf/palmsunday2019.pdf)    
 You will gather by now that in a lot of my thinking I find myself going back to the Service of Baptism. One thread that that frequently runs through my reflections is the whole idea of 'journey'.

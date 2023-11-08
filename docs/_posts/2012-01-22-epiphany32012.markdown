@@ -3,6 +3,7 @@ layout: post
 title:  "The Body of Christ"
 date:   2012-01-22
 blurb: "This sermon, delivered on the 3rd Sunday of Epiphany in 2012, discusses the diversity of the Church and the unique gifts each member brings. Using the analogy of the human body, it emphasizes the importance of each member's contribution to the well-being and functioning of the Church. It also reminds us that the Church exists not for its own benefit, but for the advancement of God's Kingdom."
+og_image: "/assets/img/posts/epiphany32012.png"
 ---
 [Original PDF](/assets/pdf/epiphany32012.pdf)    
 Anyone coming to the end of their school or college career goes through a process of Careers Advice. A part of this process involves a series of aptitude tests. The idea of this is to enable the individual to identify his or her particular strengths or weaknesses; to identify characteristics that make them suited to particular types of career.

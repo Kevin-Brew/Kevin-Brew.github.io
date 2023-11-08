@@ -3,6 +3,7 @@ layout: post
 title:  "Power of Pentecost"
 date:   2020-05-31
 blurb: "This sermon, delivered on Pentecost Sunday, explores the concept of power in the context of the Holy Spirit. It contrasts power as control and coercion with power as enabling and healing. The sermon emphasizes the role of forgiveness and reconciliation in the Christian community, facilitated by the Holy Spirit. It ends with a story about a tribal custom in Kenya that symbolizes reconciliation."
+og_image: "/assets/img/posts/pentecost2020.png"
 ---
 [Original PDF](/assets/pdf/pentecost2020.pdf)    
 PENTECOST – Year A – 2020

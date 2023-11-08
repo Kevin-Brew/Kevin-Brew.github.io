@@ -3,6 +3,7 @@ layout: post
 title:  "Funeral of Dorrie MacCann"
 date:   2021-04-15
 blurb: "This sermon is a tribute to Dorrie MacCann, a devoted wife, mother, and grandmother, and a central figure in her parish. Despite the challenges she faced in her later years, her faith remained strong. Her life is celebrated and her contributions to her family and community are remembered fondly."
+og_image: "/assets/img/posts/Dorrie MacCann.png"
 ---
 [Original PDF](/assets/pdf/Dorrie MacCann.pdf)    
 Funeral of Dorrie MacCann – Howth – 15th April 2021

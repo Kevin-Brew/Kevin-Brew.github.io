@@ -3,6 +3,7 @@ layout: post
 title:  "Breaking God's Silence"
 date:   2009-12-27
 blurb: "The sermon discusses the feeling of emptiness and alienation from God, drawing parallels with the exile in Babylon and the silence of God. It emphasizes the hope expressed in Isaiah and the fulfillment of this hope with the birth of Jesus. The sermon also highlights the role of the shepherds as agents of God in breaking His silence and spreading the good news."
+og_image: "/assets/img/posts/Christmas 1.png"
 ---
 [Original PDF](/assets/pdf/Christmas 1.pdf)    
 Do you ever recall a time of feeling very empty within yourself. It might have been for a number of reasons – it might be an agonising worry about ourselves or a loved one. There is that feeling of helplessness, a feeling of being very alone. A feeling that the world about us, maybe even God himself, is totally indifferent to our plight. I would suspect that that is an experience that most of us can recall at some stage or another to a greater or lesser extent.

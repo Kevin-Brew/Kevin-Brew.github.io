@@ -3,6 +3,7 @@ layout: post
 title:  "What is Truth?"
 date:   2011-04-19
 blurb: "This sermon, delivered during Holy Week in 2011, explores the question posed by Pilate to Jesus: 'What is truth?'. It delves into the contrasting worldviews represented by Jesus and Pilate, and the implications of these differing perspectives for the followers of Jesus. The sermon emphasizes the importance of truth in understanding the character of Jesus and the essence of Christian life."
+og_image: "/assets/img/posts/holyweek2011tues.png"
 ---
 [Original PDF](/assets/pdf/holyweek2011tues.pdf)    
 In the course of our reflections this Holy Week we are focussing on one aspect of the whole drama of the Passion, the trial of Jesus before Pilate as told to us by St John. This was an encounter not just between two very different individuals but two very different world views. Pilate represented the worldly power of Rome, the superpower of the Ancient World who at that stage controlled the whole of Western Europe, with the possible exception of Ireland. Pilate represented power and he would have been very aware of the power at his disposal.

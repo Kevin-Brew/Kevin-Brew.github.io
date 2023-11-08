@@ -3,6 +3,7 @@ layout: post
 title:  "The Power of Now"
 date:   2020-02-16
 blurb: "This sermon emphasizes the importance of rest and the power of the present moment. It explores the concept of Sabbath, a day of rest and gladness, and the need to make time for God amidst the busyness of modern life. It also addresses the fears and anxieties that come with life's responsibilities, and the need to bring these concerns into the presence of God."
+og_image: "/assets/img/posts/2beforelent2020.png"
 ---
 [Original PDF](/assets/pdf/2beforelent2020.pdf)    
 2nd Sunday before Lent – Year A – 2020

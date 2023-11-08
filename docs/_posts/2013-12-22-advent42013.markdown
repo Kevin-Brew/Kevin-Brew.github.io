@@ -3,6 +3,7 @@ layout: post
 title:  "Advent Waiting"
 date:   2013-12-22
 blurb: "This sermon explores the concept of waiting during the Advent season. It draws parallels between waiting for loved ones at the airport and waiting for God. The sermon emphasizes the presence of God with us, through the incarnation of Jesus, and encourages us to hold onto this truth in our lives."
+og_image: "/assets/img/posts/advent42013.png"
 ---
 [Original PDF](/assets/pdf/advent42013.pdf)    
 This time of year will find many of us at Dublin Airport waiting. Waiting for relatives and friends who are making a trip home for the Christmas Season. As we wait, we may recognise others there for the same reason. 'Who are you waiting for?' 'Is it long since they have been home?' 'Where are they living now?'

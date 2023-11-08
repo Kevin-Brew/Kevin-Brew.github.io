@@ -3,6 +3,7 @@ layout: post
 title:  "Christmas 2018: Beyond the Manger"
 date:   2018-12-25
 blurb: "This sermon explores the idea of not confining Jesus to the manger scene, but acknowledging his growth into a challenging, demanding Christ. It emphasizes the need to see Christ not only in the church but also in the world, particularly among the marginalized. The sermon challenges us to join Christ in his mission in this messy, untidy world."
+og_image: "/assets/img/posts/christmas2018.png"
 ---
 [Original PDF](/assets/pdf/christmas2018.pdf)    
 Going around homes with young families, I am often intrigued by the various steps that are taken to stop infants who have just started moving from getting into cupboards, heading upstairs, out of the door, getting burned by the cooker, fire or whatever. When our kids were young, we used a wooden playpen with bars – we used to call it ‘Benjamin’s Prison’. Once he was in there, he was safe from harm, the contents of our cupboards were safe and he wasn’t going anywhere.

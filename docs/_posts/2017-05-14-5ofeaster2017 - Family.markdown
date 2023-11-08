@@ -3,6 +3,7 @@ layout: post
 title:  "Family and Faith"
 date:   2017-05-14
 blurb: "This sermon, delivered on the 5th Sunday of Easter in 2017, discusses the importance of family and community in the Church. It emphasizes the role of the Church as a family, providing spiritual nutrition and guidance, and the responsibility of the congregation in nurturing new members. The sermon also highlights the significance of the physical space of the Church, as it moves into a new location."
+og_image: "/assets/img/posts/5ofeaster2017 - Family.png"
 ---
 [Original PDF](/assets/pdf/5ofeaster2017 - Family.pdf)    
 5th Sunday of Easter – Year A – 2017

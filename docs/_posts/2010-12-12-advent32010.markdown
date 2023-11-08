@@ -3,6 +3,7 @@ layout: post
 title:  "The Heralds of the Kingdom"
 date:   2010-12-12
 blurb: "This sermon, delivered on the third Sunday of Advent in 2010, draws parallels between the role of heralds in history and the Bible, and our modern roles as Christians. It emphasizes the importance of our homes and churches as places where Christ is known and made known. The sermon encourages listeners to reflect on their roles as 'heralds of the kingdom' in their generation."
+og_image: "/assets/img/posts/advent32010.png"
 ---
 [Original PDF](/assets/pdf/advent32010.pdf)    
 Part of the folk lore of the United States is the figure of Paul Revere. He is famous for an overnight ride he undertook during the course of the American War of Independence. In the course of this he rode across the countryside, warning the Minute men, groups fighting Britain for independence, of the impending arrival of British troops. As he rode up to each homestead of the Minute men he shouted out ‘The British are coming!, The British are coming!’ and then rode on to his next destination.

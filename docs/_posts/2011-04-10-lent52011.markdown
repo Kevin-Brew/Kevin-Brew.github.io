@@ -3,6 +3,7 @@ layout: post
 title:  "Hope in Desolation"
 date:   2011-04-10
 blurb: "In this sermon, Kevin draws parallels between the desolation of the battlefield of Solferino, the valley of dry bones in Ezekiel's vision, and the tomb of Lazarus. He emphasizes the transformative power of God's love, which can turn places of death and despair into symbols of life and hope. He also stresses the importance of being not only recipients of grace but also channels of grace."
+og_image: "/assets/img/posts/lent52011.png"
 ---
 [Original PDF](/assets/pdf/lent52011.pdf)    
 Back in 1859, a young Swiss man, Henri Dunant, was traveling in Northern Italy. In the course of his travels he passed through the city of Solferino. It was the day after a major battle between the armies of Austria and France. He came upon the field of battle - thousands lay dead and injured - there was no one to care for the wounded, who lay scattered across the field of battle. Dunant and friends organised an ad hoc field hospital to tend for the wounded of both sides.

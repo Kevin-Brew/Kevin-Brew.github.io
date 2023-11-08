@@ -3,6 +3,7 @@ layout: post
 title:  "Openness to Truth"
 date:   2015-01-18
 blurb: "Kevin delivers a sermon on the 2nd Sunday of Epiphany, Year B, 2015, focusing on the themes of openness to truth and recognizing personal biases. He uses the story of the blind men and the elephant to illustrate the importance of being receptive to different perspectives. He also discusses the significance of the Week of Prayer for Christian Unity and the need for ecumenism."
+og_image: "/assets/img/posts/epiphany22015.png"
 ---
 [Original PDF](/assets/pdf/epiphany22015.pdf)    
 I recall when I was Bishop’s Curate in Finglas and we were out socialising on the south side of the city, I used to get innocent amusement watching people’s reactions, when they asked me what part of the city I was living in. I would reply brightly 'Finglas' or, even better, 'Finglas West' – or if I was feeling really mischievous, 'the bottom of the Cappagh Road'. People from Dublin 4 had their own particular mental picture of Finglas that coloured their reaction to people.

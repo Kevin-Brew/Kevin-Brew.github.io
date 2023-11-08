@@ -3,6 +3,7 @@ layout: post
 title:  "Choices and Consequences"
 date:   2011-02-20
 blurb: "In this sermon, Kevin emphasizes the importance of choices in our lives. He discusses the different levels of choices we make, from mundane daily decisions to life-altering ones. He also highlights how our choices reflect our values and faith, and how they can have far-reaching implications. Kevin calls for a rediscovery of community values and a commitment to making choices that lead to life and blessings."
+og_image: "/assets/img/posts/4thbeforelent2011.png"
 ---
 [Original PDF](/assets/pdf/4thbeforelent2011.pdf)    
 One of the characters of the last World Cup Final in South Africa was a German octopus that seemed to have an uncanny knack of choosing which side was going to win a particular match. TV cameras would record and send round the world pictures taken as this celebrated octopus climbed onto one flag or another. The strain obviously proved too much because the poor thing expired shortly after the finals were over.

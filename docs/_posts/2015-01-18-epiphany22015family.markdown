@@ -3,6 +3,7 @@ layout: post
 title:  "Following in the Footsteps of Jesus"
 date:   2015-01-18
 blurb: "This sermon from 2015 discusses the concept of discipleship and what it means to follow Jesus. Drawing parallels between the biblical disciples and modern day followers, the sermon emphasizes that Jesus is not looking for casual followers but for committed disciples who are willing to leave everything behind. The sermon also contrasts the idea of following Jesus with following someone on social media, highlighting the depth and commitment required in discipleship."
+og_image: "/assets/img/posts/epiphany22015family.png"
 ---
 [Original PDF](/assets/pdf/epiphany22015family.pdf)    
 2nd Sunday of Epiphany – year B – 2015 – Family Service

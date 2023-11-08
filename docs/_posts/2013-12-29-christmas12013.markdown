@@ -3,6 +3,7 @@ layout: post
 title:  "God's Identification with Humanity"
 date:   2013-12-29
 blurb: "This sermon reflects on the message of Christmas, the identification of God with humanity through Jesus Christ. Drawing inspiration from Desmond Tutu and the teachings of the Bible, the sermon emphasizes the idea that God understands the human experience because He lived it through Jesus. It also highlights the challenges of living a Christian life in a world that often resists the message of Christ."
+og_image: "/assets/img/posts/christmas12013.png"
 ---
 [Original PDF](/assets/pdf/christmas12013.pdf)    
 Just before Christmas, the world mourned the passing of Nelson Mandela, a figure who became synonymous with the struggle against apartheid in South Africa. In the course of the celebrations of his life we saw once more another of those iconic characters, Archbishop Desmond Tutu, who continues, even in his old age to be a thorn in the side of those in power in South Africa. Periodically I find myself returning to some of his writings. This morning, on this Sunday after Christmas, I want to begin with words from a sermon he preached in Johannesburg Cathedral in the early 1980’s. Words that form the basis of what lay behind his passion for justice and human rights in his native South Africa.

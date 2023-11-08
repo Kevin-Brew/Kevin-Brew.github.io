@@ -3,6 +3,7 @@ layout: post
 title:  "The Mystery of Faith"
 date:   2016-11-20
 blurb: "In this sermon, Kevin explores the concept of 'mystery' in the context of faith, drawing from various passages in the New Testament. He discusses how these mysteries, such as the mystery of lawlessness and the mystery of the gospel, are revealed to believers. The sermon emphasizes the importance of understanding and holding fast to these mysteries with a clear conscience."
+og_image: "/assets/img/posts/proper112016 - notes.png"
 ---
 [Original PDF](/assets/pdf/proper112016 - notes.pdf)    
 Mark 4:11

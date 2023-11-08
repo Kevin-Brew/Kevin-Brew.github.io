@@ -3,6 +3,7 @@ layout: post
 title:  "Lent 5 - 2020"
 date:   2020-03-29
 blurb: "This sermon reflects on the challenges and lessons of the Covid-19 pandemic, drawing on reflections from Bill Gates. It emphasizes the importance of community, faith, and self-reflection in these trying times. The sermon also discusses the story of the resurrection of Lazarus, drawing parallels to the metaphorical 'tombs' we find ourselves in and the power of Jesus to release us from them."
+og_image: "/assets/img/posts/lent52020.png"
 ---
 [Original PDF](/assets/pdf/lent52020.pdf)    
 Where would we be without WhatsApp? Over this past while, as we have been confined to our homes, we can’t meet up with our friends, we can’t play sport and we have even been forced not to meet for services in our Churches, the seriousness of the crisis we face has sunk in.

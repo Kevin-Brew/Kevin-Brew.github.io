@@ -3,6 +3,7 @@ layout: post
 title:  "Funeral of Alastair McMillan"
 date:   2011-02-23
 blurb: "This sermon is a tribute to Alastair McMillan, a man of deep spirituality, peace, and practicality. It reflects on his life, his love for the sea, and his devotion to his family. The sermon also touches on his contributions to the community, his achievements, and his lifelong habits of worship."
+og_image: "/assets/img/posts/Alastair McMillan.png"
 ---
 [Original PDF](/assets/pdf/Alastair McMillan.pdf)    
 We gather here today in St Mary’s Church for the funeral of Alastair McMillan. We have heard the family speak with pride of one who was their father and who also became their friend. This is not just a funeral service but also a service of thanksgiving, a time to reflect on all that we have received in this quiet, understated man, as husband, as father, grandfather, friend.

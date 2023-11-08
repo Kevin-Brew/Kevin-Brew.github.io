@@ -3,6 +3,7 @@ layout: post
 title:  "Journey to Confirmation"
 date:   2019-03-31
 blurb: "Kevin shares about the journey of the confirmation group, their activities, and their study of the Parable of the Prodigal Son. He emphasizes the importance of acknowledging mistakes and making a fresh start, symbolized by the group exercise of writing down regrets and burning them. He invites the congregation to support these young people in their spiritual journey."
+og_image: "/assets/img/posts/lent42019confirmationgroupservice.png"
 ---
 [Original PDF](/assets/pdf/lent42019confirmationgroupservice.pdf)    
 ## LENT 4 – Year C – 2019 – Confirmation Group Service

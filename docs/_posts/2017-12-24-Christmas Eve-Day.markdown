@@ -3,6 +3,7 @@ layout: post
 title:  "Who Do You Think You Are?"
 date:   2017-12-24
 blurb: "This sermon reflects on the identity of Jesus and how understanding him leads us to a deeper understanding of ourselves. It discusses the power of belief in Jesus, the significance of baptism, and the transformative power of God's love. The sermon encourages us to embody Christ's love in our everyday lives."
+og_image: "/assets/img/posts/Christmas Eve-Day.png"
 ---
 [Original PDF](/assets/pdf/Christmas Eve-Day.pdf)    
 In recent years we have seen the emergence of the “must see” television programmes be they the so called 'reality TV' programmes, We have had the likes of 'Big Brother' or 'Strictly Come Dancing'. Coverage of these can attract as much air time on Breakfast TV as war in the Iraq and Syria – which in itself says something about relative values in contemporary society.

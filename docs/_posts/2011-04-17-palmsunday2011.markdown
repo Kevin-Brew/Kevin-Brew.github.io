@@ -3,6 +3,7 @@ layout: post
 title:  "The Crossed Out 'I'"
 date:   2011-04-17
 blurb: "In this sermon, Kevin uses the metaphor of the letter 'I' crossed out to describe the selfless life of Jesus. He encourages the congregation to model their attitudes and lives on Jesus, living selflessly and obediently. He also brings out the importance of being the 'aroma of Christ' and a 'letter of Christ', living lives that draw people to Christ and are written not with ink but with the Spirit of the living God."
+og_image: "/assets/img/posts/palmsunday2011.png"
 ---
 [Original PDF](/assets/pdf/palmsunday2011.pdf)    
 Palm Sunday – we began with the story of Jesus’ entry into Jerusalem. Started with a cheering crowd – ends with Jesus on the Cross, with his enemies jeering. What happened?

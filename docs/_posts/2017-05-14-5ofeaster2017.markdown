@@ -3,6 +3,7 @@ layout: post
 title:  "Journey Towards God"
 date:   2017-05-14
 blurb: "This sermon reflects on the 5th Sunday of Easter, Year A, 2017. It discusses the fortitude of Christians in the face of suffering, drawing on the example of Stephen's calmness and prayer in the face of death. The sermon also explores the intimate relationship between Jesus and the Father, and how Jesus is the 'Way' that enables believers to draw close to the Father."
+og_image: "/assets/img/posts/5ofeaster2017.png"
 ---
 [Original PDF](/assets/pdf/5ofeaster2017.pdf)    
 During these Sundays after Easter our first lesson, instead of being from the Old Testament, has been drawn from the Acts of the Apostles. It is a book we often tend to pass over. The passages we read in these weeks of Easter present us with a picture of the Church on the move, of the Gospel being accepted and people of all backgrounds coming to faith. Of course this was not the whole story, even in those early days. The disciples faced a degree of harassment from the Jerusalem authorities and, as we are reminded in the passage that we read today, Stephen met his death at the hands of a mob.

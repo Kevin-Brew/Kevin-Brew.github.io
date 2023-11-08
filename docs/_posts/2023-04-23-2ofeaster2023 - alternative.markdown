@@ -3,6 +3,7 @@ layout: post
 title:  "Doubt and Faith"
 date:   2023-04-23
 blurb: "This sermon discusses the struggle between doubt and faith, using the story of Thomas and his doubts about Jesus' resurrection as a focal point. It emphasizes the importance of relationship in faith, the humility at the heart of faith, and the provisional nature of faith. The sermon concludes with the assurance of Jesus' presence and peace, even in our doubts and uncertainties."
+og_image: "/assets/img/posts/2ofeaster2023 - alternative.png"
 ---
 [Original PDF](/assets/pdf/2ofeaster2023 - alternative.pdf)    
 2nd Sunday of Easter – 2023 – Year A – St Patrick’s, Jordanstown – Doubt and Faith

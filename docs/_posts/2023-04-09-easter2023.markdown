@@ -3,6 +3,7 @@ layout: post
 title:  "Easter Day 2023"
 date:   2023-04-09
 blurb: "This sermon from Easter Day 2023 reflects on the despair and confusion Mary felt when she found Jesus' tomb empty, and her joy when she realized He had risen. It draws parallels between her journey and our own journeys through doubt, fear, and ultimately faith. The sermon emphasizes the living presence of Christ in our lives, who knows our human experiences and offers hope and purpose."
+og_image: "/assets/img/posts/easter2023.png"
 ---
 [Original PDF](/assets/pdf/easter2023.pdf)    
 EASTER DAY – 2023 – St Patrick’s Jordanstown

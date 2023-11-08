@@ -3,6 +3,7 @@ layout: post
 title:  "Epiphany 1 - Baptism of Jesus"
 date:   2021-01-10
 blurb: "In this sermon, Kevin discusses the concept of 'Epiphany' and its significance in the Christian calendar. He explores the idea of moments when God breaks through and seems very real, using the example of the Baptism of Jesus. Kevin also emphasizes the importance of understanding Jesus from his angle, not ours, and recognizing him as both powerful and gentle, the Son of God and Saviour."
+og_image: "/assets/img/posts/epiphany12021.png"
 ---
 [Original PDF](/assets/pdf/epiphany12021.pdf)    
 Coming as I did from a non Church background, one of the things that intrigued me slightly when I first started going to Church were some of the names of Sundays and seasons in the Church year. There is the name of the season we have just entered, that of Epiphany. Starting on the 6th January it marks the end of Christmas, associated with the arrival of the wise men in Bethlehem.

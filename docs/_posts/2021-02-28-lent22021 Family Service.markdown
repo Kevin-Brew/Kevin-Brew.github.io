@@ -3,6 +3,7 @@ layout: post
 title:  "Transfiguration: A Different Angle"
 date:   2021-02-28
 blurb: "In this sermon, Kevin explores the concept of Transfiguration and encourages the congregation to look at Jesus from a different angle. He emphasizes that Jesus is not just a teacher, but God's beloved Son, and His teachings should change the way we act, think, and live. This new perspective also changes how we view ourselves and others, highlighting our potential as beings made in God's image."
+og_image: "/assets/img/posts/lent22021 Family Service.png"
 ---
 [Original PDF](/assets/pdf/lent22021 Family Service.pdf)    
 I just want to start with a puzzle. At this point would everyone unmute. It is one of those number sequences.

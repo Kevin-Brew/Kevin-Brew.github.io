@@ -3,6 +3,7 @@ layout: post
 title:  "Identity and Sacrifice"
 date:   2009-04-12
 blurb: "This sermon, delivered on Easter Day in 2009, explores the concept of identity and recognition. It uses the story of Jesus appearing to his disciples after the resurrection as a metaphor for understanding our own identities and values. The sermon emphasizes the importance of self-sacrifice and love, embodied in the crucifixion and resurrection of Jesus."
+og_image: "/assets/img/posts/Easter Day - 2009.png"
 ---
 [Original PDF](/assets/pdf/Easter Day - 2009.pdf)    
 Not so very long ago I had to call at the sorting office in Baldoyle. The postman had called at the Rectory to deliver a parcel and there was no one at home. He left a note telling me to call at the sorting office to collect it myself. When I went there to ask for the item I was asked, “Do you have any photo identification?” The man at the counter wanted to know who I was; he wanted to be sure that I was not trying to get hold of a parcel that wasn’t mine.

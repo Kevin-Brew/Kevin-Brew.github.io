@@ -2,7 +2,8 @@
 layout: post
 title:  "Harvest Thanksgiving"
 date:   2010-10-03
-blurb: "Kevin's sermon on Harvest Thanksgiving discusses the importance of the festival and its evolution over time. He emphasizes the importance of acknowledging our dependence on agriculture and fisheries, regardless of our direct involvement. The sermon also delves into the concept of Sabbath, a time for rest and reflection, and its relevance to our contemporary society."
+blurb: "The sermon discusses the concept of Harvest Thanksgiving, its origins, and its relevance in the modern world. It emphasizes the importance of stewardship of the Earth and the need for balance between work and rest, drawing from the Biblical concept of Sabbath. The sermon also highlights the responsibility each individual has towards the environment and the choices we make in our daily lives."
+og_image: "/assets/img/posts/harvest2010.png"
 ---
 [Original PDF](/assets/pdf/harvest2010.pdf)    
 HARVEST THANKSGIVING – Howth – 3rd October 2010
@@ -11,15 +12,11 @@ God saw everything that he had made, and indeed, it was very good. And there was
 
 Harvest Thanksgiving is one of those well loved festivals in the life of the Church. Our Churches are beautifully decorated; we enjoy singing the traditional harvest hymns – there is a ‘feel good’ factor to our worship.
 
-It is a tradition that is relatively modern. It evolved in a very different age to ours, in Victorian England. Agriculture was far more precarious. The failure of harvest through adverse weather or disease could have a catastrophic impact on a farming community involving real hardship. The Irish Potato Famine of the mid 19th century is a case in point.
-
-For rural parishes in Ireland, Harvest Thanksgiving is still directly related to their livelihood. I recall years in Mountmellick when the hymn ‘All is safely gathered in’ was sung with a sense of genuine relief.
+It is a tradition that is relatively modern. It evolved in a very different age to ours, in Victorian England. Agriculture was far more precarious. The failure of harvest through adverse weather or disease could have a catastrophic impact on a farming community involving real hardship. The Irish Potato Famine of the mid 19th century is a case in point. For rural parishes in Ireland, Harvest Thanksgiving is still directly related to their livelihood. I recall years in Mountmellick when the hymn ‘All is safely gathered in’ was sung with a sense of genuine relief.
 
 We who worship here live in a very different age, in a very different environment. The community of Howth, of which we are a part, the island of Ireland does not have that same dependence on agriculture or fishing as it would have even 40 years ago. So what does Harvest mean for us in our situation? Is it just an excuse to decorate, to sing those lovely hymns, to drift back to a vision of rural Ireland, of ‘comely maidens dancing at the cross roads?’ If it is not to be just an exercise in nostalgia, what does Harvest mean for us?
 
-We may not be directly involved in agriculture or fisheries but we all depend on them for the neatly packaged food we buy in our supermarkets. But more than that, we are all inhabitants of this planet and we all have a responsibility for the welfare of this planet.
-
-But what is to be the basis of our concern? What is to be the rationale of our thinking? Is it nothing more than the dreamy idealism of the tree hugger, divorced from the reality of this world? Is the current Republican candidate for the post of Governor of Alaska right when he dismisses global warming as an illusion?
+We may not be directly involved in agriculture or fisheries but we all depend on them for the neatly packaged food we buy in our supermarkets. But more than that, we are all inhabitants of this planet and we all have a responsibility for the welfare of this planet. But what is to be the basis of our concern? What is to be the rationale of our thinking? Is it nothing more than the dreamy idealism of the tree hugger, divorced from the reality of this world? Is the current Republican candidate for the Presidency of the United States right when he dismisses global warming as an illusion?
 
 The Old Testament scriptures written in a very different time and culture, give us much needed food for thought on the whole issue of creation and man’s stewardship of it. I go back to the 1st chapter of the Book Genesis. In this we count off the days of creation, the gradual coming into being of the created order, light and darkness, land and sea, sun, moon and stars, plants and animals, coming to a climax with the creation of man, male and female, made in the image of God. We have those lovely words:
 
@@ -33,9 +30,7 @@ What is God’s work on the 7th day? God’s final act of creation is rest, to s
 
 Like the creator, man is to work for six days and on the 7th day he is to rest; he, his household, his slaves and his animals; to step back from working, accumulating, consuming. To paraphrase the Shorter Catechism of the Presbyterian Church, man’s chief end is not to do, to make, to consume, to compete; man’s chief end is to glorify God and enjoy him for ever. Sabbath is a time to stand back, time to reflect on who I am, what I am in the context of all my other often frenzied activity; a time to rest in the presence of the God who creates and who rests.
 
-The Old Testament also contains the concept of Sabbath for the land. One year in seven the land is to rest, to be left fallow, to recover from constant production. There is the recognition that the fertility of the earth, the resources of the earth are not inexhaustible.
-
-Yet man still continue to plunder the rain forests, to pollute, to waste and the earth is suffering, the climate is changing, the glaciers are melting, deserts are expanding, weather patterns are becoming more extreme.
+The Old Testament also contains the concept of Sabbath for the land. One year in seven the land is to rest, to be left fallow, to recover from constant production. There is the recognition that the fertility of the earth, the resources of the earth are not inexhaustible. Yet man still continue to plunder the rain forests, to pollute, to waste and the earth is suffering, the climate is changing, the glaciers are melting, deserts are expanding, weather patterns are becoming more extreme.
 
 In a consumer society such as ours which has placed a high premium on having the latest design, the latest car, the latest model of this or that, there is something compellingly contemporary about these ancient texts. The Biblical concept of Sabbath, of a balanced cycle of work and rest has much to say to our contemporary society.
 

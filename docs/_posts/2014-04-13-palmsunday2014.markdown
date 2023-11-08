@@ -3,6 +3,7 @@ layout: post
 title:  "Journey to the Cross"
 date:   2014-04-13
 blurb: "This sermon, delivered on Palm Sunday 2014, discusses life as a journey to God, with Holy Week being a time for refocusing on that journey. It emphasizes the need for each believer to make their own journey to the foot of the Cross of Christ. The sermon also explores the different perspectives of those present at Jesus' crucifixion, and challenges listeners to consider their own response to Jesus."
+og_image: "/assets/img/posts/palmsunday2014.png"
 ---
 [Original PDF](/assets/pdf/palmsunday2014.pdf)    
 When we are going on a journey to somewhere, people will often say to us "If you are going there you must call by and see ..." It may be a particular building, a view or maybe even a local festival. I will often talk of life as a journey, a journey to God, a journey into God. There are things that distract us along the way, worries and anxieties, the distractions that can all too easily knock us off course. Holy Week is a time for refocusing on that journey to God, into God. In that context I just want to focus on a place we must all call by and see on our journey of faith. Each of us at some stage must make our own journey to the foot of the Cross of Christ.

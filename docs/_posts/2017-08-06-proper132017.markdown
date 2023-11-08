@@ -3,6 +3,7 @@ layout: post
 title:  "Struggle and Redemption"
 date:   2017-08-06
 blurb: "This sermon discusses the struggle of Jacob with his past and his transformation into Israel, symbolizing a new beginning. It emphasizes the timeless nature of such internal struggles, highlighting the existence of both good and noble, and darker sides within us. The sermon concludes with the message of hope and new beginnings, reminding us that God is with us in our strengths, weaknesses, virtues, and faults."
+og_image: "/assets/img/posts/proper132017.png"
 ---
 [Original PDF](/assets/pdf/proper132017.pdf)    
 Have you ever suffered from a guilty conscience? I don’t mean the pangs of regret that come from an isolated incident such as a hasty word spoken in a fit of ill temper. What I am talking about is more a realisation that our attitudes, our behaviour towards others over a period of time has been wrong. We are aware of our failure. We are aware how it has affected other people and we wish it could be different but we do not know where to begin. There can be a real torment within ourselves. The past cannot be changed and people’s reaction to us as a result seems to be set.

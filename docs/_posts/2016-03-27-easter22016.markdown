@@ -3,6 +3,7 @@ layout: post
 title:  "Journey of Faith"
 date:   2016-03-27
 blurb: "In this sermon, Kevin discusses the concept of faith as a journey, emphasizing that it is not an isolated experience but one that is shared in fellowship with others. He explores the different stages of this journey, acknowledging the presence of doubt and uncertainty. The sermon highlights the story of Thomas, who despite his doubts and uncertainties, remained part of the group, illustrating the importance of support and acceptance in the faith community."
+og_image: "/assets/img/posts/easter22016.png"
 ---
 [Original PDF](/assets/pdf/easter22016.pdf)    
 Can you think back to a time to your childhood when you learned something new. it might have been learning to ride a bike, to swim, to sail, whatever. Some of you maybe picked it up straight away; maybe some of you took a long time. It will have depended on a whole range of matters. Part of it would have been your own personal aptitude. Then there would be the person who was teaching you – were they patient or impatient? Then of course there would be the matter of your own personal motivation. Was this something that you really wanted to do? The important thing is that we get there eventually.

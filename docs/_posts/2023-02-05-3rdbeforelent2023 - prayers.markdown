@@ -3,6 +3,7 @@ layout: post
 title:  "Prayers for the Faithful"
 date:   2023-02-05
 blurb: "This sermon is a series of prayers for the Church, the nations, the community, the sick, and the departed. It emphasizes the need for peace, righteousness, respect, and awareness of each other's needs within our homes and communities. It also highlights the importance of leadership in fostering peace and reconciliation."
+og_image: "/assets/img/posts/3rdbeforelent2023 - prayers.png"
 ---
 [Original PDF](/assets/pdf/3rdbeforelent2023 - prayers.pdf)    
 Let us pray to the Lord who has called us to be faithful in his service. Give to the Church power to proclaim your great works and to shine as a light that will draw all people to your love and honour your name. We pray for the Church in Ireland at this time, for this Diocese and for Michael our Archbishop, for this Parish and for Gillian our Rector.

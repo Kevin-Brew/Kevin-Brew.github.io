@@ -3,6 +3,7 @@ layout: post
 title:  "The Value of Service"
 date:   2020-01-19
 blurb: "In this sermon, Kevin reflects on his recent experiences of being on the receiving end of care and service. He discusses the importance of learning to receive, the power dynamics in service, and the need for stepping back and reflecting on life. He emphasizes that we are not indispensable and that God is found in all those who call on Christ as Lord."
+og_image: "/assets/img/posts/epiphany32020.png"
 ---
 [Original PDF](/assets/pdf/epiphany32020.pdf)    
 The last six weeks have been an interesting experience for me. For the first time in over forty years, I was not leading worship on Christmas Day. But there was more to it than that. I was on the receiving end of the care and attention of others.

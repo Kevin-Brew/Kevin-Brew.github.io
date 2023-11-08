@@ -3,6 +3,7 @@ layout: post
 title:  "The Green Hill Far Away"
 date:   2010-04-01
 blurb: "This sermon reflects on the hymn 'There is a green hill far away' during Holy Week 2010. It explores the themes of divine love, sacrifice, redemption and our response to these. The sermon emphasizes the cost of Christ's love, the vulnerability in God's love for us, and the power of love to redeem and change lives."
+og_image: "/assets/img/posts/Hymn 244 - There is a green hil - verse 5.png"
 ---
 [Original PDF](/assets/pdf/Hymn 244 - There is a green hil - verse 5.pdf)    
 Hymn 244 ‘There is a green hill far away’

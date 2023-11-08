@@ -3,6 +3,7 @@ layout: post
 title:  "The Potter's Lesson"
 date:   2013-09-08
 blurb: "In this sermon, Kevin draws parallels between a potter's work and God's relationship with us. He emphasizes that God, like a patient potter, shapes us into useful and beautiful beings, never giving up on us even when we go off course. He also highlights the importance of full commitment in our service to God, likening it to a man building a tower or a king planning a battle."
+og_image: "/assets/img/posts/proper182013famserv.png"
 ---
 [Original PDF](/assets/pdf/proper182013famserv.pdf)    
 Our Old Testament lesson comes from a very troubled time in the history of Jerusalem – it comes not long before the city is attacked by the Babylonians and the people are taken off into slavery. One day Jeremiah senses he has to go down to a potter’s workshop. This is where the mugs, the plates, the bowls that people used in their homes would have been made. This is probably very close to what he would have seen. [Show video of potter’s wheel](http://youtu.be/P8styuac15I)

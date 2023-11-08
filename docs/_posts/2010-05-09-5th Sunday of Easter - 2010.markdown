@@ -3,6 +3,7 @@ layout: post
 title:  "Embracing Change"
 date:   2010-05-09
 blurb: "The sermon discusses the importance of embracing change and breaking away from old traditions that no longer serve us. It emphasizes the need for Christians to show love towards one another, just as Christ loved us. This love should extend beyond our immediate circles and reach out to the marginalized and the despised in society. The sermon also highlights how the Church's willingness to change and embrace all people is integral to fulfilling God's purpose of redemption for all mankind."
+og_image: "/assets/img/posts/5th Sunday of Easter - 2010.png"
 ---
 [Original PDF](/assets/pdf/5th Sunday of Easter - 2010.pdf)    
 There is the story of a man who came upon two workmen. One man was carefully digging holes at regular intervals along the roadside. The second man followed along behind, carefully filling in the holes. When the second man was asked what he was doing, he said; 'Planting trees.' 'What do you mean? Where are the trees?' 'Well, you see, Ed here digs the holes; Chris puts in the trees; then I fill the holes. Unfortunately Chris is off sick.'

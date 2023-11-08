@@ -3,6 +3,7 @@ layout: post
 title:  "Moving Forward in Faith"
 date:   2008-05-04
 blurb: "In this sermon, Kevin reflects on the idea of moving on and letting go of past memories and experiences. He draws parallels from his personal life and biblical accounts of Transfiguration, Resurrection, and Ascension. Kevin emphasizes that the Gospel is not static but has an inherent forward momentum, and our understanding of God and life should also be developing and growing."
+og_image: "/assets/img/posts/7th Sunday of Easter - 2008.png"
 ---
 [Original PDF](/assets/pdf/7th Sunday of Easter - 2008.pdf)    
 Whenever I walk the cliff path around the Red Rocks I find myself looking across Dublin Bay down towards Bray head. As a youngster I spent many happy holidays in Bray, looking across at the Hill of Howth. Those were good times, full of fond memories. Then, back in the 1980’s, when we were living in Mountmellick, I announced to the boys that I was going to take them to see Bray; to show them the places where I had played as a child, climbed over rocks and all the other things you do on holidays.

@@ -3,6 +3,7 @@ layout: post
 title:  "Celebrating Life Amidst Death"
 date:   Unknown
 blurb: "This sermon, delivered at the funeral of Denis Murphy, emphasizes the celebration of life even in the face of death. It highlights Denis's life, his work in the building industry, his love for golf and outdoors, and his devotion to his family. The sermon also celebrates the life Denis shared with his wife Barbara, their shared experience of loss, and their 23 years of marriage. It concludes with the message of hope and life in Christ, even in the face of death."
+og_image: "/assets/img/posts/Denis Murphy.png"
 ---
 [Original PDF](/assets/pdf/Denis Murphy.pdf)    
 Funeral of Denis Murphy – Church of the Resurrection, Bayside. One of the options for prayers in the Church of Ireland funeral Liturgy contains the words, ‘In the midst of life, we are in death, of whom may we seek for succour.’ As we gather for the funeral of Denis Murphy, I just want to reverse that. ‘In the midst of death, we are in life.’ In the face of death, accepting our mortality, we come in Christian hope to celebrate life.

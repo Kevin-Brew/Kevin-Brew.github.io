@@ -3,6 +3,7 @@ layout: post
 title:  "Journey with God"
 date:   2015-09-21
 blurb: "This sermon is a tribute to Mr. Cecil Jermyn, a man of faith, love, endurance, and gentleness. It celebrates his life journey, his faithfulness, and his courage in the face of life's challenges. The sermon also reflects on the hope and peace offered by Christian faith in the face of death."
+og_image: "/assets/img/posts/Mr Cecil Jermyn.png"
 ---
 [Original PDF](/assets/pdf/Mr Cecil Jermyn.pdf)    
 Funeral of Mr Cecil Jermyn – Howth – 21st September 2015

@@ -3,6 +3,7 @@ layout: post
 title:  "Journey from Doubt to Faith"
 date:   2017-04-23
 blurb: "This sermon, delivered on the 3rd Sunday of Easter in 2017, explores the journey from doubt to faith, using the account of Jesus' appearance on the Road to Emmaus as a metaphor. It emphasizes the importance of honesty, listening, and understanding in our relationships with each other, and the role we can play in being 'Christ for one another' along the journey of life."
+og_image: "/assets/img/posts/Sunday 23rd April 2023 - draft.png"
 ---
 [Original PDF](/assets/pdf/Sunday 23rd April 2023 - draft.pdf)    
 3rd Sunday of Easter – 2017 –year A

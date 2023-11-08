@@ -3,6 +3,7 @@ layout: post
 title:  "Advent: Waiting and Watching"
 date:   2017-12-03
 blurb: "This sermon focuses on the contrast between the busyness of Christmas and the patience of Advent. It emphasizes the importance of attentiveness and discernment in our spiritual lives, particularly in the Advent season. The sermon also highlights the theme of Christ's presence in our lives and in others, urging us to see and serve Christ in everyone we encounter."
+og_image: "/assets/img/posts/advent12017.png"
 ---
 [Original PDF](/assets/pdf/advent12017.pdf)    
 I don’t know whether you noticed it but the Friday before last was listed as Black Friday. It was a day of bargains in the shops, all with the idea of getting us through the doors and spending. It is that time of year already – a number of stores had special offers on electrical and household items – all with the idea of getting ready for Christmas.

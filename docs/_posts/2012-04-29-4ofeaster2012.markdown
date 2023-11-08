@@ -3,6 +3,7 @@ layout: post
 title:  "Authority and Love"
 date:   2012-04-29
 blurb: "The sermon discusses the authority of Jesus and his disciples, and how it was challenged by the temple authorities. It highlights the importance of faith and love in the Christian life, and how these should be expressed not just in words, but in truth and action. The sermon ends with a call to be faithful instruments of God's love in the world."
+og_image: "/assets/img/posts/4ofeaster2012.png"
 ---
 [Original PDF](/assets/pdf/4ofeaster2012.pdf)    
 4th Sunday of Easter – 2012 – year B

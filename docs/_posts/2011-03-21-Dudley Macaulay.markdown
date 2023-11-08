@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Dudley Macaulay"
 date:   2011-03-21
 blurb: "This sermon is a touching tribute to Dudley Macaulay, a devoted husband, father, and grandfather. It recounts his love for his wife, Jennifer, his passion for engineering, and his quiet faith. The sermon also offers comfort and hope, drawing parallels between the cycle of life and death and the changing seasons."
+og_image: "/assets/img/posts/Dudley Macaulay.png"
 ---
 [Original PDF](/assets/pdf/Dudley Macaulay.pdf)    
 Funeral of Mr Dudley Macaulay – March 21st 2011 – Howth

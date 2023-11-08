@@ -3,6 +3,7 @@ layout: post
 title:  "Journey of Holiness"
 date:   2014-10-26
 blurb: "This sermon explores the journey of man from his origins, as depicted in the Old Testament. It emphasizes the concept of holiness as an attribute of God and the call to holiness for mankind. The sermon also highlights the timeless nature of God's presence with his people through all stages of life and calls for justice, hope, and reconciliation in individual and community life."
+og_image: "/assets/img/posts/proper252014.png"
 ---
 [Original PDF](/assets/pdf/proper252014.pdf)    
 PROPER 25 – Year A – 2017 – 5th Sunday before Advent

@@ -3,6 +3,7 @@ layout: post
 title:  "Light Overcomes Darkness"
 date:   2015-01-04
 blurb: "In this sermon, Kevin explores the power of light, both literal and metaphorical, in overcoming darkness. Drawing from Psalm 29, Genesis, and the Gospel of Mark, he reflects on the creative and enduring power of light. The sermon also addresses the tragic events in Paris, urging listeners to uphold their values in the face of violence and injustice."
+og_image: "/assets/img/posts/epiphany12015.png"
 ---
 [Original PDF](/assets/pdf/epiphany12015.pdf)    
 1st Sunday of Epiphany – Year B – 2015

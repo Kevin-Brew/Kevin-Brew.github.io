@@ -3,6 +3,7 @@ layout: post
 title:  "The Fourth Wise Man"
 date:   2012-12-25
 blurb: "This sermon tells the story of a fourth wise man, Arteban, who was always late but for good reasons. He gave away his gifts, originally meant for the King, to help others in need. In the end, he realized that his acts of kindness were received by the King in heaven."
+og_image: "/assets/img/posts/christmasfamily2012.png"
 ---
 [Original PDF](/assets/pdf/christmasfamily2012.pdf)    
 Christmas Day – Family Service – Howth – 2012

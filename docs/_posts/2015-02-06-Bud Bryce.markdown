@@ -3,6 +3,7 @@ layout: post
 title:  "Farewell to Bud Bryce"
 date:   2015-02-06
 blurb: "This sermon is a tribute to Bud Bryce, a man of principle, a loving family man, and a passionate pilot and sailor. Despite his declining health, Bud lived life to the fullest, always grateful for the blessings life had brought him. The sermon also reflects on the Christian understanding of death and the hope of eternal life."
+og_image: "/assets/img/posts/Bud Bryce.png"
 ---
 [Original PDF](/assets/pdf/Bud Bryce.pdf)    
 We have come here today to remember with thanksgiving Bud Bryce, husband, father, grandfather, firm friend and of course pilot. Bud was born in Canada and served in the Royal Canadian Air Force. Following on that he moved into civil aviation in Canada. Then, at a time when Aer Lingus were expanding into the transatlantic routes, along with a number of compatriots, he came to Dublin.

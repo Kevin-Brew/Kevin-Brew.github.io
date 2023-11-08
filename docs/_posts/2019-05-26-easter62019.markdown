@@ -3,6 +3,7 @@ layout: post
 title:  "House of Grace"
 date:   2019-05-26
 blurb: "This sermon discusses the concept of suffering and the desire for healing. It uses the story of a man who had been sick for 38 years and his encounter with Jesus at the Pool of Bethesda as a metaphor for those who feel trapped in their situations, emphasizing the importance of presence and empathy in bringing grace into others' lives."
+og_image: "/assets/img/posts/easter62019.png"
 ---
 [Original PDF](/assets/pdf/easter62019.pdf)    
 You may have heard it said of someone, 'Oh, he/she enjoys bad health.' The implication is that this person rather enjoys the sympathy, the extra attention and even the status conferred on them by their affliction.

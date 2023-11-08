@@ -3,6 +3,7 @@ layout: post
 title:  "Doubt and Faith"
 date:   2020-04-19
 blurb: "In this sermon, Kevin discusses the concept of doubt and faith, using the story of Thomas from the Bible as a reference. He highlights the importance of community and understanding each other's struggles, especially in the face of a global crisis. He encourages his congregation to support each other and stay strong in their faith."
+og_image: "/assets/img/posts/2ofeaster2020.png"
 ---
 [Original PDF](/assets/pdf/2ofeaster2020.pdf)    
 2nd Sunday of Easter – Year A – 2020

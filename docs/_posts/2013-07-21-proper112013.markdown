@@ -3,6 +3,7 @@ layout: post
 title:  "Balance in Life"
 date:   2013-07-21
 blurb: "This sermon, delivered on the 8th Sunday of Trinity in 2013, discusses the importance of balance in life, using the biblical story of Martha and Mary. The speaker emphasizes the need for both action and contemplation, warning against letting the urgent crowd out the important. The sermon also touches on the concept of Sabbath and its relevance in finding space in our busy lives."
+og_image: "/assets/img/posts/proper112013.png"
 ---
 [Original PDF](/assets/pdf/proper112013.pdf)    
 Looking back over the years from my childhood on there have been houses I have loved to go to visit, my grandparents, houses of friends and, after Rachel and I were married, the house of her Auntie 'E'. It was a house of welcome, a cheery welcome whenever I arrived at the door – I soon came to expect the very best of homemade bread, cakes, Ulster fries, Uncle Hugh sitting by the fire with his dry understated humour. 'E' was a bundle of energy, on the go from the moment we arrived until we left making sure your tea cup was always full and your plate never empty. She was, certainly in my book, my favourite among all of Rachel’s aunts and uncles. But sometimes as we drove away we would wish that 'E' would have just sat down and chatted.

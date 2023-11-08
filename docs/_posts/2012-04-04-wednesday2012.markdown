@@ -3,6 +3,7 @@ layout: post
 title:  "Blessed are the Meek"
 date:   2012-04-04
 blurb: "This sermon explores the meaning of the Beatitude 'Blessed are the meek, for they will inherit the earth.' It challenges the common misconception of meekness as weakness, and instead presents it as a virtue of humility, forgiveness, and non-violence. The sermon draws on various biblical texts, including the Servant Songs from Isaiah and the parable of the guests at the banquet from Luke, to illustrate the concept of meekness."
+og_image: "/assets/img/posts/wednesday2012.png"
 ---
 [Original PDF](/assets/pdf/wednesday2012.pdf)    
 Holy Week 2012 – Beatitudes

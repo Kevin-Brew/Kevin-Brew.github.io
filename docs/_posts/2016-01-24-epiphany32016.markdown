@@ -3,6 +3,7 @@ layout: post
 title:  "Epiphany 3 - 2016"
 date:   2016-01-24
 blurb: "In this sermon, Kevin draws parallels between the game of Jenga and the interconnectedness of the Church community. He discusses the importance of compassion, courage, and action, using the example of Aung San Suu Kyi and the Parable of the Good Samaritan. Kevin emphasizes that every person and their gifts are valuable to the Church, and that the community is stronger with everyone's presence."
+og_image: "/assets/img/posts/epiphany32016.png"
 ---
 [Original PDF](/assets/pdf/epiphany32016.pdf)    
 Over the last few years, a feature of our Fete has been the various games overseen by our Youth Clubs that are set up near the entrance. One of these is a large game of Jenga. The game begins with a tower constructed of simple smooth oblong blocks. One by one the players remove the blocks until the removal of one of them causes the tower to collapse.

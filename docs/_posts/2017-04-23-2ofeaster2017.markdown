@@ -3,6 +3,7 @@ layout: post
 title:  "Power of Forgiveness"
 date:   2017-04-23
 blurb: "The sermon discusses the power of forgiveness and the ability to let go of resentments. It emphasizes the teachings of Jesus, who encouraged forgiveness and discouraged holding onto grievances. The sermon also touches on the importance of self-forgiveness and the healing power of Christ's love."
+og_image: "/assets/img/posts/2ofeaster2017.png"
 ---
 [Original PDF](/assets/pdf/2ofeaster2017.pdf)    
 Second Sunday of Easter – Year A – 2017

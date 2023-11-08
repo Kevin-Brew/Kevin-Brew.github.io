@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Albert Cullen"
 date:   2014-03-18
 blurb: "This sermon is a tribute to Albert Cullen, a businessman, sailor, and family man who passed away. It discusses the shock and sadness of loss, the importance of remembering and being thankful for the deceased's life, and the hope and meaning that can be found in faith and love. The sermon also touches on the themes of resilience, the cycle of death and resurrection, and the continuity of life."
+og_image: "/assets/img/posts/Albert Cullen.png"
 ---
 [Original PDF](/assets/pdf/Albert Cullen.pdf)    
 Funeral of Mr Albert Cullen – 18th March 2014 – St Mary’s

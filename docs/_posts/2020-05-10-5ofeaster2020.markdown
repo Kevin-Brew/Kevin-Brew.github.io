@@ -3,6 +3,7 @@ layout: post
 title:  "Guided Journey"
 date:   2020-05-10
 blurb: "This sermon is about finding directions in life with Jesus as our guide. It draws parallels between our spiritual journey and a physical journey, with Jesus as our spiritual 'dragoman' who goes ahead of us to prepare the way. The sermon encourages us to press on towards our ultimate goal of union with Christ, with the understanding that we are all learners on this path of faith."
+og_image: "/assets/img/posts/5ofeaster2020.png"
 ---
 [Original PDF](/assets/pdf/5ofeaster2020.pdf)    
 A number of years ago Rachel and I were in Kathmandu, the capital of Nepal. Kathmandu is a busy, bustling place – lots of noise, lots of traffic and you rarely see any street signs – you look out for landmarks to mark your return journey.

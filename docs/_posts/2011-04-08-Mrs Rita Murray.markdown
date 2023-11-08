@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Rita Murray"
 date:   2011-04-08
 blurb: "This sermon is a tribute to Mrs. Rita Murray, who is remembered for her love, hard work, and love of animals. It reflects on her life, her family, and her faith. The sermon also discusses the concept of mortality and the hope of resurrection, drawing parallels with the Easter season."
+og_image: "/assets/img/posts/Mrs Rita Murray.png"
 ---
 [Original PDF](/assets/pdf/Mrs Rita Murray.pdf)    
 Funeral of Mrs Rita Murray – 8th April 2011

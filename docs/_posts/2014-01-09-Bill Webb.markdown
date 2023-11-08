@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Bill Webb"
 date:   2014-01-09
 blurb: "This sermon is a heartfelt tribute to Bill Webb, a beloved member of the parish who passed away. Kevin speaks of Bill's wisdom, insight, affection for the Parish, loyalty to former clergy, and his welcoming nature. He also highlights Bill's deep faith, his devotion to his family, and his contributions to the Church."
+og_image: "/assets/img/posts/Bill Webb.png"
 ---
 [Original PDF](/assets/pdf/Bill Webb.pdf)    
 Funeral of Bill Webb – 9th January 2014

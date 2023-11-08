@@ -3,6 +3,7 @@ layout: post
 title:  "Journey with Jesus"
 date:   2010-06-27
 blurb: "This sermon discusses the journey of Jesus towards Jerusalem, accompanied by his disciples. It draws parallels between this journey and our own life journey with Jesus, highlighting the challenges and the discoveries made along the way. The sermon emphasizes Jesus' inclusive approach, reaching out to all, and the need for immediate commitment to follow Him."
+og_image: "/assets/img/posts/proper82010.png"
 ---
 [Original PDF](/assets/pdf/proper82010.pdf)    
 Our Gospel passage this morning marks the beginning of a whole new section of St Luke's Gospel that tells of the journey of Jesus towards Jerusalem. It is a journey that is going to reach its climax in the cross and resurrection of Jesus.

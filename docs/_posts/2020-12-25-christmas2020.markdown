@@ -3,6 +3,7 @@ layout: post
 title:  "Light in the Darkness"
 date:   2020-12-25
 blurb: "In the midst of the Covid-19 pandemic, this sermon brings a message of hope and light. Drawing from the Prophet Isaiah and the Gospel of John, it emphasizes that even in times of darkness and uncertainty, God's light shines through. It acknowledges the challenges and fears brought about by the pandemic, but also highlights the acts of kindness and resilience that have emerged."
+og_image: "/assets/img/posts/christmas2020.png"
 ---
 [Original PDF](/assets/pdf/christmas2020.pdf)    
 Back in the 9th century BC, in a time of great national and international uncertainty in the Middle East, the Prophet Isaiah declared:

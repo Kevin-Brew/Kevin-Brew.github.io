@@ -3,6 +3,7 @@ layout: post
 title:  "Advent 1 - Year A"
 date:   2016-11-27
 blurb: "This sermon reflects on the first Sunday of Advent, a time of preparation and anticipation in the Christian calendar. It draws parallels between the American Festival of Thanksgiving and the Christian story, emphasizing the importance of making these stories our own. The sermon also explores the concept of humanity being created in the image of God, and our calling to be active participants in Christ's story."
+og_image: "/assets/img/posts/advent12016.png"
 ---
 [Original PDF](/assets/pdf/advent12016.pdf)    
 Last week saw the American Festival of Thanksgiving, a time at which the American people remember the very early days of the settlers from Britain, the difficulties they had in establishing their communities, a sense of thanks giving when with the gathering of their first harvest. It is a celebration in which Americans make the story of their founding fathers their story.

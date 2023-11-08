@@ -3,6 +3,7 @@ layout: post
 title:  "Feast of Pentecost 2011"
 date:   2011-06-12
 blurb: "In this sermon, Kevin explores the concept of the Holy Spirit and its role in inspiring all that is good in mankind. He discusses how the Holy Spirit enables us to become more like Christ and how our love, concern, and service for one another should mirror Christ's love for us. He emphasizes the intertwining of love and obedience, and how our adherence to what is right should be rooted in love."
+og_image: "/assets/img/posts/pentecost2011.png"
 ---
 [Original PDF](/assets/pdf/pentecost2011.pdf)    
 Feast of Pentecost – 2011 – year A

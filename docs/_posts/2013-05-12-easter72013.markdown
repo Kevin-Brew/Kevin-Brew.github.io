@@ -3,6 +3,7 @@ layout: post
 title:  "The Ascension and Unity"
 date:   2013-05-12
 blurb: "This sermon discusses the concept of Ascension and the unity of the Church. It emphasizes the presence of Christ with us, not limited by time and space but present with us always and everywhere. The sermon also explores the relationships between Jesus, the Father, the disciples, and the world. It concludes with a call for unity in the Church and the importance of love, service, and reconciliation."
+og_image: "/assets/img/posts/easter72013.png"
 ---
 [Original PDF](/assets/pdf/easter72013.pdf)    
 There is a church in the Parish of Ballyrashane in Connor diocese that has an interesting window over the communion table that picks up the theme of the Ascension. It depicts the disciples looking skyward and at the top of the window we just see a pair of feet.

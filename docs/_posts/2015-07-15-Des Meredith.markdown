@@ -3,6 +3,7 @@ layout: post
 title:  "Funeral of Mr Des Meredith"
 date:   2015-07-15
 blurb: "This sermon is a tribute to Mr Des Meredith, who passed away peacefully in St Francis Hospice. It highlights his life, his love for his family, and his zest for life. It also touches on his interests in sports and bridge. The sermon offers comfort and hope, reminding the congregation of the promise of a new Jerusalem, where there will be no more death, mourning, crying, or pain."
+og_image: "/assets/img/posts/Des Meredith.png"
 ---
 [Original PDF](/assets/pdf/Des Meredith.pdf)    
 This morning we have gathered in All Saints Church for the funeral of Mr Des Meredith. Des died peacefully last Sunday in St Francis Hospice here in Raheny with his wife and family at his side. Over the last couple of days there has been sorrow as they begin to come to terms with their loss. There has been remembering and thankfulness – some tears and some laughter.

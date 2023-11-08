@@ -3,6 +3,7 @@ layout: post
 title:  "The Victim"
 date:   2013-03-29
 blurb: "This sermon reflects on the different characters who participated in the first Holy Week, their hopes, ideas, and how Jesus related to them. It particularly focuses on Jesus' crucifixion, seen through the eyes of faith as God acting in power. The sermon emphasizes that 'It is finished' is not a cry of despair but a shout of triumph, signifying the completion of God's intended task."
+og_image: "/assets/img/posts/wereyoutherevictim.png"
 ---
 [Original PDF](/assets/pdf/wereyoutherevictim.pdf)    
 HOLY WEEK 2013 – Good Friday

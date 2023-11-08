@@ -3,6 +3,7 @@ layout: post
 title:  "The Servant King"
 date:   2019-04-18
 blurb: "In this sermon, Kevin reflects on the significance of Jesus washing the disciples' feet and his sacrifice on the cross. He emphasizes the importance of understanding and accepting the grace of Jesus, and following his example of service and humility. The sermon encourages listeners to not only admire Jesus' actions but to embody them in their own lives."
+og_image: "/assets/img/posts/Thursday.png"
 ---
 [Original PDF](/assets/pdf/Thursday.pdf)    
 # HOLY WEEK 2019 – Thursday

@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Leslie Hopkins"
 date:   2012-12-08
 blurb: "This sermon is a tribute to Leslie Hopkins, a man of sharp intellect, faith, and devotion to his family. It reflects on his life, his contributions, and his faith. The sermon also provides comfort and hope in the face of loss, drawing on scripture to provide strength and reassurance."
+og_image: "/assets/img/posts/Leslie Hopkins.png"
 ---
 [Original PDF](/assets/pdf/Leslie Hopkins.pdf)    
 Funeral of Leslie Hopkins – Howth – 8th December 2012

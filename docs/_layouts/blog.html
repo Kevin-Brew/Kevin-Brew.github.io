@@ -17,18 +17,41 @@
             <!-- This loops through the paginated posts -->
             {% for post in paginator.posts %}
                 <div class="card">
-                  <h3><b>{{ post.date | date: "%-m/%-d/%y" }} :: <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
-                      {{ post.title }}
-                </a></b></h3>
-                  {% if post.og_image %}
-                  <img src="{{ post.og_image }}" alt="blog" style="width:100%">
-                  {% endif %}
-                  <div class="container">
-                    {% if post.blurb != true %}
-                    <p>{{ post.blurb}}</p>
-                    {% endif %}
-                  </div>
+                    <h3><b>{{ post.date | date: "%-m/%-d/%y" }} :: <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
+                      {{ post.title }}</a></b></h3>
+
+                <div class="container">
+                    <div class="image-container">
+                        <img src="{{ post.og_image }}" alt="blog" id="hp" onerror="this.style.display='none'"/>
+                    </div>
+                <div class="text-container">
+                    <p>
+                        {{ post.blurb}}
+                    </p>
                 </div>
+            </div>
+        </div>
+
+
+
+
+<!--                <div class="card">-->
+<!--                  <h3><b>{{ post.date | date: "%-m/%-d/%y" }} :: <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">-->
+<!--                      {{ post.title }}-->
+<!--                </a></b></h3>-->
+
+<!--                  <div class="container">-->
+
+<!--                    {% if post.blurb != true %}-->
+<!--                    <p>-->
+<!--                        {% if post.og_image %}-->
+<!--                        <img src="{{ post.og_image }}" alt="blog" id="hp">-->
+<!--                        {% endif %}-->
+<!--                        -->
+<!--                    </p>-->
+<!--                        {% endif %}-->
+<!--                  </div>-->
+<!--                </div>-->
             {% endfor %}
             </p>
 

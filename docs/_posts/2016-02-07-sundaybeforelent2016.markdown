@@ -3,6 +3,7 @@ layout: post
 title:  "The Music of Eternity"
 date:   2016-02-07
 blurb: "This sermon discusses the importance of finding a quiet place to worship and connect with God. It emphasizes the transformative power of God's presence and how it can help us to both see and reflect the Lord's glory. The sermon also encourages us to step back from the noise of the world and tune into the music of eternity."
+og_image: "/assets/img/posts/sundaybeforelent2016.png"
 ---
 [Original PDF](/assets/pdf/sundaybeforelent2016.pdf)    
 Sunday before lent – 2016 – year C

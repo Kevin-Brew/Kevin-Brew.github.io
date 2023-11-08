@@ -3,6 +3,7 @@ layout: post
 title:  "Ash Wednesday 2014"
 date:   2014-03-05
 blurb: "This sermon discusses the human emotion of guilt and its potential to be a positive influence in challenging behaviors and attitudes. It also talks about the debilitating effects of unresolved guilt. The sermon uses Psalm 51, associated with David's guilt over his affair with Bathsheba, to illustrate the idea of new beginnings built on honesty before God."
+og_image: "/assets/img/posts/ashwednesday2014.png"
 ---
 [Original PDF](/assets/pdf/ashwednesday2014.pdf)    
 ASH WEDNESDAY 2014

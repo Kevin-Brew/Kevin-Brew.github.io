@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Kay Bishop"
 date:   2021-05-14
 blurb: "This sermon was given at the funeral of Mrs. Kay Bishop, a beloved member of the parish. The speaker recalls Kay's warm welcome, her strong faith, and her resilience in the face of loss. The sermon invites everyone to remember Kay and give thanks for her life."
+og_image: "/assets/img/posts/Kay Bishop.png"
 ---
 [Original PDF](/assets/pdf/Kay Bishop.pdf)    
 One of my memories of my first Sunday in this Parish was of being warmly greeted at the end of the service by a delightful couple, both speaking with West Midlands accents, Maurice and Kay Bishop. I could have been back home in Birmingham. Maurice even supported Birmingham City though I’m afraid Kay supported Leicester.

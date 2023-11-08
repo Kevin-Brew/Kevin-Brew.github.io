@@ -3,6 +3,7 @@ layout: post
 title:  "Journey of Faith"
 date:   2021-02-28
 blurb: "In this sermon, Kevin reflects on the journey of faith, using the story of Abraham as a metaphor. He discusses the challenges and doubts that can arise along the way, and the importance of trust and patience in God's timing. He also draws parallels between Abraham's journey and the path of self-sacrifice that Jesus calls his disciples to follow."
+og_image: "/assets/img/posts/lent22021.png"
 ---
 [Original PDF](/assets/pdf/lent22021.pdf)    
 I recall some years ago having a longstanding problem in my last Parish that I was afraid was going to end in conflict and pain, not only for myself but also for the individual involved – this was a person who had offered many years of service to the Parish in the past. Without going into detail, the matter resolved itself over a relatively short period of time and we moved on, remaining on very good terms.

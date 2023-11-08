@@ -3,6 +3,7 @@ layout: post
 title:  "Funeral of Mrs Madge O'Neill"
 date:   2015-01-12
 blurb: "This sermon was delivered on the occasion of the funeral of Mrs Madge O'Neill, a beloved member of the Howth community. The sermon reflects on her life, her contributions to the community, her faith, and her family. The sermon also addresses the challenges of aging and dementia, and offers a message of hope and immortality."
+og_image: "/assets/img/posts/Mrs Madge O,Neill.png"
 ---
 [Original PDF](/assets/pdf/Mrs Madge O,Neill.pdf)    
 Funeral of Mrs Madge O’Neill – 12th January 2015

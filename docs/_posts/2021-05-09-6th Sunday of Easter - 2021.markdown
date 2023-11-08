@@ -3,6 +3,7 @@ layout: post
 title:  "Love One Another"
 date:   2021-05-09
 blurb: "The sermon delivered on the 6th Sunday of Easter in 2021, emphasizes the importance of love and fellowship in Christian faith. It highlights the teachings of John, the beloved disciple, and his simple command, 'Little children, love one another.' The sermon also explores the concept of communion and the significance of worship in Christian life."
+og_image: "/assets/img/posts/6th Sunday of Easter - 2021.png"
 ---
 [Original PDF](/assets/pdf/6th Sunday of Easter - 2021.pdf)    
 There are a number of stories surrounding the lives of the various disciples after the death and resurrection of Jesus. Some are obvious the stuff of legend, others one likes to think at least have their origins in the lives of these very ordinary, extraordinary men whom Jesus called to follow, to continue his work.

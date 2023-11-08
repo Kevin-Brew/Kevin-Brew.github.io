@@ -3,6 +3,7 @@ layout: post
 title:  "Creation's Purpose"
 date:   2021-02-07
 blurb: "In this sermon, Kevin explores the theme of creation and its purpose. He recalls how his journey to faith began in physics classes, where he pondered the order and purpose in the universe. He discusses the teachings of French theologian, Teilhard de Chardin, and the Apostle Paul, both of whom saw a progression and purpose in creation. Kevin emphasizes that our care for the world and for each other are integral parts of our worship and response to God's love."
+og_image: "/assets/img/posts/2bflent2021.png"
 ---
 [Original PDF](/assets/pdf/2bflent2021.pdf)    
 As I read over the lessons appointed for this Second Sunday before Lent, with a theme of creation running through them, my mind went back to my school days, and my 'A' level Physics master, Howard Stockley. People are often surprised when I say that my journey to faith began in Howard’s physics classes. I recall one particular afternoon, Howard had been talking about gravity, the part it plays in the ordered movements of the planets around the sun, the movement of stars in the galaxies. Howard, a devout Christian, suddenly stopped and looked around us and said; 'And don’t tell me that this is all a bloody accident!' Like most of my fellow classmates, I had at that time showed no interest in faith. I look back to that afternoon, a time when Howard got me thinking about the idea of creation having a purpose, a direction.

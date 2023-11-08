@@ -3,6 +3,7 @@ layout: post
 title:  "Suffering and God's Love"
 date:   2017-04-14
 blurb: "This sermon explores the question of where God is in the midst of suffering. Drawing from the experiences of the world and personal stories, it emphasizes the deep love of God that is present even in times of great pain and loss. The sermon also highlights the power of faith and hope in overcoming despair."
+og_image: "/assets/img/posts/Good Friday.png"
 ---
 [Original PDF](/assets/pdf/Good Friday.pdf)    
 One of the features of the modern television news bulletin is that we are confronted on a daily basis with the reality of suffering in the world of today. We have witnessed the brutality of the street to street battle for the city of Mosul. The horrific effects of poison gas on men, women and children were brought into our living rooms. Then closer to home we have had the tragic loss of four members of the Irish Coast Guard, failing to return from a mission to rescue others.

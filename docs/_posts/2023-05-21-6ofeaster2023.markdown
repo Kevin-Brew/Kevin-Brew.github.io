@@ -3,6 +3,7 @@ layout: post
 title:  "Intertwining of Love and Obedience"
 date:   2023-05-21
 blurb: "In this sermon, Kevin explores the concept of love and obedience, drawing parallels between our relationships with pets and our relationship with God. He emphasizes the role of the Holy Spirit in inspiring goodness and enabling us to become more like Christ. The sermon encourages us to spend more time with Christ, seek His presence, and respond to His self-giving love."
+og_image: "/assets/img/posts/6ofeaster2023.png"
 ---
 [Original PDF](/assets/pdf/6ofeaster2023.pdf)    
 It has often been said that pets become more and more like their owners – or is it the other way round? Whichever way you take it, what is meant is that the long-term association, the long-term companionship has its effect in affecting one party or the other.

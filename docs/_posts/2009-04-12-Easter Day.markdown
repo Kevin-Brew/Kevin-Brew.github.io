@@ -3,6 +3,7 @@ layout: post
 title:  "Easter Day 2009"
 date:   2009-04-12
 blurb: "The sermon on Easter Day 2009 focuses on the theme of resurrection and the movement between the Upper Room and the tomb. It explores the journey from despair, through confusion, to faith. The sermon emphasizes that resurrection is more than just resuscitation; it's about the living presence of Christ, who understands human suffering and offers hope and purpose."
+og_image: "/assets/img/posts/Easter Day.png"
 ---
 [Original PDF](/assets/pdf/Easter Day.pdf)    
 The Easter story, the story of Mary Magdalene going to the tomb and finding it empty is one of the most familiar of all the Bible stories. The theme of resurrection lies at the heart of our Christian faith.

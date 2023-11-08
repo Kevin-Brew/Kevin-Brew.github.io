@@ -3,6 +3,7 @@ layout: post
 title:  "Journey with God"
 date:   2014-05-04
 blurb: "The sermon discusses the journey of life with God, using the metaphor of planning a holiday. It emphasizes that God is always with us, listening to us in gentle understanding, and speaking to us in the quiet places of our hearts. The sermon is given in the context of a baptism, marking the beginning of a lifelong journey with God."
+og_image: "/assets/img/posts/3ofeaster2014.png"
 ---
 [Original PDF](/assets/pdf/3ofeaster2014.pdf)    
 Rachel and I are currently in the process of planning our holiday. We have booked our passage on the ferry – we know when we are leaving and we when we are coming back. We are now in the process of planning the journey – what route are we taking, where are we going to stop, what do we want to see and do along the way. Then of course, what preparations are we going to have to make? We need to check the car, the caravan. We have to arrange insurance. Whatever preparations we make, a journey always involves an element of the unexpected, whether good or bad.

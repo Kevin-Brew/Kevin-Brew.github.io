@@ -3,6 +3,7 @@ layout: post
 title:  "From Cheers to Jeers"
 date:   2014-04-14
 blurb: "This sermon reflects on the change in mood during the week before Passover, from Jesus' enthusiastic entry into Jerusalem to his death on Calvary. It follows the journey through the eyes of St John, beginning six days before the Passover in the house of Lazarus. The sermon highlights the extravagant expressions of gratitude and love shown by Mary and the acceptance of Jesus, emphasizing the importance of sincerity, gratitude, and love in our offerings of worship and service."
+og_image: "/assets/img/posts/From Cheeers to Jeers - Monday - annointing.png"
 ---
 [Original PDF](/assets/pdf/From Cheeers to Jeers - Monday - annointing.pdf)    
 HOLY WEEK 2014 – From Cheers to Jeers

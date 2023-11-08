@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Wesley Bell"
 date:   2019-12-04
 blurb: "This sermon was given at the funeral of Wesley Bell, a beloved member of the community. The sermon reflects on Wesley's life, his love for teaching, and his strong moral compass. It also acknowledges his imperfections, making him a relatable and human figure. The sermon ends with a prayer for peace for Wesley's family."
+og_image: "/assets/img/posts/Wesley Bell.png"
 ---
 [Original PDF](/assets/pdf/Wesley Bell.pdf)    
 Funeral of Wesley Bell – 4th December 2019 – St George’s Church, Belfast

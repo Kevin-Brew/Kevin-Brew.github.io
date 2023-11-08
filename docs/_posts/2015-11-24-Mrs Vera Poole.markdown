@@ -3,6 +3,7 @@ layout: post
 title:  "Remembering Vera Poole"
 date:   2015-11-24
 blurb: "This sermon, delivered at the funeral of Mrs. Vera Poole, reflects on her life, her faith, and the impact she had on her community. The sermon emphasizes the importance of faith in life and how it brings peace and contentment. It also encourages the congregation to reflect on their own spiritual lives and relationships with God."
+og_image: "/assets/img/posts/Mrs Vera Poole.png"
 ---
 [Original PDF](/assets/pdf/Mrs Vera Poole.pdf)    
 One of my first visits after I arrived in Howth was to the house of Harry and Vera Poole in Clontarf. Harry was not well at that stage but Harry and Vera made of point of getting to Church as often as they possible could. It was the habit of a lifetime that was learned growing up in rural Ireland. Church, membership, worship were important to them both.

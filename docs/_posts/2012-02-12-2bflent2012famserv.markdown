@@ -3,6 +3,7 @@ layout: post
 title:  "The Universe and Us"
 date:   2012-02-12
 blurb: "This sermon focuses on our place in the universe and God's care for us. It explores the vastness of the universe, the beauty of life on Earth, and the intricate details of our own bodies. It emphasizes that not only does God create, but He also cares deeply for His creation, including us in all our goodness and badness."
+og_image: "/assets/img/posts/2bflent2012famserv.png"
 ---
 [Original PDF](/assets/pdf/2bflent2012famserv.pdf)    
 2nd Sunday before Lent – 2012 – year B - Family Service

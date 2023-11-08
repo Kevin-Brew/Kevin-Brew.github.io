@@ -3,6 +3,7 @@ layout: post
 title:  "The Gift of Prophecy"
 date:   2010-01-31
 blurb: "This sermon discusses the spiritual gift of prophecy, often misunderstood as foretelling the future. It emphasizes that prophecy is about seeing events and people as God sees them, recognizing the significance of events, and declaring this to those who listen. It also highlights the importance of love in the Christian faith, without which all other gifts are meaningless."
+og_image: "/assets/img/posts/Epiphany 4 - 2010.png"
 ---
 [Original PDF](/assets/pdf/Epiphany 4 - 2010.pdf)    
 Over the last two weeks we have been reflecting on spiritual gifts, their variety and place within the life of the Church. One of those that frequently appears in the lists of spiritual gifts is that of prophecy.

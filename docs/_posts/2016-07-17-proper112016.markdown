@@ -3,6 +3,7 @@ layout: post
 title:  "The Image of the Invisible God"
 date:   2016-07-17
 blurb: "This sermon explores the concept of Jesus as the 'image of the invisible God', as described in Colossians 1:15. It delves into the complex relationship between Jesus and God, and the idea of understanding and comprehending the divine. The sermon also discusses the role of icons in religious art and spirituality, and the idea of Christ within us."
+og_image: "/assets/img/posts/proper112016.png"
 ---
 [Original PDF](/assets/pdf/proper112016.pdf)    
 PROPER 11 – YEAR C – 2019 – Trinity 4 – Christ Church Cathedral

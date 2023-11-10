@@ -27,7 +27,7 @@ def create_image(prompt, outpath):
         file.write(data.content)
 
 
-def getDALLEPrompt(json_object) -> str:
+def getSummaryAndRational(json_object) -> str:
     import openai
     openai.api_key = os.getenv("OPENAI_API_KEY")
     from openai import OpenAI
@@ -39,45 +39,16 @@ def getDALLEPrompt(json_object) -> str:
         model="gpt-4-1106-preview",
         messages=[
             {
-                "role": "system",
-                "content": "Given a user context which will be a sermon or speech, call the create_dalle_prompt function. The function takes 4 paramters. Extract up to the top 3 main concepts from the user context. In the first parameter main_concepts send a map of concept_title mapped to a concept_summary of how the concept is discussed in the user context. " +
-                "In the second parameter selected_concept send which of the main concepts could best best used to create a non religous pencil drawing that does not depict scenes of war or conflict." +
-                "In the third paramter rational_for_selection provide the reason why you chose that concept." 
-                "In the forth parameter image_prompt using the selected concept one detailed prompt that can then be send to DALLE-3 to create a non religous pencil diagram that contains no text image for that selected concept. Do not create prompts that will generate images depicting scenes of war or conflict due to content policy restrictions."
+                "role": "user",
+                "content": "I want you to extract the top 4 concepts from a sermon I will paste. I want you to then select the concept that you best think can be graphically represented as non religious black and white pencil digram no text only images. Create one detailed prompt that can then be used in DALLE-3 to create an image for that concept.\n\nYou will not be able to generate images depicting scenes of war or conflict due to content policy restrictions.\n"
+            },
+            {
+                "role": "assistant",
+                "content": "Please paste the sermon text here, and I'll analyze it to extract the top 4 concepts. Once we have those concepts, we can proceed to select one that is suitable for a non-religious graphical representation and create a detailed prompt for DALL-E 3."
             },
             {
                 "role": "user",
                 "content": text
-            }
-        ],
-        functions=[
-            {
-                "name": "create_dalle_prompt",
-                "description": "send enumerated core lessons, rational for selection, and dalle3 prompt to",
-                "parameters": {
-                    "type": "object",
-                    "properties": {
-                        "main_concepts": {
-                            "type": "object",
-                            "description": "the top 4 concepts the sermon",
-                            "additionalProperties": {
-                                "type": "string"
-                              }
-                        },
-                        "selected_concept": {
-                            "type": "string",
-                            "description": "the key of the main_concept selected to be turned into a image prompt"
-                        },
-                        "rational_for_selection": {
-                            "type": "string",
-                            "description": "why the concept was chosen to create a image prompt"
-                        },
-                        "image_prompt": {
-                            "type": "string",
-                            "description": "why the concept was chosen to create a image prompt"
-                        }
-                    }
-                }
             }
         ],
         temperature=0.31,
@@ -86,20 +57,56 @@ def getDALLEPrompt(json_object) -> str:
         frequency_penalty=0,
         presence_penalty=0
     )
-    try:
-        s = str(response.choices[0].message.function_call.arguments)
-        json_object = json.loads(s)
-        print(json.dumps(json_object, indent=4))
-        return json_object
-    except JSONDecodeError as e:
-        print(str(response))
-        json_object = {}
-        json_object["base"] = str(response.choices[0].message.function_call.arguments)
-        return json_object
+
+    s = str(response.choices[0].message.content)
+    return s
 
 
+def getDALLEPrompt(text) -> str:
+    import openai
+    openai.api_key = os.getenv("OPENAI_API_KEY")
+    from openai import OpenAI
 
+    client = OpenAI()
+    response = client.chat.completions.create(
+        model="gpt-4-1106-preview",
+        messages=[
+            {
+                "role": "system",
+                "content": "From the provided summary and prompt provided from DALLE-3 extract the prompt without modification and pass it to the function generate"
+            },
+            {
+                "role": "user",
+                "content": text
+            }
+        ],
+        functions=[
+            {
+                "name": "generate",
+                "description": "takes a dalle-3 prompt and generates",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "prompt": {
+                            "type": "string",
+                            "description": "the prompt to call dalle-3"
+                        }
+                    }
+                }
+            }
+        ],
+        temperature=0.01,
+        max_tokens=1000, #remaining_tokens,
+        top_p=1,
+        frequency_penalty=0,
+        presence_penalty=0
+    )
 
+    s = str(response.choices[0].message.function_call.arguments)
+    json_object = json.loads(s)
+    json_object["summary"] = text
+    print(json.dumps(json_object, indent=4))
+    return json_object
 
 
 if __name__ == "__main__":
@@ -133,14 +140,15 @@ if __name__ == "__main__":
         if overwrite or not exists_already:
             print(f"---> Writing {out_path}")
 
-            prompt = getDALLEPrompt(json_object)
+            s = getSummaryAndRational(json_object)
+            prompt = getDALLEPrompt(s)
             head_data = merge(json_object, prompt)
 
             # write the meta data
             with open(json_file_path, 'w') as file:
                 json.dump(head_data, file, indent=4)
 
-            create_image(prompt["image_prompt"], out_path)
+            create_image(prompt["prompt"], out_path)
 
     else:
         print("Unsupported file format.")

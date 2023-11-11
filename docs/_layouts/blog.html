@@ -13,18 +13,16 @@
             {% include search-form.html %}
 
 
-    {% for tag in page.tags %}
-
-    {% endfor %}
-
-
             {% include archive.html %}
-<!--            <div class="tag-pills">-->
-<!--            {% assign sorted_tags = site.tags | sort %}-->
-<!--                {% for tag in sorted_tags %}-->
-<!--                <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify }}" class="tag-pill">{{ tag[0] }} ({{ tag[1].size }}) </a>-->
-<!--            {% endfor %}-->
-<!--            </div>-->
+            <br>
+
+            <div class="tag-pills">
+            {% assign sorted_tags = site.tags | sort %}
+                {% for tag in sorted_tags %}
+                <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify }}" class="tag-pill">{{ tag[0] }} ({{ tag[1].size }}) </a>
+            {% endfor %}
+            </div>
+
 
             {{ content }}
 

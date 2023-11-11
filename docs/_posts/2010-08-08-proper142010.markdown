@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper142010.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper142010.pdf)
+
 Family Eucharist
 
 One aspect of my ministry I have always enjoyed is the chance it gives me to get into Primary schools – to get to meet the youngsters and their teachers. In our sophisticated age, at times it is good to look at things through the eyes of a child, to sense the wonder, the excitement at things we adults so often take for granted. You can sense it in some of the songs they sing in Assembly. Adults tend to be a bit sniffy about hymns like 'If I were a butterfly' but there is a sense there of all creation praising God. Is it that different from the Canticle Benedicite with its invocation:

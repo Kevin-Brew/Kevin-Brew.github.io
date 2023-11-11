@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent12011.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent12011.pdf)
+
 ADVENT 1 – year B – 2011
 
 Periodically in the course of visiting I am asked, ‘Do you get many weddings these days?’ As it turns out, so far this autumn I have been involved in preparing for five weddings – both here in St Mary’s and in other Parish Churches. The last one was only yesterday. Each of these has been very different but each has involved preparation, a sense of anticipation, a sense of excitement and celebration. For each has marked a life changing encounter between two people as two lives, two sometimes very different personalities, two life histories have come together.

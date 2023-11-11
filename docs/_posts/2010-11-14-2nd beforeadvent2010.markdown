@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/2nd beforeadvent2010.png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/2nd beforeadvent2010.pdf)
+
 Last Sunday, when Paul Hoey of Church 21, the Church of Ireland Parish Development programme, was with us, he was challenging us to reflect on how we see ourselves as a Church. As he reflected on Jesus’ washing of his disciples’ feet, he focussed on a vocation of service, ourselves as a servant community, serving Christ, serving others in the name of Christ.
 
 In the course of his sermon and in conversation with a group after the service, he spoke of the need for a church, a community to develop a vision for itself. But before that we need a clear understanding of our values as a community. Vision, values – these can all too easily remain as fairly nebulous terms. During the week I was turning over in my mind what do we understand by ‘values’.

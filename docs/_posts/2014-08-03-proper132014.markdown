@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper132014.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper132014.pdf)
+
 PROPER 13 – 2014 – YEAR A – Trinity 7
 
 One of the subjects that I enjoyed studying at school was history. The history of any country or society is a combination of an account of a sequence of events and a reflection on the people and events that shaped those events. Whenever the history of a nation comes to be written, certain individuals stand out as crucial.

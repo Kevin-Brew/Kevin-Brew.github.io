@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/pentecost2019famserv.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/pentecost2019famserv.pdf)
+
 PENTECOST 2019 – Family Service – Year C – 2019
 
 Who are our heroes – who inspires us – I only I could play like ….

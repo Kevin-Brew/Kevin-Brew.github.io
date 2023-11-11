@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Lee Siwon and Shin Jin Hee (S Korea) - Wedding Bles
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Lee Siwon and Shin Jin Hee (S Korea) - Wedding Blessing.pdf)
+
 Blessing of Marriage of Lee Siwon and Shin Jin Hee – 4th June 2014
 
 Siwon, it is a pleasure to welcome you back to St Mary’s. During your time living with Alison you were part of the Church, the Body of Christ in this place. It is with great joy that we welcome you today as you return with your beautiful wife Jin Hee to ask God’s blessing on your marriage.

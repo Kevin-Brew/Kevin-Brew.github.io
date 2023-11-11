@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany12013.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany12013.pdf)
+
 1st Sunday after the Epiphany – 2013 – year C
 
 As I was reading through the Irish Times on Friday, I came across an article speculating as to whether this coming year is going to be one of the hottest on record. We have an endless fascination with the weather. Of course if you lived in Australia or the south west of England such interest in future trends is only too understandable in the face of the extremes of the weather. Our Psalm this morning is obviously inspired by the whole phenomenon of lightening, the sudden flash of lightening, the clap of thunder that seems to come out of the blue. There is something really impressive about lightening – the electrical energy released is massive and can cause huge damage to trees and buildings. This sort of power is obviously on the mind of the writer of Psalm 29.

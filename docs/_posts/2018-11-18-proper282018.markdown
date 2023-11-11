@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper282018.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper282018.pdf)
+
 ## PROPER 28 – 2018 – Year B – 2nd Sunday before Advent
 
 Today, at our 11 o'clock service we are welcoming a young child into the fellowship of the Church in Baptism. This coming week, I will be meeting with young people who are considering taking the next step at Confirmation. If Baptism is about beginning, then Confirmation is about continuing and taking responsibility for oneself.

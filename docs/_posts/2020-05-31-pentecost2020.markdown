@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/pentecost2020.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/pentecost2020.pdf)
+
 PENTECOST – Year A – 2020
 
 Almighty God, who on the day of Pentecost sent your Holy Spirit to the apostles with the wind from heaven and in tongues of flame, filling them with joy and boldness to preach the gospel: By the power of the same Spirit strengthen us to witness to your truth and to draw everyone to the fire of your love.

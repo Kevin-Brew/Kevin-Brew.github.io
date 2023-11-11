@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Matt and Jenni - Nov 2017.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Matt and Jenni - Nov 2017.pdf)
+
 First of all could I say what a delight and privilege it is for me to be here as we celebrate the wedding of Jenni and Matt. Of course weddings are occasions of joy, of celebration – they are also occasions of great hope and confidence, of trust and commitment to the future.
 
 In a time when commitments of any sort are often seen as short term, as long as it suits, we’ll see what else comes along, marriage, as a life long commitment to each other, to stand by each other, alongside each other through whatever comes along is a wonderful sign to a wider world.

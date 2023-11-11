@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany22018family.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany22018family.pdf)
+
 2nd Sunday of Epiphany – year B – 2018 – Family Service
 
 'Disciples - Following in the footsteps of Jesus’

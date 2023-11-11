@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/4ofeaster2011.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/4ofeaster2011.pdf)
+
 One of features of our Anglican worship is the use of what we call the Collect. These are Short prayers, some of which are the same every week and others are what we call the Collect of the Day. These are short prayers that are designed to draw our thoughts together, to give a focus to prayer; often, but not always, highlighting one or more of the themes of the lessons set for that particular Sunday.
 
 Some of these are very ancient, dating back to the very early years of the church, some date from the Reformation and the pen of Cranmer, a few date from the last century, written when the prayer book was revised at time of the Disestablishment of the Church of Ireland. The rise of modern liturgies has brought more collects into being though many lack the elegance and dignity of their predecessors.

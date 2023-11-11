@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper112013.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper112013.pdf)
+
 Looking back over the years from my childhood on there have been houses I have loved to go to visit, my grandparents, houses of friends and, after Rachel and I were married, the house of her Auntie 'E'. It was a house of welcome, a cheery welcome whenever I arrived at the door – I soon came to expect the very best of homemade bread, cakes, Ulster fries, Uncle Hugh sitting by the fire with his dry understated humour. 'E' was a bundle of energy, on the go from the moment we arrived until we left making sure your tea cup was always full and your plate never empty. She was, certainly in my book, my favourite among all of Rachel’s aunts and uncles. But sometimes as we drove away we would wish that 'E' would have just sat down and chatted.
 
 Auntie 'E' came to my mind as I read over our Gospel reading for today. 'E' was certainly one of the Martha’s of this world – they both demonstrated a generosity of spirit in the welcome they gave to anyone coming into their home. But as we read the text of the Gospel closely, we begin to detect an irritation and an impatience in poor Martha as she rushes around the place getting everything ready while Mary just sits around listening to Jesus.

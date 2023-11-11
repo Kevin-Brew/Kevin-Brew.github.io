@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper172011.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper172011.pdf)
+
 Proper 17 – 2011 – year A – Trinity 10
 
 Today, in the course of this Service of Baptism, I will go up to each of these children and will make the sign of the Cross on their foreheads and say:

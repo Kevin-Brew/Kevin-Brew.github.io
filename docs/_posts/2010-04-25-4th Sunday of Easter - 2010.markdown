@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/4th Sunday of Easter - 2010.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/4th Sunday of Easter - 2010.pdf)
+
 4th Sunday of Easter – year C – 2010
 
 My sheep hear my voice. I know them, and they follow me. John 10:27

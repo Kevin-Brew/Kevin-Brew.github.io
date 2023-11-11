@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Bud Bryce.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Bud Bryce.pdf)
+
 We have come here today to remember with thanksgiving Bud Bryce, husband, father, grandfather, firm friend and of course pilot. Bud was born in Canada and served in the Royal Canadian Air Force. Following on that he moved into civil aviation in Canada. Then, at a time when Aer Lingus were expanding into the transatlantic routes, along with a number of compatriots, he came to Dublin.
 
 He told me not so long ago that a move back to Canada was postponed by a meeting with Gowan Jeffares and the rest, as he said with that wry smile, was history. Here they established their home and family, rearing their three boys David, Andrew and Richard.

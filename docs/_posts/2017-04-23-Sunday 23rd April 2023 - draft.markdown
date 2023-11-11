@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Sunday 23rd April 2023 - draft.png"
 tags: Church_of_Gaurdian_Spirit Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Sunday 23rd April 2023 - draft.pdf)
+
 3rd Sunday of Easter – 2017 –year A
 
 “We had hoped ....” Words to a stranger on the road; words spoken by someone for whom life had turned sour, whose dreams had been shattered, who was getting out of town. Over these last three Sundays, beginning on Easter Day, we have been reading from the Gospel accounts of the resurrection of Jesus from the dead. Living as we are some 2000 years after the events, we celebrate Easter as a day of triumph, as one of undiluted joy. But as we read the Gospels, we need to remind ourselves that this was not the first reaction of the disciples. On Easter Day the women bring the news that the tomb is empty – that initially only adds to their confusion. Has someone, not content with killing Jesus, now vandalised the grave. Then there was the appearance in the Upper Room, doors locked for fear. But Thomas wasn’t there – when the other disciples tell him, he just cannot believe it. In each of these cases, it is not news of the Empty Tomb that changes them – it is an encounter with the Risen Christ.

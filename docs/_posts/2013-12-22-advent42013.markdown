@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent42013.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent42013.pdf)
+
 This time of year will find many of us at Dublin Airport waiting. Waiting for relatives and friends who are making a trip home for the Christmas Season. As we wait, we may recognise others there for the same reason. 'Who are you waiting for?' 'Is it long since they have been home?' 'Where are they living now?'
 
 There is that sense of anticipation as we watch the arrivals board. What flight are they on? What airport are they flying out of? Can you see if the flight is on time, or has it been delayed? Has the plane landed yet? Then once the flight has landed there is that interminable wait at the arrivals gate as passengers stream through. One by one people are recognised, hugs are exchanged, children are gathered up in the arms of uncles, aunts, grandparents.

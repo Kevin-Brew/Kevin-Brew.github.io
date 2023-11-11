@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter2023 - alternative.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter2023 - alternative.pdf)
+
 'Rector, I'm not sure what I believe anymore.' Many is the time that I have heard that comment in the privacy of someone's home. People will have come to that position for a number of reasons. It could be trauma or bereavement, or serious illness in themselves or in someone they love. Or perhaps news of some terrible natural disaster leaving many innocents suffering or dead. Or it may be just simply the spark has gone out of living, out of faith.
 
 That remark, and many like it, come to mind as I read our Gospel reading for today with the story of the hapless Thomas, wanting to believe and yet afraid to believe. 'Unless I see the mark of the nails in his hands … I will not believe.' And of course, he has been stuck with the title 'Doubting Thomas' ever since. I must admit a certain affinity to poor Thomas, an affinity I would suspect many of us share in our darker moments of faith as we make our own struggle between doubt and faith.

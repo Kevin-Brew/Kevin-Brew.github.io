@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Jack Maguinness.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Jack Maguinness.pdf)
+
 Funeral of Mr. Jack Maguinness – 15th March 2010
 
 We have come here this morning to remember with thanksgiving and affection a remarkable man. Jack Maguinness, apart from a short time in the North during the war, spent his whole life here on the peninsula, having worked as gardener in several of the big houses around the Bailey, finishing up in the home of Mrs. Jennifer Guinness.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper112015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper112015.pdf)
+
 PROPER 11 – 2015 – year B – Trinity 7
 
 Over the summer months there are many visitors who come to Ireland. Among these are visitors who come from North America, from Australia and New Zealand. Many come not only to visit the areas their forebears grew up in but also to discover something about their ancestors, who they were, what their background was. There is a search for identity beyond what they work at, the money they earn, the car they drive.

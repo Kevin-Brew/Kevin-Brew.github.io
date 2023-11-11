@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper72020.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper72020.pdf)
+
 PROPER 7 – Year A – 2020 Trinity 2
 
 Lord, you have taught us that all our doings without love are nothing worth: send your Holy Spirit and pour into our hearts that most excellent gift of love, the true bond of peace and of all virtues, without which whoever lives is counted dead before you. Grant this for your only Son Jesus Christ’s sake.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Roderick O_Dowd - 4th Jan 2023.png"
 tags: Conor_Diocese Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Roderick O_Dowd - 4th Jan 2023.pdf)
+
 Funeral of Roderick O’Dowd – 3rd January 2023 – Brown’s Funeral Parlour
 
 Christmas is normally a time of coming together, of meeting up, of exchange of gifts. But for the O’Dowd family this Christmas has been a time of loss, of separation as Roderick died quite suddenly just before Christmas.

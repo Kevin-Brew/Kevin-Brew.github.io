@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper142023 - prayers.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper142023 - prayers.pdf)
+
 Trusting in our faithful God, let us pray.
 
 Faithful God, we pray for the gift of deeper faith in you, so that we trust you in a way that alters our dependence on everything else, and allows us a deeper vision as to the direction and role of the church. We pray for this diocese, for George our Bishop and for Arlene our rector. Remind us that it is your church, and not ours; your work, your power and your Kingdom. Lord in your mercy; hear our prayer.

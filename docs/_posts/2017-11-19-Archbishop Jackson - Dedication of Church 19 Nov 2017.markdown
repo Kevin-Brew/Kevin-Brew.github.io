@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Archbishop Jackson - Dedication of Church 19 Nov 20
 tags: 
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Archbishop Jackson - Dedication of Church 19 Nov 2017.pdf)
+
 Service of Thanksgiving for St Mary’s Church Howth on Sunday 19th November 2017, The Second Sunday before Advent. Psalm 127: Unless the Lord builds the house, those who built in labour in vain.
 
 I wish to thank the rector The Reverend Canon Kevin Brew and all members of this parish along with the architect and the builder for the work completed in St Mary’s to such a high standard. This work we cherish and it is a mark of your respect and love for this pace and for all that happens in it and flows from it. You have done good things here and I wish to encourage you to continue to develop this initiative and this energy and this openness to others and to change for the future.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/palmsunday2016familyservice.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/palmsunday2016familyservice.pdf)
+
 Last Tuesday morning I called down for a special event in the Burrow School. It was Proclamation Day – in common with Schools across the country they had a simple ceremony of raising the flag, singing the National Anthem and a reading of the 1916 Proclamation. Then members of 6th Class read out their 2016 Proclamation, their own vision of the Ireland they will live and work in – there were wonderful themes of inclusion, of respect, of pride in their country. So it was a time of remembering events that lie at the core of the foundation of the State and a vision of the Ireland they would like to see.
 
 This coming week is Holy Week. It is a week in which we remember events at the very core of our faith – the death and resurrection of Jesus. Jerusalem at the time of Jesus was firmly under Roman rule. People looking for a leader, a Messiah, a liberator. When Jesus was cheered as he entered Jerusalem, he was welcomed as a hero – could this be the Messiah, could this be the liberator? Less than a week later he was jeered as he was lead out of the city to be crucified.

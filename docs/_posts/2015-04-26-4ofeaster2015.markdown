@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/4ofeaster2015.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/4ofeaster2015.pdf)
+
 4th Sunday of Easter – 2015 – Year B
 
 As we move through the Easter season our Gospel readings shift from those which tell of his resurrection appearances to passages from John’s account of the Last Supper. These passages include material that is unique to John’s Gospel. In these Jesus shares with his disciples insights as to who he is. Not who he is as son of Joseph and Mary, nor even as the teacher and healer they have followed through Galilee; rather these passages speak of who he is in relation to the Father and to the continuing Church community.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany22016.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany22016.pdf)
+
 We are now moving into election mode both here and in the United States. Parties are already testing the water on what sort of campaign posters will be acceptable and which ones will just blow up in their faces – what is seen as simply negative campaigning and what is making a fair point. What is empty rhetoric and what is sound argument. What it comes down to is we are looking for leaders, who will be the best people to guide us through the next five years, or however long the next Dail survives.
 
 One word that often comes up when we are looking for leaders is ‘charisma’. I suppose it is something that is hard to put your finger on but we recognise it when it is there. It is hard to define but it would generally be applied to people who seem to demand our attention, who stand out from among the crowd.

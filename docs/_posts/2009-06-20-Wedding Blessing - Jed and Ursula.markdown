@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Wedding Blessing - Jed and Ursula.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Wedding Blessing - Jed and Ursula.pdf)
+
 Wedding Blessing – June 20th – Ursula Woods and Jed
 
 We are here in the grounds of St Mary’s in Howth on this beautiful day to celebrate and ask God’s blessing on the marriage of Ursula and Jed. Cultures down through the ages have celebrated, have built rituals around the coming together of two people in love, to live together, to share their lives together, to build family life together, to support each other in all the ups and downs of life. Some of the early kibbutz, some of the early communes in post revolutionary Russia tried to collectivise family life – all ultimately came to realise the value of the basic family unit.

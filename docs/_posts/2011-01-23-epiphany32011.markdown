@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany32011.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany32011.pdf)
+
 As you may have gathered over the last few weeks, the Gospel passage we read at Christmas, from the opening of St John’s Gospel, has struck a particular resonance with me this year. As I read our Old Testament, Psalm and Gospel for this 3rd Sunday after the Epiphany, with their many allusions to light, my mind returned to that Christmas Gospel:
 
 > What has come into being 4 in him was life, and the life was the light of all people. 5 The light shines in the darkness, and the darkness did not overcome it. John 1:3-5

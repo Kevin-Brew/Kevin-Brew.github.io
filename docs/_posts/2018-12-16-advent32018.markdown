@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent32018.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent32018.pdf)
+
 3rd Sunday of Advent – Year C - 2018
 
 Over these Sundays in Advent our Gospel readings are focussing on the figure of John the Baptist and his role as one preparing the way for Jesus. John must have been a formidable character. Certainly not one to skirt around an issue - you would know that he was talking to you and not the fellow behind you. He did not mince his words with Herod and he did not mince his words with the crowds who came out to hear him, as we read in our Gospel reading this morning. "Brood of vipers" is not the remark of one exchanging pleasantries.

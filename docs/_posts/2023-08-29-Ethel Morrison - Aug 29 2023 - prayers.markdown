@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Ethel Morrison - Aug 29 2023 - prayers.png"
 tags: Conor_Diocese Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Ethel Morrison - Aug 29 2023 - prayers.pdf)
+
 # Funeral of Ethel Morrison – Prayers
 
 ## Introduction

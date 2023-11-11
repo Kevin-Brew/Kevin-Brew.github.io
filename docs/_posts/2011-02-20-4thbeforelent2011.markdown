@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/4thbeforelent2011.png"
 tags: Epiphany Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/4thbeforelent2011.pdf)
+
 One of the characters of the last World Cup Final in South Africa was a German octopus that seemed to have an uncanny knack of choosing which side was going to win a particular match. TV cameras would record and send round the world pictures taken as this celebrated octopus climbed onto one flag or another. The strain obviously proved too much because the poor thing expired shortly after the finals were over.
 
 Choice is very much a feature of life. We face choices from the moment we get up in the morning to when we go to bed at night. Most of them are fairly mundane – which shoes will I put on, which coat, jacket, skirt, trousers will we wear today? What will I have for breakfast lunch or dinner? What programme will I watch on the TV? None of these are particularly earth shattering; none are likely to have a lasting impact on my life.

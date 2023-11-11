@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper142015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper142015.pdf)
+
 Over the past couple of weeks we have welcomed families as they have brought their children to be baptised. Baptism is one of the great Gospel sacraments and we find its meaning in the death and resurrection of Jesus Christ. In the early days when total immersion was the norm, the person to be baptised went right down into the water. The old person went down and the new person came up. If anyone is in Christ, he is a new creation...
 
 And so the promises are introduced with those lovely words: "In baptism, God calls us from darkness into his marvellous light. To follow Christ means dying to sin and rising to new life with him." Dying, rising, these are ongoing processes that continue through life, as we let go of the old and lay hold of the new. Last week we read those lovely words from the Letter to the Ephesians – of growing into Christ, becoming more and more like Christ.

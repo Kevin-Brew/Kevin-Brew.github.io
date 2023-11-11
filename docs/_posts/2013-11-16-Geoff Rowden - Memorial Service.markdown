@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Geoff Rowden - Memorial Service.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Geoff Rowden - Memorial Service.pdf)
+
 Three weeks ago Geoff Rowden was planning to do what he loved doing, planning to walk and camp in the mountains, this time the ridge walk on Mweelrea Mountain in Mayo. He loved the open air, the solitude, the peace. An experienced walker, he had left a route and was well equipped for the climb. On the Wednesday it was clear he was missing. Over three days Geoff’s family and friends knew the agony of waiting, of hoping, of dreading as Mayo Mountain Rescue Unit assisted by volunteers and friends from clubs all over the country searched the hills until, on Saturday morning, Geoff was found where he had fallen.
 
 Today, a week after his funeral in Mount Jerome, family and friends gather to give thanks for Geoff Rowden as husband and father, as son and brother, as uncle and friend. This part of the world is where Geoff grew up, where he went to School, was baptised and confirmed. Those of us outside the immediate circle of family and close friends come to show our love to Anne Marie and Chloe, to Ken and Eileen, to David, Linda and Alison and their families and assure them of that our love and support in the days that lie ahead.

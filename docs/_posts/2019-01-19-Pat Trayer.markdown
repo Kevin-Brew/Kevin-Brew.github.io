@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Pat Trayer.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Pat Trayer.pdf)
+
 Funeral of Mrs Pat Trayer – Glasnevin – 19th January 2019
 
 As I remarked to Pat Trayer not so very long ago, 'Pat, we go back a long way.' I first met her when Peter and I were undergraduates back in the late 60’s, early 70’s. During those years I remember a bright, cheerful, hospitable lady with a wide range of interests who always gave me a warm welcome when I came out to Sutton with Peter. There was a ‘no nonsense’ side to her that appealed to me from the start. You knew where you stood – if she thought you were talking rubbish, she would share that insight with you. After Peter and I left Trinity, our paths would cross from time to time. When my then fiancée, Rachel, was teaching for a short while in Sutton Park in 1975, Pat welcomed her to the house in Sutton.

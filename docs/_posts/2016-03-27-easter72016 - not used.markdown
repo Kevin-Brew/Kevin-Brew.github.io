@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter72016 - not used.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter72016 - not used.pdf)
+
 ‘Why don’t you come over for a meal?’ An invitation that would have been offered to us when we move into a new area.. Or ‘Lovely to see you – why don’t you come on in?’ Come over, come on in – words of welcome, words of invitation.
 
 This morning our reading from the Book Revelation rounds off a series of passages that have been included in our lectionary over the last few weeks of this season of Easter. Revelation is one of those books of the Bible that evoke a number of responses. With all its visions of battles in the heavenly places between the forces of good and evil, its descriptions of judgement, it would seem to have no place in our thinking. With its background in the early persecution of the Church in the first two centuries of the life of the Church, there is running through it an abiding confidence that God, and the people of God will ultimately overcome the powers of evil. And so it rounds off with these visions of the heavenly Jerusalem that we have heard both last week and this week.

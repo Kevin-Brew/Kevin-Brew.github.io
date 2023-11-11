@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Jennifer Guinness Booth - memorial service.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Jennifer Guinness Booth - memorial service.pdf)
+
 Yesterday afternoon, in the Victorian Chapel in Mount Jerome, the family of Jennifer Guinness Booth gathered for the funeral service of Jennifer, a beloved mother, grand mother, wife and dear friend who had died last Saturday morning surrounded by those she loved at the end of a dogged battle with cancer. That service was personal, it was private space for a family coming to terms with their loss.
 
 Today, you the family of Jennifer are joined by many friends and associates, representatives of groups with whom Jennifer was associated in sailing, in victim support, in CRC. Born in England, she had married John Guinness. He himself had been educated in England, had trained as a Naval officer and returned to Ireland to take his place in the banking world. They lived in Censure House here on the peninsula and it is here that they reared their three children Ian, Gillian and Tania. John died in a climbing accident in 1988. Then after several years as a widow, Alex Booth came into her life, introduced by mutual friends with Alex eventually moving over the Ireland on retirement. A shared life that was to culminate in a lovely wedding here in St Mary’s just before Christmas.

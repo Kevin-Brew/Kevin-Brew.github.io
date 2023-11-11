@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Easter Vestry 2016.png"
 tags: Easter Vestry
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Easter Vestry 2016.pdf)
+
 EASTER GENERAL VESTRY 2016
 
 200 years ago this year a new Church was consecrated on this site and became the place of worship of the local Church of Ireland community, replacing one, the ruins of which still stand, in the grounds of Howth Castle. As a building it received mixed reviews. Then 150 years later it was replaced by the present Church of St Mary’s. It was interesting that the old one was not completely demolished; the tower was incorporated into the spire of the present Church. In other words, part of what had gone before was incorporated into the new and the new was built on the foundations of the old.

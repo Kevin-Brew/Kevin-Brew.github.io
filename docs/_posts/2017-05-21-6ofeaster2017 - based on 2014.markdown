@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/6ofeaster2017 - based on 2014.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/6ofeaster2017 - based on 2014.pdf)
+
 During these Sundays of the Easter season we see a gradual shift in the emphasis in the Gospel readings appointed for use. In the Sundays immediately after Easter, we read of the resurrection appearances of Jesus, those experiences of the disciples in those days after the resurrection. Then as this season of Easter progresses we have read of the teaching of Jesus in the Upper Room on that night before he died in which he talks of his significance, he speaks of himself as the Good Shepherd, of the meaning of his coming death and then today we get a reference to the coming of the Holy Spirit.
 
 We begin this season with a looking back to Easter and move towards a looking forward to the coming of the Spirit. I want to think a bit about looking back and looking forward. To begin, I want to look back to a broadcast by the late King George 6th on the first Christmas of the Second World War. He began with a poem by Minnie Louise Haskins, a lecturer in the London School of Economics, for whom poetry was something of a side line.

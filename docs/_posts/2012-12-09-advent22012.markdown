@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent22012.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent22012.pdf)
+
 2nd Sunday of Advent - 2006 - year C
 
 'I am confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.' (Philippians 1:6)

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mr Patrick Reilly.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mr Patrick Reilly.pdf)
+
 This morning we have gathered in St Mary’s for the funeral of Patrick Reilly. His daughter Vicky has already shared with us some of the family’s memories and affection for him. They remember a family man, a man who enjoyed his work, his cars, his dogs (who I gather were beginning to edge out his wife and daughters in the attention he bestowed on them).
 
 As Vicky has already said, Patrick is remembered as a family wife, a loving husband, father and grandfather. He had just celebrated his 71st birthday and the suddenness of his death has come as something of a shock to his family. A funeral is a time to reflect, to take stock. One of the privileges of being with a family as they prepare the funeral of a loved one, is to be there as memories are recalled, how they met, important and not so important events in a family’s journey. Even in the sadness there are the smiles as a loved one is remembered.

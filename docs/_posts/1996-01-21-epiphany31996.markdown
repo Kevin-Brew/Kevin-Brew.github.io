@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany31996.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany31996.pdf)
+
 “Rector, if this church closes you will never see me in church again”. A vivid memory from an unforgettable meeting with the Select Vestry of Rosenallis, one of the Mountmellick Group of Parishes.
 
 The Parish had just been visited by the General Synod Commission on the use of Church buildings. This commission, once invited in by a diocese, had the power to order the closure of particular churches.

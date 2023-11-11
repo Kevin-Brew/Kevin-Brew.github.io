@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/presentationofchrist2020.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/presentationofchrist2020.pdf)
+
 Presentation of Christ in the Temple – Year A – 2020
 
 Last Monday marked the 75th anniversary of the liberation of the Nazi Concentration Camp at Auschwitz Birkenau in Poland by the Soviet Army in 1945. To this day, the word ‘Auschwitz’ summons up images of a brutal human depravity that is even now hard to comprehend.

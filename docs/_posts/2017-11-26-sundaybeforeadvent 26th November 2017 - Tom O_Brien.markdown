@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/sundaybeforeadvent 26th November 2017 - Tom O_Brien
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/sundaybeforeadvent 26th November 2017 - Tom O_Brien.pdf)
+
 Family Service Talk for 26th November 2017
 
 We live in a world that is weighed down by anxiety and stress. The country we live in is currently ranked 6th in the 0-25 year age bracket for suicide rates in Europe. We drink too much, misuse drugs, and have a high percentage of individuals on prescription anti-depressants... why? The answer suggests that human beings are not psychologically self-sufficient. We strive to fit in and long to be a part of a community.

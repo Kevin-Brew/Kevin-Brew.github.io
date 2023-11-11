@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/1994-08-30-Trinity14-IRA-ceasefires.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/1994-08-30-Trinity14-IRA-ceasefires.pdf)
+
 Over the past 25 years, amidst the murder and mayhem, we have prayed for peace in Northern Ireland. How long can this go on, we have asked. Do our children have to grow up in this atmosphere of suspicion and fear? In addition to the human toll, the situation here has had a devastating effect on the local economy. Potential investors have been scared off. Many of our young people have felt the need to emigrate, never to return.
 
 And of course, in the atmosphere such as we have had to live in, suspicions are inevitable. For those working in the security forces, suspicion is part of self-preservation. Even on holidays well away from home you meet people from particular areas of the Province and you feel you have to be cautious about how much you say about yourself.

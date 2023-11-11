@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/presentationofchrist2021.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/presentationofchrist2021.pdf)
+
 This Sunday we remember the Presentation of Christ in the Temple in Jerusalem as told to us by St Luke. Mary and Joseph have taken their new born son, their first born to the Temple in Jerusalem to make the sacrifices as laid down in the Law. This Christian festival is close to another, darker remembrance, the anniversary of the liberation of the Nazi Concentration Camp at Auschwitz Birkenau in Poland by the Soviet Army in 1945. To this day, the word ‘Auschwitz’ summons up images of a brutal human depravity that is even now hard to comprehend.
 
 When we were in Krakow for the occasion our son Anthony’s wedding, we went to visit this place. Even though the gas chambers and crematoria have been largely destroyed, and all that remains of many of the barracks of the Birkenau section of the camp is rows of concrete foundations, there is still an eerie atmosphere to the complex. There are still the railway lines passing through the entrance arch. You still see the sign proclaiming the grotesque lie, ‘Arbeit Macht Frei’, work makes you free. You see the evidence in display cabinets of a grim efficiency in what was designed as an industrial process; the detailed records of names, photographs of inmates, recording dates of arrival and extermination; the evidence of recycling of the possessions, shoes, clothes, hair and even artificial limbs of those who were transported to this place, simply because they were different, different race, different religion. It is true, you do not hear a sound of a bird to break the eerie silence of this place.

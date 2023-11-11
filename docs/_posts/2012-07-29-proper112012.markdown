@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper112012.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper112012.pdf)
+
 One of the features of modern life is the smartphone – this piece of equipment that has found itself into so many of our pockets that has not only the phone but also the calendar, the camera, the internet, the apps that bring us news, railway and bus timetables and if you are lost it will tell you where you are. It is the mark of a busy society, a society of timetables, deadlines, targets. I am not saying that all this is wrong. In their proper place, timetables, deadlines, targets help to put a shape on life, help us to work more efficiently, more productively.
 
 But do we ever turn these things off? I now find that one of the announcements I have to make at the start of a wedding or funeral service is to ask people to ensure that their mobiles are off. There are times for stillness, for leaving the world, the routines of the world aside.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Proper 7 - 2009.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Proper 7 - 2009.pdf)
+
 PROPER 7 – 2009 – year B - Trinity 1
 
 We have heard it said, probably said it ourselves – 'There is too much violence on television.' I must admit similar thoughts came to my mind as I read the lessons appointed for use in our services today. There is the obvious violence of the Old Testament passage with the contest between David and Goliath, the threats that each exchange as to what they are going to do with each other's bodies and the grizzly end of Goliath. But as you read the Epistle we hear of the violence that has been part and parcel of Paul's own experience as he has proclaimed the Gospel in often hostile environments. Then in the Gospel, there is the violence of the storm, as the boat in which Jesus and the disciples are crossing the sea of Galilee are left exposed to the raw power of the wind and wave.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper72021 - retirement.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper72021 - retirement.pdf)
+
 PROPER 7 – 2021 – Trinity 3 – Farewell to Howth
 
 Whenever I hear the passage that we read as our first lesson this morning, my mind goes back to the period after Christmas in 1991. Myself and a member of Ahoghill Parish went to Budapest, capital of Hungary, for the European Meeting being organised by the Taize Community. It was a wonderful experience as we joined more than 30,000 people who had travelled from all over Europe. All 30,000 were found beds in Church Halls, School classrooms and private homes. We were all assigned to a particular Church and I found myself in Kalvin Ter Presbyterian Church in the centre of Budapest.

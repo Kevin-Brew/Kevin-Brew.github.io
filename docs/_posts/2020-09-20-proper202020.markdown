@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper202020.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper202020.pdf)
+
 Over the last couple of weeks, our Gospel readings addressed issues of forgiveness. Last week, as we reflected on the Parable of the Wicked Servant, Jesus underlined the radical, the generous, the shocking nature of forgiveness as the king remitted a totally staggering debt. The problem lay not with that but with the servant's unwillingness to model that generous forgiveness, as he turned on a fellow servant who owed him but a tiny fraction of the debt that he had been discharged from.
 
 A forgiven people must be a forgiving people. It must be part of who we are, part of our identity as members of the Body of Christ. It is with these thoughts of identity, who we are, what we are, that I want to move on to reflect on our Gospel reading this morning, the Parable of the Labourers in the Vineyard.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper242010.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper242010.pdf)
+
 Whenever you go to the surgery the doctor will often take out the stethoscope, plonk it on your chest and say, 'Breathe in, out, in again – that’s grand.' Those of you who sing in a choir know the importance of breathing – get it wrong and you end up gasping at the end of a verse of a hymn. Any runners among you know the same thing. Get the breathing right and you are fine – get it wrong and you end up leaning over a wall gasping for breath.
 
 Breathe in, breathe out.

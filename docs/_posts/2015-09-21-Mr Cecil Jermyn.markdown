@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mr Cecil Jermyn.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mr Cecil Jermyn.pdf)
+
 Funeral of Mr Cecil Jermyn – Howth – 21st September 2015
 
 The Service of Baptism in the Book of Common Prayer has a Pastoral Introduction which begins with the following words:

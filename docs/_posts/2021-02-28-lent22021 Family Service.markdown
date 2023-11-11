@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent22021 Family Service.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent22021 Family Service.pdf)
+
 I just want to start with a puzzle. At this point would everyone unmute. It is one of those number sequences.
 
 Take a look at it and I’ll start the clock. See if anyone gets it before the clock stops – just shout out if you get it. I didn’t get it when I first saw it! You solve it not by complex mathematical calculation. You solve it by looking at it from a different angle – once you do that you get the sequence.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/eastervestry2012 - summary.png"
 tags: Easter Vestry
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/eastervestry2012 - summary.pdf)
+
 The Rector spoke of a conference organised by the Archbishop of Dublin on Growth and Development in Parishes in the diocese. This was a continuation of the theme he took for his sermon at his enthronement on the whole matter of tradition as living and developing rather than static. In common with Parishes across the Church of Ireland, we experience an absence of those in their 20’s and 30’s. He spoke of initiatives being taken in some Parishes to address this issue.
 
 He went on to speak of developments in worship in the Parish, and in particular the development of the Family Communion Service. He emphasised the importance of the worship reflecting the total Parish community. He spoke of steady progress in our Youth Worker Project and paid tribute to the work undertaken by Shaz Basdeo and Stephen Byford. We had come to the point when the Select Vestry had to make fundamental decisions about the future progress of this project. Our current financial arrangements would only allow for one more year at the current level.

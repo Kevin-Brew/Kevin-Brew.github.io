@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/propper 162015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/propper 162015.pdf)
+
 Proper 16 – 2006 – year B – Trinity 11
 
 "From this time on many of his disciples turned back and no longer followed him." (John 6:66)

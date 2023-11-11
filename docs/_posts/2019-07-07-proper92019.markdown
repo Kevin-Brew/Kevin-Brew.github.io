@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper92019.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper92019.pdf)
+
 PROPER 9 – 2019 – Year C - Trinity 3
 
 We have read as our Gospel reading the account given to us in Luke’s Gospel of Jesus sending out seventy followers to prepare the way for him. We hear also of them returning and telling their own story of what had happened. These accounts, preserved for us in the Bible have become not only their story, but the story of every generation of the Church as each generation in its own time and culture have told these. As we have done this we have heard God’s story, God’s word in our own time, in our own situation, in our own life.

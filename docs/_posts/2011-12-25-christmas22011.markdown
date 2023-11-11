@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmas22011.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmas22011.pdf)
+
 Christmas is coming and the goose is getting fat – let’s put a penny in the old man’s hat. So runs the old nursery rhyme. At this stage the goose, or whatever graced our Christmas table, is long since picked bare and there are few enough pennies to put in to anyone’s hat. The post Christmas days of my childhood were days of picking over the Christmas dinner as Mum tried varied ways to use up the last of the turkey – turkey sandwiches, salads, curries – the carcass boiled for soup. Then there was the sitting around the fire, cracking Brazil nuts, watching old films on the TV, eating the selection boxes and other treats that had filled out the Christmas stocking. There was, if you like, a continuing savouring of the feast that we had enjoyed on Christmas Day. Here in Church these Sundays after Christmas represent an opportunity to continue to savour the gift we celebrate at Christmas, the birth of our Lord Jesus Christ.
 
 This year I have found myself continuing to savour the title Emmanuel, God with us. While I have always loved that opening chapter of John’s Gospel, I found a particular resonance this year as I continued to savour that word Emmanuel.

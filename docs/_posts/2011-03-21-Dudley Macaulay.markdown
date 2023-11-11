@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Dudley Macaulay.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Dudley Macaulay.pdf)
+
 Funeral of Mr Dudley Macaulay – March 21st 2011 – Howth
 
 A former Rector of Mountmellick and Dean of Kildare, the late Dean Alfred Buchanan, speaking of records held by Parishes, said they spoke of events, of births, marriages, deaths, the number attending services and who preached, the minutes of Vestry meetings and Parish Accounts. They said nothing of the number of people who slipped quietly into Church, who said their prayers, shared their hopes, fears, regrets, sadness, joy with God and slipped quietly home.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Elsie Campbell.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Elsie Campbell.pdf)
+
 We gather here today in Dardistown for the Funeral of Susan Magan. But for Covid 19, this service would have taken place in St Mary’s where Susan worshipped. True to her nature as a very private person she would have slipped in and out. Here may friends would have joined you her family to thank God for Susan and to support you, her immediate family, in your loss.
 
 Funerals are always occasions of parting, so there is a sadness that one who we loved, who loved us has now died. So today we remember Jane and Arthur and the wider family.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Christmas 1.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Christmas 1.pdf)
+
 Do you ever recall a time of feeling very empty within yourself. It might have been for a number of reasons – it might be an agonising worry about ourselves or a loved one. There is that feeling of helplessness, a feeling of being very alone. A feeling that the world about us, maybe even God himself, is totally indifferent to our plight. I would suspect that that is an experience that most of us can recall at some stage or another to a greater or lesser extent.
 
 This morning we have read from the Book of the prophet Isaiah. These later chapters of this book are set in a time towards the end of the period of exile in Babylon. As I have often remarked, this was a traumatic time for the exiles – Jerusalem had been occupied and ransacked, the Temple had been destroyed. They found themselves captive in the land of their enemies, cut off from all that was familiar – their homes, their worship in the Temple, all that gave life its shape – and God seemed strangely silent.

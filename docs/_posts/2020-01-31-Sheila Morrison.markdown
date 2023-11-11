@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Sheila Morrison.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Sheila Morrison.pdf)
+
 On Tuesday evening news started spreading that Sheila Morrison had died in the Blackrock Clinic. As the news spread, people started to share memories of this remarkable lady. A number of words started coming to mind: Resilient, Zest for life, Humour, Kindness. Then the stories started to be told of her determination to keep up to date with modern technology – why shouldn’t she use a computer, why shouldn’t she have a smart phone – how else was she going to use Whatsapp and Facebook?
 
 As I thought on these my mind went back to sitting in her sitting room one afternoon. She wasn’t long home from a previous hospital stay and she was telling me about problems with her one remaining kidney and the possibility of dialysis. Then a grin; ‘In the meantime I am going to enjoy life.’ She may not have the energy to keep the garden the way she had in the past – but there were ways round that. Though I do remember walking past ‘Weatherly’ one morning on the way back from posting a letter – and there she was sweeping the path.

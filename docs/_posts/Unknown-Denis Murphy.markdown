@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Denis Murphy.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Denis Murphy.pdf)
+
 Funeral of Denis Murphy – Church of the Resurrection, Bayside. One of the options for prayers in the Church of Ireland funeral Liturgy contains the words, ‘In the midst of life, we are in death, of whom may we seek for succour.’ As we gather for the funeral of Denis Murphy, I just want to reverse that. ‘In the midst of death, we are in life.’ In the face of death, accepting our mortality, we come in Christian hope to celebrate life.
 
 We come to celebrate the life of Denis Murphy. Denis spent all his working life in the building industry. In the early days working conditions were not good and workers were not always treated fairly. It was out of a personal experience of injustice that saw him out of work following the early death of his father, that Denis resolved to treat those who worked alongside him with justice and fairness. He loved wood and working with wood, he was a craftsman, setting high standards for himself, expecting high standards of those who worked under his direction – but all through that, that same spirit of fairness. Of course he loved his golf, he kept it up as long as he could. He loved the outdoors, the walk along the pier in Howth. He would have said he did a lot of his thinking and praying walking that pier. All of us would have been struck by the quiet courage and determination he brought to his illness.

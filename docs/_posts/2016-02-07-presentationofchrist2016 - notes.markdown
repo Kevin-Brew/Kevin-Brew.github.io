@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/presentationofchrist2016 - notes.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/presentationofchrist2016 - notes.pdf)
+
 St Gregory Nazianzen wrote:
 
 > Nothing seems to me greater than this: to silence one's senses, to emerge from the flesh of the world, to withdraw into oneself, no longer to be concerned with human things other than what is strictly necessary;

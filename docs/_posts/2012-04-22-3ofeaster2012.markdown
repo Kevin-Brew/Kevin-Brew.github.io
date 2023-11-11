@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/3ofeaster2012.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/3ofeaster2012.pdf)
+
 Not so very long ago I had to call at the sorting office in Baldoyle. The postman had called at the Rectory to deliver a parcel and there was no one at home. He left a note telling me to call at the sorting office to collect it myself. When I went there to ask for the item I was asked, “Do you have any photo identification?” The man at the counter wanted to know who I was; he wanted to be sure that I was not trying to get hold of a parcel that wasn’t mine.
 
 That set me thinking about ways in which we can be identified. There is of course the photo in my passport that I showed to the man behind the counter. But there are lots of other ways in which we can be identified. People will recognise our voice or even the sound of our footsteps along the corridor. Then of course there are more precise ways this can be done. There are those collections of lines and whirls on the end of my fingers, my fingerprint that is unique to me. There is my DNA, that complicated molecule in every cell of my body that is again unique to me – that determines the colour of my eyes, my hair, my skin, what height I am going to grow to along with many other characteristics that we are only now beginning to understand.

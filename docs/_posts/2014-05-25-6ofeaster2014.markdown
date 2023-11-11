@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/6ofeaster2014.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/6ofeaster2014.pdf)
+
 6th Sunday of Easter – 2014 – year A
 
 If you look near the front of your Prayer Book, from page 27 on, you can find the Lectionary – that is the scheme of readings for use in Church every Sunday of the year. Then, if you turn to page 43, you find the readings set out for today, the 6th Sunday of Easter. This particular year, 2014, we are using the Year A readings.

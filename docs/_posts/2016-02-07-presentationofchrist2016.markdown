@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/presentationofchrist2016.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/presentationofchrist2016.pdf)
+
 Oh Rector! Why do they keep on changing the words? It may be the words of a hymn, or a prayer – or just the whole book. On occasions I would sympathise – particularly when it seems to be for no particularly good reason other than being PC. Others however I would want to stick up for. On a personal basis I’ve developed a great affection for the modern wording of the Lord’s Prayer and it would be the one I would have used for many years in my own private prayer – I much prefer the petition ‘ forgive us our sins as we forgive those who sin against us. It names sin for what it is whereas ‘trespassing’ is something you don’t do on a building site.
 
 Different translations, different ways of putting things can help us explore the meaning of those texts, originally written in Greek and dating back to the earliest days of the Church, that are so much part of our faith, of our worship. I want this morning to look at the petition in the Lord’s Prayer ‘Lead us not into temptation’ and the closing verses of the portion we read from the Letter to the Hebrews:

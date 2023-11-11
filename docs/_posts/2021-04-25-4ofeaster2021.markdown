@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/4ofeaster2021.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/4ofeaster2021.pdf)
+
 It has often been said that the Bible was written to be heard as well as read. That is not surprising as the scriptures were first brought together as oral tradition and when they were first written down, most people would have experienced the Scriptures as something that was read to them. Of course, Jesus himself was heard rather than read. From the Gospel accounts as we have them, Jesus taught with stories, with images that would have connected with the daily experiences of his hearers. Take our Gospel reading for this Fourth Sunday of Easter; Jesus speaks of himself as the Good Shepherd.
 
 The shepherd would have been a familiar figure in 1st century Palestine, one who lived with his flock. He would have slept out in the fields with them, protecting them from danger. It would have been something of a nomadic existence as he led them from pasture to pasture. The shepherd would get to know his sheep and his sheep would get to know the shepherd. This was brought home to me in the course of a visit Rachel and I made to Israel some twenty five years ago. The group we were leading had just celebrated a lovely Communion Service out in the open, on the hills overlooking Lake Galilee and we were resting as we waited for our bus to come and pick us up. While we were waiting a shepherd went by walking ahead of his flock. One of the flock stayed behind to taste some tasty morsel. When he looked up the flock was nowhere to be seen, just us looking at him. Starting to panic, the poor thing bleated furiously. From the distance came the sound of the familiar voice of the shepherd; and the straggler rushed off towards that familiar voice to re-join the flock.

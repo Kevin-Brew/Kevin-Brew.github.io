@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper72010.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper72010.pdf)
+
 Proper 7 – Trinity 3 – 2010 – year C
 
 Do you remember where you were on 30th January 1972 and the days that immediately followed? I was living in rooms in Trinity. I recall the atmosphere in the centre of Dublin in those days that followed Bloody Sunday, as it came to be called. With my English accent I felt the need to be cautious about who I spoke to. On the day of the funerals, friends invited me to spend the day with them down in Killiney. There was a palpable sense of outrage with the daily demonstrations at the British Embassy in Merrion Square. I returned to College that evening and passed the now smoking ruins of the British Embassy. It was almost as if a boil had been lanced that day; the atmosphere in the city noticeably calmed the following day.

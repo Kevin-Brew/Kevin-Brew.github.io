@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent32010.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent32010.pdf)
+
 One of the hazards of city life around the time of a bank holiday is the City marathon, whether it be in London, Belfast, New York or Dublin or a host of other centres. The streets in the centre are shut down, traffic diverted or held up to let the runners go through. Apart from some mild frustration on the part of some who might come across it unawares, there is a general feeling of well being as runners in all shapes, sizes, physical condition and costume . You get the professionals, like the Kenyans who storm ahead of the field, keeping up an amazing pace right through the race.. Then of course there are the ones in funny costumes – time for them is immaterial, they are there to enjoy themselves and make money for their chosen charity.
 
 In between those two extremes you get those who have prepared themselves – they have the right kit, they have followed a disciplined training programme, eaten the right foods and have set themselves a personal target – it might be four, three and a half or three hours or whatever. But of course things can go wrong – you might pick up an injury, on the day it might be too hot, cold or windy – or you might have forgotten something. I remember one year watching the finishers in the Belfast Marathon coming in – it had been a lot warmer than anticipated and I recall seeing one runner in a bad way – she had obviously prepared, she wasn’t carrying any excess weight, she was in the right running gear, she had the right shoes but she was clearly suffering from dehydration, over the course of the run she had not taken on enough water. Dehydration, a ravenous, debilitating thirst is one of the hazards of long distance running – which is why they say you should always make friends with your water bottle.

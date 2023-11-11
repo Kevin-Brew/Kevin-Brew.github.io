@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/7th Sunday of Easter - 2008.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/7th Sunday of Easter - 2008.pdf)
+
 Whenever I walk the cliff path around the Red Rocks I find myself looking across Dublin Bay down towards Bray head. As a youngster I spent many happy holidays in Bray, looking across at the Hill of Howth. Those were good times, full of fond memories. Then, back in the 1980’s, when we were living in Mountmellick, I announced to the boys that I was going to take them to see Bray; to show them the places where I had played as a child, climbed over rocks and all the other things you do on holidays.
 
 When we arrived I recall a horrible sense of anticlimax. It was Bray alright – but it wasn’t the Bray I remembered – but then I was 18 inches shorter and of course in the excitement of a holiday kids don’t notice things that adults notice. The boys thought Bray was great but I went home slightly disappointed – half wishing I hadn’t come so I could hang onto my old childhood memories.

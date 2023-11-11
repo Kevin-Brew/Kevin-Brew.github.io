@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent52017.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent52017.pdf)
+
 We have read as our Gospel reading this morning, John’s account of the raising of Lazarus. It is a well known passage. Lazarus, the brother of Martha and Mary has died. Jesus comes to visit the family.
 
 We hear of Martha and Mary coming out to meet him. Each says to him: ‘Lord, if you had been here my brother would not have died.’ You can sense the pain, the feeling of absence, of disappointment, of confusion. Death, the death of their brother has brought everything into question.

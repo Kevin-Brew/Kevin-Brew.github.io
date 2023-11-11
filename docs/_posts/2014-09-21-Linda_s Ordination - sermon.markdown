@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Linda_s Ordination - sermon.png"
 tags: Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Linda_s Ordination - sermon.pdf)
+
 Ordination of Rev Linda Frost to the Priesthood
 St John’s Cathedral, Sligo – 21st September 2014
 ‘For Christ’s love compels us’

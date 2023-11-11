@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmasfamily2017.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmasfamily2017.pdf)
+
 How many wise men were there? Tradition is three – Caspar, Melchior and Balthasar – bible does not say. There is a story of a 4th wise man called Arteban, a friend of the other three, story has it he was a very clever, very compassionate doctor.
 
 Plan was for Arteban to travel with the other three to visit the King – he was going to bring jewels, diamond, ruby and a pearl. He was always late – but for a very good reason – on his way to meet them he came across a sick man by the roadside – he stopped to look after him until he was better – but friends went on without him.

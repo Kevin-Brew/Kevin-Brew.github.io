@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Week 4 - gentleness.png"
 tags: Lent Mid_Week
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Week 4 - gentleness.pdf)
+
 # Fruits of the Spirit: Gentleness
 
 This sermon is part of a series on the Fruits of the Spirit as listed by Paul: love, joy, peace, patience, kindness, generosity, faithfulness, gentleness, and self-control. We have looked at Love, joy, patience as we find them in Scripture, as we find them in God – attributes we should expect to see in ourselves as we seek to follow God.

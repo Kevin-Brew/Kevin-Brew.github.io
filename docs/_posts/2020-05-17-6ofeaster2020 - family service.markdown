@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/6ofeaster2020 - family service.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/6ofeaster2020 - family service.pdf)
+
 Over these last few weeks we have had to spend a lot of time with each other. Sometimes funny things can happen in situations like this. You may have heard it said that owners of pets can start looking like their pets. Crazy idea? Well just have a look at these (3 slides). I suppose owners choose pets that suit their personalities, how they want other people to see them – or could part of it be the amount of time they spend with each other?
 
 I'll just leave that with you and go on to something completely different. In our reading we heard of Jesus promising his disciples the gift of the Holy Spirit – an advocate, a guide, one who will live in them and with them. The revised catechism of the Church of Ireland has a lovely way of expressing part of the work of the Holy Spirit. The Holy Spirit enables me to become more like Jesus.

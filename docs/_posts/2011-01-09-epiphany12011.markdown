@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany12011.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany12011.pdf)
+
 Back in the middle of the 19th Century, Mountmellick (where I was Rector during the 1980’s) was a prosperous industrial town. It was described as the Manchester of Ireland. It is said that in its heyday it produced everything from a needle to an anchor. Apparently Queen Victoria wore items of Mountmellick lace at her coronation. Then the railways came to Ireland. The railway companies obviously wanted to go through Mountmellick. Several prominent Quaker families, who had been responsible for the town’s prosperity, decided that the railway was a passing fad and it would disrupt the life of the town. They would have none of these innovations. The railway instead went to the neighbouring town of Maryborough, which is now Portlaoise. One by one the factories that had produced Mountmellick’s prosperity closed down leaving it simply as a shopping town for local farmers and a dormitory town for Portlaoise.
 
 Mountmellick was not prepared to adapt to the changes that the railways brought and the world simply passed it by. Our portion for the Epistle speaks of radical change that some in the infant Church were finding it very hard to come to terms with.

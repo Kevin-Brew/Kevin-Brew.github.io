@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmas2011.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmas2011.pdf)
+
 Not far from where I grew up, to the South West of Birmingham lies the village of Alvechurch. This village was the inspiration of the village of Ambridge, well known to followers of 'The Archers', a long running radio soap, often referred to as 'an everyday story of country folk'. It told the story of the goings on of different characters in a village community. Periodically issues affecting the wider world, be they wars, Royal weddings or divorces, foot and mouth would impact on the lives of those who gathered in the 'The Bull' for a pint.
 
 Our Gospel reading this Christmas time from St Luke’s Gospel begins:

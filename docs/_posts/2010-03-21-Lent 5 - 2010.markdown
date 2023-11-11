@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Lent 5 - 2010.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Lent 5 - 2010.pdf)
+
 Last Wednesday parades were held all over Ireland to celebrate St Patrick’s Day. It is a day of carnival, of celebration but behind it all, almost hidden by it all is the story of the evangelisation of the Irish people. Much has happened in the years since. The Church has known times of great spiritual growth in which this island has been truly blessed alongside times of great failure and hurt. But at all times there has been this figure of Patrick, himself a complex and very human figure, as a source of inspiration.
 
 One of the views we enjoyed from the Rectory in Ahoghill was that of Slemish. The hill of Slemish, the core of a long dormant volcano, dominated the landscape around Ballymena. Situated just outside the village of Broughshane, it is reputed to be the spot where Patrick, who as a young man was captured from his home and family in Britain, served as a slave tending sheep. In the ‘Confessions’, reputed to be written by Patrick towards the end of his life, the saint speaks of that time in terms of a growing spiritual awakening, seeing it in terms of God disciplining him. After some six years of captivity, Patrick escaped and returned to England and to his family. He is trained for ministry, probably in France, though he always regards himself as having little learning.

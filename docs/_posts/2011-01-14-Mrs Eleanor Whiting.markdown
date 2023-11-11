@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Eleanor Whiting.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Eleanor Whiting.pdf)
+
 When I first came here as Rector in 2005 I quickly came to recognise the different atmosphere of our two morning services. The quieter atmosphere of the 9:30 with its smaller numbers; the 11:00 with its larger numbers and greater sense of movement. One of the regulars at the 9:30 in those early days until relatively recently would have been Mrs Eleanor Whiting. Smartly dressed, cheerful, quietly spoken, a lady with a quiet sincere faith. When I went to visit her in her home in Corr Castel she spoke with obvious pride of her late husband Sydney and their children, Gerald, John, Robert, Elizabeth and Peter.
 
 She had spoken of her Canadian origins. She had been brought up, one of five children, in a remote fishing and seal hunting community in Newfoundland. Her maritime roots are reflected in the choice of one of the hymns for her funeral ‘Eternal Father, strong to save.’ She trained as a nurse and she ended up nursing a South African pilot in the Royal Canadian Air Force who had been badly injured in a crash. That young man, Sydney Whiting was to become her husband. After leaving the Air Force, flying took Sydney and Eleanor to a number of places until finally a job in Aer Lingus brought the family to Dublin and their home in Offington Park. Here the family settled into the community here with the children attending the Burrow School and the old Mountjoy School and St Andrews. They also settled into the life of the Parish here, teaching in the Sunday School, singing in the choir.

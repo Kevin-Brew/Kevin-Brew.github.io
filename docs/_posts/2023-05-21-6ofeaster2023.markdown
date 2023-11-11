@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/6ofeaster2023.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/6ofeaster2023.pdf)
+
 It has often been said that pets become more and more like their owners – or is it the other way round? Whichever way you take it, what is meant is that the long-term association, the long-term companionship has its effect in affecting one party or the other.
 
 I will leave you to ponder that deep philosophical point and ask a quite different question: ‘Why do we do what it right? I am not saying that we always do the right thing – because we don’t. But the things is we know when we have done wrong, and we generally feel bad about it (even if for reasons of pride we don’t show it).

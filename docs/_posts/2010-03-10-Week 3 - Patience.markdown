@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Week 3 - Patience.png"
 tags: Lent Mid_Week
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Week 3 - Patience.pdf)
+
 Riches of language can lie in the different sayings people have in different parts of the country 'So and so – wouldn’t he try the patience of a saint?' Idea of someone of great sanctity struggling to keep their cool. What is the patience of a saint? - raised in the passage we have been focusing on this Lent. We read Galatians 5:22-25. Each week we have been looking at how each of these attributes are found in the Bible, in God, in Jesus. Set alongside teaching of Catechism on work of the Holy Spirit.
 
 We have looked at love, have looked at how we find it in God – unfailing love, love at full stretch 'My God, my God ….' My love is a response to that love – if I have not grasped it how can I share it? Last week looked at joy – how do we find it in the Bible - joy an emotion of harmony, of communion, of being at one with God – more than just an emotion – founded on God’s love for us.

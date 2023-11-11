@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Betty Tighe - Memorial Service.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Betty Tighe - Memorial Service.pdf)
+
 We have come here today to remember before God Mrs Betty Tighe, to comfort one another, particularly her husband Teddy and their children David and Janice and the extended family. Betty’s death in Italy was sudden and unexpected. The difficulties the family have experienced in bringing her ashes home have added an extra edge to their loss and sadness.
 
 We gather here in St Mary’s where she would have slipped in quietly on a Sunday morning and just as quietly slipped out. We gather with our memories, our love, our loss and our thanksgivings. The family, as they have prepared for today, have been very anxious that this should be a service of thanksgiving. Betty had lived to a good age, she had enjoyed good health – sickness seemed to be something that Betty Tighe did not seem to have time for – she died in a place she loved to visit in the company of family and friends.

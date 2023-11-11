@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/wereyoutherecaiaphas.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/wereyoutherecaiaphas.pdf)
+
 HOLY WEEK 2013-03-26 'Were you there when they crucified my Lord?' (2) Caiaphas
 
 During this season of Holy Week David and myself are sharing some thoughts around the central theme of 'Were you there when they crucified my Lord?'. Over the course of these nights we are looking at some of the participants in the whole drama. David began last night with Peter. Peter so courageous, so faithful and yet so vulnerable. He was the one who confessed Jesus as the Christ, he was the one who declared that he would stand by him, who followed him into the courtyard of the High Priest’s house – and yet he was the one who denied that he ever knew him and wept bitter tears of remorse and repentance.

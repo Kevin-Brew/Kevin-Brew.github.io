@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mr Gordon Burrows.png"
 tags: Funeral School
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mr Gordon Burrows.pdf)
+
 This morning we have gathered in St Mary’s for the funeral of Mr Gordon Burrows, known to his family as Fred. His son David has already shared with us some of the family’s memories and affection for him. They remember a family man, a man with a love and zest for life, for challenges, whether it be walking the mountains of Switzerland or sailing to the arctic. They remember a father and a grandfather, a loving husband who shared 60 years with his beloved wife, Kathleen. They remember a man who faced illness with a dogged defiance. The weakness of the last couple of years has been hard for the family to watch, hard for Gordon. I thought of words from the 2nd Letter to Timothy as Paul proclaims, ‘I have fought the good fight, I have finished the race, I have kept the faith.’ Today is a day for you to come before God with your own particular memories of Gordon and give thanks to God for all that he has meant to you as husband, as father, as grandfather, brother and fried, to thank God for all that was good and true in his life, his courage in the face of adversity, his love and friendship.
 
 Those of us outside the family circle have come to offer our love and support at this time as you begin to come to terms with your loss, how best to support one another in the days and weeks and months to come.

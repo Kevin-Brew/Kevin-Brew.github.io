@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/3rd Sunday of Easter - 2010.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/3rd Sunday of Easter - 2010.pdf)
+
 I have always had a fascination with people. Even wandering down Grafton Street. So many different people, different backgrounds, there for different reasons; different thoughts going through their minds – everyone different to everyone else. For each human being is unique. There is no other human being on this planet, no-one who has ever lived, no-one who will live in times to come who is, or was, or will be exactly like you. That thought occurred to me as I read the portion from Revelation appointed as our second lesson for today – the vision of the heavenly worship, the voices of myriads of myriads, thousands and thousands, numbers beyond imagination all united in worship:
 
 > 'Worthy is the Lamb that was slaughtered to receive power and wealth and wisdom and might and honour and glory and blessing!'

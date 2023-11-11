@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper62015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper62015.pdf)
+
 Have you ever found yourself totally misjudging a situation, or people in a situation? Looking back, even though we might see why we did it, yet we know that we got it completely wrong.
 
 I remember when I first came to Dublin as a student, taking part in a 48 hour fast in aid of famine relief in Biafra. We stood with our collection tins at the top of Grafton Street. A variety of people came up to make their donations or shout out as they went past 'Charity begins at home!' I have a very clear recollection of two particular people. One lady, in a fur coat, as she prepared to put her sixpence into my tin, questioned me closely as to how precisely her sixpence was going to be spent before finally letting it out of her fingers. The other was a young traveller boy. He came up to ask me what we were doing and I began to think in my own mind how I could explain that I could not channel the money in my tin towards him. In the meantime, he reached down into his pocket and he too pulled out sixpence and with a broad grin put it in my tin with a cheery 'It's not much I'm afraid but I hope it does some good.'

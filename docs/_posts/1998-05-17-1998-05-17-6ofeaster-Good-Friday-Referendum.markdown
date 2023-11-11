@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/1998-05-17-6ofeaster-Good-Friday-Referendum.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/1998-05-17-6ofeaster-Good-Friday-Referendum.pdf)
+
 During this past week I was in Dublin attending the General Synod of the Church of Ireland. This body, with delegates drawn from every diocese of our Church, is ultimately responsible for the governance of the Church of Ireland. This year there were a number of issues being discussed. These included the reorganisation of Diocesan boundaries, mainly in the Republic; developments in our liturgy which will result in the publication of a single prayer book for the Church including both the traditional and revised services, the layout of a new hymn book as well as ongoing concerns such as the Church's involvement in education, in mission (both home and overseas) and more mundane issues such as the clergy pension fund - the retirement age for clergy is at long last being reduced to 65.
 
 The synod was of course being held against the background of the referenda being held in both parts of this island arising from the Agreement reached between the parties on Good Friday. This topic was raised at a number of points at the synod. The Primate devoted a good deal of his Presidential Address to the issue and it was brought up in a number of the debates and was the topic of a special resolution passed by the Synod. The whole thrust of the resolution and the Primate's remarks was not to give specific direction as to how members of the Church of Ireland should vote. Rather the message was one of a call to carefully read the Agreement and prayerfully reflect on the issues raised and then to cast our votes.

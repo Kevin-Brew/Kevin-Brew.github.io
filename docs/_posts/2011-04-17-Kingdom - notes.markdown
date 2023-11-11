@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Kingdom - notes.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Kingdom - notes.pdf)
+
 This sermon focuses on the use of the word 'Kingdom' in Matthew. It begins with Matthew 3:1 where John the Baptist proclaims, 'Repent, for the kingdom of heaven has come near.' It continues with references from Matthew 4:17, Luke 6:20, and Matthew 4:23, where Jesus proclaims the good news of the kingdom and cures every disease and sickness among the people.
 
 The sermon also highlights the Beatitudes in Matthew 5, where the kingdom of heaven is promised to the poor in spirit and those who are persecuted for righteousness' sake. The Lord's Prayer in Matthew 6:10 is also referenced, with a focus on the line, 'Your kingdom come. Your will be done, on earth as it is in heaven.'

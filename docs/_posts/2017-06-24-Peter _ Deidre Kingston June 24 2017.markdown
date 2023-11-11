@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Peter _ Deidre Kingston June 24 2017.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Peter _ Deidre Kingston June 24 2017.pdf)
+
 This afternoon, here in Killarney, Peter and Deidre are celebrating their marriage. Today, your friends and your family come to share with you in celebrating the love and joy you have found in each other and to ask God's richest blessing upon you in the days that lie ahead. The Bible readings for the service today and the words of the Marriage Service itself are full of themes of commitment, of faithfulness, of the love that you have found for each other.
 
 A day such as this is a day of looking back and looking forward. Your relationship did not happen out of the blue. On this day I invite you to think back to how it all began. The time you first noticed each other, the process in which friendship grew into love and you realised that you wanted to spend the rest of your lives with each other.

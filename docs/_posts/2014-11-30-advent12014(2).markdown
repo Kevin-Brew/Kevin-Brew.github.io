@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent12014(2).png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent12014(2).pdf)
+
 This morning in our 11 o’clock service we will be celebrating a baptism as Connor and Beckie bring their daughter Isobelle for Baptism, as Beckie’s parents brought her to this church in times past. The arrival of Isobelle has been for this couple marks another stage in the development of their life together. Their meeting and commitment to each other has been a life changing encounter. The birth of their child has been a life changing encounter. I want this morning to think of life changing encounters in the context of our reflections on Advent.
 
 I often think of one delightful couple I knew when I was in Finglas. Jim and Lily were a real Darby and Joan, going everywhere together, often as not hand in hand. When I first arrived in the Parish, Jim was approaching his retirement and they were looking forward to that day like kids look forward to Christmas (which is very appropriate as we enter the season of Advent). They would be saying to everyone, ‘Jim is retiring in 6 months!’, ‘Jim is retiring in 3 months!’, ‘Jim is retiring next week – we cannot wait!’.

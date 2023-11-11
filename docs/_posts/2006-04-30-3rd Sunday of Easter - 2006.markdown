@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/3rd Sunday of Easter - 2006.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/3rd Sunday of Easter - 2006.pdf)
+
 Summer holidays are approaching and those heading abroad are checking various things. Is the travel insurance up to date? If you are going somewhere really exotic – are there any vaccinations that we need to get? Then the one that is all too often left to the last minute – is the passport still in date?
 
 Passports of course are getting far more complicated. We are all going to have to get one of these biometric passports that will contain coded information about various physical features like shape of our face, fingerprints, iris recognition – all designed to establish who we are, that we really are the person whose details are given on the passport.

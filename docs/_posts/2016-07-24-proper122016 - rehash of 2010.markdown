@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper122016 - rehash of 2010.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper122016 - rehash of 2010.pdf)
+
 PROPER 12 – 2016 – Trinity 9
 
 I remember many years ago going to see a film one night starring Peter O'Toole, called 'The Ruling Class'. The story was a caricature of an English aristocratic family that had lost all touch with reality. The father, who longed for the return of Empire when foreigners knew their place dies suddenly in dubious circumstances and he is succeeded by his eldest son, a charming young man apart from the fact that he is convinced he is God. As the film progressed his understanding of who he was swung from what he perceived as the New Testament God of love and forgiveness and more towards the sterner, Old Testament God of judgement and punishment. During a stay in an upmarket, private clinic he was asked by his doctor why he thought he was God. To which he replied, 'I find that when I pray, I realise I am simply talking to myself.'

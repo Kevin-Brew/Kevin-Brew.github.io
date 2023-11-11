@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper92018.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper92018.pdf)
+
 'Who do they think they are?'
 
 This is the title of a television series that became very popular and was shown in a number of different countries across the world. Celebrities were enabled to track down their roots; where they had come from, what their forbears did, where they lived.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper112010.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper112010.pdf)
+
 Hear this, you that trample on the needy, and bring to ruin the poor of the land, saying, 'When will the new moon be over so that we may sell grain; and the sabbath, so that we may offer wheat for sale? We will make the ephah small and the shekel great, and practise deceit with false balances, buying the poor for silver and the needy for a pair of sandals, and selling the sweepings of the wheat.' Amos 8:4-6
 
 Anyone who drives from the Port Tunnel exit in the Docklands down past the Point Theatre will have noticed a huge slogan painted on a hoarding round a now derelict building site. It reads 'Greed is the knife and the scars run deep'.

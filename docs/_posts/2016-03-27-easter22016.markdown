@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter22016.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter22016.pdf)
+
 Can you think back to a time to your childhood when you learned something new. it might have been learning to ride a bike, to swim, to sail, whatever. Some of you maybe picked it up straight away; maybe some of you took a long time. It will have depended on a whole range of matters. Part of it would have been your own personal aptitude. Then there would be the person who was teaching you – were they patient or impatient? Then of course there would be the matter of your own personal motivation. Was this something that you really wanted to do? The important thing is that we get there eventually.
 
 During the season of Lent this year, we found ourselves thinking through the whole issue of Covenant. Running through our thoughts we found ourselves thinking of faith, the life of faith in terms of a journey, a journey with God, a journey into God. We are all at different stages on that journey but it is a journey that we undertake with others.

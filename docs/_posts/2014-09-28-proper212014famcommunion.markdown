@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper212014famcommunion.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper212014famcommunion.pdf)
+
 ## PROPER 21 – 2014 – Year A – Family Communion
 
 Who are our heroes? We admire some not just for what they have done but for who they are. Brian O'Driscoll is not only very skilled but also determined, brave, and a great sportsman. Katie Taylor is a determined great sportswoman who provided a model for young women. Footballers like Packie Bonner, with his save in the 1990 World Cup, inspire us. Our heroes, we admire them; they inspire us; we want to be like them.

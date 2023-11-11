@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany22011.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany22011.pdf)
+
 EPIPHANY 2 – 2011 – Year A
 
 For me, one of the joys of ministry has centred around the sacrament of Baptism. The arrival of a child is almost always an occasion of joy. There is the sense of anticipation of what lies ahead, there is hope, there are dreams and hopes for the future. With the arrival of a child in the home there is the question ‘What are you going to call your child? What will be his or her name?’ There is often a story behind the choice of a name – maybe the child is named after a parent, grand parent, close friend, someone who has inspired us. There is a strong tradition of choosing the name of a biblical character or saint. Or else a name is chosen because it has a particular meaning. In Genesis we read of Rachel as she died naming her son to whom she had just given birth Benomi, son of my sorrow. Jacob instead names him Benjamin, ‘son of my right hand’. The meaning of a name that is given to a child would be very important in the African tradition. It is lovely to hear the spiritual resonances of names chosen for a child – the very name representing the hopes the parents have for their child.

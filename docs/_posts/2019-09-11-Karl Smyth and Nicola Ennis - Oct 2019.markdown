@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Karl Smyth and Nicola Ennis - Oct 2019.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Karl Smyth and Nicola Ennis - Oct 2019.pdf)
+
 Marriage of Nicola Ennis and Karl Smyth 11th September 2019 – St Mary’s, Howth
 
 We gather this afternoon to celebrate the marriage of Karl and Nicola. As we do so we join with them as they celebrate and rejoice in what they have already shared together, in the love and the companionship, the encouragement and the strength they have found in each other.

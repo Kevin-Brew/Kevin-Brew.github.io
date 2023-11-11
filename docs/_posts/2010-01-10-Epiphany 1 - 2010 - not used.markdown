@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Epiphany 1 - 2010 - not used.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Epiphany 1 - 2010 - not used.pdf)
+
 1st Sunday of Epiphany – 2010 – year C
 
 After complaining for several years that we never seemed to get real winters anymore this one has certainly made us sit up and take notice. One thing that has struck me over the last few days is the sudden flash of lightening, the clap of thunder that seems to come out of the blue. There is something really impressive about lightening – the electrical energy released is massive and can cause huge damage to trees and buildings. This sort of power is obviously on the mind of the writer of Psalm 29

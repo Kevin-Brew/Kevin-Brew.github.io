@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper192013.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper192013.pdf)
+
 Last Sunday, in our Old Testament Lesson, we read the story from the Book of the Prophet Jeremiah. The prophet tells of going down to watch a potter at work, making pots on his wheel. He would have watched as the potter patiently prepared the clay, kneading it to exclude any air bubbles, centering it, then firmly and patiently working with the clay as it spins around on the wheel until finally a pot is formed. If something goes wrong, he starts all over again, working the clay with the same patience and firmness.
 
 As I said there can be nothing rushed about that – any sudden movement and the pot would be all over the place. I offered that as a picture of God’s patience, God’s purpose as he patiently works in and through our frail and wilful humanity. I spoke also of those twin threads of judgement and new beginnings that run through the Old Testament story. Jeremiah brings those twin threads together as he gets us to think of the potter destroying a pot that was not working out and with the same clay starting up all over again.

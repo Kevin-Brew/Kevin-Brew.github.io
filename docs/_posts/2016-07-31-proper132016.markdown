@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper132016.png"
 tags: Crucial_Events Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper132016.pdf)
+
 In a world that seems to have become hardened to violence and tragedy, the murder of Fr Jacques Hamel as he said Mass in the Parish Church of St Etienne on Tuesday struck a particular note of horror. It was an act in the name of a twisted ideology that flies in the face of all mainstream religious values, be they Christian, Jewish or Islamic. This is an event that strikes at the very heart of our humanity, which challenges the very core of what it means to be Christian, our allegiance to Christ and his teaching. In the context of the rise of ISIS in Iraq and Syria, our own President Higgins wrote the following:
 
 > To those on the road it is reported that

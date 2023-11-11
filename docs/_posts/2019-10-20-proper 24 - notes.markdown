@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper 24 - notes.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper 24 - notes.pdf)
+
 With full assurance of faith, abounding in hope, the bishop prays the confirmation prayer and rooted and grounded in love. Almighty and everliving God, whose Son Jesus Christ was crucified and rose again to break the power of sin and death. We give thanks and praise for the gift of your Holy Spirit by whom your servants have been born again and made your children. Grant that in the power of the same Holy Spirit they may continue to grow in the knowledge and likeness of Christ; to whom with you and the Holy Spirit, belong glory and honour, worship and praise, now and for ever. Amen.
 
 > "Then the LORD God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and the man became a living being." - Genesis 2:6.

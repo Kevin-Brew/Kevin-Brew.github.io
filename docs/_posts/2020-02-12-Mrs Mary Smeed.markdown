@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Mary Smeed.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Mary Smeed.pdf)
+
 Nearly six years ago, we gathered here for the funeral of Mr Peter Smeed. Today we gather for the funeral of his wife Mary, who died last Saturday at the great age of 98 in the Care Choice Nursing Home where she had been cared for over the last four years. Ten years ago Peter and Mary had moved from their home in England and set up home in Corr Castle to be close to their son Paul on the Howth Peninsula.
 
 Like her husband, Mary had a love of life – as Paul recalled the other day, 'She was an Essex Girl!' An accomplished swimmer, she had swum for her county and was a qualified Life Guard, winning an award on one occasion for saving the life of a young child who had got into difficulty in a canal lock.

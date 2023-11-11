@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Madge O,Neill.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Madge O,Neill.pdf)
+
 Funeral of Mrs Madge O’Neill – 12th January 2015
 
 We have come here today to remember before God Madge O’Neill who lived in this community of Howth for many years. Wife and companion of Bill, mother of Michael, Anne and David, teacher, friend – most of all, herself, Madge. I first came across Madge nearly 40 years ago when Rachel taught briefly in Sutton Park prior to our marriage. She took great pleasure in telling us over the years that when in College she had gone on a blind date with my father in law, Rev Tommy McIlroy. Tommy didn’t go past the first date.

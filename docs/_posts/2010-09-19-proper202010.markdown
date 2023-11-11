@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper202010.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper202010.pdf)
+
 While we were away, I took the opportunity to start re-reading a book by the Chief Rabbi of Great Britain and the Commonwealth, Dr Jonathan Sacks, 'The Dignity of Difference'. This book was written in the aftermath of terrible happenings of 9/11 in New York and the growing polarisation of religious communities and the pressures of globalisation not just in the economic sphere but in the sphere society and faith.
 
 He drew a comparison between the range of communications that are available to us now compared to fifty years ago. In the UK there were two TV channels which were watched by everybody so everyone was exposed to a whole range of political, social and religious opinions. Now in the era of multichannel TV you watch the channels that will reinforce your own view – for example those who have a sympathy for 'Tea Party' politics in the United States will watch Fox News, which will tell them how awful Obama is. Jonathan Sacks argues the importance of listening, of dialogue, of recognising truth in one who may hold a radically different position to me.

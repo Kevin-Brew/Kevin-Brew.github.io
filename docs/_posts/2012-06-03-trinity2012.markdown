@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/trinity2012.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/trinity2012.pdf)
+
 ### TRINITY SUNDAY 2012- year B
 
 As you are aware I maintain a small, somewhat ill kempt, vegetable patch at the end of the back garden in the Rectory. I'm never going to win any prizes for my produce but I do manage to eat some of the fruits of my labours and in the process get some genuine satisfaction which counteracts the frustration of other things going horribly wrong. Each year I try to grow a few different things. Last year Percy Lovegrove told me of cauliflower plants that were available in the garden centre in Kinsealy. I duly bought a few, prepared the ground and planted them and waited for them to grow. The first few produced small heads that then shot all over the place. I came to the conclusion that cauliflowers were not my thing and then after some time went to clear that bed to prepare the ground for something else. Then I came across one solitary plant. When I peeled back the leaves I saw a lovely head of cauliflower which I proudly presented at the kitchen door and which subsequently tasted delicious. Why had that one worked and the others had not? The soil was the same, the plants all came from the same garden centre. Maybe it had grown more slowly than the others and the weather conditions as it came to maturity were more favourable – I don't know. One thing I do know for certain – it looked and tasted beautiful.

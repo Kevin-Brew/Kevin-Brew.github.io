@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Good Friday.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Good Friday.pdf)
+
 This evening, in word and hymn we have taken ourselves to the foot of the Cross. In the Jewish Passover tradition, the worshippers are told to place themselves in the place, the time, the circumstances of that first Passover night. As they eat the bitter herbs, the unleavened bread, the Passover lamb and recite the Passover liturgy, in their hearts and minds they are there. These events represent not just the redemption of their ancestors, these events are for them, for each and every generation.
 
 In bread and wine of communion we remember the death and resurrection of Jesus Christ. In the words of invitation to come and participate in communion the celebrant will say:

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmas22011 - notes.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmas22011 - notes.pdf)
+
 No one sews a piece of unshrunk cloth on an old cloak, for the patch pulls away from the cloak, and a worse tear is made. This is a metaphor for the concept of 'fullness' that is explored throughout the sermon. The sermon references various biblical passages that discuss the fullness of God, the fullness of time, and the fullness of our own spiritual journey.
 
 > 'Now if their stumbling means riches for the world, and if their defeat means riches for Gentiles, how much more will their full inclusion mean!' (Ro 11:12)

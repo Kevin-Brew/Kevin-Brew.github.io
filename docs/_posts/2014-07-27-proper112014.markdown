@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper112014.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper112014.pdf)
+
 Last week, in the course of our reflections on God working in and through our imperfect humanity, we continued our reflections on the whole issue of grace. In the context of that, I quoted Philip Yanci and his book 'What is so amazing about grace?' 
 
 "There is nothing I can do to make God love us more and there is nothing I can do to make God love us less."

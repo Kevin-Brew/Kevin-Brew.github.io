@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent42015.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent42015.pdf)
+
 One of the privileges in my job is being with people at crucial stages in their lives. One that I have always enjoyed is being with a couple as they prepare for their wedding. A marriage is a huge step in anyone’s life, in the life of any family. Of course in this day and age a veritable industry has grown up around it. Gone are the days of the black and white photo, the honeymoon in Galway. Hotels hold wedding fairs in which the prospective couples are invited to consider all the options that re available from the photographer, the video man, the cars, the flower consultant, the stationary, the reception and a host of options that are available for hen do’s, stag do’s, honeymoons in the Andes or whatever. Of course you can get married now in all sorts of venues, hotels, Croke Park, the Aviva, quite apart from the Registry Office. But a significant number are still wanting to get married in Church – and that gives us the opportunity to reflect on the marriage, the joining together of man and woman that lies behind it all.
 
 And so the couple will come to the Rectory and we will reflect together on the nature of Christian Marriage and how they want to celebrate their marriage. The Church of Ireland Marriage Service provides a lovely framework for this process. Our mind will turn to what are to be the hymns and other music, what are to be the lessons that are going to be read. It is lovely when couples really engage with that process.

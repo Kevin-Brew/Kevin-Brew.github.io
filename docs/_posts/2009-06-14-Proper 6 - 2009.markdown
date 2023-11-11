@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Proper 6 - 2009.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Proper 6 - 2009.pdf)
+
 They say appearances can be deceptive. Our perceptions of people and situations can be equally misleading. I recall my school days in Birmingham, 1966, when a new student, Lakbir, joined us. Initially judged for his Indian heritage and appearance, Lakbir proved to be hardworking and integral, teaching us the value of seeing beyond stereotypes.
 
 Another instance involved a seemingly respectable man visiting the Rectory in Finglas, who turned out to be a con artist. These experiences remind us that judgments based on appearances and preconceived notions can be flawed.

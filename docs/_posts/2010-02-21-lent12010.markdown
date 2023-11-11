@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent12010.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent12010.pdf)
+
 One of the things I quite enjoy is to head out for an early morning run. Often just from the house to the end of the East Pier and back. Prior to setting out there are those moments of indecision as I look out from the window – do I go out or do I stay in the warm and listen to the radio. As I get to the start of the pier – do I go onto the pier or just call it a day and head home. There is nothing earth shattering or life changing about these moments of indecision. Our Gospel reading, telling as it does of the temptations of Jesus in the wilderness, set me thinking about those more fundamental moments of indecision that we all face in life, the experience of temptation.
 
 I just want to think about temptation and our experience of it, how we deal with it, in the context of our Christian faith and discipleship. Does this mean that we descend into a mire of inadequacy, failure and guilt? For I often think that for a community that has at its heart a message of forgiveness and redemption we do guilt very well.

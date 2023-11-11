@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper122015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper122015.pdf)
+
 There is something about the arrival of a child in a family – new birth speaks of future. It brings to mind the births of other members of the family. Grandparents remember the birth of the parents of this new child, their childhood and early development. There is that reaffirmation of identity as we welcome the arrival of one who is 'flesh of my flesh.'
 
 Who am I? Son of Gilbert and Kathleen Brew – and the line goes back through my grandparents and great-grandparents. We look at physical characteristics, temperament – even mannerisms – and we say 'Don't you see his grandmother in him?'

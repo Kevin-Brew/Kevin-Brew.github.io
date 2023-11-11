@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper282015 - sermon notes - not used.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper282015 - sermon notes - not used.pdf)
+
 2 Samuel 15:29-30 describes a poignant scene of David ascending the Mount of Olives in mourning, setting a precedent for this location's significance. Similarly, in Matthew 26:29, Jesus speaks of a future communion in the Father's kingdom, a promise reiterated in Mark 14:25 about not drinking the fruit of the vine until in God's kingdom.
 
 Ezekiel 11:23 and Zechariah 14:3-4 prophesy the glory of the LORD and the Lord's battle, respectively, with the Mount of Olives as a focal point. The Gospels of Matthew and Mark recount Jesus' approach to Jerusalem, his instructions to his disciples regarding a colt, and the events leading to his betrayal and Peter's denial, all within the vicinity of the Mount of Olives.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Betty Hegarty.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Betty Hegarty.pdf)
+
 Funeral of Mrs Betty Hegarty – 4th April 2014
 
 Last Monday I received the news that Mrs Betty Hegarty had died in her home on the Old Carrickbrack Road and the family began the preparations for her funeral today. Over these last few days, in conversations with her family and with those who had known her in the area I gained a picture of a remarkable lady. Today the family, through a series of readings and tributes, will be sharing some of their memories, ways in which Betty Hegarty touched their lives and will continue to inspire them. The many friends who have gathered here have come to offer their own thanks for Betty and to stand alongside her family at this time. Standing as we do, in the approach to Good Friday and Easter, we acknowledge the reality of death , of mortality and proclaim, in the words of a prayer I will use later in this service, ‘And life is eternal and love is immortal, and death is only an horizon, and an horizon is nothing save the limit of our sight.’. It is that horizon, that limit to our sight, that Betty sought to explore, to extend in her own mind, in the minds of others.

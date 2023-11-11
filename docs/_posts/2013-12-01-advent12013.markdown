@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent12013.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent12013.pdf)
+
 One of the features of the professional game of football is the transfer market. As the transfer window approaches speculation rises as to who is going to be on the move, which player wants to move, which club is keen to get rid of a player. There can be some real surprises such as the move by Robin Van Percy from Arsenal to Manchester United, as his appearance at the press conference to announce the move in his Manchester United shirt. The change represented more than just a change in his shirt, it represented a change in allegiance, in commitment.
 
 Our own choice of clothes says something about how we see ourselves, how we like to be seen by the world at large. Periodically people will go for a new style, a new image. In this we might be influenced by what we see in the magazines or on the TV. Or it might just be recognising that the years are passing by and the styles of our youth don’t look just the same on our rather more mature bodies.

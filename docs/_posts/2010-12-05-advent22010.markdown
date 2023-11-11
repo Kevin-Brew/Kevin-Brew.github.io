@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent22010.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent22010.pdf)
+
 Do you ever find yourself asking, 'Wouldn't it be nice if...?' You can do this on a number of levels. The child can dream 'Wouldn't it be nice if... you didn't have to go to school... you could eat what you liked for dinner... you could go to bed when you liked?' Of course it is not just the children who do this. Maybe around the house the question is asked 'Wouldn't it be nice if there was a flower bed in the middle of the lawn?' I often remark that these questions may take only a minute to ask but a lot longer to put into effect.
 
 That question 'Wouldn't it be nice if...?' can just remain at the level of the day dream. We can sit looking at the lawn and imagine the flower bed, the rockery, the roses. We can imagine the scent of the flowers, the buzzing of the bees. They remain at the level of the day dream because we are not willing to take the practical steps, to put in the effort required, to transform our day dreams into reality.

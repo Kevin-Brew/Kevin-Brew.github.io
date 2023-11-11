@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/sundaybeforeadvent2022 - prayers.png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/sundaybeforeadvent2022 - prayers.pdf)
+
 PRAYERS FOR LOUGHILE
 
 20 TH November 2022

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Burrow NS End of Year - 2009.png"
 tags: School Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Burrow NS End of Year - 2009.pdf)
+
 Thank you – an expression of gratitude. When someone gives me something, does something for me – I say thank you. When I do that I am saying that was good, I really appreciate that. Acknowledging someone has gone to some trouble in choosing the gift, in taking the time and effort to help. Thank you – its good to say that simple word.
 
 It is now the end of the school year. For 6th class this is the end of your time in the Burrow School. We are saying thank you. We are saying thank you to God and to one another. For the friends we have made – hopefully these are friendships that will last. For the things we have learned and all the experiences we have shared. We are saying thank you to you for all that you have contributed to the life of the School.

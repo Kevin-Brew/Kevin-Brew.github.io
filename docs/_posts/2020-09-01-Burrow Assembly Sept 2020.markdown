@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Burrow Assembly Sept 2020.png"
 tags: School School Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Burrow Assembly Sept 2020.pdf)
+
 Good morning everyone and welcome to the first School Assembly at the Burrow School of the new School year. A very special welcome to our new Junior Infant Class. I am missing not being with you in person. Normally at this Assembly you would be sitting at my feet in the front row. This is all very new for you – new School, new Teacher, new friends, new things to learn. It all may seem a bit scary at the minute but you will soon settle in, get to know your teacher, get to know your class – get to do and learn all sorts of new exciting things.
 
 Welcome to our new 6th Class. Do you remember when you were in Junior Infants, sitting in that front row, maybe a bit overwhelmed yourselves at all that was going on around you. It has been wonderful watching you develop as people to the stage where you are now the ones to whom the rest of the School looks to as an example of all that is best in the Burrow School.

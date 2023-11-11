@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Gwen Holmes.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Gwen Holmes.pdf)
+
 Funeral of Gwen Holmes – 11th December 2015
 
 This time of year, as we approach the Feast of Christmas is a time that was very much enjoyed by the lady whose memory we honour today. Gwen Holmes dies very suddenly in her home on Saturday night. She died very much alive, still enjoying friends, still making plans, still enjoying travel, still looking forward.

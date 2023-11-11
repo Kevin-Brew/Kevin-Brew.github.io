@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter62013.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter62013.pdf)
+
 6th Sunday of Easter – 2013 – Year C
 
 The other night I came back in to the house and tuned in to see the final stages of the Champions League match between Barcelona and Bayern Munich. The overall result of 7-0 amounted to a comprehensive demolition of mighty Barcelona. It was a pretty impressive demonstration of the power of teamwork. Individuals, each of them highly skilled, coming together with a shared purpose.

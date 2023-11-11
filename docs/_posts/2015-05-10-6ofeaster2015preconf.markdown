@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/6ofeaster2015preconf.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/6ofeaster2015preconf.pdf)
+
 6th Sunday of Easter – 2015 – year B – Preconfirmation
 
 This has been a week of remembering – earlier in the week there was the official memorial service for those who died in the 1916 Rising. Over this weekend right across Europe people have been remembering – remembering the end of the war in Europe in 1945, 70 years ago.

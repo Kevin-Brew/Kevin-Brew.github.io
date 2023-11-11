@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper132020.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper132020.pdf)
+
 PROPER 13 – Year A – 2020 – Trinity 8
 
 Kevin recalls his early ministry days and a story from a New York Rector who revitalized a dwindling parish near Wall Street through a weekday ministry offering affordable lunches. This small act of service breathed new life into the church.

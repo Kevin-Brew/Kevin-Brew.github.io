@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Tom Stanley.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Tom Stanley.pdf)
+
 Funeral of Tom Stanley – 21st December 2012 - Howth
 
 I recall in my early times here in Howth calling on the house of Tom and Anne Stanley in Offington Park. I was coming looking for some advice. We went out and sat in the garden and Tom listened to what I had to say and in that gentle manner we will all associate with Tom Stanley he gave me very sound advice. We come here today for the funeral of this gentle man, Tom Stanley, husband to Anne, father to Roger, Robert, Christopher and David, brother to Ina and Helen, grandfather and friend to many. The family have already shared their memories and reflections on Tom, his life, his values, the value he placed on relationships.

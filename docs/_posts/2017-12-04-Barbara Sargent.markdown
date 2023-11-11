@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Barbara Sargent.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Barbara Sargent.pdf)
+
 We come together today for the funeral of Barbara Sargent, of one who was so much part of the life of this Parish and this community. Where do we begin? Barbara was Barbara, full of life, full of energy, always ready to give of herself whether in the context of a big project or in just standing alongside someone. Her death, in the early hours of Thursday morning, after a battle fiercely fought in the ICU of Beaumont Hospital, has come as a dreadful blow to Gerry and the family and a huge shock to the Parish and the wider community to which Barbara contributed so much.
 
 She was very proud of her roots in this area in which she and Hazel grew up. She loved the outdoors, quickly becoming involved in tennis and sailing. I am sure she was noticed by a number of people, but one particular bank official remembers seeing her board the bus for school as he travelled into work. She met the same Gerry Sargent at National Sailing Championships in Skerries in 1962. So began the love of a lifetime. Her family were not quite sure; so, as Gerry remarks 'she was sent off to Coventry, sorry London' for a year to see if things would cool. But even in those days, Barbara was a lady who knew her own mind and she and Gerry were married. Not long afterwards David and Robert were born, soon to be followed by Andy. Newly wed, three young children, Gerry and Barbara worked hard to establish a home for themselves and their children on the Strand Road in Sutton. Barbara and Gerry rejoiced in their children, in watching them grow up, in all that they have achieved, in the partners they found, in watching the grandchildren develop. And they clearly took an obvious in her. Along with Hazel, she offered loving care and support for her mother Peggy for so many years.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany2018.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany2018.pdf)
+
 Sometime last year someone reminded me of a sermon I preached at my first midnight communion service here in Howth. I had included in my sermon a memory I had of going out sea fishing off the Antrim coast with a member of the Parish of Ahoghill. By the time we came back in, it was after dark. Looking from the boat towards the shore I was aware of a mass of lights - street lights, traffic lights, car lights, lights from houses – somewhere in the midst of them all were the lights marking the entrance into Carnlough harbour. Fortunately my friend knew this part of the Antrim coast well. He knew which lights to set his course by and before I knew it we had made our way back into the harbour.
 
 Over the years, on different parts of our coast, people used to set false lights, with the sole purpose of drawing boats not familiar with the area onto rocks. This was with the purpose of wrecking the ships and plundering their cargoes, in the course of which the crews of these ships were frequently killed.

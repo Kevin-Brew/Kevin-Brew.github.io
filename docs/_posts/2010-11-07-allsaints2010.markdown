@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/allsaints2010.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/allsaints2010.pdf)
+
 All Saints 2010 – year C – Service of Wholeness and Healing
 
 When I was in the North my GP used to call me in every couple of years for a general health check. I remember on one occasion he looked over the records of my previous visits and then announced, ‘You are not overweight yet, but unless you start to do something about it you soon will be. You need to think of ways in which you can get regular exercise.’ All this from a man who couldn’t give up his cigarettes – but that is another story.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent42018.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent42018.pdf)
+
 We have read as our Old Testament Lesson that passage from Micah that we will be reading at our Carol Service this evening. Micah was writing in the closing years of the 8th century BC. The Northern Kingdom of Judah had been over run, the Kingdom of Judah and its capital Jerusalem was expected to follow suit. Micah saw all this in terms of God’s judgement on a people who had betrayed their divine call. This passage, with its reference to ‘Bethlehem of Ephrathah, one of the little clans of Judah’, recalls the very beginnings of the monarchy, the anointing of David. The prophet is speaking of new beginnings, a fresh start for a people, for a kingdom that has brought itself to the edge of destruction.
 
 It is out of the littleness of Ephrathah, of Bethlehem that this new beginning, this restored Davidic line will arise. It is one of those stories of new beginnings that we see in the Bible. There is something almost reminiscent of the new start in creation that we see in the story of the Flood. Out of the destruction wrought by the Flood, a new start is made through the littleness of one family, the family of Noah. In the time of Micah, the people of Judah have been brought to the edge of destruction. Even in the midst of the devastation the prophet speaks of new beginnings, new hope.

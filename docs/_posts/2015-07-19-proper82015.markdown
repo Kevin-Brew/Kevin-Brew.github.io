@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper82015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper82015.pdf)
+
 PROPER 8 – 2015 – Year B – Trinity 4
 
 This last ten days we have seen every parents nightmare across our papers and television screens. The J1 visa has become something of a rite of passage for Irish college students with its opportunities to work and travel in America. Then in the midst of a 21st Birthday party in Berkley, as they celebrated with friends, a balcony plunged down into the street below, 6 lives were cut short and others scarred physically and mentally for life.

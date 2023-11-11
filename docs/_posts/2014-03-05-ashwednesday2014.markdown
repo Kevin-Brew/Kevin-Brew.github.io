@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/ashwednesday2014.png"
 tags: Lent Mid_Week
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/ashwednesday2014.pdf)
+
 ASH WEDNESDAY 2014
 
 Have you ever felt guilty? Have you ever looked back at something said, something done – and even long after the event, we have cringed at the very thought of it. That is a very common human emotion. Guilt, feelings of guilt, can have a very positive influence in challenging behaviors, attitudes towards other people – it can be an agent of change. But that is not really what I am talking about. – guilt left unresolved, not addressed or attended to can be debilitating, even destructive, leaving us with feelings of unworthiness, even self loathing that can spill over into our dealings with others, our attitudes to others.

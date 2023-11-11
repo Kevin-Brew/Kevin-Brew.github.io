@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper182014.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper182014.pdf)
+
 PROPER 18 – Year A – 2014 – Trinity 12
 
 One of the features of the modern world in which we live is the contract of employment. This will provide the terms under which we are expected to perform at our place of work, the duties that are required of us, the remuneration that we may expect. There will be other clauses covering areas such as confidentiality. Then towards the end there are the disciplinary and grievance procedures that are meant to guarantee fairness of treatment. The grievance procedure includes the steps that are open to us if we feel that our employer or fellow employees are treating us unreasonably. The disciplinary procedure provides the employer, among other things, with a mechanism for the removal of an employee without leaving themselves open to legal challenge in a subsequent tribunal.

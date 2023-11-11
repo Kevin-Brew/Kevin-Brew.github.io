@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/3ofeaster2015.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/3ofeaster2015.pdf)
+
 Back in 1968, when I came to Dublin to study in Trinity, there were a number of cultural differences between Dublin and my native Birmingham that struck me as I began to settle down. The first one was that of what amounted to a ‘mixed marriage’. I recall my land lady in Blackrock saying with some satisfaction that none of her sons were involved in a mixed marriage. In Birmingham a mixed marriage was inter racial. Dublin in 1968 did not have a large overseas population and for a moment I was left wondering were there whole areas of Dublin of which I was unaware with a large overseas population.
 
 The other one that intrigued me at the time was in the area of people’s names. I got to know two students, who were brother and sister who seemed to have different surnames. There was Owen Mac Egoin and his sister Niamh Nic Egoin until Owen explained to this Sassenach blow the obvious significance of the Mac and the Nic – son of and daughter of.

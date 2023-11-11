@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mr William Carron.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mr William Carron.pdf)
+
 Funeral of William Carron – Mount Jerome – July 31st 2017
 
 Back in May we gathered in St Mary’s Church for the funeral of Barbara Carron. Back then we referred to a wonderful creative partnership between Barbara and her husband William. Today, less than four months later, we gather for the funeral of William.

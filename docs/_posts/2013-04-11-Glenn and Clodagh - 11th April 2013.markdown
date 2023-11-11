@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Glenn and Clodagh - 11th April 2013.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Glenn and Clodagh - 11th April 2013.pdf)
+
 Wedding of Clodagh McCartan & Glenn Watson – 11th April 2013
 
 This afternoon here in St Mary’s Church Glenn and Clodagh are celebrating their marriage. For you this is the celebration of a life of commitment to one another that is at the heart of your shared life together. In that shared life you have discovered love in one other. Within that love you have become a family unit. Today, your friends and your family come to share with you in celebrating the love and joy you have found in each other and to ask God’s richest blessing upon you in the days that lie ahead. The Bible reading for the service today and the words of the Marriage Service itself are full of themes of commitment, of faithfulness, of the love that you have found for each other.

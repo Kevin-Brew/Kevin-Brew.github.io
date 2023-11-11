@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper102015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper102015.pdf)
+
 PROPER 10 – 2015 – Year B – Trinity 6
 
 I remember when I was at school, a friend pointed out an advertisement in the 'Readers Digest' for a speed reading course. As with many of these ads there was a testimonial by someone famous, in this case an American comedian (whose name I have forgotten). He testified; "After taking this speed reading course, I read Tolstoy’s 'War and Peace' in four hours – it's about Russia." He had if you liked got the big picture, even if the finer details of the story had passed him by.

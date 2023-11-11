@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper72017.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper72017.pdf)
+
 ### PROPER 7 – Year A – 2017 – Trinity 1
 
 At the conclusion of our first and second readings in the service of Holy Communion the reader will declare: 'This is the word of the Lord.' and we will respond; 'Thanks be to God'. Could I ask what was in your mind as you heard our Old Testament reading and the proclamation; 'This is the word of the Lord'. Did you perhaps mentally cross your fingers as you responded; 'Thanks be to God'?

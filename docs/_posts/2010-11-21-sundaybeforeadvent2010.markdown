@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/sundaybeforeadvent2010.png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/sundaybeforeadvent2010.pdf)
+
 Each Sunday we come into Church we look at the window over the communion table. It is a window rich in symbol; symbol of both the wider Church in general and the church here in this part of north County Dublin. We have both the figures of St Lawrence, holding a grid iron, which reminds me of my local parish Church in Birmingham; then there is St Patrick, St Brigid, the gospel manuscript, the Garland of Howth, held by the figure of St Nessan as well as the figure of St Fintan. The central figure in the window is the figure of the risen Christ, head adorned with a crown, hands and feet still bearing the marks of crucifixion.
 
 I found myself looking at that window the other day as I reflected on the lessons appointed for today, the Sunday before Advent and the theme for this Sunday, the Kingship of Christ. How do we recognise kingship, sovereignty, how do we recognise authority? In our Gospel reading the penitent thief appeals to Jesus, ‘Jesus, remember me when you come into your Kingdom.’ In the world, the mark of kingship is power, the ability to order the lives of others, to impose your will upon theirs. Jesus calls his disciples to a new way.

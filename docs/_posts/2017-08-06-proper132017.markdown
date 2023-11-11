@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper132017.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper132017.pdf)
+
 Have you ever suffered from a guilty conscience? I don’t mean the pangs of regret that come from an isolated incident such as a hasty word spoken in a fit of ill temper. What I am talking about is more a realisation that our attitudes, our behaviour towards others over a period of time has been wrong. We are aware of our failure. We are aware how it has affected other people and we wish it could be different but we do not know where to begin. There can be a real torment within ourselves. The past cannot be changed and people’s reaction to us as a result seems to be set.
 
 These sorts of thoughts came to me as I reflected on our Old Testament Lesson this morning. Over the past number of weeks the Old Testament readings have been around the story of Jacob. Jacob was definitely a man with a past. He had tricked his brother Esau out of his birthright, deceiving his father Isaac in the process. While Laban, his father-in-law, was no angel, he had run foul of him when his wife Rachel had concealed the family gods when they left home.

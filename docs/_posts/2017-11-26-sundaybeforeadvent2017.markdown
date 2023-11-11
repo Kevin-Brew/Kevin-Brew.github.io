@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/sundaybeforeadvent2017.png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/sundaybeforeadvent2017.pdf)
+
 Sunday before Advent – Year A – 2017
 
 Last Sunday was a day of celebration for two families in our Parish as they celebrated the arrival of new members of their families and for us as we welcomed them into the family of the Church. The Archbishop, in his sermon, encouraged us to draw inspiration from those who had gone before us and to look forwards and outwards, highlighting the emergence of new housing areas on the edge of our Parish.

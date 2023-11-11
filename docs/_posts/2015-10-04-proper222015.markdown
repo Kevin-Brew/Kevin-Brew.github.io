@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper222015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper222015.pdf)
+
 PROPER 22 – Year B – 2015 – Trinity 18
 
 What do we look for in companions, in life partners? Rachel came across something a while back that we have both reflected on quite a bit since. 'We value our friends not because of their ability to amuse us but because of our ability to amuse them.' The more I think about that I realize this is a sign of empathy, an understanding, a realization that we are on the same wavelength. There is something about humor, our sense of humor that is very personal, that says something about us and so to share that with someone else says something about a bond of personalities, of individuals.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent52014.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent52014.pdf)
+
 LENT 5 – YEAR A – 2014
 
 Sunday by Sunday, in the course of my thoughts I will often return to the whole idea of life as a journey, a journey towards God, a journey into God. From the moment we are born we are on that journey, a journey in which Christ is our companion along the way. For each of us that journey is different, it is a very personal pilgrimage.

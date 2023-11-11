@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent32014.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent32014.pdf)
+
 Each Sunday in Church, in the course of our worship, we read from the Bible. Our lessons are drawn from the Old Testament, the Acts and Epistles and of course the Gospels. In the course of our worship we reflect on the Psalms either in chant or spoken form. Reading from the word, reflecting on the word lies at the heart of our life and worship. Over this season of Lent, in our Gospel passages we are reading some of the big passages from John’s Gospel – Jesus and Nicodemus, Jesus and the Samaritan woman at the well, Jesus in dispute with the religious authorities over healing on the Sabbath, Jesus and the raising of Lazarus. Each of these represent key stages in the development of the ministry of Jesus on his journey towards Good Friday and Easter. John is very careful in the way he puts his Gospel together, the material he chooses, very clear in his overall purpose.
 
 > *30 Now Jesus did many other signs in the presence of his disciples, which are not written in this book. 31 But these are written so that you may come to believe that Jesus is the Messiah, the Son of God, and that through believing you may have life in his name.*

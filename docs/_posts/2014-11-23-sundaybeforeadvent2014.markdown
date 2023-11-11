@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/sundaybeforeadvent2014.png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/sundaybeforeadvent2014.pdf)
+
 Sunday before Advent – Year A – 2014
 
 This last week I made a long delayed trip to the city of Berlin. I was originally meant to go on a school trip in 1965. Unfortunately some 6 weeks prior to departure I ran into the back of a car on my bike and badly broke my leg. So nearly 50 years later, I finally set foot in Berlin.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper192015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper192015.pdf)
+
 One of the features of many a teenager's bedroom would be the variety of posters on the wall. Some are there to shock, others may be of celebrities, people they admire, perhaps aspire to be like.
 
 What I want to do this morning is to ask you to reflect on characters in the Bible you are attracted to, whom you particularly admire, who might be your "Biblical pin-up" and to offer some thoughts on my particular favourite. My father-in-law, a Presbyterian Minister, named his son Paul – the writings of the apostle were such an inspiration to him in his preaching.

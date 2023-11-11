@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Des Meredith.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Des Meredith.pdf)
+
 This morning we have gathered in All Saints Church for the funeral of Mr Des Meredith. Des died peacefully last Sunday in St Francis Hospice here in Raheny with his wife and family at his side. Over the last couple of days there has been sorrow as they begin to come to terms with their loss. There has been remembering and thankfulness – some tears and some laughter.
 
 They remember a family man, a man with a love and zest for life. He grew up near Carlow and went to National School in Carlow town before heading on to Kilkenny College and Mountjoy School. He may have been brought up on a farm but, as the family have remembered with some amusement, farming was not for Des and he came to Dublin, working for 40 years in General Accident Insurance Company, where he was highly respected, eventually becoming Motor Superintendant.

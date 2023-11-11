@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper152015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper152015.pdf)
+
 PROPER 15 – Year B – 2015 – Trinity 11
 
 I want to begin this morning by using our imagination - I want you to think of going out for a meal. It might be a posh restaurant, or a Chinese or Indian or maybe McDonald's or the local fish and chip shop. We look at the menu, the variety of meals on offer. What will I choose? Will I go for what I always have or will I be a bit more adventurous? How about the sweet and sour prawn? What is satay when it is at home? Or will I have the McBacon? Decisions. And while I work my way through the menu the waiter is waiting, pen hanging over the pad. At last I choose something off the menu - the waiter heads off to the kitchen and a meal is prepared solely for me - this is my choice - this is what I want. Finally my meal is brought and put in front of me - for me to eat - for me to enjoy.

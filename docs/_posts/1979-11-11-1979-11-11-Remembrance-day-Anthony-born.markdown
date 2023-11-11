@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/1979-11-11-Remembrance-day-Anthony-born.png"
 tags: Crucial_Events Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/1979-11-11-Remembrance-day-Anthony-born.pdf)
+
 This Sunday, Remembrance Sunday, our thoughts turn for a short while to those who have died in the wars of this century. There are those here in this Church who have very personal memories of wartime. Memories of experiences, memories of comrades who fell. What I want to do this morning, in the next few minutes, is to think about the part remembrance plays in our lives and in our faith. There has been a move over the last few years to broaden the frame of reference of Remembrance Day to include those who have given their lives while serving in peacekeeping operations with the United Nations and over the past ten years our thoughts are inevitably drawn to the appalling toll of life in Ireland.
 
 Surely one mistake that must be learned in Ireland is the futility of remembering the past only in order to rake up old hatreds and animosities; rekindle old battles. If remembrance is only aimed at looking back to the past in order to relive the past then it is a futile and rather pathetic exercise. The men who died were doubtless looking forward to a time when the war would be over. It is for those of us who were spared and for those who were born after those terrible times to build on the opportunities afforded by the present so that their sacrifice was not in vain.

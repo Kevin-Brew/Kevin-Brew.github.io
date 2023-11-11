@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/2nd Sunday of Easter - Family - 2010.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/2nd Sunday of Easter - Family - 2010.pdf)
+
 Has someone learned to do something new recently – how to swim, how to ride a bike? Sometimes we get it straight away, sometimes it might take us a bit longer – while we are learning it is important people don’t make us feel foolish.
 
 We just read the account given by St John of two meetings Jesus had with followers after resurrection. We also had a drama presented by the Sunday School. Followers and friends of Jesus came to their own understanding of what was happening in different ways and at different times. Some got it immediately, some took a bit longer – Thomas took a whole week. No one said 'don’t be stupid' to anyone – those who grasped what was going on helped those who didn’t understand. But they didn’t badger them, didn’t force them to say things they didn’t believe or do things they didn’t want to. They gave each other space – Thomas, a week later was still a welcome part of the group.

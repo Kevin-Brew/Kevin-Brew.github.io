@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Joan Hutson.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Joan Hutson.pdf)
+
 Funeral of Mrs Joan Hutson – 16th October 2014
 
 One of my early memories of my time here in Howth is of a group of ladies who sat on this side of the Church, about half way down. One of them was Joan Hutson. From the very outset I was struck by her demeanour; always perfectly turned out, the smile, the almost impish glint in the eye. Even until very recently, she was here in Church for the 9:30 whenever her health permitted it. Her attendance at worship, her faith were quite clearly a priority for her. In a world of busy-ness, of frantic activity, Joan’s generation have a lesson for us in the priority we give to the things of God, the worship of God.

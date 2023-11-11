@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Jennifer Guinness and Alex Booth - Dec 5 2015.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Jennifer Guinness and Alex Booth - Dec 5 2015.pdf)
+
 ### Marriage of Jennifer Guinness and Alexander Booth – St Mary’s – 5th December 2015
 
 We come today to celebrate the marriage of Jennifer and Alex. In one sense this has all happened very quickly and in another this is a culmination of your whole life together. We are celebrating the love that you have found in and for each other, a love that has sustained you up to the present moment.

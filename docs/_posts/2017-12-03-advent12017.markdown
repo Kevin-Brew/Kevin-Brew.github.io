@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent12017.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent12017.pdf)
+
 I don’t know whether you noticed it but the Friday before last was listed as Black Friday. It was a day of bargains in the shops, all with the idea of getting us through the doors and spending. It is that time of year already – a number of stores had special offers on electrical and household items – all with the idea of getting ready for Christmas.
 
 But there is so much to do, so many deadlines – deadlines for cards, deadlines for parcels, deadlines for on-line shopping. Then there are the preparations for Christmas dinner, presents to get – what do you get the elderly uncle who seems to have everything – the food for Christmas dinner, the tree, the decorations. So little time left, so much to do …..

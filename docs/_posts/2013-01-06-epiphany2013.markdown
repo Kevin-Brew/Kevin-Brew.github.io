@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany2013.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany2013.pdf)
+
 FEAST OF THE EPIPHANY – 2019 – YEAR C
 
 Today, the 6th January, the Feast of Epiphany falls on a Sunday. So we have read as our Gospel lesson the account given to us in St Matthew of the coming of the Wise Men. Epiphany marks the end of the season of Christmas. The story of the visitation of the Magi completes in our minds eye the scene around the manger. Everyone is now in place, shepherds, wise men, camels, sheep, angelic voices, all focussed intently on the child in the manger and his parents. It is the stuff of Christmas cards. Now the decorations can come down and be packed away for another year, the schools will be back, family routines will be back and life returns to normal.

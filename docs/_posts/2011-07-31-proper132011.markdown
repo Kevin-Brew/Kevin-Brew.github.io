@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper132011.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper132011.pdf)
+
 Proper 13 – 2011 – year A – Trinity 6
 
 In the house of the Archbishop of Dublin in Milltown, there is a table that came from Downing Street. In the centre, there is a plaque with the inscription, 'Around this table Gladstone and his associates plotted the destruction of the Ancient and Apostolic Church of Ireland'. The plot referred to is the process that culminated in the Disestablishment of the Church of Ireland in 1871. Prior to that date, the Church of Ireland, as part of the United Church of England and Ireland, held power and influence disproportionate to our numbers. At Disestablishment, the Church was stripped of political power and much of its wealth. The redistribution of wealth benefited Assemblies College in Belfast and Maynooth College, among others. We were allowed to keep our Church buildings, but the Church had to buy back its Rectories from the Government. The Church of Ireland had to learn a new way of being Church in a rapidly changing Ireland.

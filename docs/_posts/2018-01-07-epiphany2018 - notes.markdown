@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany2018 - notes.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany2018 - notes.pdf)
+
 God has delivered us from the dominion of darkness and has given us a place with the saints in light. The newly baptized are sent out with these words: You have received the light of Christ; walk in this light all the days of your life. Shine as a light in the world to the glory of God the Father.
 
 Isaiah 60:1, "Arise, shine, for your light has come, and the glory of the LORD rises upon you."

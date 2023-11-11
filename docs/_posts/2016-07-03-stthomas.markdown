@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/stthomas.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/stthomas.pdf)
+
 St Thomas' Day – Trinity 6 – year C – 2016
 
 Beginning with our student days and continuing on into the present we have placed a number of posters, cards and cuttings around our house, in the loo, the corridors etc that make us stop and think or smile and very often both. There is one that started life in our student days that was finally left behind, rather bedraggled, in Ahoghill. It was a cartoon picture of a caterpillar working its way through a cabbage leaf, with the caption: 'Please be patient – God isn't finished with me yet.'

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper272015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper272015.pdf)
+
 ### 3rd Sunday before Advent - Proper 27 - year B - 2015
 
 As I read over our Gospel reading for today, the story traditionally referred to as the widow's mite, my mind went back to a salutary experience I had shortly after I took over the Parish of Finglas in 1980. On the previous day, I had made the annual appeal in Church for Christmas donations to the Parish Poor Fund. This gave the Rector discretionary funds to enable him to respond to cases of need. The following day a man appeared at my door in a rather shabby coat. He said that his wife had come home from Church and told him about the Parish Poor Fund. He went on to explain that, since his sight and hearing were poor, he was rarely in Church and as he could not work he and his wife were not well off. As he spoke I began to work out in my own mind an appropriate Christmas payment. He then explained that he backed the odd horse and probably lost more often than he won. I rapidly readjusted my thinking as to how I could gently explain that the Parish Poor Fund was not there to off set losses on the horses. But before I could do so he handed me and envelope - it was his Christmas Disability Bonus (in those days about £30). He and his wife had decided that I would know of someone who could use that money more than they could.

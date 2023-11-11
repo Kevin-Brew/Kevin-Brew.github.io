@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper192010fam.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper192010fam.pdf)
+
 Just back off our holidays caravanning in France – vital bit of equipment these days is Satellite Navigation. Always looking out to see if I am on the right track. It knows if I have gone off course and works out ways to get me back on track. With this, I now have confidence to drive into places I would never have tackled in the past. This year we drove into the centre of the city of Lyon, last year we tackled Paris – meant we were able to find our way back to our campsite.
 
 We are all at different stages of life – some of you have just started a new school. Some of you are facing changes this year – parents choosing new schools – which one will be best for our youngsters. All involves change – change can be both exciting and confusing – moving from National School to secondary school – suddenly we are the small fish in the big pool – new subjects – whole range of new teachers, different ways of doing things – takes time to adjust, to get our bearings. Need to know we have help staying on the right track. We have parents, friends – we will get all sorts of advice from TV, magazines. We also have the faith you have learned here, at home and at school – the teachings of Jesus and this whole funny business of prayer – talking to God, listening to God.

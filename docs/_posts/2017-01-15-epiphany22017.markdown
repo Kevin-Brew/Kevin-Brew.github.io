@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany22017.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany22017.pdf)
+
 Last Sunday, the first Sunday after Epiphany, our Lessons were grouped under the heading of 'The Baptism of Jesus'. We have left behind the stable, the child in the manger, the shepherds, the wise men, Joseph and Mary. We have leapt forward some thirty years or so. Last Sunday we heard of the Baptism of Jesus by John in the river Jordan.
 
 Speaking of our own baptism, the Pastoral Introduction to the Service of Baptism in our Prayer Book begins: 'Baptism marks the beginning of a journey with God which continues for the rest of our lives, the first step in response to God's love'

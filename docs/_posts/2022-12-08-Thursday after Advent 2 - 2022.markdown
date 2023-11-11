@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Thursday after Advent 2 - 2022.png"
 tags: Advent Church_of_Gaurdian_Spirit
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Thursday after Advent 2 - 2022.pdf)
+
 People will sometimes say that someone’s world has been turned upside down. It is generally not a happy experience. It can come after bereavement, loss of job, break up of a relationship – all that gave life meaning, all that we took for granted has been taken away and we are left struggling. Our world has been turned upside down.
 
 During this season of Advent our Gospel readings on Sunday mornings tell of aspects of the ministry of John the Baptist and his ministry of preparing the way. We are also hearing about the nature of the coming Kingdom.

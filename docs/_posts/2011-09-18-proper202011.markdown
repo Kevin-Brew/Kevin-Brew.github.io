@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper202011.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper202011.pdf)
+
 ### PROPER 20 – 2011 – year A – Trinity 16
 
 This week our Old Testament lesson is a continuation in our reading of the Exodus story that lies at the heart of the Old Testament. It is a story of redemption, of rebellion, a story of highs and lows as a people journey from slavery in Egypt to freedom in the promised land. This week we find the people complaining to Moses – why did you bring us out of Egypt to die of hunger in the desert. It is almost as if the suffering in Egypt had never happened. They look back to the days in Egypt with something approaching nostalgia, preferring the certainties of slavery to the uncertainties of freedom.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/holyweek2011thurs.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/holyweek2011thurs.pdf)
+
 HOLY WEEK – 2011 –Pilate’s Questions
 Thursday – ‘Here is your King!’
 We are continuing tonight in our reflections on the trial of Jesus before Pilate as told to us by St John. It was, as we have been thinking, an encounter not just between two very different individuals but two very different world views, two very different kingdoms.

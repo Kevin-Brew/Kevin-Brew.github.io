@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany22015.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany22015.pdf)
+
 I recall when I was Bishop’s Curate in Finglas and we were out socialising on the south side of the city, I used to get innocent amusement watching people’s reactions, when they asked me what part of the city I was living in. I would reply brightly 'Finglas' or, even better, 'Finglas West' – or if I was feeling really mischievous, 'the bottom of the Cappagh Road'. People from Dublin 4 had their own particular mental picture of Finglas that coloured their reaction to people.
 
 But of course it is always someone else who has prejudices, isn’t it? As the character Bernard Wooley in the TV series 'Yes, Prime Minister' once remarked: 'It’s one of those irregular verbs isn’t it? I have strong opinions, you are prejudiced, he is being prosecuted under the Race Relations Act.'

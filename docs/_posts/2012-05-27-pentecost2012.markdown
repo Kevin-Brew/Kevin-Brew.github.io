@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/pentecost2012.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/pentecost2012.pdf)
+
 We have now arrived at the Feast of Pentecost, the coming of the Holy Spirit upon the Apostles. We read as our lesson the account given in the Acts of the Apostles of that coming of the Spirit. I suppose if we are honest with ourselves the images of tongues of fire, rushing wind, people talking in strange tongues does not fit easily with our Anglican sensibilities. of all the persons in the Trinity, the role of the Holy Spirit is something we find hard to define. We fell more comfortable with God the Father, and his role in creation. The figure of God the Son, we can easily identify with the person of Jesus, his teaching and healing, his cross and resurrection. So what pictures do we have in our mind of the person and action of the Holy Spirit.
 
 The first thing I would say is that the ‘Spirit of God, the Spirit of the Lord’ is a recurring theme right through the Bible. We hear of the Spirit of God at creation moving across the waters. We hear of the Spirit of the Lord coming upon kings and upon prophets. The Spirit is very much God present and active in the world. The Spirit comes upon people for a purpose. And so in a passage from Isaiah read by Jesus in the synagogue in Capernaum, the prophet declares:

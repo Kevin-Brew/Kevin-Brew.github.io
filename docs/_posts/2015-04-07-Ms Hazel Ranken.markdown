@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Ms Hazel Ranken.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Ms Hazel Ranken.pdf)
+
 On this lovely spring day, we gather for the funeral of Hazel Ranken who died last Wednesday after a long battle with initially MS and then latterly cancer. She grew up in this area living initially on Claremont Road and then the Dublin Road, moving in 1991 to Damer Court following the death of her mother. She is remembered by family and former neighbours as a very caring individual, looking after her mother until her death. Unusually in today’s terms, she worked all her life for KPMG, most of that as secretary to one person.
 
 Janet Grant, on behalf of the family has shared memories and thanks givings the family have for Hazel. As it turns out her death came in Holy Week, as we were preparing for Good Friday, the day on which we remember with a particular emphasis the death of our Lord Jesus Christ and her funeral comes only two days after we have celebrated his resurrection, his victory over the powers of sin and death in the wonderful festival that is Easter.

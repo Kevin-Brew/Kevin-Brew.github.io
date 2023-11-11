@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper272012.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper272012.pdf)
+
 ## Proper 27 – Remembrance – 2012 – Year B
 
 Do you remember when? That is an invitation to join with someone on a trip back into the past. With memories come a whole load of associations, associations with people, with places. Memories can be happy, can be painful.

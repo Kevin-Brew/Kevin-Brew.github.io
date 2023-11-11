@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent52020.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent52020.pdf)
+
 Where would we be without WhatsApp? Over this past while, as we have been confined to our homes, we can’t meet up with our friends, we can’t play sport and we have even been forced not to meet for services in our Churches, the seriousness of the crisis we face has sunk in.
 
 I have received lots of WhatsApp feeds relating to Covid-19 – some of them very funny. I have also received some that really make you think. I think of one I received a few days ago containing reflections by Bill Gates, the man who set up Microsoft, the system that runs a lot of our computers and phones. He was thinking about what Covid-19 could teach us. It is quite a long piece, but a few sections really stood out for me:

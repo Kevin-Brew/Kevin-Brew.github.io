@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Doris Blennerhassett.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Doris Blennerhassett.pdf)
+
 Funeral of Mrs Doris Blennerhassett – 16th July 2012
 
 Over the last seven years I have been in Howth, I have often been asked; ‘Do you ever hear of Doris Blennerhassett?’ This question will be followed by recollections of Doris. Then, on the occasions I called into Delgean Nursing Home in Dundalk, I would have been asked, ‘How is the Parish? I love getting the Newsletter.’ Then memories shared of the Rectory, the Parish, the people – and of course Frank. What I have come to realise is that there was a genuine affection not just for Doris as “the Rector’s wife” but for Doris as a person in her own right. There was an affection on her part for this community in which she has lived for over forty years, the people of the Parish, the neighbours on the Howth Road.

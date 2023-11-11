@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/pentecost2019.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/pentecost2019.pdf)
+
 As we celebrate the Feast of Pentecost this Sunday, I think of two very different perceptions of the gift of the Spirit that we find in the Bible. There is the rushing wind, the tongues of flames, the speaking in different languages in the lesson from Acts. On the evening of that first Easter day there is the gentle breath of the risen Christ as he greets disciples sheltering in the Upper Room. Different parts of the New Testament will bear witness to the various gifts of the Spirit. In the recent Service of Confirmation here in Howth the Archbishop prayed that the candidates may be confirmed in the Holy Spirit. So we have a picture of the Spirit as empowering, as inspiring in the life of the Church.
 
 This is all brought together in the teaching of the Revised Catechism on the person and work of the Holy Spirit.

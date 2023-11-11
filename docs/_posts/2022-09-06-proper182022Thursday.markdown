@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper182022Thursday.png"
 tags: Church_of_Gaurdian_Spirit Proper
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper182022Thursday.pdf)
+
 Back in 1989 I left the Parish of Mountmellick in Co Laois to be Rector of Ahoghill & Portglenone, just outside Ballymena. I followed a Rector who had cherished the old Book of Common Prayer, affectionally referred to as the 'Black Book'. He had resisted all efforts by the wider Church to introduce any of the modern language service books.
 
 I quickly realised that any changes would have to be made gently and with sensitivity. We began by introducing on a monthly basis a more informal order of evening service without the traditional canticles.

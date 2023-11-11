@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent12016.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent12016.pdf)
+
 Last week saw the American Festival of Thanksgiving, a time at which the American people remember the very early days of the settlers from Britain, the difficulties they had in establishing their communities, a sense of thanks giving when with the gathering of their first harvest. It is a celebration in which Americans make the story of their founding fathers their story.
 
 Today, the First Sunday in Advent, is another special day in the life of the Church. Those of you who were here last Sunday will notice a difference as you came in; gone is the green of the season of Trinity, to be replaced by the purple of Advent. Gone are the flowers - they will be gone until we approach the festival of Christmas. We begin once again our cycle of readings, we embark once again on our weekly hearing of the Christian story, the ministry of John the Baptist, announcing the coming of Jesus, his birth, his life and ministry, his death and resurrection, the coming of the Holy Spirit. Alongside this we will hear once again the Old Testament story of Creation, of Fall, of the story of Moses, the story of slavery and redemption, the teachings of the great prophets. We are, in the words of the old Collect invited to ‘read, mark, learn and inwardly digest, that, through patience and comfort of your holy word, we may embrace and for ever hold fast the blessed hope of everlasting life.’ In this year by year hearing of the story, this ongoing reflection on the great themes of our redemption, we are invited to make this story our story.

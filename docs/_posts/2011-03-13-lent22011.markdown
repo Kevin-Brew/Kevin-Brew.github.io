@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent22011.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent22011.pdf)
+
 I recall during one of the lectures I attended given by the late Canon Jim Hartin on Church History, he was talking about the vocation of the Anglican Church within the wider Christian Church. It had a special vocation to hold the middle ground between the Roman Catholic and Orthodox Churches on the one hand and the Churches of the Reformation on the other. He was speaking in 1977/78, a period in which the Troubles in Northern Ireland were particularly violent with awful things being done on both sides. He went on that day to speak of the particular vocation of the Church of Ireland at that particular time, as a community called to hold the middle ground. Those who occupy the middle ground in any conflict situation, he reminded us, are often accused of weakness, of not being prepared to take a stand. The middle position, he argued, is often a very lonely position; those prepared to hold the middle ground often end up getting hit by traffic travelling in both directions.
 
 Our Gospel reading, the meeting of Jesus with Nicodemus who comes to him by night, contains one such expression, born from above, born again. We have allowed one interpretation, that of a one off particular experience, to dominate our understanding of this term. Some have argued that if you do not have this particular experience you are not yet a Christian and others have dismissed it as emotionalism. Let us begin with a basic question. What is birth? Birth is first and foremost a bringing forth of life.

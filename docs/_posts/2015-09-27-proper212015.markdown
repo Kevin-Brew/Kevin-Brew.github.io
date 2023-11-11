@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper212015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper212015.pdf)
+
 PROPER 21 – Year B – 2015 – Trinity 17
 
 Last May, Rachel and I returned to the city of Krakow to visit my daughter-in-law's family. It was a lovely opportunity to visit this lovely city – we returned to many of the places we had seen before when we were there for Anthony and Angie's wedding. Angie's father had kindly made available to me a small car to enable us to get around Krakow – I tried one trip out and decided to stay on foot! One day we joined a walking tour and our guide took us to places we had not seen before. One was the Franciscan Church, opposite the Archbishop's Palace. It had been nearly destroyed by fire in the 1850's and had to be totally restored. The most notable feature of this Church is a collection of windows by the artist Stanislaw Wyspianski, the most striking is the West Window and depicts God in the act of creation.

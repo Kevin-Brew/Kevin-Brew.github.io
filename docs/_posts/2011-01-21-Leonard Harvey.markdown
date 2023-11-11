@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Leonard Harvey.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Leonard Harvey.pdf)
+
 Funeral of Mr. Leonard Harvey - St Mary's - 21st January 2011
 
 In a world that puts a great deal of store on status, we often judge people by the house they live in, the car they drive or even, when they die, by the numbers who turn out for their funeral.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper172015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper172015.pdf)
+
 Proper 17 – 2015 – year B – Trinity 12 – morning
 
 The Bible is a remarkably varied book. I recall one of my lecturers, as he began a course of lectures, remarking on the range of material, history, poetry, law, judgement, exultant praise, agonising lament, that it could be said that 'All human life is there' – unfortunately the now defunct News of the World had grabbed that slogan for itself. For all human life is indeed found within its pages. As we followed the story of David over recent weeks we saw David in all his many strengths, in all his weaknesses and failings.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/4ofeaster2012.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/4ofeaster2012.pdf)
+
 4th Sunday of Easter – 2012 – year B
 
 'By what authority are you doing these things?' A demand made by the Temple authorities to Peter and the disciples when they are brought before them following the healing of a lame man in the Temple precincts and Peter’s subsequent preaching to the crowd who had gathered. The same question had been asked of Jesus when he had taught in the Temple.

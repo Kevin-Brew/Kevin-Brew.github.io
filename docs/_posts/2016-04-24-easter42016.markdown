@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter42016.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter42016.pdf)
+
 A film that became something of a classic some 15-20 years ago was the film 'Dead Poets’ Society' starring the late Robin Williams. It is one of those films that would still appear on the TV from time to time. It is set in an elite boys’ private school in the United States. This school has a strong sense of its traditions, having a record of producing leaders in both the political and business establishment.
 
 A new teacher, John Keating, arrives in the school. In the scene I have in mind, he takes his class out into the corridor and gets them to stand in front of a wall of photographs of former pupils from years before. He introduces them to the phrase 'Carpe Diem', seize the day - seize the opportunities they have to grow and develop, to become men, to realise their own greatness. Then he gets them to draw close to the wall of photographs, to look, to be totally quiet and to listen. As they awkwardly follow his instructions, he whispers behind them, 'Carpe diem – seize the day – listen to what these men are saying to you.' Listen. Listen.

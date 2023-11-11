@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Advent 1 - 2009.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Advent 1 - 2009.pdf)
+
 Healing is a word that has been associated with the Christian Gospel from the very outset. The writers of the Gospels, in their accounts of the ministry of Jesus, all speak of his healing miracles – of the skin of the leper, the sight of the blind, the hearing of the deaf, the limbs of the lame, the mind of the deranged, the speech of the dumb – all are restored at the touch or the word of Jesus – visible signs of a broken creation, healed, restored to its former perfection.
 
 The Church, from the very early times, was involved in a healing ministry in the establishment of hospitals for the care of the sick. In our own city the Adelaide, the Rotunda, St Vincents, the Mater, to name but a few, all owe their origins to Christian foundation. Healing, the care for the sick, has always been at the heart of Christian witness. In recent times the ministry of healing, the ministry of prayer and laying on of hands has been reaffirmed in the life of the Church.

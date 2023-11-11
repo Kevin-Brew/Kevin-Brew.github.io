@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Lent 4 - 2010 - Family Service.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Lent 4 - 2010 - Family Service.pdf)
+
 Show model of a house. What is difference between a house and a home? House is the building – might be big or small – set in Howth or Darndale. Home is about not just the building but the people who live there. One of the insights of the writer of Genesis is when he writes of God, having brought into being all the wonders of creation, saying ‘It is not good for man to be alone’. God has made us to live together – home is where we learn the complicated business of living with others: the simple things, sharing meals, sharing tasks, relaxing together, playing together – the importance of understanding, of consideration.
 
 It goes further than that. We read in the Bible that God is love and we also read that we are made in the image of God – so love and the capacity to love is an important part of our makeup. So God has made us to love together – home is where we first experience love. As children we know what it is to be loved by our parents – we learn what it is to be valued, to be special. As parents it is probably the most valuable gift we can give to our children, to one another.

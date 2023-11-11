@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper152018.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper152018.pdf)
+
 This morning we welcome Ronan and Adele as they bring their daughter Everleigh to be baptised. Baptism is one of the great Gospel sacraments and we find its meaning in the death and resurrection of Jesus Christ. In the early days when total immersion was the norm, the person to be baptised went right down into the water. The old person went down and the new person came up.
 
 >If anyone is in Christ, he is a new creation, ...

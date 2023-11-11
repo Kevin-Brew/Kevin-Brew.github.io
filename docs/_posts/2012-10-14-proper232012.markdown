@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper232012.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper232012.pdf)
+
 At this time of year as we celebrate Harvest Thanksgiving, it is one of those 'feel good' times of the year when we recognize God's goodness towards us as in the decoration of our Churches we are reminded of the richness and variety of God's provision for us in the context of the natural world.
 
 But we would all recognize that there are situations in life when God's goodness is not so readily apparent. This morning we are reading the first of a series of lessons from the Book of Job. These remind us of other circumstances when God's goodness and faithfulness are not so readily apparent.

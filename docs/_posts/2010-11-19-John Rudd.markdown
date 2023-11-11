@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/John Rudd.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/John Rudd.pdf)
+
 Funeral of Mr John Rudd – Howth – 19th November 2010
 
 My first memory of Mr John Rudd is at the evening service here in St Mary’s at which he was a regular attender for as long as he was able, sitting alongside his life long friend Derek Moody and Don Jermyn.

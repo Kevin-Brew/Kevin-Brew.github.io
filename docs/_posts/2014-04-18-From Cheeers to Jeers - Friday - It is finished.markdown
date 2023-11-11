@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/From Cheeers to Jeers - Friday - It is finished.png
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/From Cheeers to Jeers - Friday - It is finished.pdf)
+
 From cheers to jeers – Johannine readings
 
 Friday – It is finished

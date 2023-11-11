@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Vicky Reilly and Garry Millar.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Vicky Reilly and Garry Millar.pdf)
+
 Wedding of Vicky Reilly and Garry Millar – Durrow – 26th September 2015
 
 This afternoon, here in St Fintan’s Church in Durrow, we are celebrating the marriage of Vicky and Garry. Here in this Church you are making a very public declaration before your family and friends, before God of a commitment to one another that you have already found in your shared life together. This commitment has grown out of the love you have discovered in one other.

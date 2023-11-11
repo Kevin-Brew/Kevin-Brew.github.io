@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/sundaybeforelent2016.png"
 tags: Epiphany Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/sundaybeforelent2016.pdf)
+
 Sunday before lent – 2016 – year C
 
 Were you ever one of those children who was accused by a teacher of ‘day dreaming’ – those moments when you kind of lost touch with what was going on around you and you went into your own thoughts – what went on last night, who you met, who you fancied, or a host of other things that tripped through your mind.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Thursday - foot washing.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Thursday - foot washing.pdf)
+
 In these days of lockdown, of isolation of families from each other, children kissing grandparents through the glass of a front window, the sheer intimacy of the Gospel reading for today really came home to me.
 
 Picture the scene. As they enter the upper room, disciples had been arguing among themselves as to who would be the greatest in the Kingdom. They take their places. Jesus, without a word, takes on the task none of them are prepared to do, the task of the lowest servant in the household, he washes their feet.

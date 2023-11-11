@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper242020.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper242020.pdf)
+
 Our Gospel reading today contains the question to Jesus about whether it was lawful to pay taxes to Caesar or not. At one level it was a trick question designed to trip Jesus up in front of the crowds which Jesus seemed to adroitly sidestep. But in fact it is a question that goes to the heart of Christian citizenship and one that Jesus in fact meets head on. It is one of a number of passages in the New Testament that touch on this whole issue of the authority of rulers. Paul, in his letter to the Romans gives clear direction on the position of the citizen before the lawful authorities.
 
 > Let every person be subject to the governing authorities; for there is no authority except from God, and those authorities that exist have been instituted by God. Rom 13:1

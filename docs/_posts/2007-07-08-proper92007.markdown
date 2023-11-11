@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper92007.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper92007.pdf)
+
 One of the glories of the Revised Common Lectionary, a scheme of readings shared by Churches of all traditions right across the world, is the practice of reading sequentially stories in Scripture. So in our Old Testament Lessons of late we have been reading the stories of Elijah and Elisha; this year in our Gospel readings we are predominantly following the story as told to us by the writer of Luke’s Gospel. This Sunday we are finishing a sequence of readings from Paul’s letter to the Galatians.
 
 In our passage today we have quite personal features as Paul points to the fact that this letter is in his own handwriting – this is not the work of a scribe or secretary writing on Paul’s behalf – this is Paul himself encouraging, chiding, teaching. Paul, of course, is also writing to a particular community set in a particular time, place and cultural environment.

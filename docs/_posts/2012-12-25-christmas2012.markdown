@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmas2012.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmas2012.pdf)
+
 Back in 1914 on this night Europe was at war, a war that was to drag on for four years, to involve horrendous carnage on battlefields such as the Somme; it was to change the map of Europe, to see the end of the Austro-Hungarian and Turkish Empires, the fall of the Romanov house of Russia and the rise of communism.
 
 But this night was different, this first Christmas of the war was marked by a cease-fire. The battlefields were quiet that night and the troops on both sides settled down to celebrate Christmas as best they could. In the quietness of the night British soldiers heard a familiar tune wafting across the no man's land that lay between the trenches. It was the sound of German soldiers singing the carol "Stille nacht, Heillige nacht" Recognising the tune, British soldiers began to join in the song, singing "Silent night, holy night."

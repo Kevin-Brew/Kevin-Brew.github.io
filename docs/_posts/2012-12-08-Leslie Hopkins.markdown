@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Leslie Hopkins.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Leslie Hopkins.pdf)
+
 Funeral of Leslie Hopkins – Howth – 8th December 2012
 
 Leslie Hopkins – man of sharp intellect, research chemist, respected by his peers. Sportsman, keen rugby player and later referee. Man of faith, regular in worship, always ready to offer his service. Devoted husband, father and grandfather.

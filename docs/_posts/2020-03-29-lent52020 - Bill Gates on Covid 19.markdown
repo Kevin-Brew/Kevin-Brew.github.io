@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent52020 - Bill Gates on Covid 19.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent52020 - Bill Gates on Covid 19.pdf)
+
 What is the Corona/ Covid-19 Virus Really Teaching us?
 
 I’m a strong believer that there is a spiritual purpose behind everything that happens, whether that is what we perceive as being good or being bad.

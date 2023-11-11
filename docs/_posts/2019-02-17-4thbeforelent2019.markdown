@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/4thbeforelent2019.png"
 tags: Epiphany Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/4thbeforelent2019.pdf)
+
 4th Sunday before Lent – Year C – 2019
 
 Sunday by Sunday the Scriptures are read the length and breadth of this island. Sermons are preached, people are lead in prayer, in penitence, in praise, in worship. At one level it is part of who we are as individuals, as a community, as a society. Our Christian culture has shaped attitudes, behaviour, our legal system. While our Christian heritage has undoubtedly shaped us as individuals and as a society, by the same token, we have to ask what difference has our Christian culture made, to what extent does it distinguish us from other cultures, other societies?

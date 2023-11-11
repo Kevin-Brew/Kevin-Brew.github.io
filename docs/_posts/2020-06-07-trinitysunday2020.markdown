@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/trinitysunday2020.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/trinitysunday2020.pdf)
+
 TRINITY SUNDAY – Year A – 2020 – Zoom Service
 
 Normally at this time of year we would have had our Fete by now. The Mafeking Scouts have always given us wonderful help in sorting out tents, where they go and in putting them up and taking them down. In the days leading up to the Fete, Cathal Yeats from the Scouts meets up with a few of us. When he arrives he looks around and he says 'Let's measure this out – see where everything will fit.' I thought of Cathal as I read over our first lesson for today as we read of Isaiah asking 'Who has measured the sky?'

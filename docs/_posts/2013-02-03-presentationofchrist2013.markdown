@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/presentationofchrist2013.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/presentationofchrist2013.pdf)
+
 Our Gospel reading today, that appointed for the Feast of the Presentation of Christ in the Temple, gives us the setting of one of the best loved canticles in our Prayer Book, the Nunc Dimittis. It is one of the canticles appointed for use at Evening Prayer but it is also one that would often be read or sung as a coffin is taken out of the Church at the end of a funeral. It is a canticle of hope and fulfilment. For the aged Simeon, at the end of a long life of patient waiting, it speaks of a realisation that his wait was not in vain, there was substance to his hope. In the context of a funeral, as a loved one is taken out of the Church for burial or cremation, we commit our loved one in confidence to the love and care of Almighty God. At the heart of that hope is the declaration of Simeon:
 
 > For my eyes have seen your salvation,

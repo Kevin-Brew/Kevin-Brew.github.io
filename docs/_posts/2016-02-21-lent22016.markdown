@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent22016.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent22016.pdf)
+
 LENT 2 – 2016 – Year C
 
 As we go through this season of Lent, our Old Testament Lessons share a common theme of Covenant, a relationship between God and his people, a relationship of promise, of commitment. Like all relationships it is a living thing. It had its periods of trial, of tension, of failure. But God's abiding commitment to the Covenant has sustained a community of faith through a long and tortuous history. This morning, instead of focusing on our particular Old Testament lesson, I want to reflect on Covenant, and in particular relationships within the Covenant community.

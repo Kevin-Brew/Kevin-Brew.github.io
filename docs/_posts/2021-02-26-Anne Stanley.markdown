@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Anne Stanley.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Anne Stanley.pdf)
+
 At the start of this service, David, on behalf of the family, spoke of some thoughts, some memories the family shared as they put together this service. Anne Stanley, being Anne Stanley, made clear a long time ago that there was to be no fuss, no elaborate eulogies at her funeral. The family have been determined to honour Anne's wishes yet cannot hold back from expressing love and gratitude for the love of a mother, a grandmother given unstintingly over the course of their lives.
 
 Towards the end of the First Letter to Timothy the Apostle gives his advice to the younger man:

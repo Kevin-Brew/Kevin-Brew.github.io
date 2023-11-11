@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Miss Elsie Curry.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Miss Elsie Curry.pdf)
+
 Funeral of Elsie Curry – 20th March 2016
 
 One of my early memories of my time here in St Mary’s is of one Sunday morning at a service of Holy Communion watching Doris and Elsie Curry coming forward to receive communion, Doris’ health was failing at that point and I was struck by the tenderness with which Elsie brought her up the steps, helped her with the mechanics of receiving the bread and the wine and then gently helping her down the steps and back to her place.

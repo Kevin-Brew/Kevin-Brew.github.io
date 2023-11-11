@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Naming of Jesus.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Naming of Jesus.pdf)
+
 Well here we are – 2022 is behind us and 2023 opens up before us. Around this time of year there are a host of ‘End of Year Specials on our radio and TV channels – looking back over the events of the year that is past, looking forward to try and predict what lies in store for us in the year to come. Of course we don’t need the radio or the TV to do that for us – each of us is probably conducting our own review of the year that is past, our own peep into the year that lies ahead.
 
 We look back, I would suspect with a mixture of thanks and regrets. Some of you may be saying, ‘Boy, am I glad to see the back of 2022’ – it may have been a year of crisis, anxiety over the health or well-being of a loved one, or yourself, maybe a year of bereavement – or just a year when things have just gone wrong in your life. For some of us though this will have been a good year, one we will recall with a smile. Perhaps romance has been in the air in your family – maybe a wedding or engagement, the arrival of a child. Or maybe, and more probably, there’s been a bit of both – there have been moments of dark and light in the year that is past.

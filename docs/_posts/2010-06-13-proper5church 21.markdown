@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper5church 21.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper5church 21.pdf)
+
 Start with 'battleship' video clip. This raises the issue of the importance of responding to changing situations, new insights, new information. Politicians in the UK have had to come to terms with the new political realities of hung Parliaments and Coalitions. We have all been affected to a greater or lesser extent by the financial downturn. Governments have had to be more proactive in control of banks and financial institutions. Reduced incomes, drop in house prices & negative equity – we have had to change our way of doing things. Purchase of new car, meals out, trips away have been scaled back – like the battleship we have had to change course.
 
 Church is operating in very different circumstances to 10 or 20 years ago. Ireland is now very much a multicultural society and also a far more secular society. There's an explosion in the whole field of communication, more mobile population, more pressurised work place, and a greater willingness to question and to challenge.

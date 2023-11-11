@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Joan Pickard.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Joan Pickard.pdf)
+
 Funeral of Mrs Joan Pickard – 12th August 2011
 
 We have come here today to celebrate the life and faith of Joan Pickard, a beloved and valued member of this Parish for many years. I only came to know Joan over the last six years. Joan and her husband Ron along with their two daughters Gillian and Diane had first come to this area from their native Newcastle upon Tyne when Ron’s work as an engineer brought him here. Active members of their Church in England, they were to quickly settle into the life of the Parish of Howth. Ron sang in the choir and was to feature in musical items with the late Peter Holmes. Joan took on the leadership of the local cub pack and the whole family were to commit themselves to the worship and community life of this place.

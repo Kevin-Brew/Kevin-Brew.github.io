@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmasfamily2018.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmasfamily2018.pdf)
+
 Today is Christmas Day. Today we celebrate the birth of Jesus Christ, Son of God, God coming among us. Adults, theologians, clergy use big words like Incarnation. Hymn writers use words like 'consubstantial, co-eternal, three in one and one in three' – and we can tie ourselves in knots trying to get our heads around it. Sometimes a simple story puts it better.
 
 Now the man to whom I'm going to introduce you was not a scrooge, he was a kind, decent, mostly good man. Generous to his family, upright in his dealings with other men. But he just didn't believe all that incarnation stuff which the churches proclaim at Christmas Time. It just didn't make sense and he was too honest to pretend otherwise. He just couldn't swallow the Jesus Story, about God coming to Earth as a man. "I'm truly sorry to distress you," he told his wife, "but I'm not going with you to church this Christmas Eve." He said he'd feel like a hypocrite. That he'd much rather just stay at home, but that he would wait up for them. And so he stayed and they went to the midnight service.

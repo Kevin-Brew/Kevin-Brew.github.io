@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/5bfadvent2019 (AutoRecovered).png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/5bfadvent2019 (AutoRecovered).pdf)
+
 5th Sunday before Advent - Year C – 2019 – short thoughts for 9:00
 
 Last week, we were talking about new beginnings. Recalling words of Queen Elizabeth and President McAleese in Dublin Castle at the State dinner during the memorable visit by the Queen to this country in 2011, we thought of new beginnings in terms of an honesty about the past and a resolve to change in our approach to the future.

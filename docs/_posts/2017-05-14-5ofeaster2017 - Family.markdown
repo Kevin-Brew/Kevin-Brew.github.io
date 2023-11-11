@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/5ofeaster2017 - Family.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/5ofeaster2017 - Family.pdf)
+
 5th Sunday of Easter – Year A – 2017
 Family Service & Baptism – 1st Sunday in the Hall
 

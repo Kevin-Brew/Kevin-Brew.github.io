@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent52011 - family service.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent52011 - family service.pdf)
+
 Apollo 13 – Telling the whole story
 
 We tell someone tells us about something that happened and they say, ‘Ah, but wait. You haven't heard the whole story.’ We hear bits about what happened. Story of Apollo 13, story of one of the early trips to the moon that went badly wrong but the crew got back safely in the end. It all started very well. People had almost got bored with these trips to the moon – it was no longer main item on the news. Then disaster struck – one of the oxygen tanks exploded – Major damage to the space craft - power reduced – oxygen supplies reduced – looked for a while that the crew were not going to be able to make it back – prayer vigil in St Patrick’s Cathedral and in city’s around the world. They made it back and landed safely. Crew recovered.

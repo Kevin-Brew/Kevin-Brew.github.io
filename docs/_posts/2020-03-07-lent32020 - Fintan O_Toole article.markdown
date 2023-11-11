@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent32020 - Fintan O_Toole article.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent32020 - Fintan O_Toole article.pdf)
+
 Fintan O’Toole – Irish Times – Corona Virus – we are not kings Sat 7/3/20
 
 It is the locusts that make this moment in history seem so biblical. The plague of locusts is one of the 10 catastrophes visited upon the Egyptians in the Book of Exodus. The images of the vast and relentless swarms that have rampaged through Ethiopia, Somalia and Kenya, infesting hundreds of thousands of hectares of crops, pasture and forest, seem to take us back to the ancient Egypt of Moses and the pharaoh, bringing the myth horribly alive.

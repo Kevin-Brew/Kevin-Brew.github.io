@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Daphne Anderson.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Daphne Anderson.pdf)
+
 Last Friday Daphne Anderson died in St James Hospital. For a lady who had lived to the age of 91 in remarkable health, having survived many another medical problem, it was to be as the result of an accident. And so in addition to the sense of loss that comes with any death of a loved one, there is the additional shock at the suddenness of our parting. For however long we have our loved ones, we never have them long enough.
 
 We come this morning with our sense of shock, with our love, with our memories to give thanks to God for a mother, grandmother, aunt and friend. She met and married Thomas Anderson and apart from a brief sojourn on the south side they lived here on the peninsula, rearing their children Daphne and John. You will all have your own particular memories of Audrey and we bring them before God this morning in love and thanksgiving. She was very much an independent spirit, with great energy right up to the end, living life to the full supported by her daughter Audrey. For her part, she had nursed her husband Tom through cancer until his death. She is remembered as a great wife and Mum and very supportive. As with many of her generation, prayer is something that came quite naturally to her. She worked three days a week in Barnado’s shop in Dun Laoghaire for many years, something characteristic of her giving and charitable spirit. One thing I only came to realise only very recently was her musical talent, proficient on the violin, she was one of the early members of the Dublin Orchestral Players. As I say, you will all have your own particular memories of Daphne Anderson – just hold them before God with love and thanksgiving this morning.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Grace Devine.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Grace Devine.pdf)
+
 We have gathered here to remember a woman who has in her 97 years touched so many lives. A native of Lincolnshire, her father was chauffeur to the Bishop of Peterborough. He served with distinction in the First World War, eventually finishing his working life as curator of a museum in Northamptonshire.
 
 Grace trained as a teacher and served in a number of schools, soon returning to her native Peterborough. She met and married Flight Engineer Terence Devine in 1940. After serving in the war, the family moved to London, eventually returning to Peterborough where Terence taught in the Technical College and Grace resumed her teaching career.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent12019 - notes on figs.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent12019 - notes on figs.pdf)
+
 God gives good gifts. When he gave Israel to the Jewish people, it was not just any old piece of land. God says in Deuteronomy 8, 'The Lord your God is bringing you into a good land... a land with wheat and barley, vines and fig trees, pomegranates, olive oil and honey'. There are seven species of food mentioned here, which would be abundant in the land promised to his people.
 
 The fig is a fruit that crops up again and again in the scriptures, because God does nothing without purpose. The plant becomes a symbol of prosperity, wellbeing, and security. Along with the vine, to sit under the plentiful shade of your own fig tree is the epitome of safety, peace and wellbeing in many Biblical passages.

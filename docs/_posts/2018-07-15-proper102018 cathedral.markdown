@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper102018 cathedral.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper102018 cathedral.pdf)
+
 PROPER 10 – 2018 – Year B – Trinity 7 – Christchurch Cathedral
 
 I remember when I was at school, a friend pointed out an advertisement in the 'Readers Digest' for a speed reading course. The ad featured a testimonial by an American comedian who said, "After taking this speed reading course, I read Tolstoy's 'War and Peace' in four hours – it's about Russia." He had, if you like, got the big picture, even if the finer details had passed him by.

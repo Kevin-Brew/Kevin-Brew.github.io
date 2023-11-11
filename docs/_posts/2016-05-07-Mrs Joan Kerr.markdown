@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Joan Kerr.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Joan Kerr.pdf)
+
 Funeral of Joan Kerr – 7th May 2016
 
 One of my early memories after I arrived in the Parish of Howth is that of meeting with Joan Kerr in the Parish Centre. Joan at that time was administrator of the Parish Centre. She showed me around the Centre, explaining the various groups using the Parish Centre. I was struck by her quiet methodical approach, accompanied by her cheerful welcoming manner. I soon came across her again in the Burrow Players, where her apparently reserved manner gave way to her gentle understated humour that apparently gave great pleasure to many an audience down through the years. Then in the much needed refreshments after the rehearsals (Norman MacCann could be a very severe producer), we would be joined by Eddie. They were very much a team and the love and warmth between them was clear for all to see.

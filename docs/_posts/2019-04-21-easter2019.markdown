@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter2019.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter2019.pdf)
+
 EASTER DAY 2019
 
 'Woman, why are you weeping?' Words of an angel, words of a gardener to a woman weeping at a graveside. We have just sung as our opening hymn on Easter Day that hymn of triumph: Jesus Christ is risen today, Alleluia! Our triumphant holy day, Alleluia! Who did once, upon the cross, Alleluia! Suffer to redeem our loss. Alleluia!

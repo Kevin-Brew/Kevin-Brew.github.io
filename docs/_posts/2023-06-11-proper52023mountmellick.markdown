@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper52023mountmellick.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper52023mountmellick.pdf)
+
 Trinity 1 – Proper 5 – Year A – Mountmellick - 2023
 
 Can you imagine what the neighbours must have thought? You can almost see the headlines in the Galilee Sun – 'Local radical preacher seen with sinners.' Jesus, as Saint Matthew tells us, having delivered the Sermon on the Mount went on to perform a number of powerful signs of his authority in acts of healing, of deliverance and the calming of the storm. All these would have impressed those who witnessed them. His teaching certainly impressed the crowd - there was a freshness, a vitality to his teaching that was in sharp contrast to what they were used to.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper192010.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper192010.pdf)
+
 One of the most famous names in the insurance business is that of Lloyds of London. A number of years ago there were fears of its collapse when several of its 'names' were in danger of not being able to meet their liabilities. At the headquarters of Lloyds, there is a famous bell that sounds every time a ship insured with Lloyds has been lost at sea. There is a grim finality to that bell. The ship is lost. There is little, if any, hope of recovery.
 
 I mention this bell at Lloyds in the context of our Gospel reading this morning, with the parables of the lost sheep and the lost coin. As I read them, it occurred to me that the English word 'loss' has a wide range of meanings ranging from simply mislaying something to losing something beyond all hope of recovery.

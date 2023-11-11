@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper232018.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper232018.pdf)
+
 ## Proper 23 – Year B – 2018 – Trinity 20
 
 At this time of year as we celebrate Harvest Thanksgiving, it is one of those 'feel good' times of the year when we recognize God's goodness towards us as in the decoration of our Churches we are reminded of the richness and variety of God's provision for us in the context of the natural world.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper102011.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper102011.pdf)
+
 PROPER 10 – 2011 – year A – Trinity 3
 
 Today is observed in Ireland as a National Day of Commemoration, a day of remembering members of the Irish Defence Forces who have given their lives in the service. Remembering will also be of others who have suffered in conflicts in our own land. Remembering can be a funny thing. Different people can remember the same things in different ways.

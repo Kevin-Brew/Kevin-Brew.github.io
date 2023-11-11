@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent42020 - Leo Varadkar address.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent42020 - Leo Varadkar address.pdf)
+
 Lá Fhéile Pádraig shona daoibh!
 
 This is a Saint Patrick’s Day like no other. A day that none of us will ever forget. Today’s children will tell their own children and grandchildren about the national holiday in 2020 that had no parades or parties, but instead saw everyone staying at home to protect each other. In years to come, let them say of us, when things were at their worst, we were at our best.

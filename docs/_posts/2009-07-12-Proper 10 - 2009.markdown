@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Proper 10 - 2009.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Proper 10 - 2009.pdf)
+
 As I said last week, during the course of this month we are having a series of Baptisms. Baptisms are lovely occasions of celebration as families celebrate the arrival of a new child in the family. They are occasions of inclusion as the local Parish community shares the joy of a family and welcomes the child into the Church.
 
 I am taking the opportunity of reflecting on the significance of Baptism for families, for the church, for us as individuals. In this regard I often think back to words of the late Archbishop Michael Ramsey, Archbishop of Canterbury as I was growing up, when he spoke of the whole of his Christian life as lived out in response to his Baptism; the promises of Baptism being a yardstick for life.

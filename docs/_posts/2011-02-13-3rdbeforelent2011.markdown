@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/3rdbeforelent2011.png"
 tags: Epiphany Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/3rdbeforelent2011.pdf)
+
 The long awaited election is finally upon us. We have been inundated with interviews, debates, claims and counterclaims as to who is to be best suited to lead this country through the next crucial period in our history. Next Friday the responsibility falls upon the electorate to exercise our responsibility as we cast our votes. What are the issues that will influence our choice? Will it be local or national issues that hold most sway in our minds? Will our choice be determined by what the candidates have to offer to our particular interest group or are we prepared to recognise that maybe our interests need to be subordinated to the greater good of our society.
 
 Our Old Testament Lesson set for this 3rd Sunday before Lent could almost have been picked for a Sunday before a General Election. This passage is a particularly striking example of how in Jewish spirituality, thought is given to how religious principle is carried on through into the nuts and bolts of daily living; as such it is a reminder of the importance of allowing our religious conviction to inform our choices in daily life, including the choices we will be making on Friday.

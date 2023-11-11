@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/On line assembly Jan 2021.png"
 tags: School
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/On line assembly Jan 2021.pdf)
+
 Good morning everyone! First of all I hope you all had a great Christmas, enjoying each other, enjoying your presents. It was different this year, we couldn't see as many people as we normally did. After Church on Christmas Day (and boy was that different) we headed across to our son in Blackrock and his family and we had a lovely time.
 
 Now we are at the start of 2021 and I just want to wish you all a very Happy New year.

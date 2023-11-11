@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent32016.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent32016.pdf)
+
 In the world of politics, in the wake of any election to a position of leadership, there is always a period of time as the victor consolidates his or her position in the team they choose to gather around them. We have seen in the wake of the competition for the leadership of the Tory party in the UK and in the election for the Presidency of the United States that this can be quite a brutal process. Those who backed the winner can be expected to reap the rewards of loyalty, or at the very least their astuteness, while those on the losing side can see political careers come to a juddering halt. I would suspect at various stages in the run up to elections some people may have been asking themselves ‘Have I backed the right person? – or have I got it wrong?’
 
 In first century Palestine, now under Roman rule, periodically charismatic leaders arose who were identified with the expected Jewish Messiah. These leaders evoked differing levels of enthusiasm but they were all put down and the leaders and many of their followers died violent and tragic deaths. Over the course of the season of Advent we follow the ministry of John the Baptist who felt called to proclaim the coming of God’s Messiah and in the different Gospel accounts pointed his followers to the person of Jesus. In our Gospel reading this morning we find John in prison. Maybe in the darkness and loneliness of his prison cell John had his moments of doubt. As he heard of some of the things Jesus was doing and saying he wondered, ‘Did I get it wrong, did I point to the wrong person? Have I failed not only myself but the people I directed towards Jesus?’

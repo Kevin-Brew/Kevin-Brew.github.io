@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper182015.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper182015.pdf)
+
 ## PROPER 18 – Year B – 2015 – Trinity 14
 
 _"The rich and the poor have this in common: the LORD is the maker of them all."_ Proverbs 22.2

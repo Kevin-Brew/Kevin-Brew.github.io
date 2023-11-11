@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent32016.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent32016.pdf)
+
 As we read through the bible there are a number of very powerful images used to illustrate the relationship between God and his people. One that would often come to mind would be that of God as shepherd. Passages such as Psalm 23 would come readily to mind, 'The Lord is my shepherd, therefore can I lack nothing' and the hymns that we associate with it, 'The King of love my shepherd is'. Jesus will speak of himself as the Good Shepherd, and many a picture will appear in a Victorian Bible with Jesus bringing home the lost sheep.
 
 There are other, equally powerful images, that would appear in the great prophets and the Gospels. The one that I would want to highlight today would be that of Israel as the vineyard and God as the vinedresser. There is an image of care and nurture, of pruning, of weeding, of feeding the soil. We read of Jesus describing himself as the vine and his followers as the branches. He will speak of pruning, of keeping the plant healthy. There is mention of fruitfulness, of the difference between good fruit and bad fruit, of the sort of fruit you would expect to find on the different trees and bushes.

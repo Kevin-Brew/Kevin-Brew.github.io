@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/7ofeaster2021.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/7ofeaster2021.pdf)
+
 This Sunday is a special day. Last Monday the Government announced an easing of a number of restrictions that have been in place since Christmas. Hairdressers and barbers have been doing a roaring trade. Of course another restriction that has been lifted has seen the opening of our Churches for public worship - so here back in Church.
 
 This pandemic has taught us, is teaching us a number of lessons. We've had an extended period of closure on and off since March 2020, during which we have had to resort to a wide range of online methods to maintain any sense of corporate worship.

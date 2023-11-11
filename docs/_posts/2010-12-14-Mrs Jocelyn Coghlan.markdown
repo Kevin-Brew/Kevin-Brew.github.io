@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Jocelyn Coghlan.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Jocelyn Coghlan.pdf)
+
 We gather here this morning for the funeral of Mrs Jocelyn Coghlan, who died as she lived, quietly and without fuss, in Howth Lodge Nursing Home where she had been a resident for many years. In the five years or so in which I have been visiting her, my experience of her has been one of frailty, of weakness. Then people started to ask me, ‘Have you come across Jocelyn Coghlan yet? It’s a pity you never got a chance to meet her in earlier years.’ and I would hear stories of a remarkable woman. She came into the Church of Ireland on marriage – her initial background would have been in the Christian Brethren. One sensed, even in the most recent visits, that prayer, the familiar words of the old Prayer Book, touched something deep within her. She quickly settled into the life of St Mary’s and made her own particular contribution. Her husband was to die at an early age and she was left to rear their two sons, Rex and Terence. There was clearly a devotion in her life and she did all in her power to give them a good education and start in life. She was one who obviously enjoyed company, a hand of bridge, the garden, swimming picnics organised on the beach at Sutton dinghy club, a lady who, in her 60’s, decided to learn French. People have spoken to me of hospitality, of an open house where you were made to feel welcome. Her son Rex will share family memories of Jocelyn Coghlan.
 
 For Jocelyn, as well as for Rex and Terence, this last number of years have not been easy. Not easy for Jocelyn as she lost her independence; not easy for Rex and Terence and they watched the slow decline of one who had been such a rock in their lives. I was always struck by the very obvious love and affection between them.

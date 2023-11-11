@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Ethel Morrison - Aug 29 2023.png"
 tags: Conor_Diocese Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Ethel Morrison - Aug 29 2023.pdf)
+
 We have come here this afternoon for the funeral of Ethel Morrison. Her sister Anne has shared with us her memories of Ethel as sister, of the family’s pride in her many achievements in the field of nursing and her zest for life. She grew up in a loving and supportive family. That was a love that was freely and generously returned in the care she would give to her parents, to her uncle, to her brother. It is lovely to hear of the family’s love for her, a love that spanned the generations, of her brothers and sisters, their families and grandchildren.
 
 Her faith was clearly important to her. This was a living faith, not just brought out and dusted down for Sundays; this was clearly a faith lived out in worship, in life, in service to others. She loved the life and fellowship of this place, regular not just in her Sunday worship but also in midweek activity through the PWA and Oasis.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Reflections on Lebanon 28 Oct 2018.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Reflections on Lebanon 28 Oct 2018.pdf)
+
 Trinity 22 – Reflections on Lebanon
 
 I spent this last week in Beirut, the capital of Lebanon. This beautiful country situated at the eastern end of the Mediterranean, with the state of Israel to the south and Syria to the east and north, came into being at the end of the First World War with the break up of the Ottoman Empire, initially administered by France before being given independence. The home of the Phoenicians, the cities on the Lebanese coast of Tyre, Sidon and Beirut itself are some of the oldest continually occupied cities in the world dating back into the 2nd and 3rd millennia BC. It is mentioned in the Old Testament and the cedars of Lebanon were used in the construction of the Jerusalem Temple.

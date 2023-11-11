@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper212023 - children_s address COGS.png"
 tags: Church_of_Gaurdian_Spirit Proper
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper212023 - children_s address COGS.pdf)
+
 PROPER 21 – 2014 – Year A – Family Communion
 
 Who are our heroes? - used alongside Powerpoint ‘Proper212023’

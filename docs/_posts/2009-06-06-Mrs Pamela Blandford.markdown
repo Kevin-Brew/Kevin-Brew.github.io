@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Pamela Blandford.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Pamela Blandford.pdf)
+
 This morning we have gathered here in St Mary’s for the funeral of Pamela Blandford, a dearly loved mother, grandmother, friend. At the end of a long life graciously lived, lived and savoured to the full, we come to remember with thanksgiving one who has been taken from us, one we have loved and whose love has sustained us, one who has been part of our lives. Along with our thankfulness we come with a very proper sadness and loss.
 
 However much we know the end is coming, however much we want the suffering of a loved one to be over, there is still that loss, that gap in our lives that no one else can fill in quite the same way. Those of us outside the immediate family circle come to support those who will miss her most, her children.

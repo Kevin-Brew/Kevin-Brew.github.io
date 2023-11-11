@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper72020christchurch.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper72020christchurch.pdf)
+
 PROPER 7 – Year A – 2020 – Trinity 2 – Christchurch Cathedral
 
 I remember at one stage when I was in College going for a walk with a friend in the Wicklow Mountains just outside Dublin around Sally Gap. We were tramping across bogland when a mist started to come down. It was quite an unnerving experience – suddenly all the familiar landmarks were gone – all we had was the eerie quiet of the mist. There were no landmarks to head towards, no sounds to guide us. The danger in these circumstances is that you can quickly lose your sense of direction. Fortunately, we had recently crossed a road so we carefully retraced our steps. We eventually found it and were able to head back safely down the valley.

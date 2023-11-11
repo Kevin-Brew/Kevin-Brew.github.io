@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent12010.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent12010.pdf)
+
 All through this week our newspapers and news bulletins have been filled with details of the deal that seems to emerging with the IMF and the European Central Bank and its ramifications on the political and economic life of our country. We have had the publication of the 4 year plan, the meeting of the Fianna Fail party, the results of the bye-election in Donegal and the voting trends indicates that, if repeated in the General Election now certain to take place in the New year, the Fianna Fail Parliamentary party will be greatly reduced. All through we have heard the question, 'Is that what Irish Sovereignty has come to?' 'What would the founding fathers of this country have to say?' There is a stark contrast between the ideals of an earlier age and the grim reality of the present time. It is a similar contrast between the reality and the ideal that is presented to us in our Old Testament lesson as the prophet reflects on the place of the city of Jerusalem.
 
 In the context of contemporary international politics, mention of the city of Jerusalem immediately calls to mind one of the most intractable problems facing modern diplomacy. It is one of the most significant holy places for three world faiths, Judaism, Islam and our own Christianity. Different religious groups have assigned to it huge theological significance. For Judaism it is, and from the time of David always has been, the place where God chose to make his name known, the city of God. Even in the exile, when Jerusalem and the Temple lay in ruins, the city held a central place in the Jewish thought and spirituality. To this day it is the hope of every observant Jew to visit Jerusalem. I recall when I was in college some of our lectures were attended by a retired microbiologist from the old Richmond Hospital. One time coming up to Passover he spoke of the arrangements he was making to observe Passover at the home of friends. Then he said, with some emotion in his voice, 'One year, I will celebrate it in Jerusalem.' For Orthodox Jews the very thought of sharing authority over the city with any other group would be nothing short of national apostasy. For Palestinians, whose ancestors have lived, worshipped, traded in the city for centuries, not to have a share in the ownership of Jerusalem would be unthinkable.

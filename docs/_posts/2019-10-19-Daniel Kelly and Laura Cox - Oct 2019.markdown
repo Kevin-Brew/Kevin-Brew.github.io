@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Daniel Kelly and Laura Cox - Oct 2019.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Daniel Kelly and Laura Cox - Oct 2019.pdf)
+
 Marriage of Daniel Kelly and Laura Cox – 19th October 2019 – St Mary’s
 
 As I said at the outset, we gather here for the wedding of Laura and Daniel. This is a culmination of a journey that began many years ago and now you are here on your wedding day. I would just invite you to think back over those years; the time when friendship developed into love; in that love you came to realize that this was the person that you wanted to spend the rest of your life with.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/barnabas2012.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/barnabas2012.pdf)
+
 One of the features of the worship of the Church of Ireland is our use of the liturgical year. There are the seasons of Advent, Christmas, Epiphany, Lent, Easter, and Trinity. These seasons encourage us to focus on particular aspects of our faith story. At Christmas, we focus on the Incarnation, the mystery of God made man in the person of Jesus; on Good Friday and Easter, we focus on redemption; at Pentecost, our attention turns to the activity of the Holy Spirit. And then, dotted among these, there are a number of days designated as Saints' Days when we remember with thanksgiving the work of particular individuals.
 
 Tomorrow is one such day in the Christian calendar when we honor the name of Barnabas. Barnabas, like Paul, was not one of the original apostles but, nonetheless, played an important part in the growth of the early Church. We first come across him in the Acts of the Apostles, as one of those who sold their possessions and brought the proceeds to the Apostles to distribute to those who had need.

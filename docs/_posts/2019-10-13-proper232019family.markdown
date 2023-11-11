@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper232019family.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper232019family.pdf)
+
 PROPER 23 – YEAR C – 2019 – Family Service
 
 Well as they say – the attitude is gratitude. Talking about being thankful. Thankful for our beautiful world – a beautiful world that has been scarred by pollution. How can we be thankful for our beautiful world? We’re alive – some of us may be creaking a bit – but we’re alive. Senior Infants in Assembly were talking about this on Friday – we are all different – we are each unique – we are each special.

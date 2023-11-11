@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Pat Jessop.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Pat Jessop.pdf)
+
 Funeral of Mrs Pat Jessop – Glasnevin Crematorium -9th April 2011
 
 I will always remember my first meeting with Mrs Pat Jessop. I had called at her house not long after my arrival in the Parish of Howth. I introduced myself and was invited in with the warning ‘You are very welcome – but please don’t talk about religion.’ Duly warned, I went in and over a series of visits discovered a remarkable lady, with a wide range of interests and a huge interest in people – despite the warning, she would almost always ask how things were going in the Parish and would have been supportive of the Parish.

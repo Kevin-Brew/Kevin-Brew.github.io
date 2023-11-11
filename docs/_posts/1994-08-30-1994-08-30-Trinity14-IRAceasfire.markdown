@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/1994-08-30-Trinity14-IRAceasfire.png"
 tags: 
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/1994-08-30-Trinity14-IRAceasfire.pdf)
+
 Over the last twenty five years, amidst the murder and mayhem, we have prayed for peace in our province. How long can this go on we have asked. Do our children have to grow up in this atmosphere of suspicion and fear. In addition to the human toll, the situation here has had a devastating effect on the local economy. Potential investors have been scared off. Many of our young people have felt the need to emigrate, many never to return.
 
 And of course in an atmosphere such as we have had to live in, suspicions are inevitable. For those working in the security forces - suspicion is part of self-preservation. Even on holidays well away from home you meet people from particular areas of the province and you feel you have to be cautious about how much you say about yourself.

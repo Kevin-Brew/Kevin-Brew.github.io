@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper102020 family youtube.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper102020 family youtube.pdf)
+
 PROPER 10 – Year A – 2020 – Trinity 5 – YouTube Family Service
 
 Many people watching our YouTube clips of services made during the lockdown have admired the view of the garden from the Rectory. I thought I would deliver the sermon for this service from the vegetable patch at the bottom of the garden.

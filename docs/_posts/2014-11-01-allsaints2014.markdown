@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/allsaints2014.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/allsaints2014.pdf)
+
 ALL SAINTS – 2014
 
 One of the features of our Parish Church of St Mary’s would be the East Window over the communion table, donated to the Church in memory of the last Earl of Howth. At the centre of the window is the figure of the risen and ascended Christ. Then gathered around him are other figures, saints of the Church, exceptional figures who contributed to the early growth of the Church and the Church in Ireland. So we see the figure of St Peter and also of St Lawrence, the patron saint of my home Parish Church in Birmingham. St Lawrence always features holding a grid iron in his hand. This reflects his martyrdom in the early persecution of the Church in the city of Rome. He had been commanded by the magistrates to appear before them with the riches of the Church. He did appear, leading in a group of children, and explained that these were the riches of the Church. He was duly roasted alive on a grid iron for his insolence. Then we have figures of Patrick and Brigid, as well as those associated with the Church in this locality, Fintan and Assam.

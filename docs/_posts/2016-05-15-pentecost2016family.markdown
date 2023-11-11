@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/pentecost2016family.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/pentecost2016family.pdf)
+
 PENTECOST – year C – 2016
 
 This morning we are celebrating with a family as they bring Cass to Church for Baptism. What lies ahead for her? What talents, what potential are in this beautiful child? Already part of her own family – she will learn what it is to grow up as a member of the Bradley and Blackhurst families. Today, on this Feast of Pentecost, Cass is being welcomed into the family of the Church.

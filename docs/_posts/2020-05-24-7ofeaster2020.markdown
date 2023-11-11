@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/7ofeaster2020.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/7ofeaster2020.pdf)
+
 We are now well into the business of 'lockdown'. Over the past couple of weeks I, for one, have found myself looking less at the news, I have absorbed the basic daily statistics and any changes being introduced by the government; but a weariness has crept in of absorbing more and more incidental details that do not directly impinge on me or my work. I have heard a range of reactions to this ongoing experience we are all sharing. Within a general feeling that the health authorities here have handled the overall situation well, I’ve heard a number of different impressions. For some there is a feeling of security, that people are reluctant to move out of. For others there is a frustration, not directed at the authorities, that this seems to be endless, that they can’t see an end to the threat posed by the virus, that we are stuck in a sort of limbo. Then, earlier in the week, someone told me; 'Kevin, I feel that I am losing control of my life. I’m used to being in control, and I don’t feel I am at the minute.' This person was talking about their own particular circumstances; but, as I thought about what that person said to me, I realised that these words could apply to all of us.
 
 As a society we are conscious of a lack of control, of a desire to regain some sort of control that will enable business and social life to continue. We have heard a lot about the old normal we’ve lost and the new normal that will greet us, as we emerge from the lock down.

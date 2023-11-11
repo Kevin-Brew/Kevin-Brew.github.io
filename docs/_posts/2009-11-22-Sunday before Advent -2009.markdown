@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Sunday before Advent -2009.png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Sunday before Advent -2009.pdf)
+
 ## Sunday before Advent - 2009 - Year B
 
 'Stir up we beseech thee, O Lord, the wills of thy faithful people...' So begins the old collect of this Sunday before Advent. It is said that among the staffs of the big houses, hearing this in Church on Sunday morning was the signal to begin preparing the Christmas puddings. And so this Sunday got the alternative title 'Stir up Sunday.'

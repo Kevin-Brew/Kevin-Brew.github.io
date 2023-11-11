@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Easter Vestry 2019.png"
 tags: Easter Vestry
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Easter Vestry 2019.pdf)
+
 EASTER GENERAL VESTRY – 2019
 
 This time last year, as we gathered for our Easter General Vestry, we had recently completed the work on the roof of St Mary’s and associated works. We were quite justifiably feeling good about ourselves, with a very positive outcome from our fundraising efforts, and we were back in the Church. Kevin emphasized the need to focus on the future and what lies ahead for us as a Church and as a society.

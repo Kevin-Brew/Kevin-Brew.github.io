@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/4ofeaster2014family.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/4ofeaster2014family.pdf)
+
 What is coming through Baldoyle today? They will all be aiming for this. If you are cycling you will need the right equipment. Riders today will need one of these - a car that will accompany them - with food, with spare equipment, with encouragement. Sometimes the going will get tough, very tough. But this will make it all worthwhile.
 
 Today we are thinking about a different sort of leader. Jesus called himself the 'Good Shepherd'. Sheep live out in the hills - in the Middle East and in Africa the shepherd will often live with his sheep, finding them fresh pasture and water, protecting them from wild animals that might attack. Shepherd will know his sheep and they will know him. Shepherd will have his own special equipment.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper142023.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper142023.pdf)
+
 We are now in the final stages of planning our holiday. At the end of this month we catch the ferry to France and then we travel on towards the south. We have looked at the maps, we've thought about a few campsites. And now we look forward to the journey.
 
 We all undertake journeys, some of them we take alone; others we undertake in the company of others. Of course, life is a journey, we are all at different stages along that journey, we all have our own particular experiences along that journey. There are people, companions along the way, who have been important to us, people who have encouraged us, who have loved us, have just been there for us.

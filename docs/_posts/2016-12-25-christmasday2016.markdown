@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmasday2016.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmasday2016.pdf)
+
 2016 has been an eventful year in the world of international politics. We have seen the UK voting to leave the European Union, Donald Trump being elected as President of the United States. We have also witnessed the rise of far right groupings in France, the Netherlands, Austria.
 
 There is a common thread of populism that runs through many of these campaigns that involved an appeal to individual and group self interest, that was built upon, and indeed fostered, a mistrust of the different, of the other, of the outsider; that argued for the erection barriers be they physical, emotional or whatever. Alongside this, we have seen an increase in hate crime as minorities, be they ethnic, religious or social have been targeted.

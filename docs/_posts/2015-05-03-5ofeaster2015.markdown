@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/5ofeaster2015.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/5ofeaster2015.pdf)
+
 One of the delights of my association with the Burrow School is the Assembly. Not so much the Assembly itself but going beforehand into the class who are leading the assembly to talk about what they are planning to do, the overall theme, songs they are going to sing, the drama, the prayers. This last Friday was the turn of the Senior Infants and they picked up on the theme of difference and accepting each other in our difference. And so on Friday morning they presented themselves as different coloured crayons in a box. Initially blue declared that red was pretty silly and yellow could not stand the sight of green. Then an artist took each colour and, blending the individual colours, produced a beautiful picture and the previously quarrelsome crayons recognised not only their own worth but the value of every other crayon in the box. Then in their prayers they went on to lead us to think of the importance of treating each other in all our differences with dignity. At the end I found myself thinking ‘Out of the mouths of babes and sucklings ….’
 
 During this season of Easter, we have been reading as our 1st Lesson from the Acts of the Apostles. It is the story of the advance of the Christian Church from the coming of the Holy Spirit at Pentecost, the conversion of Saul, the inclusion of the Gentiles in the Church, in what was at the beginning a group within Judaism. Taking a look at the story as a whole it is a story of inclusion, of breaking down barriers that seemed to be insuperable.

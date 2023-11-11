@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/2007-09-01-proper17-visit-to-Auschwitz.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/2007-09-01-proper17-visit-to-Auschwitz.pdf)
+
 Proper 17 – 2007 – year C – Trinity 13
 
 Last weekend we celebrated one of the joys of family life, the marriage of our elder son Anthony. His bride being Polish, the wedding took place in Poland, in the historic city of Krakow. It was a great joy to be able to conduct the ceremony myself in the Lutheran Church of St Martin using the liturgy of the Church of Ireland in a mixture of English and Polish. Krakow, with the royal castle of Wavel, many beautiful Churches and a magnificent Main Square bustling with life at all hours of the day and night, is a beautiful city, listed as a World Heritage Site by UNESCO.

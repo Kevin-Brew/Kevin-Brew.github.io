@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent42012.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent42012.pdf)
+
 I want to begin this morning reflecting on the topic of unconditional love. A love that is simply given, bestowed on the beloved. A love that still loves in the face of ingratitude, tantrums, hurts. A love that is always open to the future. I would suspect that as we do this we will think of close friends, of partners – we will all think of parental love, and in particular the love of a mother.
 
 This day, Mothering Sunday, is a day of particular thanksgiving. Mothering Sunday speaks not just of maternal love – it was also a day during the season of Lent on which Christians used to return to the Church where they found faith, their ‘Mother church’. For myself it is always a day on which I remember with particular fondness the Parish Church of St Lawrence in Northfield in Birmingham and the people who encouraged me in my early days in the faith.

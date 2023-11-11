@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Marjorie Johnston.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Marjorie Johnston.pdf)
+
 Funeral of Mrs Marjorie Johnston – 25th March 2015 – Howth
 
 Marjory Orr was born in Belfast in 1924 – she died suddenly in her home in Howth last Thursday night. She had grown up in the parish of St Mark’s, Dundela on the road out to Bangor and Hollywood. She went to University at Queen’s University in Belfast, studying German, French and history. She taught for a while but it was not really for her. Though she maintained her love of languages. She married John Louis Johnston in 1948 and Louis’ business brought them to Dublin. She and Louis set up home here in Howth and here they reared their son’s Mark and Simon. The family became very much part of the community and this parish. In all those years she never lost that gentle Belfast accent. There was another trait to Marjory that is summed up by a lovely Northern Ireland expression. It is used of someone’s attitude in the face of adversity, when you might say that ‘they tholled it’. It speaks of a calmness, a serenity in the face of adversity. Marjory, in the course of a long and gracious life, knew her share of adversity. At the age of 18 she helped nurse her grandmother through cancer. She knew the loss of her son Simon as well as her husband. As her son Mark said the other night, ‘She tholled it’. She offered wonderful support to Simon’s wife, Mary, and the children and they in turn have been a great source of delight to her. She would speak with great pride of Mark as an architect and loved visiting him in Italy and their school of yoga. She was one of that dying breed of letter writers, keeping up a regular correspondence with her brother Noel in Canada and the family in Australia. She was fiercely independent – in reply to one neighbour’s concern at her climbing a ladder to paint the outside of the house – ‘I’ll do it myself as long as I can.’ Only in very recent years did she decide to get in outside help for the garden – and as for persuading her that it was not necessary to kneel for communion. Here in St Mary’s we will remember a faithful member of the Parish, regular in her attendance at worship, always ready to play a part when help was needed with Church flowers, with the tidying up of Church grounds.

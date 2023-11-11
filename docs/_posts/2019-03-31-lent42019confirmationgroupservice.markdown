@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent42019confirmationgroupservice.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent42019confirmationgroupservice.pdf)
+
 ## LENT 4 – Year C – 2019 – Confirmation Group Service
 
 For the last number of weeks in the announcements I have been announcing the Confirmation classes. Elke and I have been meeting up with them after school each Wednesday afternoon. This year there are nine: Matthew Bray, Aelfreda Young, Jayne Mangan, Ava Doyle, Amy Ennis-Crosbie, Elsie Bath, Justin O’Neill, Louise Riis Byrne and Simon Fogarty. Elke and I have really enjoyed our time working with them. You are a credit to your parents, to the School – you are also a credit to yourselves.

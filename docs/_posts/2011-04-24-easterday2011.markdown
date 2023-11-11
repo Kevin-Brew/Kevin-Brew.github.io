@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easterday2011.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easterday2011.pdf)
+
 I remember one Easter when I was in Mountmellick going to visit a retired priest in hospital. We had established a friendship early in my time there. He had left Clonaslee (a village that formed part of my Parish) and spent his entire ministry in Birmingham, finishing up as Parish Priest of a Church not far from the part of Birmingham I came from. I had left Birmingham and found myself as Rector of the village of Clonaslee.
 
 This was the first Easter Sunday since his ordination that he had not celebrated the Eucharist. In the course of our chat he came out with an expression that has stayed with me. ' We are,' he said, 'an Easter people.' I have often reflected upon that since. Today we celebrate the Resurrection of our Lord Jesus Christ. The Church is a fellowship that is shaped, that has its very origins in the death and resurrection of Jesus. Resurrection is not just an event that happened to Jesus, it is an event that happened to his disciples .

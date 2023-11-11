@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter52016.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter52016.pdf)
+
 I remember one time putting our older son to bed around the time he had just started school. He asked me 'Daddy do you love me this much?' – his hands would have been just a few inches apart. Then step by step his hands got further and further apart, with the same question, 'Daddy do you love me this much until the hands were at full stretch. I suppose he was rejoicing in the fact that there seemed to be no limit to our love for him.
 
 I often think of this idea of love at full stretch, when I reflect on the passage we read as our Gospel reading for today, with Jesus’ command,

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/palmsunday2019.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/palmsunday2019.pdf)
+
 You will gather by now that in a lot of my thinking I find myself going back to the Service of Baptism. One thread that that frequently runs through my reflections is the whole idea of 'journey'.
 
 Life is a journey, a journey from birth to death, a journey of discovery, of learning. Faith is a journey, a journey of a lifetime, a journey undertaken with Christ, a journey into Christ. A feature of this journey is that there is always more ahead, more to learn, more to discover about life, about God, about myself; about what it means to live as ones made in the image of God, what it means to live as a member of the Body of Christ.

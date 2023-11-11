@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent52015.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent52015.pdf)
+
 Earlier this week we witnessed a rare spectacle (unless we found ourselves under cover of cloud) – a near complete solar eclipse. Even if we did not see the full spectacle, the sky got darker, it got cooler – and you could see why earlier societies, without our scientific understanding of the process, would have been very much in awe of this sudden, unexpected darkening of the sun.
 
 I recalled the time of the last eclipse that was seen in this part of the world in 1999. As it so happened we were in France, travelling back to the boat for the trip home. The road we were travelling followed the path of the eclipse. As the time of the eclipse approached, the French police ordered all cars into the motorway car parks. We found ourselves next to a group of Germans who had travelled down specially. The were equipped with a telescope that projected the image of the sun onto a screen and many of us watched this amazing spectacle – all except one 9 year old English girl, who was resolutely swinging on a swing. As the eclipse moved towards totality, her mother called to her to come across and see the image on the screen. 'Mummy. can you not see that I am busy!'

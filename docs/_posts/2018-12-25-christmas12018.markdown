@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmas12018.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmas12018.pdf)
+
 Christmas is coming and goose is getting fat. Please put a penny in the old man’s hat. So runs the jingle I remember from my own childhood. I would suspect that the goose, or whatever graced your Christmas table, has been plucked clean and whatever pennies we had before Christmas have been well and truly depleted. Each year I would suspect we all ask at some stage or another, ‘What is it all for?’ and yet we have enjoyed the celebration, the coming together and the fact we make it that bit special with our special foods and other treats.
 
 What is it all for, what is it all about is a question we might ask about the arrival of Jesus into the world. ‘Who is this child?’ Between now and Easter, in our worship Sunday by Sunday, we will be following the developing story of the public ministry of Jesus. Today, in our Gospel reading Luke presents us with the one account in the Gospels of Jesus as a growing child. We are told of a family pilgrimage to Jerusalem. It is a picture every parent could identify with – a missing child, the agony of searching, the relief, the hurt on finding and their son’s response ‘Sure, should n’t you have known you would find me here?’

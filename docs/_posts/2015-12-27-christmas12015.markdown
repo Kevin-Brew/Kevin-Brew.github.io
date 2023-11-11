@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmas12015.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmas12015.pdf)
+
 I recall some years ago queuing at the checkout of a supermarket in Ballymena. The queue seemed to be going through much slower than usual. As I got closer to the end of the line I could see that the supermarket was operating their experimental policy of the girl on the checkout not only checking items through but also bagging them.
 
 When my turn came I asked her “Whose bright idea was this?” I got a baleful look. Then she looked across at a deputy manager at a desk not far away. She said, rather witheringly, “His! You can tell he never had to sit at one of these checkouts!”

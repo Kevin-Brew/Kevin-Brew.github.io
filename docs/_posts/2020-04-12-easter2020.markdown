@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter2020.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter2020.pdf)
+
 This is an Easter Day like no other that we have experienced. Normally on Easter morning a large crowd gathers at the summit car park in Howth for the Ecumenical Sun Rise Service followed by breakfast in one of our Church centres. Our Churches would have been full as we gather to celebrate the Resurrection of Jesus. Then we would have headed off to meet with family and friends. Instead this morning the Summit Car Park is cordoned off, our Churches are empty and we are confined to our homes. We are in lockdown and likely to remain so for a few weeks yet.
 
 But then, I thought, the disciples were in lockdown on that first Easter morning. Frightened for their own safety, they have hidden away, some planning to get out of Jerusalem, heading for Emmaus. As we read in our Gospel reading, Mary Magdalene sneaks out before day break to visit the tomb where the broken body of Jesus had been hastily placed the previous Friday night – only to find it empty. At this point the empty tomb is not a source of joy but or further despair. She goes to tell the disciples – but all they see is an empty tomb and they return to their hiding place further confused. Mary’s despair is only transformed into joy in her encounter with the risen Jesus as he speaks her name.

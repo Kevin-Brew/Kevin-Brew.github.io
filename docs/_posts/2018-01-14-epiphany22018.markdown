@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany22018.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany22018.pdf)
+
 Can you just think back to a time when you played hide and seek with a child, particularly a very young one? There is the thrill of hiding but also of being sought after. There is the toe left poking out from behind the settee, the barely suppressed giggle from behind the curtain – and the thrill of being found. When they are looking for us, we need to strike that balance between making it too easy for them to find us (denying them the excitement of the hunt) and being out of sight for too long. And here again there is the delight of finding.
 
 I just want to ponder on this whole business of seeking and being sought after, finding and being found, in the context of our Gospel and Psalm for this morning. Looking first at our reading from John’s Gospel; Jesus goes to Galilee and finds Philip and calls him to follow. Philip, having been found by Jesus, then tells others of finding Jesus. In this passage the Gospel writer gives us this sense of Philip both finding Jesus and being found by Jesus.

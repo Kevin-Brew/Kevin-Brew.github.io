@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Lilian and Arthur O_Connor.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Lilian and Arthur O_Connor.pdf)
+
 We come to celebrate the life of Arthur and Lilian O’Connor, to give thanks for their lives and for all that they meant to us as parents, grandparents, brother and sister. They came to Church together to be married, today they come together in death on the day of their funeral.
 
 Those outside the family circle, many joining with us online, offer their love, their sympathy and their prayers to you their family.

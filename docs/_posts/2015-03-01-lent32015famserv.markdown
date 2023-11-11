@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent32015famserv.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent32015famserv.pdf)
+
 Today after service we are going to taste results of people's baking. Thought I would have a go. Could I have some helpers? Ask for flour, eggs, water, oil etc – mix it up – place in tin - anyone want to lick the spoon? You don't think it will turn out like that. What's wrong? – haven't followed the recipe, haven't followed the rules.
 
 This morning our confirmation class are helping in our service, reading lessons, leading prayers. As they get ready for their confirmation we are beginning to think about God – God who made this wonderful world, God as our Father, a Father who wants the very best for us, to live life to the full.

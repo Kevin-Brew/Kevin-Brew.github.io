@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/maundaythursday2015.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/maundaythursday2015.pdf)
+
 I remember one of my last Confirmation groups in Ahoghill was a group of adults. The Confirmation Service was held on Maundy Thursday in the context of a Holy Week series lead by the Bishop of Connor at the time, Alan Harper, later to become Archbishop of Armagh. In planning the service Bishop Alan and myself thought it would be lovely to incorporate the washing of feet into the service, in which Bishop Alan would wash the feet of the candidates.
 
 One young lady objected: “I can see why you are suggesting this, it is in the Gospel, it is a lovely idea – but I just could not face the idea of someone washing my feet!” – so we didn’t go ahead.

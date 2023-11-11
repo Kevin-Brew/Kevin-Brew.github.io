@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper192016fam.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper192016fam.pdf)
+
 One of the things I dread is losing my keys or my phone. Tracing the phone can be easy enough. Now losing the keys, that can be a different situation – you know the scene, you are heading out the door, possibly a bit late and you reach for the keys.
 
 'Have you seen my keys?'

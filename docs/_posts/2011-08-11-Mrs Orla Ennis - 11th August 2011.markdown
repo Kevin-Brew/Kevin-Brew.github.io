@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Orla Ennis - 11th August 2011.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Orla Ennis - 11th August 2011.pdf)
+
 I remember going to see Orla shortly after she got news of her diagnosis that the cancer was back. She was getting me a cup of tea in the kitchen in 'Green Ivies' while she cleared a cat off the counter and gave off to a dog. She paused and looked straight at me and said, 'Well I can either fight this or go and jump off the nearest cliff.' Fighting for Orla meant living a normal life, not allowing the illness (which she knew full well was serious) to totally dominate her life.
 
 Today family and friends gather here in St Mary’s Church for her funeral. Funerals are occasions of sadness for they mark the loss of one we have loved, who has loved us. Their parting leaves a gap in our lives that no-one else can fill in quite the same way. They are also occasions to celebrate the life, the love, the energy of the one who has died.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper242019.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper242019.pdf)
+
 We have continued reading as our Old Testament Lesson from the Book of the Prophet Jeremiah. Up to this point, Jeremiah has spoken of judgement, of destruction. He has gone on to speak of the need for the exiles to put down roots in the land of their captivity. But now the mood begins to change, we hear words of new beginnings, he talks not of breaking down and destroying but in terms of building and planting.
 
 But this is not a matter of re-starting, of picking up pieces from the past. This is nothing less than a new beginning, founded on a new covenant. This is a covenant not to be written on tablets of stone but one to be written on the heart.

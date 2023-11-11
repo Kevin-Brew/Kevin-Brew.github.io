@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mr Pat Curley.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mr Pat Curley.pdf)
+
 Funeral of Mr Pat Curley – 22nd November 2017
 
 A sense of unbelief, of shock went around the Parish last Friday as the news broke that Pat Curley had died suddenly in his home. So we can only imagine the shock experienced by his son David and wife Mary, who was away on a trade mission in the Far East.

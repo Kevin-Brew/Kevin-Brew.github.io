@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/1996-08-14-proper10-Sunday-after-Drumcree.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/1996-08-14-proper10-Sunday-after-Drumcree.pdf)
+
 July 14th 1996 – Proper 10 – Year A – Sunday after Drumcree
 
 'As he approached Jerusalem and saw the city, he wept over it and said, "if you, even you, had only known on this day what would bring you peace - but now it is hidden from your eyes."' Luke 19.41

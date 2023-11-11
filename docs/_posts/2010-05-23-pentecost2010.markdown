@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/pentecost2010.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/pentecost2010.pdf)
+
 I recall during the course of my training for the ministry, the then Sub-Warden of the Divinity Hostel, the late Canon Jim Hartin was lecturing us in Church History. He had been talking about the growth of the Anglican Communion and the distinctive witness Anglicanism had to offer to the wider Church. Bringing us closer to home, (this was in the late 1970’s) he went on to speak of the distinctive witness the Church of Ireland had to offer in a divided society such as Northern Ireland. Standing as we were between the Reformed tradition, as represented by the Presbyterian Church, and the Roman Catholic tradition we had a vocation to hold the middle ground, to be a sign of reconciliation. The middle of the road he remarked is far from being the easy option many of our critics would maintain it to be – as you tend to be hit by traffic coming in both directions.
 
 I often reflected on that during the time I served in Ahoghill. During the 1990’s the political middle ground became harder and harder to hold as people moved to the extremes, as moderate nationalism as represented by the SDLP lost ground to Sinn Fein and moderate unionism as represented by the pro-agreement wing of the Official Unionists was displaced by the DUP. In Ahoghill Parish we came to realise that we had a vocation to affirm moderates in the wider community. St Colmanell’s became the venue for ecumenical events (we tended to call them Community Carol Services, Community Service for children with Special Needs) and our Parish Fete, held just before the 12th, was an occasion for the whole community to come together.

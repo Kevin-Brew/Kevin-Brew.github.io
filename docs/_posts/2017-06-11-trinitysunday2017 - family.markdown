@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/trinitysunday2017 - family.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/trinitysunday2017 - family.pdf)
+
 TRINITY SUNDAY – Year A – 2017 – Family Service
 
 When we were setting out the Fete this year we had to allow for a rather large white container where the Bric a Brac tent usually goes. The Scouts have been giving us wonderful help in sorting out tents, where they go and in putting them up and taking them down. In the days leading up to the Fete, Cathal Yeats from the Scouts met up with a few of us. As he looked around he said 'Let's measure this out – see where everything will fit.' I thought of Cathal as I read over our first lesson for today as we read of Isaiah asking 'Who has measured the sky?'

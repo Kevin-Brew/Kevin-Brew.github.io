@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany12021.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany12021.pdf)
+
 Coming as I did from a non Church background, one of the things that intrigued me slightly when I first started going to Church were some of the names of Sundays and seasons in the Church year. There is the name of the season we have just entered, that of Epiphany. Starting on the 6th January it marks the end of Christmas, associated with the arrival of the wise men in Bethlehem.
 
 Epiphany - it rolls off the tongue – but what does it mean. I looked it up in my dictionary – ‘a moment of manifestation of divine reality’. Maybe another way of putting it might be ‘moments when God breaks through’, moments when God seems very real. You see this in the Psalms. Psalm 8, for example;

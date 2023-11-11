@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/2002-11-11-Remembrance=3bfadvent-year-a.png"
 tags: Advent Crucial_Events Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/2002-11-11-Remembrance=3bfadvent-year-a.pdf)
+
 3rd Sunday before Advent-Remembrance Sunday - 2002-year A
 
 "At the going down of the sun and in the morning, we will remember them." Ode to the fallen

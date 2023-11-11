@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper212019.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper212019.pdf)
+
 I began last week with the Chinese Curse, purported to come from China, 'May you live in interesting times'. As we look back over this last week, we can certainly say that we live in interesting, very interesting times.
 
 Our Gospel reading is that well known parable told by Jesus of 'The Rich Man and Lazarus'. It is one of a series of reading in Luke’s Gospel that touches on the issue of how we handle wealth. We’ve had the 'Dishonest Manager' last week and earlier in the chapter we had the Parable of the Prodigal Son.

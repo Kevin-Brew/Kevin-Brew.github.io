@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper62013.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper62013.pdf)
+
 PROPER 6 – 2013 – year C – Trinity 3
 
 As I said a couple of weeks ago, during these Sundays of the season of Trinity we are, in the course of our Old Testament readings following some of the big stories of the Old Testament. We are currently following the story of Elijah who lived and worked in the Kingdom of Israel after the break up of the Kingdom of Israel following the death of Solomon. Ahab was king, married to Jezebel, who was of Phoenician origin. Jezebel had brought different religious practices with her to Samaria and a different understanding about royal power and prerogatives.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Hymn 244 - There is a green hil - verse 2.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Hymn 244 - There is a green hil - verse 2.pdf)
+
 In the course of life we are gifted with chance meetings, chance encounters that can have an impact far beyond that particular moment. The chance meeting between man and woman, one among many such meetings, that blossoms into love, into marriage, into lifelong commitment and all that flows from that in shared sorrow, shared joys, shared pain, shared life and destiny.
 
 Then there are those lesser moments that none the less help shape our thinking in crucial areas of our philosophy of life and our spirituality. I often think back to a chance encounter that myself and a number of 2nd year students had with the late Michael Ramsey, who at that time had just retired as Archbishop of Canterbury., whom we had gone to hear speaking at Queen’s University in Belfast. The whole issue of doubt came up and we asked him had he ever doubted. ‘Doubted? Oh yes. Oh yes. And each time I take myself to the foot of the cross.’

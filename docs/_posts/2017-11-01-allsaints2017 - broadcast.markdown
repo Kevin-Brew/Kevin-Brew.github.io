@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/allsaints2017 - broadcast.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/allsaints2017 - broadcast.pdf)
+
 ALL SAINTS – 2017 – Broadcast Service
 
 Last year was quite a year for the Parish of Howth. We celebrated 200 years of worship on the site of the present Church. The first Church, built in 1816, was quickly replaced by the present Church, consecrated in 1866. This year, we have just completed an extensive restoration of the external fabric of the Church. We got the roof on just in time for Hurricane Ophelia.

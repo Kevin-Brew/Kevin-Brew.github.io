@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/2bflent2012.png"
 tags: Epiphany Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/2bflent2012.pdf)
+
 When we think about creation in religious terms our minds turn inevitably to the two creation narratives that make up the first two chapters of Genesis. Around these passages have sprung up all the debates about creationism, Darwinism, the apparent conflict between religious faith and scientific enquiry. The Bible has a lot more to say on this subject – there is the whole Wisdom tradition that we find in books such as the Psalms, the Book Proverbs.
 
 I often find myself reflecting on Psalm 8, the psalmist standing in awe at the majesty of creation, amazed that God would have anything to do with mere man. In our Old Testament Lesson, there is a reflection on Wisdom present at creation, participating in creation that ties in with the opening verses of our Gospel reading, ‘In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning.’ (John 1:1)

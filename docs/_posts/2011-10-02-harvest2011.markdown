@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/harvest2011.png"
 tags: Harvest Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/harvest2011.pdf)
+
 ## PART 1
 
 Thank you a very important word – it involves gratitude – a recognition that someone has done something for us that someone has given us something that we value. It makes us feel good – good about ourselves – good about what we have received. Lesson reminds us of ingratitude – of not saying thank you – that what we have received – that what has been given to us is ours thank you very much. Trouble with ingratitude is that we no longer value what we have been given – we don’t treat it as a gift. Rivers are meant to flow clean, provide water fit for people to drink, in which they can wash – all too often they are treated like rubbish tips.

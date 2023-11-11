@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/goodfriday2015.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/goodfriday2015.pdf)
+
 On this night Christians of all traditions around the world are remembering the death of our Lord Jesus Christ on a Cross outside the city of Jerusalem nearly two thousand years ago.
 
 This evening, in that extended reading from St John we have read of Jesus before Pilate. He is sent to the Cross as a result of the envy of the Temple establishment and the expediency of Pilate. In the shambles that passed for a trial we have heard allegations of blasphemy, of sedition. His enemies get their way and Jesus is condemned to death. Tonight we have read of his death upon the Cross.

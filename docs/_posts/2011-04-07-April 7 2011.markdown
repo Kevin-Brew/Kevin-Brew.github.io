@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/April 7 2011.png"
 tags: Lent Mid_Week
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/April 7 2011.pdf)
+
 St Colmanell’s Church in Ahoghill where I spent 16 years of my ministry had a very significant memorial tablet on the South Wall of the Church – it was to the late Captain Terence O’Neill, one time Prime Minister of Northern Ireland, a man who sought to challenge Northern society to change before it slipped into the Troubles that were to last nigh on 35 years. On the Sunday before a crucial election he brought his whole Cabinet to worship with him in St Colmanell’s, the visitors book for that day was a veritable who’s who of Northern Ireland politics of that era.
 
 Sadly his warnings were ignored and he was driven from office. In his last television address to the people of Northern Ireland as Prime Minister Terence O’Neill observed that Northern Ireland had proportionally the largest church going population in Western Europe. He went on to say ‘Our religion could have enhanced our politics; instead we have allowed our politics to demean our religion.’

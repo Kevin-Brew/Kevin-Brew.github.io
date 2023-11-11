@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper182022Sunday.png"
 tags: Church_of_Gaurdian_Spirit Proper
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper182022Sunday.pdf)
+
 Our Old Testament Lesson begins with an image that would have been familiar to the citizens of Jerusalem at the time of Jeremiah. Jeremiah is watching a potter working at his wheel. This is a very skilled job. The clay has be properly prepared, kneaded to make sure there are no air pockets to cause the pot to crack when it is fired. The lump of clay has to be centred on the wheel. Then begins the process of carefully forming the pot. The potter must keep his hands moist and steady – any sudden movement and the pot goes all over the place and he has to start the process all over again.
 
 We don’t get a chance to watch a potter at work very often but we might get a chance to see any craftsman or artist. I remember the Professor of Physics in Trinity when I was there (and this was a man who had won the Nobel Prize for his work in splitting the atom) telling a group of us that he loved just standing in the workshop in the Physics Department and watching the Chief Technician working on the lathe. He was, he said, a true artist. Or closer to home you could drop into the Hall on a Thursday morning after service and watch Len and Albert painting.

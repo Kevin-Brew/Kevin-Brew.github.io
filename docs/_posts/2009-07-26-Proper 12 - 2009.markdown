@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Proper 12 - 2009.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Proper 12 - 2009.pdf)
+
 Where were you 40 years ago? As the world viewed those fuzzy black and white images of the man in the space suit as he made his way down the ladder onto the surface of the moon with those memorable words, 'One small step for man, one giant leap for mankind.' One of the other memorable images was that of the earth taken from the surface of the moon – the earth with which we are so familiar viewed from a completely perspective.
 
 I want to take these two elements of 'one small step' of major significance and viewing things from a different perspective into our thoughts today.

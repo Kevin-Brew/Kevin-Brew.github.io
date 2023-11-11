@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/6th Sunday of Easter - 2009.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/6th Sunday of Easter - 2009.pdf)
+
 There are a number of stories surrounding the lives of the various disciples after the death and resurrection of Jesus. Some are obvious the stuff of legend, others one likes to think at least have their origins in the lives of these very ordinary, extraordinary men whom Jesus called to follow, to continue his work..
 
 One that has always appealed to me concerns the figure of John, associated with the writing of the Fourth Gospel and at least the first of the letters of John and by tradition linked with the beloved disciple, the one who sat next to Jesus at the Last Supper, the one who Jesus, as he died, entrusted with the care of his mother, who accompanied Peter to the tomb when Mary Magdalene came with the news of the empty tomb that first Easter morning.

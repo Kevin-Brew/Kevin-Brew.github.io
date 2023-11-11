@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Advent Carol Service - St Patrick_s - 2022.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Advent Carol Service - St Patrick_s - 2022.pdf)
+
 I recall many years ago when I was Rector in County Laois visiting a retired Roman Catholic Priest in Hospital in Portlaoise one Easter. We had struck up a friendship. He had grown up in the village of Clonaslee in my Parish and ended up as Parish Priest in Birmingham in a Parish near where I had grown up. And I had come from Birmingham and ended up ministering in Clonaslee to where he had come to retire. It was his first Easter since he had been ordained that he had not been leading worship. He said something that Easter Day that has stayed with me ever since. 'We are an Easter people'.
 
 I thought of that encounter as I read over the lessons being read at our Advent Service this evening and I found myself thinking that we are an Advent People. The two are not contradictory: for it as an Easter People that we, as an Advent People wait in hope.

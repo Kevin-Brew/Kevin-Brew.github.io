@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent2stpatrick2019.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent2stpatrick2019.pdf)
+
 Each morning I came down to breakfast in the Rectory in Ahoghill, as I filled the kettle for the first cup of tea, I would look out of the window and see Slemish Mountain in the distance. It was on Slemish that the young Patrick is reputed to have worked as a slave watching over sheep. He had been captured by pirates and transported from his native land. Sometimes Slemish was bathed in sunshine, sometimes covered in snow.
 
 From time to time I would think of Patrick, his experiences as a slave, treated as a nobody. I thought of him, having escaped from Ireland, returning to the land of his captivity, to bring the Gospel. That journey of return represents in itself a journey of reconciliation, putting behind past hurts.

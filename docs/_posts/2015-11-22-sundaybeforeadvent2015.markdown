@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/sundaybeforeadvent2015.png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/sundaybeforeadvent2015.pdf)
+
 Sunday before Advent – 2015 – Year B
 
 Last Sunday, in the wake of the dreadful attacks in Paris the previous Friday, we struggled to come to terms with what had happened; we thought of men and women caught up in the violence of those who purported to act in the name of faith. We thought of words of President Michael Higgins in his poem 'The Prophets are weeping' in which he wrote:

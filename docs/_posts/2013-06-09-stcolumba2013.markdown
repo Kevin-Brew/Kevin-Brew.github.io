@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/stcolumba2013.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/stcolumba2013.pdf)
+
 Today is the Feast of St Columba, one of the towering figures of the early Irish Church. A native of Donegal, of noble birth, he was one of several famous Irish saints who came under the influence of St Finian. He was one of a number of Irish monks who were to embark upon a programme of evangelisation of Scotland, Northern England and on into Northern Europe. Columba himself, along with twelve others sailed from North Antrim to establish the community in Iona, where he was to spend the rest of his life.
 
 75 years ago, the present ecumenical community of Iona was founded by Rev George McLeod, a minister in the Church of Scotland. In 1938 he led a group of unemployed skilled craftsmen from the dockland Parish of Govan in Glasgow along with a group of trainee clergy to rebuild the ancient Abbey on Iona along with the living accommodation and to re-establish the common life. This initiative was to be a sign of hope and rebuilding of community in a Scotland that was re-emerging from the Great Depression.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper142016.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper142016.pdf)
+
 In AD 70, at a time of deepening crisis in the city of Jerusalem, Rabbi Hanina, then Deputy High Priest in the Temple, said 'Pray for the welfare of the government, for were it not that the people stood in fear of it, they would swallow one another alive.' Rabbi Hanina served during the last days of the Second Temple, prior to its final destruction by the Romans in the year 70 AD. During that period the historian Josephus tells us of the people of Jerusalem locked in bitter internal conflict.
 
 Ever since that day, the 9th day of the Jewish month of Av, the Jews have observed Tish Av as a solemn day of mourning, a perpetual reminder of the destruction of the Temple in Jerusalem. A reminder also of the whole breakdown of their society, that lead to that catastrophic event in their history. On the Sabbath closest to that day they read the passage that we have read this morning as our Old Testament Lesson, the first chapter of the Book of the Prophet Isaiah. This passage has its own roots in a previous time of crisis that culminated in the destruction of the First Temple and with it the Exile into Babylon.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Alastair McMillan.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Alastair McMillan.pdf)
+
 We gather here today in St Mary’s Church for the funeral of Alastair McMillan. We have heard the family speak with pride of one who was their father and who also became their friend. This is not just a funeral service but also a service of thanksgiving, a time to reflect on all that we have received in this quiet, understated man, as husband, as father, grandfather, friend.
 
 He grew up in a strong Presbyterian tradition – his father’s Christian name of John Knox bears ample testimony to that. He was the first infant to be baptised in Howth Presbyterian Church. It came through in taking pleasure in simple things, a distrust of fuss, one who took great pride in his family. There was a serenity to him and a very practical down to earth approach. At the heart of it all, there was a simple, sincerely held, no-nonsense spirituality. One sensed that here was a man at peace with himself.

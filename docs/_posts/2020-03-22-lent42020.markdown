@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent42020.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent42020.pdf)
+
 This has been some week. As the Taoiseach said on Tuesday night, St Patrick’s Day 2020 will be a St Patrick’s Day we will remember for the rest of our lives; no parades, no crowds out enjoying themselves, an eerie quiet on the streets all over Ireland.
 
 This is something that is having a profound effect on us all. As I went down to Supervalu the other morning, there was the queue waiting to go in; the path marked off in 2 metre sections to keep us apart. Then I went in and began to walk around the store. Everyone was observing the social distancing, keeping 2 meters apart, not even talking to each other. There is a sense of isolation being built up in our lives that is going to be with us for the next few months.

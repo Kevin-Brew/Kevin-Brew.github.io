@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany32019.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany32019.pdf)
+
 Over the last few years, a feature of our Fete has been the various games overseen by our Youth Clubs that are set up near the entrance. One year there was a large game of Jenga. The game begins with a tower constructed of simple smooth oblong blocks. One by one the players remove the blocks until the removal of one of them causes the tower to collapse.
 
 It is a game of inter-connectedness – the lower blocks all supporting the ones above. It is also a game of instability and weakening as more and more of the blocks are withdrawn. I thought of this as I reflected on the passage we read from Paul’s First Letter to the Corinthians. As I said last week, he is developing his thoughts on spiritual gifts in the context of the unity of the body. Every part has its place and no part is unimportant.

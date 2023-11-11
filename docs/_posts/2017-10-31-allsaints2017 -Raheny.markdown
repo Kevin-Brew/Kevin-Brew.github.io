@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/allsaints2017 -Raheny.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/allsaints2017 -Raheny.pdf)
+
 All Saints – Raheny 2017-10-31
 
 First of all I would like to thank Norman your Rector for his kind invitation to preach here in Raheny on All Saints’ night. I retain a very warm affection for this Church and this Parish in which I began my ordained ministry. I recall the All Saints’ night services as very much a feature of the life of this place.

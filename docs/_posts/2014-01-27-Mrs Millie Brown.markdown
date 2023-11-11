@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Millie Brown.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Millie Brown.pdf)
+
 We gather here this morning for the funeral of Mrs Millie Brown, who died as she lived, quietly and without fuss, in Brymore Nursing Home where she had been cared for over the last two years. Prior to that she had been cared for in her home off the Kilbarrack Road by her family who were determined that, even with the advance of dementia, she would remain as long as possible in her own home, retaining her own independence.
 
 In the eight years or so in which I have been visiting her, my experience of her has been one of frailty, of weakness. When I first visited her I was accorded a cheery welcome, she took me out into the garden which she still loved and managed to enjoy. She spoke of growing up in Bagnelstown, the garage she helped run with her father. I have since heard family members refer to a 'Trojan, a powerful women, nothing phased her.'

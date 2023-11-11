@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/PENTECOST - 2009.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/PENTECOST - 2009.pdf)
+
 When we were first married we used to decorate our various flats with posters. One that always appealed to me was a picture of a rag doll being put through an old-fashioned mangle. The caption was a quotation from a 19th century American President, James Garfield, 'The truth will set you free – but first it will make you miserable'.
 
 Today, the Feast of Pentecost, we celebrate the coming of the Holy Spirit on the Church. The passage from the Acts of the Apostles paints a vivid picture – we are possibly a little uncomfortable with the images of tongues of fire, of rushing wind. The picture of the crowd, drawn from all parts of the Eastern Mediterranean, each hearing the Good News in their own tongue, suggests a picture of a reversal of the scattering of the nations at the Tower of Babel, prefigures the spread of the Gospel beyond the narrow confines of Palestine.

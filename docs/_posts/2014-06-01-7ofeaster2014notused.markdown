@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/7ofeaster2014notused.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/7ofeaster2014notused.pdf)
+
 7th Sunday of Easter (Sunday after Ascension Day) – 2014 – Year A
 
 One of the joys I have discovered of being a grandfather is that you are once again permitted to do things like building sandcastles and the like on the pretence that you are amusing your grandchildren.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper122017.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper122017.pdf)
+
 PROPER 12 – 2017 – Year A – Trinity 7
 
 I get great value out of my car radio – compared to the North of Ireland, I find that the Irish radio programmes are far more engaging. The week before last, I found myself listening to a programme on the classic film director Orson Wells. In discussing one particular film, the person spoke of Orson Wells stringing together a succession of scenes 'like pearls on a necklace'. Each one was a gem, each one sets off the others, counterbalances the others and taken together they were magnificent.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/5th Sunday of Easter - 2009.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/5th Sunday of Easter - 2009.pdf)
+
 During these Sundays of the season of Easter we have been reading as our first lesson passages from the Acts of the Apostles instead of the Old Testament. In so doing we have read of the early stages in the growth of the Christian Church. We are now approaching the Feast of Pentecost when we celebrate the coming of the Holy Spirit in whose power the disciples and their followers went out to proclaim the Gospel of the Crucified and Risen Christ.
 
 When that happened the growth was quite remarkable. Remarkable not only in terms of its speed but also in terms of the barriers that were crossed in the course of the early growth. Barriers in society are frequently perceived to have a permanence that often goes unquestioned. We are told, or we tell others, that it has always been so and will always be so. But we often forget that one of the features of the early growth of the Church was the variety of seemingly immutable barriers that fell in its path.

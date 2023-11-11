@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/prop272004.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/prop272004.pdf)
+
 "Gentlemen, we just don't know, do we?" I can still see Rev Dr Freddy Vokes, Archbishop King's Professor of Divinity, who lectured me in New Testament and Church History, standing with a glint in his eye. We had tried to tie him down on some point of interpretation as he lectured us on St John's Gospel - he just looked back at us and said in his sing song English voice, "Gentlemen, we just don't know, do we?" For some of us that was quite infuriating. Questions had answers and answers were either right or they were wrong. I actually found it quite liberating as Freddy went on to say, "Sometimes the most honest thing I can say is 'I don't know'."
 
 Another thought that came to me as I read our Gospel reading for this morning was the character Topol in the film "Fiddler on the Roof". He was a poor Jewish man living in Czarist Russia who had an ongoing dialogue with God as why he had been put on this earth as a poor man. At one point he asked "Would it spoil some vast eternal plan if I were a wealthy man?" He used to think about the sort of things he could do if he was rich. One of the things he would be able to do would be to spend time at the synagogue, talking with the rabbis about his faith, asking questions, "questions that would cross a rabbi's eyes".

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Epiphany 4 - 2010.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Epiphany 4 - 2010.pdf)
+
 Over the last two weeks we have been reflecting on spiritual gifts, their variety and place within the life of the Church. One of those that frequently appears in the lists of spiritual gifts is that of prophecy.
 
 This must be one of the most misunderstood words in the biblical vocabulary. In fundamentalist circles it is often seen in term of foretelling the future, reducing the scriptures to a sort of spiritual Old Moore’s Almanac. Following this line of thought obscure texts, taken out of their context are deemed to refer to specific events, often implying that the world is about to come to a speedy and dramatic end – generally to the detriment of a group other than your own.

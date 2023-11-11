@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/allsaints2012.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/allsaints2012.pdf)
+
 ALL SAINTS – year B – 2012
 
 Driving along the coast road the other night there were the familiar sights of fireworks in the sky, strangely clad individuals wandering the street, going from door to door. It was of course Halloween, All Hallowes Eve. The following day is All Saints Day and in recent years there has been the option of using the lessons for All Saints on the Sunday closest to All Saints Day. It is an affirmation of the specifically Christian understanding of this season that has been almost obliterated by the customs and folk lore that have grown up around it. Don't get me wrong – I have enjoyed the festivities with my children in the past but it is good in the context of our worship today to reaffirm the Christian dimension.

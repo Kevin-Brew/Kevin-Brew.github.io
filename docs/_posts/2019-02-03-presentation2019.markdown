@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/presentation2019.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/presentation2019.pdf)
+
 Presentation of Christ in the Temple – 2019
 
 I have referred on several occasions to the power of a hymn to convey deep spiritual truth. There is the combination of poetry and a memorable tune that stays in the mind long after the most eloquent of sermons have disappeared into the recesses of memory.

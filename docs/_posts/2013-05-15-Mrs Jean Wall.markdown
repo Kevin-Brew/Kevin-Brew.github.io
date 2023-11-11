@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Mrs Jean Wall.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Mrs Jean Wall.pdf)
+
 Funeral of Mrs Jean Wall – Glasnevin – 15th May 2013
 
 Have you ever been in the house when the power suddenly fails? For a short while you are left disorientated, until you find a torch, box of matches or whatever and in their light you locate the familiar doors, chairs and whatever. Monday was a day when the lights went out for the family of Jean Wall. In a few short hours Jean was taken from you. On her instructions David had gone back home to feed her beloved dogs, Chris and Lisa were on their way from England to visit her in hospital.

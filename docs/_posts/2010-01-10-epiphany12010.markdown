@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany12010.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany12010.pdf)
+
 1st Sunday of Epiphany – year C – 2010
 
 In my filing cabinet at home, I have a collection of letters that I have kept over the years. Letters from my parents, from friends, from different people. Periodically I would take them out and read some of them. These letters tell a story of people who have loved me, encouraged me, supported me over the years and in so doing they tell me something about myself.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/6ofeaster2021family.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/6ofeaster2021family.pdf)
+
 One of my memories of School is of choosing of teams. Two people are picked as captains and then they take turns in picking their team from the rest of the class. They obviously pick the ones who are best at running, at catching a ball or whatever.
 
 Now I wasn’t great at sport so I tended to be among the last to be picked. That came to mind as I read our lesson for today as Jesus told his disciples; ‘You did not choose me, I chose you and appointed you.’

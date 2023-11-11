@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Good Friday.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Good Friday.pdf)
+
 One of the features of the modern television news bulletin is that we are confronted on a daily basis with the reality of suffering in the world of today. We have witnessed the brutality of the street to street battle for the city of Mosul. The horrific effects of poison gas on men, women and children were brought into our living rooms. Then closer to home we have had the tragic loss of four members of the Irish Coast Guard, failing to return from a mission to rescue others.
 
 And we ask 'Why?' Where is God in all of this?

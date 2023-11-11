@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/pentecost2011.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/pentecost2011.pdf)
+
 Feast of Pentecost – 2011 – year A
 
 It has often been said that pets become more like their owner – or is it the other way round? Whichever way you take it, what is meant is that the long term association, the long term companionship has its effect in affecting change in one party or the other.

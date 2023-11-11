@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent42011.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent42011.pdf)
+
 Over the last few weeks we have been hearing news of results of a series of experiments taking place using a mysterious piece of equipment, the Large Hadron Collider at Geneva. This monster particle accelerator, with its capacity to produce very high energy particle beams travelling close to the speed of light, capable of simulating conditions thought to have existed at the time of the Big Bang, the very beginnings of our Universe. It was constructed with the aim of investigating the existence of a particle that up to now has only existed in the fevered minds of the theoretical physicist, the Higgs Boson. This particle, whose existence is suggested by the so called Standard Model on which the current understanding of atomic and nuclear structures is based. This Higgs Boson has been called the God-particle, a sort of Holy Grail of Nuclear physicists, would actually explain the whole concept of mass. Failure to find it in the course of these experiments would send theoretical physicists back to the drawing board.
 
 During these last few weeks scientists working at the Large Hadron Collider have reported that they have detected the first possible signs of the illusive Higgs Boson. As one who has held a near life-long passionate belief in the coherence of scientific and religious truth, I have found all this quite exciting. Ernest Walton, the Nobel Laureate, who was Professor of Physics in my time in Trinity once declared that the scientist and the theologian are both seeking after truth; and truth will never contradict truth. He was convinced that the scientist, engaged in the study of the created order, was engaged in a study of nothing less than the work of the Creator.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany32012fameuch.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany32012fameuch.pdf)
+
 Epiphany 3 - 2012 – Year B - Family Eucharist
 
 'You are Simon – you will be called Peter.' This is from John’s account of the calling of Simon that we read from Mark’s Gospel. What was the difference between the Simon that Jesus first encountered and the Peter at the end of the story.

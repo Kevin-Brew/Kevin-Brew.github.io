@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/lent12015.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/lent12015.pdf)
+
 ### Lent 1 – Year B – 2015
 
 Last Wednesday was Ash Wednesday and the morning radio programmes all included something on Lent, what were people giving up for Lent, what were people doing for Lent. I remember when I was growing up, even though we were not a Church family, Lent was still seen as a time for making resolutions, taking a fresh look at ourselves, putting something of a discipline upon ourselves. Perhaps the zips don't go up quite as easily as they used to so we take the opportunity of this time to go on a diet, take a bit more exercise. The early anti-smoking campaigns used to latch onto Ash Wednesday as a day to stop the fags.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany12016family service.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany12016family service.pdf)
+
 We have just celebrated Christmas – the birth of our Lord Jesus Christ. The party is over – we’re back to school, back to work. Who did this child Jesus grow up to be.
 
 Starting with a few pictures of children who grew up to be famous – see if you can recognise them: Einstein, Wayne Rooney, Barack Obama. Children who grew up to be famous – scientist, footballer, President of the USA. Who did Jesus grow up to be?

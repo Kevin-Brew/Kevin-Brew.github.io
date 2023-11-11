@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper72021 - retirement - thank you speech.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper72021 - retirement - thank you speech.pdf)
+
 Howth Retirement – Thank you speech
 
 First of all, I want to say a huge thank you for the generosity of the many messages we have received since I announced my retirement and for everything today. It has been a privilege, as a blow in from the Church of England, to have served in the Church of Ireland over the last 43 years. I have seen the Church of Ireland, North and South, urban and rural. I have come to love this Church, in all its strengths and weaknesses, and in it I have found my spiritual home.

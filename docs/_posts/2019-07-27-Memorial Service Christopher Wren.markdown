@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Memorial Service Christopher Wren.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Memorial Service Christopher Wren.pdf)
+
 A few weeks ago Garrett got word that his brother Christopher, who was suffering from cancer, was now close to the end of his life. Garrett and Fiona set off on the long journey to Australia to be with Christopher and his partner, Yves, before he died.
 
 Today, we gather here in St Mary’s not far from the house on the Howth Road in which Christopher would have lived with the family before he headed off first to England, eventually ending up in Australia. At the beginning of the service Garrett shared his own reflections on the life of his brother Christopher.

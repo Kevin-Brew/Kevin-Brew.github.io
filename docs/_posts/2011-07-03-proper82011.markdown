@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper82011.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper82011.pdf)
+
 Proper 8 – 2011 – year A – Trinity 1
 
 If you were asked to name anything attributed to St Francis of Assisi, before long someone would mention the prayer of St Francis, that forms the basis of our hymn, 'Make me a channel of your peace.' There is another saying attributed to St Francis, 'Preach the Gospel at all times and if necessary use words.'

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Easter Vestry 2015.png"
 tags: Easter Vestry
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Easter Vestry 2015.pdf)
+
 EASTER GENERAL VESTRY – 2015
 
 On 24th June of this year, I will have completed ten years as your Rector. I want to take this opportunity of reflecting on what has happened, what is happening and what lies ahead. Arriving in 2005, I left a Northern Ireland that was edging towards the political settlement that we now have, a society edging towards peace and away from the mayhem of the previous 35 years. I arrived in a far more dynamic and prosperous Dublin than the one I had left in 1983 to go to the Mountmellick Group of Parishes. I came back to a very different Republic to the one I left in 1989 to go to service in Ahoghill.

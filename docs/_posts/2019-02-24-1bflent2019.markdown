@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/1bflent2019.png"
 tags: Epiphany Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/1bflent2019.pdf)
+
 Sunday before Lent – Year C (Transfiguration) – 2019
 
 33Just as they were leaving him, Peter said to Jesus, ‘Master, it is good for us to be here

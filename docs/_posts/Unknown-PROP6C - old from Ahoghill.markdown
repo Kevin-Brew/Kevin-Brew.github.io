@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/PROP6C - old from Ahoghill.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/PROP6C - old from Ahoghill.pdf)
+
 "Do you believe that people can be changed?"
 That is one of the two questions that I believe lie at the heart of our Gospel reading this morning. It was a question that confronted Simon the Pharisee. He had invited Jesus to his house and a notorious woman came in and, in what to him was a quite shameless behaviour, she threw herself weeping at Jesus' feet, pouring perfume on his feet. Clearly if Jesus saw himself as some sort of prophet then, in Simon's eyes, he certainly did not show it by condoning this sort of behaviour.
 

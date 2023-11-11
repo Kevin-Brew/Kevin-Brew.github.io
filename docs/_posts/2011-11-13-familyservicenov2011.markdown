@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/familyservicenov2011.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/familyservicenov2011.pdf)
+
 ## Family Service – 13th November 2011
 
 This morning reflecting on the whole subject of prayer. 'Prayer is something you do with your eyes shut!' What do we do when we pray? Who is it we are praying to? God – what is your idea of God? Jesus taught us to call God 'Father' – the word Jesus would have used is the word 'Abba' – Daddy. What sort of things do you ask your Dad, or your Mum for that matter, to do?

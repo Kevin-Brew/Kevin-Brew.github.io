@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper212011930.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper212011930.pdf)
+
 PROPER 21 – Year A – 2011 – Trinity 14
 
 'A man had two sons; he went to the first and said, "Son, go and work in the vineyard today." 29He answered, "I will not"; but later he changed his mind and went. 30The father went to the second and said the same; and he answered, "I go, sir"; but he did not go. 31Which of the two did the will of his father?' Matthew 28-31

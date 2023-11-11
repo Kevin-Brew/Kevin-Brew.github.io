@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Dorrie MacCann.png"
 tags: Funeral
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Dorrie MacCann.pdf)
+
 Funeral of Dorrie MacCann – Howth – 15th April 2021
 
 Dorrie MacCann – where do we begin? Norman, Lyndon, Adrian and Melanie and their families remember a devoted wife, mother, grandmother – a rock in all their lives. We as a Parish remember one who was at the very heart of this place. First and foremost, regular in public worship. Her worship of Almighty God here each Sunday was an essential element of her weekly routine. In the full of their health, Norman and Dorrie would have been here every Sunday – apart of course from the holidays they enjoyed together. A faith that worked itself out in so many ways in individual acts of care to wider family and community.

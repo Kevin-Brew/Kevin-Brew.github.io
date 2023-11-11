@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/advent12015messychurch.png"
 tags: Advent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/advent12015messychurch.pdf)
+
 Have you ever sat outside on a bright sunny day and used a mirror to reflect the sun’s light? If one of you will take this flashlight and shine it on me I will show you what I mean. You see, as the light shines on me, I hold up my mirror and I can reflect the light to shine on you. I am not the light, I am just letting my mirror reflect the light to shine on you.
 
 If I am going to reflect the light on you, there are a couple of things that are very important:

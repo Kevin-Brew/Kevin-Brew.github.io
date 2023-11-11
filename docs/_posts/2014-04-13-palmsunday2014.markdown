@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/palmsunday2014.png"
 tags: Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/palmsunday2014.pdf)
+
 When we are going on a journey to somewhere, people will often say to us "If you are going there you must call by and see ..." It may be a particular building, a view or maybe even a local festival. I will often talk of life as a journey, a journey to God, a journey into God. There are things that distract us along the way, worries and anxieties, the distractions that can all too easily knock us off course. Holy Week is a time for refocusing on that journey to God, into God. In that context I just want to focus on a place we must all call by and see on our journey of faith. Each of us at some stage must make our own journey to the foot of the Cross of Christ.
 
 In our Gospel reading there were many who came together in the events that lead up to Jesus being nailed to the Cross. There was Pilate - how did he see Jesus? A victim of an internal row among the Jews? He had certainly got the Chief Priests worked up. Jesus had been brought before him, the representative of Imperial Rome, for judgement. Pilate saw one who was powerless, intriguing but slightly pathetic and certainly dispensable. He knew he was there on a trumped up charge, he would try to save him but he wasn't going to lose any sleep over him.

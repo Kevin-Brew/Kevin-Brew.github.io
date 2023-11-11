@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/eastervestry2012.png"
 tags: Easter Vestry
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/eastervestry2012.pdf)
+
 Easter General Vestry - 15th April 2012
 
 At last year's Easter General Vestry, Kevin reflected on Archbishop Jackson's Enthronement sermon, addressing the changing environment for proclaiming the Gospel in our generation. He discussed tradition as a living and developing phenomenon, with change not undertaken simply for its own sake.

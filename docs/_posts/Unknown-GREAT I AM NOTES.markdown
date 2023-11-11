@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/GREAT I AM NOTES.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/GREAT I AM NOTES.pdf)
+
 ### Matthew
 27 But immediately Jesus spoke to them and said, "Take heart, it is I; do not be afraid." 14:27
 22 And they became greatly distressed and began to say to him one after another, "Surely not I, Lord?" 26:22

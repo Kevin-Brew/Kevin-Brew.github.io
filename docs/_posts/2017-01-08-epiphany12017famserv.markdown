@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/epiphany12017famserv.png"
 tags: Epiphany
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/epiphany12017famserv.pdf)
+
 Epiphany 1 – 2017 – year A – Family Service
 
 Why mention Preston North End Football Club? They are in the FA Cup 3rd Round – playing Arsenal. There can be some pretty scary supporters. In recent years they maybe haven’t had much to cheer about. They were in the FA Cup Final – in 1954 against West Bromwich Albion, losing 3-2. There aren’t many supporters this side of the water – I knew one in Belfast. In fact you could say that to be a supporter of Preston North End is to stand out as different from everyone else.

@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Emma Dickey - 25 Jun 2010.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Emma Dickey - 25 Jun 2010.pdf)
+
 We have gathered on this lovely day to celebrate the marriage of Emma and Ross. This is a day that you will remember for the rest of your lives, a day that in many ways sets the tone for the rest of your lives. The readings that you have chosen and the words of the Marriage Service itself are full of themes of commitment, of faithfulness, of the love that you have found for each other.
 
 Now of course all this did not happen out of the blue. On this day I invite you to think back to how it all began. The time you first noticed each other, your shared interests in veterinary science, the process in which friendship grew into love and you realised that you wanted to spend the rest of your lives with each other.

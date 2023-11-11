@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Hymn 244 - There is a green hil - verse 5.png"
 tags: Holy_Week Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Hymn 244 - There is a green hil - verse 5.pdf)
+
 Hymn 244 ‘There is a green hill far away’
 Thursday vs 5 ‘O dearly, dearly has he loved…’
 

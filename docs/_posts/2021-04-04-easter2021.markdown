@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/easter2021.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/easter2021.pdf)
+
 The Easter story, the story of Mary Magdalene going to the tomb and finding it empty is one of the most familiar of all the Bible stories. The theme of resurrection lies at the heart of our Christian faith.
 
 As I read this very familiar story, a feature that stands out for me is that of movement, lots of movement, between the Upper Room, where the disciples had gathered since Jesus’ death the previous Friday afternoon, and the tomb where he had been hastily buried before the start of the Passover celebrations. There were a number of journeys in the early hours of that morning between the Upper Room, a place of sanctuary but also of fear, and the tomb, a place of death, of fear, a reminder of their failure to stand by Jesus in his hour of need; a tomb that held not just the body of Jesus but also all the early hopes and optimism as they had followed him in the days of his ministry.

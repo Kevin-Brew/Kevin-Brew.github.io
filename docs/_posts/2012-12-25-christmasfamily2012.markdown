@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/christmasfamily2012.png"
 tags: Christmas
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/christmasfamily2012.pdf)
+
 Christmas Day – Family Service – Howth – 2012
 
 How many wise men were there? Tradition is three – Caspar, Melchior and Balthasar – bible does not say. There is a story of a 4th wise man called Arteban, a friend of the other three, story has it he was a very clever, very compassionate doctor.

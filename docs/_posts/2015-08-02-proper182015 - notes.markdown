@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/proper182015 - notes.png"
 tags: Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/proper182015 - notes.pdf)
+
 Lev 19:9 When you reap the harvest of your land, you shall not reap to the very edges of your field, or gather the gleanings of your harvest. You shall not strip your vineyard bare, or gather the fallen grapes of your vineyard; you shall leave them for the poor and the alien: I am the LORD your God. Lev 19:9-10
 
 Dt 24:21 When you gather the grapes of your vineyard, do not glean what is left; it shall be for the alien, the orphan, and the widow. Remember that you were a slave in the land of Egypt; therefore I am commanding you to do this. Deut 24:21-22

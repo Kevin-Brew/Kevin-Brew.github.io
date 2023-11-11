@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/3bfadvent2019.png"
 tags: Advent Proper Special_Occasions
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/3bfadvent2019.pdf)
+
 3rd Sunday before Advent – Year C – 2019
 
 I often find myself thinking of the character Topol in the film ‘Fiddler on the Roof’. He was a poor Jewish man living in Czarist Russia who had an ongoing dialogue with God as to why he was put on this earth as a poor man. At one point he asks, ‘Would it spoil some vast eternal plan if I were a wealthy man?’ He used to think of the sort of things he would do if he was rich. One of the things he would we able to do would be to spend some time in the synagogue, talking with Rabbis about his faith, asking questions, ‘questions that would cross a rabbi’s eyes.’

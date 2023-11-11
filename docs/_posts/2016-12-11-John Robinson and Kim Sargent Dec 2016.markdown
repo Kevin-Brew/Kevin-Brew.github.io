@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/John Robinson and Kim Sargent Dec 2016.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/John Robinson and Kim Sargent Dec 2016.pdf)
+
 We gather this afternoon to celebrate the marriage of Karl and Nicola. As we do so we join with them as they celebrate and rejoice in what they have already shared together, in the love and the companionship, the encouragement and the strength they have found in each other.
 
 This day is for them a day of affirmation, of even deeper commitment to each other in love. The opening declaration of the marriage service talks of love in all its dimensions. In the course of this it draws an analogy, based on the teaching of St Paul, comparing the closeness the couple are to have with each other to the closeness that Christ has with his Church. As I often remark that is an almost scary closeness, something that we can at best aspire to. But it is worth reflecting on what is the basis of that closeness that Christ has with his Church - it is nothing less than his sacrificial, self-giving love of himself. The love we have for each other should mirror something of that self-giving love that Christ has for his Church, that we should love one another just as Christ has loved us. That we should show in our love for one another something of that self-giving, self-forgetting love of Christ, as we serve one another, as we defer to one another.

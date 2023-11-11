@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/2beforelent2014.png"
 tags: Epiphany Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/2beforelent2014.pdf)
+
 We read as our Lesson this morning that first opening chapter of Genesis, the story of creation, a story that captures the amazing diversity of creation, the majesty of the creation, from the sun, the moon and the stars and the rich diversity of life on the face of the earth. 'God saw all that he had made, and it was very good.'
 
 There is the story of an old cleric who, whenever this passage was read in Church, used to preach a sermon on the wonders of the solar system, the galaxies, the massive sizes of the stars, the immense distances that lay between them. On one particular Sunday a young curate, who was serving in the Parish at the time, asked the old man, somewhat disparagingly, whether he thought anyone in the congregation had understood a word of what he was talking about. The old man smiled at his earnest young colleague and said, 'Maybe they did or maybe they didn't – but it certainly enhances my own understanding of the greatness of God.'

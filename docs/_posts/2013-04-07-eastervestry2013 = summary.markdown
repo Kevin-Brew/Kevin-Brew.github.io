@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/eastervestry2013 = summary.png"
 tags: Easter Vestry
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/eastervestry2013 = summary.pdf)
+
 In his address, the Rector remarked that, apart from the 16 years he spent in Ahoghill & Portglenone, his period in Howth was the longest he had spent in any one Parish in the course of his ministry in the Church of Ireland. Reflecting on initiatives in the Diocese, he spoke of the importance of a sense of belonging in Parish life, a belonging to God and a belonging to one another, a concept that is embedded in the services of Baptism and Holy Communion.
 
 He went on to speak of the development of our Youth work, and the distinctive contribution that each of our Youth Workers have brought to this position. He then thanked the various people who have worked so hard in a voluntary capacity in the service of the Parish.

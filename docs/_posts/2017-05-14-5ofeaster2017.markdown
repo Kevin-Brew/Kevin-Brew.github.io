@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/5ofeaster2017.png"
 tags: Easter
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/5ofeaster2017.pdf)
+
 During these Sundays after Easter our first lesson, instead of being from the Old Testament, has been drawn from the Acts of the Apostles. It is a book we often tend to pass over. The passages we read in these weeks of Easter present us with a picture of the Church on the move, of the Gospel being accepted and people of all backgrounds coming to faith. Of course this was not the whole story, even in those early days. The disciples faced a degree of harassment from the Jerusalem authorities and, as we are reminded in the passage that we read today, Stephen met his death at the hands of a mob.
 
 This was a foretaste of what was to happen to so many of the disciples as they carried the gospel out from Jerusalem into the wider world. What often impresses those outside the Church is not so much the Church Triumphant as the fortitude of Christians in the face of suffering – the attitude of the Coptic Church in Egypt to the recent attacks by ISIS in Cairo are a recent example of this. Ordinary, understandable human reaction to suffering, transformed by the Gospel.

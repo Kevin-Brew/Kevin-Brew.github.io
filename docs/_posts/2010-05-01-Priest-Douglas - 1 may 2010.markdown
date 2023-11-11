@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/Priest-Douglas - 1 may 2010.png"
 tags: Wedding
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Priest-Douglas - 1 may 2010.pdf)
+
 This afternoon we have come together with Jane and Andrew on a very special day in their lives; the day of your marriage. The day on which you make a life-long commitment of love to one another.
 
 Of course, a day like this does not happen out of the blue. You no doubt recall the time you first met, what attracted you to each other. Then attraction grew into love and love into a conviction that you were meant for each other, that you wanted to share the rest of your lives together.

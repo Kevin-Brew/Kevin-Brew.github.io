@@ -7,11 +7,13 @@ og_image: "/assets/img/posts/1bflent2021.png"
 tags: Epiphany Lent
 ---    
 <div class="tag-pills">
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
-    {% endfor %}
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+  {% endfor %}
 </div>
 [Original PDF](/assets/pdf/1bflent2021.pdf)
+
 Sunday before Lent – 2021 – year B (Transfiguration)
 
 Could I begin by asking you a question? What went through your mind as you read our Gospel passage, Mark’s account of the Transfiguration of Jesus, either before the service or as it was read in the context of this service? For myself, whenever I read passages such as this, or the miracles of feeding or healing, I ask myself, ‘What experience did the disciples have, what experience of Jesus lay behind, this account?’ This is a question we have to ask ourselves whether we take these passages literally or see them as expressing in symbolic form their experience of Jesus as healer, as feeder, as Son of God.

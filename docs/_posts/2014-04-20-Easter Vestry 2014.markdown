@@ -5,8 +5,13 @@ date:   2014-04-20
 blurb: "Kevin discusses the initiatives by Archbishop Dr. Jackson to encourage reflection on the Church's mission and fellowship. He addresses the decline in church attendance and the importance of engaging younger generations. Kevin highlights the need for embracing opportunities and incorporating new patterns of worship to ensure a vibrant future for the church community."
 og_image: "/assets/img/posts/Easter Vestry 2014.png"
 tags: Easter Vestry
----
-[Original PDF](/assets/pdf/Easter Vestry 2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Easter Vestry 2014.pdf)
 During his time as our Archbishop, Dr Jackson has made a series of initiatives designed to encourage us to think about Church, the nature of our fellowship, our understanding of mission – where we are, what we are here for. On occasion his analysis has provoked some sharp reaction – the term 'polyster Protestant' will not soon be forgotten.
 
 Utilising his connections and the respect in which he is held in the wider Church, he has invited key speakers to address both clergy and laity. Among recent visitors we were privileged to welcome the Bishop of London, Dr Richard Chartres who shared with both clergy and laity his experience of working in a large and diverse city that is London, with its wide variety of cultures, of traditions. He spoke of the need to respect all traditions, to include all traditions in the life of the Church, remarking that every legitimate expression must have a spoon in the soup.

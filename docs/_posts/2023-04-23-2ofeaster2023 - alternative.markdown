@@ -5,8 +5,13 @@ date:   2023-04-23
 blurb: "This sermon discusses the struggle between doubt and faith, using the story of Thomas and his doubts about Jesus' resurrection as a focal point. It emphasizes the importance of relationship in faith, the humility at the heart of faith, and the provisional nature of faith. The sermon concludes with the assurance of Jesus' presence and peace, even in our doubts and uncertainties."
 og_image: "/assets/img/posts/2ofeaster2023 - alternative.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/2ofeaster2023 - alternative.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2ofeaster2023 - alternative.pdf)
 2nd Sunday of Easter – 2023 – Year A – St Patrick’s, Jordanstown – Doubt and Faith
 
 ‘Rector, I’m not sure what I believe anymore.’ Many is the time that I have heard that comment in the privacy of someone’s home. People will have come to that position for a number of reasons. It could be trauma or bereavement, or serious illness in themselves or in someone they love. Or perhaps news of some terrible natural disaster leaving many innocents suffering or dead. Or it may be just simply the speak has gone out of living, out of faith.

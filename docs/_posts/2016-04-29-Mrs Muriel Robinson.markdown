@@ -5,8 +5,13 @@ date:   2016-04-29
 blurb: "This sermon is a touching tribute to Mrs. Muriel Robinson, who passed away in 2016. It recounts her life, her love for people, and her dedication to her family and community. The sermon emphasizes her contentment in life and her faith, inspiring others to find peace and prioritize faith in their own lives."
 og_image: "/assets/img/posts/Mrs Muriel Robinson.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Muriel Robinson.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Muriel Robinson.pdf)
 Funeral of Mrs Muriel Robinson – 29th April 2016
 
 Back in 1964, David and Muriel Robinson came to settle among us. David had come down to direct the newly established Horticultural Institute in Kinsealy. It was part of the era of Lemass and Whitaker as Ireland began to look beyond its own borders to develop its industry and horticultural sector. They had come down from Belfast and they settled in Earlscliffe in Howth. Earlscliffe had a history and tradition of its own, being the home at one stage of Provost Mehaffy of Trinity. Muriel and David Robinson began to make their own mark on it. David with his horticultural skills developed a wonderful garden which drew visitors from near and far. Muriel developed a home – first and foremost for her family - but also a place of great hospitality.

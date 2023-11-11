@@ -5,8 +5,13 @@ date:   2010-11-14
 blurb: "In this sermon, Kevin discusses the importance of self-awareness and honesty in both our personal and societal lives, drawing parallels between the state of the nation's finances and the parable of the Pharisee and the Tax Collector. He emphasizes the need for healing, not just addressing immediate symptoms but also root causes. The sermon also marks the baptism of a child, Tadhg Ryan, symbolizing the beginning of a spiritual journey."
 og_image: "/assets/img/posts/5thbeforeadvent2010.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/5thbeforeadvent2010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/5thbeforeadvent2010.pdf)
 During this last week the leading figures of our political parties have visited the Department of Finance and Government Buildings to be briefed on the grim realities of our nation’s finances. As Budget Day approaches the cost of restructuring our economy seems to rise by the week. 3 billion euro – 4 billion euro – 5 billion euro. We are hearing the pro’s and con’s of frontloading by taking most of the costs up-front, or of deferring the pain, allowing a longer period for sorting things out. There is a fine balance to be struck between on the one hand the danger of driving the economy into an even deeper recession and on the other maintaining the confidence of the international bond markets.
 
 Last week, in the course of the briefings given at the Department of Finance, the opposition parties were allowed to see things as they really are. In any area of life, be it community or individual, being brought face to face with how things really are can be painful and yet it can be the starting point of healing. Healing in this context involves not just dealing with the immediate symptoms but also addressing root causes, putting into place strategies to avoid a reoccurrence of the problem. In the case of our nation’s finances this will involve avoiding a future reliance on one single sector of the economy, recognising the need for a broader base for our taxation.

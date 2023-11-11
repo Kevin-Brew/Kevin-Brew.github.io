@@ -5,8 +5,13 @@ date:   2018-11-18
 blurb: "Kevin discusses the spiritual journey from Baptism to Confirmation, emphasizing the importance of personal responsibility in faith. He reflects on the presence of God in everyday life, through nature, music, and the people around us. The sermon encourages us to be living signs of Christ's presence in the world, embodying his compassion and love in our actions and interactions."
 og_image: "/assets/img/posts/proper282018.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper282018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper282018.pdf)
 ## PROPER 28 – 2018 – Year B – 2nd Sunday before Advent
 
 Today, at our 11 o'clock service we are welcoming a young child into the fellowship of the Church in Baptism. This coming week, I will be meeting with young people who are considering taking the next step at Confirmation. If Baptism is about beginning, then Confirmation is about continuing and taking responsibility for oneself.

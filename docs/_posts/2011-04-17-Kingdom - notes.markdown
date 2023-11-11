@@ -5,8 +5,13 @@ date:   2011-04-17
 blurb: "This sermon explores the use of the word 'Kingdom' in the book of Matthew. It highlights various verses where the term is used, offering a comprehensive understanding of its meaning and significance. The sermon also touches on barriers to the kingdom and who the inheritors of the kingdom are."
 og_image: "/assets/img/posts/Kingdom - notes.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/Kingdom - notes.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Kingdom - notes.pdf)
 This sermon focuses on the use of the word 'Kingdom' in Matthew. It begins with Matthew 3:1 where John the Baptist proclaims, 'Repent, for the kingdom of heaven has come near.' It continues with references from Matthew 4:17, Luke 6:20, and Matthew 4:23, where Jesus proclaims the good news of the kingdom and cures every disease and sickness among the people.
 
 The sermon also highlights the Beatitudes in Matthew 5, where the kingdom of heaven is promised to the poor in spirit and those who are persecuted for righteousness' sake. The Lord's Prayer in Matthew 6:10 is also referenced, with a focus on the line, 'Your kingdom come. Your will be done, on earth as it is in heaven.'

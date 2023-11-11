@@ -5,8 +5,13 @@ date:   2015-01-04
 blurb: "In this sermon, Kevin explores the power of light, both literal and metaphorical, in overcoming darkness. Drawing from Psalm 29, Genesis, and the Gospel of Mark, he reflects on the creative and enduring power of light. The sermon also addresses the tragic events in Paris, urging listeners to uphold their values in the face of violence and injustice."
 og_image: "/assets/img/posts/epiphany12015.png"
 tags: Crucial_Events Epiphany Special_Occasions
----
-[Original PDF](/assets/pdf/epiphany12015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany12015.pdf)
 1st Sunday of Epiphany – Year B – 2015
 
 ‘The voice of the Lord splits the flash of lightning’ Psalm 29

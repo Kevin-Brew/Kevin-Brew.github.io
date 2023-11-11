@@ -5,8 +5,13 @@ date:   2014-03-18
 blurb: "This sermon is a tribute to Albert Cullen, a businessman, sailor, and family man who passed away. It discusses the shock and sadness of loss, the importance of remembering and being thankful for the deceased's life, and the hope and meaning that can be found in faith and love. The sermon also touches on the themes of resilience, the cycle of death and resurrection, and the continuity of life."
 og_image: "/assets/img/posts/Albert Cullen.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Albert Cullen.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Albert Cullen.pdf)
 Funeral of Mr Albert Cullen – 18th March 2014 – St Mary’s
 
 Last Friday, Albert Cullen died peacefully and I received a call from the family and the process of planning his funeral got under way. Albert had not been well for the last while but he was still looking after himself in his own home. A bereavement, however much we may anticipate it, always carries with it a sense of shock, of loss, of sadness. Someone who has been so much part of our lives is now gone and a gap is left that no one else can fill in quite the same way. It is also a time of a gathering together of memories, the things that made a loved one special, their talents, their weaknesses, their love, their humour. As we gather these memories, our remembering promotes thankfulness, gratitude, to the one we have lost, to God himself. And there is a lot to be thankful for.

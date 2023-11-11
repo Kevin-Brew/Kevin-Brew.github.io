@@ -5,8 +5,13 @@ date:   2017-05-16
 blurb: "A memorial service for Barbara Carron, a beloved artist, teacher, wife, and mother. The sermon reflects on Barbara's life and creative spirit, drawing parallels between her artistic process and the act of prayer. It also emphasizes the importance of love, as seen in Barbara's relationships and her generous sharing of her artistic gift."
 og_image: "/assets/img/posts/Mrs Barbara Carron - memorial service.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Barbara Carron - memorial service.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Barbara Carron - memorial service.pdf)
 We have come here to remember, to give thanks, to reflect on the life and witness of Barbara Carron as mother, as wife, as member of this place, as artist. The Barbara I met in this place was quiet and almost understated, who would come here for the quietness of the 9:30 and slip quietly away. The Barbara I met in Matakana was the same Barbara but here I met the Barbara so many of you have come here to honour, to give thanks, to celebrate, an artist of considerable distinction, a wonderful and gifted teacher and a much loved wife and mother.
 
 So this afternoon in my thoughts I just want to bring together Barbara at worship and Barbara’s creative spirit. Speaking as a complete outsider on this one, I would see the artist must have something of a sense of wonder before they ever put brush to canvas. And so I begin with Psalm 8, a Psalm that Barbara would have said many a time in this place:

@@ -5,8 +5,13 @@ date:   2011-02-23
 blurb: "This sermon is a tribute to Alastair McMillan, a man of deep spirituality, peace, and practicality. It reflects on his life, his love for the sea, and his devotion to his family. The sermon also touches on his contributions to the community, his achievements, and his lifelong habits of worship."
 og_image: "/assets/img/posts/Alastair McMillan.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Alastair McMillan.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Alastair McMillan.pdf)
 We gather here today in St Mary’s Church for the funeral of Alastair McMillan. We have heard the family speak with pride of one who was their father and who also became their friend. This is not just a funeral service but also a service of thanksgiving, a time to reflect on all that we have received in this quiet, understated man, as husband, as father, grandfather, friend.
 
 He grew up in a strong Presbyterian tradition – his father’s Christian name of John Knox bears ample testimony to that. He was the first infant to be baptised in Howth Presbyterian Church. It came through in taking pleasure in simple things, a distrust of fuss, one who took great pride in his family. There was a serenity to him and a very practical down to earth approach. At the heart of it all, there was a simple, sincerely held, no-nonsense spirituality. One sensed that here was a man at peace with himself.

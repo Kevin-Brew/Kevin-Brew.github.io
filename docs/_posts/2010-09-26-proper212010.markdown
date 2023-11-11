@@ -5,8 +5,13 @@ date:   2010-09-26
 blurb: "Kevin draws parallels between the financial struggles of the Irish Government and the biblical story of Jeremiah's land purchase during Jerusalem's siege. He emphasizes the importance of hope and confidence in the future, as exemplified by the baptism of a child in the congregation. The sermon underlines the need to invest in the future through education and health, and to instill values that will shape the next generation."
 og_image: "/assets/img/posts/proper212010.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper212010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper212010.pdf)
 PROPER 21 – 2010 – year C – Trinity 17
 
 This week much of the news coverage was taken up with the lengths the Irish Government was having to go to raise 1.5 billion euro on the bond markets. We were all suddenly becoming experts in the differential in the rates paid by the German Government and the rate the Irish Government was going to have to pay. This was attributed to uncertainties regarding how much more we were going to have to spend on Anglo Irish Bank as well as the view that may be being taken on the stability of the Government overseas.

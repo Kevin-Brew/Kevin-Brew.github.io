@@ -5,8 +5,13 @@ date:   2005-01-01
 blurb: "This sermon was given at the funeral of Mrs Shelagh Wilkinson, a woman remembered for her free thinking, ground-breaking work in social sciences, and her commitment to justice and ecological issues. Despite her physical decline in later years, she maintained a positive outlook and continued to inspire those around her. Her life serves as a reminder of the importance of love, courage, and the power of an enquiring mind."
 og_image: "/assets/img/posts/Mrs Shelagh Wilkinson.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Shelagh Wilkinson.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Shelagh Wilkinson.pdf)
 I will always remember my first visit to the Orchard on Claremont Road not long after I arrived here in 2005. I was invited in with great courtesy and questions about where I was from, my wife and family and their interests, what Parishes I had served in. She spoke of her own life, her late husband and family and her own convictions. Then she looked at me and asked, 'This business of Church ordaining gay people – what is your line on it?' I began to gather my thoughts and she continued, 'For the life of me I cannot understand the problem.' The hair might have been white, ill health may have limited her physical energies, but I realised I was in the presence of a free thinker. I must admit I always enjoyed a visit to Shelagh Wilkinson.
 
 Shelagh was something of a ground breaker in her day. She was among the first of a new breed of social workers, studying social sciences in Trinity. In the early years she worked in the slums in the centre of Dublin City. In the aftermath of the War she worked among Jewish refugees and maintained a contact with one particular Jewish family in Summerhill. She maintained a lifelong interest and concern for the underdog. In the early years of marriage she looked after an uncle and aunt who had been freed from a Japanese Wartime Internment Camp. She had a passionate interest in issues of justice and would have had no time for racialism, sectarianism, homophobia and the like. She was involved in the early days of Samaritans and would have given freely of her time. There was always a very practical outworking of her commitments.

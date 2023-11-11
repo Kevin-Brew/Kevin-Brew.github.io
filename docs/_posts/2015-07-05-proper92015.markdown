@@ -5,8 +5,13 @@ date:   2015-07-05
 blurb: "Kevin reflects on the concept of 'thorn in the flesh' as a metaphor for life's challenges, drawing from Paul's words in 2 Corinthians and the journey of Rev David Watson with cancer. He emphasizes the sufficiency of God's grace in our weakness and the transformative power of God's love and healing, encouraging a life of discipleship and faithfulness."
 og_image: "/assets/img/posts/proper92015.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper92015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper92015.pdf)
 During the week I turned up a book I had read many years ago, 'Fear no Evil' by the late Rev David Watson. I was prompted to return to this book by the second half of our Second Lesson this morning, from the 2nd Letter to the Corinthians, in which Paul, having spoken of the heights of his spiritual experiences, talks in very human terms of his 'thorn in the flesh':
 
 > Therefore, to keep me from being too elated, a thorn was given me in the flesh, a messenger of Satan to torment me, to keep me from being too elated. Three times I appealed to the Lord about this, that it would leave me, but he said to me, 'My grace is sufficient for you, for power is made perfect in weakness.' 2 Cor 12:7-9

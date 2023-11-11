@@ -5,8 +5,13 @@ date:   2014-03-05
 blurb: "This sermon discusses the human emotion of guilt and its potential to be a positive influence in challenging behaviors and attitudes. It also talks about the debilitating effects of unresolved guilt. The sermon uses Psalm 51, associated with David's guilt over his affair with Bathsheba, to illustrate the idea of new beginnings built on honesty before God."
 og_image: "/assets/img/posts/ashwednesday2014.png"
 tags: Lent Mid_Week
----
-[Original PDF](/assets/pdf/ashwednesday2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/ashwednesday2014.pdf)
 ASH WEDNESDAY 2014
 
 Have you ever felt guilty? Have you ever looked back at something said, something done – and even long after the event, we have cringed at the very thought of it. That is a very common human emotion. Guilt, feelings of guilt, can have a very positive influence in challenging behaviors, attitudes towards other people – it can be an agent of change. But that is not really what I am talking about. – guilt left unresolved, not addressed or attended to can be debilitating, even destructive, leaving us with feelings of unworthiness, even self loathing that can spill over into our dealings with others, our attitudes to others.

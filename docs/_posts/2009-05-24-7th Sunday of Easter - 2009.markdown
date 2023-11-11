@@ -5,8 +5,13 @@ date:   2009-05-24
 blurb: "This sermon reflects on the interconnectedness of Good Friday, Easter, Ascension and Pentecost, and the transformation of the disciples into evangelists. It emphasizes the need for a radical openness to God and what he chooses to give. The sermon also explores the themes of the Lordship of the risen and ascended Christ and the importance of setting aside our own agendas in prayer."
 og_image: "/assets/img/posts/7th Sunday of Easter - 2009.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/7th Sunday of Easter - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/7th Sunday of Easter - 2009.pdf)
 I believe in Jesus Christ, God's only Son, our Lord. who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended to the dead. On the third day he rose again; he ascended into heaven, he is seated at the right hand of the Father, and he will come again to judge the living and the dead. So reads the section of the Apostles' Creed that we say at Morning Prayer that deals with the work and person of Jesus Christ. In the course of the Church's year we reflect on these various stages, his birth, his life and ministry, his death and resurrection. Then this last week the Church observed the Feast of the Ascension.
 
 If we are going to continue saying these words; if we are not going to get sucked back into a flat earth, 3-decker universe, we need to ask ourselves, 'What do we mean? What truths are being affirmed in our doctrines, in the biblical passages referring to the Ascension?'

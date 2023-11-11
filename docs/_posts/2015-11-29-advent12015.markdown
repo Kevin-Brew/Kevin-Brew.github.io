@@ -5,8 +5,13 @@ date:   2015-11-29
 blurb: "This sermon, delivered on the first Sunday of Advent in 2015, discusses the sacrament of Baptism, the journey of faith, and the anticipation of the coming of Christ. It emphasizes the role of John the Baptist in preparing the way for the Kingdom of God and the importance of the Church in expressing the values of reconciliation, justice, and compassion. The sermon also explores the concept of Jesus as both the companion and the destination on the journey of faith."
 og_image: "/assets/img/posts/advent12015.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent12015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent12015.pdf)
 Every few weeks here in St Mary’s we celebrate the sacrament of Baptism, that sacrament of welcome, of commitment as a new child is welcomed into the fellowship of the Church. As I reflect with parents and godparents on the promises of Baptism, which are in themselves profound and challenging, I observe that these are questions not of people who have arrived but of people who are on a journey, a journey of a lifetime; a journey of faith, a journey into faith.
 
 We have now started the season of Advent. The décor of Church changes as we move into this season of preparation, the lighting of the Advent Candles serves as a reminder of the impending Festival of Christmas. One of the central characters of our readings during this season is that of John the Baptist and his vocation to prepare the way. In a ministry marked by a call to repentance, he challenges his hearers, challenges the religious establishment of his day to recognise the signs of the imminence of the Kingdom of God.

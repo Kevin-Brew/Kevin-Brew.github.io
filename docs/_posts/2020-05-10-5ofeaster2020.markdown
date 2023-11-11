@@ -5,8 +5,13 @@ date:   2020-05-10
 blurb: "This sermon is about finding directions in life with Jesus as our guide. It draws parallels between our spiritual journey and a physical journey, with Jesus as our spiritual 'dragoman' who goes ahead of us to prepare the way. The sermon encourages us to press on towards our ultimate goal of union with Christ, with the understanding that we are all learners on this path of faith."
 og_image: "/assets/img/posts/5ofeaster2020.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/5ofeaster2020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/5ofeaster2020.pdf)
 A number of years ago Rachel and I were in Kathmandu, the capital of Nepal. Kathmandu is a busy, bustling place – lots of noise, lots of traffic and you rarely see any street signs – you look out for landmarks to mark your return journey.
 
 We had gone to visit a particular place and started to make our way back to the hotel. We soon realised that we had missed a turn and were lost. We went into a shop to ask directions to our hotel. The manager started to explain the route and then called a member of his staff and told him to lead us back to where we were staying. We arrived safely and when we went to offer a tip, it was politely refused – he was simply doing what his boss had asked him to do, to help visitors in a strange city.

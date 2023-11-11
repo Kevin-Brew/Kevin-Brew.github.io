@@ -5,8 +5,13 @@ date:   2023-05-21
 blurb: "This sermon is a series of prayers focusing on the theme of life, drawing from the Christian belief in the resurrection. It includes prayers for the church, for political and community leaders, for places of work and for those who are suffering. It ends with a prayer of thanksgiving and a call for deeper love for God."
 og_image: "/assets/img/posts/6ofeaster2023 - prayers.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/6ofeaster2023 - prayers.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/6ofeaster2023 - prayers.pdf)
 As we gather in the company of the living God, let us pray.
 
 Lord of life, we pray that the Church may be alive with your risen life, refreshed and revived by the breath of your spirit, purified and refined like gold and silver, so that we truly offer the possibility of saving love to the searching world. We pray for the church in all the world. At this time we pray for the General Synod of the Church of Ireland meeting in Wexford. We pray for the church in this diocese, for George our Bishop, for this parish and for Nigel our rector, and for Brendan. Lord in your mercy: hear our prayer.

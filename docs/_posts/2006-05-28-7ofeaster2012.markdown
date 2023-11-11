@@ -5,8 +5,13 @@ date:   2006-05-28
 blurb: "This sermon discusses the Seventh Sunday of Easter, a day that stands between two festivals of the Christian Church, Ascension Day and the Feast of Pentecost. It explores the themes of disengagement and re-engagement, the changing relationship between Jesus and his followers, and the disciples' preparation for their future work. The sermon emphasizes the importance of waiting upon God and being available for his service."
 og_image: "/assets/img/posts/7ofeaster2012.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/7ofeaster2012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/7ofeaster2012.pdf)
 This Sunday, the Seventh Sunday of Easter, stands between two festivals of the Christian Church that share a common theme of movement. Last Thursday was Ascension Day. Next Sunday is observed as the Feast of Pentecost, when we remember the gift of the Holy Spirit, the promised Counsellor, the one who would, as Jesus promised, guide them into all the truth.
 
 Ascension, on first reading seems to speak of disengagement, of Jesus distancing himself from his followers. Pentecost speaks of re-engagement, God drawing close to his Church in a very close and special way.

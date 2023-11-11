@@ -5,8 +5,13 @@ date:   2007-08-25
 blurb: "This sermon celebrates the love and union of Anthony and Angie, who found each other in the Taize community. It emphasizes the importance of transcending cultural and traditional differences through common faith in Christ. The sermon also highlights the significance of self-giving, self-forgetting love, as exemplified by Christ's love for the Church."
 og_image: "/assets/img/posts/2007-05-25-Anthony-and-Angie-Wedding-Krakow.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/2007-05-25-Anthony-and-Angie-Wedding-Krakow.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2007-05-25-Anthony-and-Angie-Wedding-Krakow.pdf)
 Just before Anthony was born, Pope John Paul II made a visit to Ireland. Apart from a visit to his homeland, Ireland was one of the first countries the Pope from Poland was to visit. In more recent years many people from Poland have come to live and work in Ireland and the Polish people have found a special place in the affections of the Irish people. One Pole in particular has found a special place in the hearts of one Irish family and today we celebrate the love that Anthony and Angelika have found in each other. 
 
 You found each other in the fellowship of the Taize community and the European Meeting in Hamburg. But even prior to that, our two families, coming out of different traditions, different cultures, different life experiences, were drawn to the hill of Taize. We came to share in the life of a community in whose life differences in culture, in background and tradition are transcended by a common faith in Christ. 

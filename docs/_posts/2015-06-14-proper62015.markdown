@@ -5,8 +5,13 @@ date:   2015-06-14
 blurb: "Kevin reflects on the nature of misjudgment and the power of small, seemingly insignificant actions to manifest the Kingdom of God. Drawing from personal experiences and biblical parables, he emphasizes how small acts of kindness and faith can have a profound impact on the world. The sermon encourages us to offer our modest contributions to God, trusting that He will work through them to bring hope and transformation."
 og_image: "/assets/img/posts/proper62015.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper62015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper62015.pdf)
 Have you ever found yourself totally misjudging a situation, or people in a situation? Looking back, even though we might see why we did it, yet we know that we got it completely wrong.
 
 I remember when I first came to Dublin as a student, taking part in a 48 hour fast in aid of famine relief in Biafra. We stood with our collection tins at the top of Grafton Street. A variety of people came up to make their donations or shout out as they went past 'Charity begins at home!' I have a very clear recollection of two particular people. One lady, in a fur coat, as she prepared to put her sixpence into my tin, questioned me closely as to how precisely her sixpence was going to be spent before finally letting it out of her fingers. The other was a young traveller boy. He came up to ask me what we were doing and I began to think in my own mind how I could explain that I could not channel the money in my tin towards him. In the meantime, he reached down into his pocket and he too pulled out sixpence and with a broad grin put it in my tin with a cheery 'It's not much I'm afraid but I hope it does some good.'

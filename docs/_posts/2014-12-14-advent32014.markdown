@@ -5,8 +5,13 @@ date:   2014-12-14
 blurb: "This sermon reflects on the unwavering faith of an old lady named Sophie O'Neill, who despite her struggles, believed in the goodness of God. It emphasizes the call to give thanks in all circumstances, and the role of followers of Christ as heralds of hope, integrity, and reconciliation in a troubled world."
 og_image: "/assets/img/posts/advent32014.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent32014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent32014.pdf)
 In the past I have referred to a visit I made when I was in the Parish of Finglas to an old lady called Sophie O’Neill. Life had not been easy for her. She had married in her 30’s and had one child John, who was born with Downes Syndrome. She was widowed when John was only 9 and, despite well meaning advice of friends and family to have John placed in care, she had brought her son up on her own in the Dublin of the 1950’s and 60’s – so life was not easy but people both inside and outside the Parish recalled seeing Sophie and John always together in the shops, in Church, out and about in the general community.
 
 By the time I arrived John was in his 40’s and his Mum well into her 80’s. I recall visiting her in her house just before Christmas, not long before she went into hospital for the last time. The house was cold. John had gone out to make a cup of tea for the three of us. Sophie looked me straight in the eye and said, ‘You know Mr Brew, God is good.’ Everything in that house seemed to say otherwise, the cold, the struggles that Sophie and John had to face - yet she said it with a conviction that I have never forgotten.

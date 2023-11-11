@@ -5,8 +5,13 @@ date:   2009-11-15
 blurb: "Kevin reflects on the importance of discernment in the face of change, drawing parallels between the disciples' amazement at the Temple and modern reactions to historical events like the fall of the Berlin Wall. He emphasizes the need to understand the significance of events and to question our values and the way we live, especially in times of societal upheaval."
 og_image: "/assets/img/posts/2nd before Advent - 2009.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/2nd before Advent - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2nd before Advent - 2009.pdf)
 2nd Sunday before Advent – 2009 – year B
 
 I recall a number of years ago, on our first camping trip to France, we spent some time in the French Alps. At this stage Anthony was less than 2. On this particular day we headed off to visit Chamonix to have a look at Mont Blanc. Anthony slept in the car for most of the journey. A few miles short of Chamonix, we got our first view of Mont Blanc and we stopped the car to get out and have a look. Anthony woke up as we took him out of the car and I will never forget the look of sheer wonder on his face as he caught sight of the snow covered mountains.

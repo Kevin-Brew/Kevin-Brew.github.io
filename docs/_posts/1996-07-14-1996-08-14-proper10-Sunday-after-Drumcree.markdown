@@ -5,8 +5,13 @@ date:   1996-07-14
 blurb: "Kevin reflects on the tumultuous events in Northern Ireland, drawing parallels with Christ's lament over Jerusalem. He emphasizes the need for a Christian spirit in politics and daily life, advocating for peace and a return to spiritual core values. The sermon calls for love and peace, even towards those with differing views, as fundamental Christian principles."
 og_image: "/assets/img/posts/1996-08-14-proper10-Sunday-after-Drumcree.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/1996-08-14-proper10-Sunday-after-Drumcree.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/1996-08-14-proper10-Sunday-after-Drumcree.pdf)
 July 14th 1996 – Proper 10 – Year A – Sunday after Drumcree
 
 'As he approached Jerusalem and saw the city, he wept over it and said, "if you, even you, had only known on this day what would bring you peace - but now it is hidden from your eyes."' Luke 19.41

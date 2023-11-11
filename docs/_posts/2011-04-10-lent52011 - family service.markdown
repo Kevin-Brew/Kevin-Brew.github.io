@@ -5,8 +5,13 @@ date:   2011-04-10
 blurb: "This sermon uses the story of Apollo 13 to illustrate the importance of understanding the whole story of Easter. It emphasizes that to fully appreciate the wonder of resurrection, we need to know the reality of the Cross. The sermon concludes with a reminder of God's love for us, demonstrated through the life, death, and resurrection of Jesus."
 og_image: "/assets/img/posts/lent52011 - family service.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent52011 - family service.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent52011 - family service.pdf)
 Apollo 13 – Telling the whole story
 
 We tell someone tells us about something that happened and they say, ‘Ah, but wait. You haven't heard the whole story.’ We hear bits about what happened. Story of Apollo 13, story of one of the early trips to the moon that went badly wrong but the crew got back safely in the end. It all started very well. People had almost got bored with these trips to the moon – it was no longer main item on the news. Then disaster struck – one of the oxygen tanks exploded – Major damage to the space craft - power reduced – oxygen supplies reduced – looked for a while that the crew were not going to be able to make it back – prayer vigil in St Patrick’s Cathedral and in city’s around the world. They made it back and landed safely. Crew recovered.

@@ -5,8 +5,13 @@ date:   2010-02-17
 blurb: "The sermon focuses on the concept of Love as a fruit of the Spirit. It emphasizes the self-giving, self-sacrificing nature of Christian love, drawing parallels with God's unfailing mercy. The ultimate expression of love is seen in Jesus' sacrifice on the cross. The sermon encourages believers to show a healing, reconciling, and redeeming love in their lives, just like Jesus."
 og_image: "/assets/img/posts/Week 1 - Love.png"
 tags: Lent Mid_Week
----
-[Original PDF](/assets/pdf/Week 1 - Love.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Week 1 - Love.pdf)
 On Ash Wednesday we began thinking about the whole issue of change that we might want to see in ourselves. Desire to change arises out of a sense of dissatisfaction with ourselves – overweight - we go on a diet. Out of condition – we go on a fitness routine. Discipline only part of Lent – also a penitential season – designed to encourage us to think about repentance.
 
 Repentance is a change in direction – so alongside the discipline, the giving up, the laying aside – there is also a process of building up. We expect to see results. The diet, the fitness routine – we look for signs that this is working – we look for fruits of our discipline.

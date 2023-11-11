@@ -5,8 +5,13 @@ date:   2012-11-11
 blurb: "Kevin's sermon on Proper 27 in 2012 reflects on the act of remembering, particularly in the context of Remembrance Sunday. He draws parallels between personal memories of loss and the collective memory of war's cost. The sermon emphasizes the importance of recalling past sacrifices to shape a better future and connects this act of remembrance to the Christian practice of commemorating Jesus' life, death, and resurrection in weekly worship."
 og_image: "/assets/img/posts/proper272012.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper272012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper272012.pdf)
 ## Proper 27 – Remembrance – 2012 – Year B
 
 Do you remember when? That is an invitation to join with someone on a trip back into the past. With memories come a whole load of associations, associations with people, with places. Memories can be happy, can be painful.

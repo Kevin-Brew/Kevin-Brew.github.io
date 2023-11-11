@@ -5,8 +5,13 @@ date:   2015-02-11
 blurb: "This sermon was delivered at the funeral of Mrs Florrie Rowden on 11th February 2015. It reflects on Florrie's life, her warmth and positivity despite personal challenges, and her deep connection to her family and community. The sermon also offers comfort and hope to those mourning her loss, drawing on biblical passages to affirm the resurrection hope."
 og_image: "/assets/img/posts/Mrs Florrie Rowden.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Florrie Rowden.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Florrie Rowden.pdf)
 Funeral of Mrs Florrie Rowden – 11th February 2015
 
 I remember back in 2005 when I first came to Howth, one of my first visits to Ailsbury Nursing Home to visit Florrie Rowden. At that stage she had been living there for nearly a year following a major stroke that had rendered her immobile.

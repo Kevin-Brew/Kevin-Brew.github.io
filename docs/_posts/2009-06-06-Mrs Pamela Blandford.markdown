@@ -5,8 +5,13 @@ date:   2009-06-06
 blurb: "This sermon was delivered on the occasion of the funeral of Mrs Pamela Blandford. It reflects on the sadness of loss, the mystery of death, and the Christian faith's promise of life triumphant over death. The sermon also shares memories of Mrs Blandford as a remarkable woman with many gifts and talents."
 og_image: "/assets/img/posts/Mrs Pamela Blandford.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Pamela Blandford.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Pamela Blandford.pdf)
 This morning we have gathered here in St Mary’s for the funeral of Pamela Blandford, a dearly loved mother, grandmother, friend. At the end of a long life graciously lived, lived and savoured to the full, we come to remember with thanksgiving one who has been taken from us, one we have loved and whose love has sustained us, one who has been part of our lives. Along with our thankfulness we come with a very proper sadness and loss.
 
 However much we know the end is coming, however much we want the suffering of a loved one to be over, there is still that loss, that gap in our lives that no one else can fill in quite the same way. Those of us outside the immediate family circle come to support those who will miss her most, her children.

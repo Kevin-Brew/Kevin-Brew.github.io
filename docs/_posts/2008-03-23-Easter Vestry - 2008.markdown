@@ -5,8 +5,13 @@ date:   2008-03-23
 blurb: "The sermon from Easter General Vestry in 2008 is a reflection on the year's activities and achievements within the Parish. The sermon expresses gratitude towards the individuals who have served the Parish, discusses the ongoing projects, and highlights the importance of youth engagement in the Church. The sermon also addresses the challenges faced by the Church in maintaining the involvement of the younger generation."
 og_image: "/assets/img/posts/Easter Vestry - 2008.png"
 tags: Easter Vestry
----
-[Original PDF](/assets/pdf/Easter Vestry - 2008.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Easter Vestry - 2008.pdf)
 As is customary, I want to begin my address with a number of thank you's to people who have served the Parish over the last year. I thank the outgoing Church Wardens, Mr Aubrey McMurtry and Mrs Eileen Geaney. Last year, when no one came forward to take on these positions, they very generously undertook to serve a second year – for that I have been extremely grateful.
 
 I would like to thank the outgoing Select Vestry for their continued commitment. This has been a busy year involving more meetings than usual, all of which have been well attended. The main issues that have taken our attention are the Rectory Project and our continuing ministry to our young people. I would like to thank two individuals for their particular ongoing contribution. I speak of Carolyn for her continuing service as Secretary of our Select Vestry and Tadhg for his services as Treasurer. This has been a particularly heavy year for Tadhg as he has sought to balance the different demands being made on the financial resources of the Parish.

@@ -5,8 +5,13 @@ date:   2016-05-07
 blurb: "This sermon is a tribute to Joan Kerr, a cherished member of the Parish of Howth, who passed away on 7th May 2016. The sermon reflects on Joan's life, her contributions to the community, and her unwavering faith. It also addresses the challenges she faced in her later years with profound deafness and dementia, and the strength and commitment shown by her husband, Eddie."
 og_image: "/assets/img/posts/Mrs Joan Kerr.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Joan Kerr.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Joan Kerr.pdf)
 Funeral of Joan Kerr – 7th May 2016
 
 One of my early memories after I arrived in the Parish of Howth is that of meeting with Joan Kerr in the Parish Centre. Joan at that time was administrator of the Parish Centre. She showed me around the Centre, explaining the various groups using the Parish Centre. I was struck by her quiet methodical approach, accompanied by her cheerful welcoming manner. I soon came across her again in the Burrow Players, where her apparently reserved manner gave way to her gentle understated humour that apparently gave great pleasure to many an audience down through the years. Then in the much needed refreshments after the rehearsals (Norman MacCann could be a very severe producer), we would be joined by Eddie. They were very much a team and the love and warmth between them was clear for all to see.

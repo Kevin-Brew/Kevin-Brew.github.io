@@ -5,8 +5,13 @@ date:   2009-11-01
 blurb: "Kevin reflects on the Christian pilgrimage on All Saints Day, using the metaphor of 'the only instruments we have to work with' to describe our souls and bodies offered in service to God. He emphasizes our journey into Christ, growing into the person God wants us to be, and the communal aspect of worship in communion with saints past and present."
 og_image: "/assets/img/posts/All Saints - 2009.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/All Saints - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/All Saints - 2009.pdf)
 All Saints – 2009 – year B
 
 In their attempt to wipe out the Jewish people for all time, the leaders of the German 3rd Reich operated the now infamous system of concentration camps in which slaughter was carried out on an industrial scale. There perished in those camps men and women who could have made a major contribution to German and European civilisation had not the bizarre concept of a pure Arian race blinded its adherents to the intellectual and cultural riches of the men, women and children they consigned to the flames. In one camp however there was a group of musicians who, prior to the war, had been at the top of their field. These were allowed to survive, often forced to perform for the senior officers, providing an element of culture in the midst of barbarity.

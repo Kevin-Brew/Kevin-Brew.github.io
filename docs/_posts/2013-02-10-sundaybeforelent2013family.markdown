@@ -5,8 +5,13 @@ date:   2013-02-10
 blurb: "In this sermon, Kevin speaks about the time Jesus went off with his disciples, Peter, James, and John. He emphasizes the importance of seeing God in Jesus and how others might see Jesus in us. He also prepares the congregation for the upcoming season of Lent, a time for self-reflection and getting closer to Jesus."
 og_image: "/assets/img/posts/sundaybeforelent2013family.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/sundaybeforelent2013family.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/sundaybeforelent2013family.pdf)
 Show 'Hell's Grannies' video clip. Does anyone here have a granny like that? That's not how our grans behave is it? When we go to their houses they are kind, they give us treats.
 
 In our Gospel reading today we read of a time when Jesus went off with 3 of his disciples, Peter, James and John. They had got to know Jesus quite well. They had heard him teach then and the crowds some wonderful things about God, about how much God loved them and the sort of lives that God wanted them to lead. They had seen him heal; they had seen some very unhappy people, some suffering from leprosy, some blind, some lame coming to Jesus and going away healed and happy.

@@ -5,8 +5,13 @@ date:   2020-06-07
 blurb: "Kevin's sermon on Trinity Sunday explores the vastness of the universe and the intimate care of God. He uses the scale of the solar system to illustrate God's greatness and the variety of creation. He emphasizes that God, who created everything, also understands and cares for each individual, as seen in the life of Jesus and the presence of the Holy Spirit."
 og_image: "/assets/img/posts/trinitysunday2020.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/trinitysunday2020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/trinitysunday2020.pdf)
 TRINITY SUNDAY – Year A – 2020 – Zoom Service
 
 Normally at this time of year we would have had our Fete by now. The Mafeking Scouts have always given us wonderful help in sorting out tents, where they go and in putting them up and taking them down. In the days leading up to the Fete, Cathal Yeats from the Scouts meets up with a few of us. When he arrives he looks around and he says 'Let's measure this out – see where everything will fit.' I thought of Cathal as I read over our first lesson for today as we read of Isaiah asking 'Who has measured the sky?'

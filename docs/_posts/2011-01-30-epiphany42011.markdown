@@ -5,8 +5,13 @@ date:   2011-01-30
 blurb: "In this sermon, Kevin explores the contrasts between foolish and wise, weak and strong, through the lens of the Epistle to the Church in Corinth. He reflects on the power of small, seemingly insignificant actions to bring about great change, and the illusion of strength in worldly systems. He also discusses the role of Christians in society, particularly in the context of politics and social justice."
 og_image: "/assets/img/posts/epiphany42011.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany42011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany42011.pdf)
 In our Epistle today, written to the Church in Corinth, a community that would have been steeped in the Greek philosophical tradition, Paul presents contrasts between foolish and wise, weak and strong; between the foolishness of the cross and the wisdom of the wise. I am reminded that what the world considers wise, what the world considers strong is often illusory. 
 
 I found myself reflecting on a number of things during the week. I recall one particular visit to Taize in the summer of 1991. Eastern Europeans, now free to travel, were beginning to come to Taize in large numbers. I recall sitting in my small group and hearing first hand some of their experiences. A lady from a Lutheran Church in Leipzig, in what had been East Germany, told of the early prayer meetings in 1989 that overflowed into the street demonstrations that finally lead to the downfall of the East German Government and triggered the whole process that lead to the crumbling of Communist power in Eastern Europe. Small insignificant gatherings of people seen by those who had the power as being of no consequence acting as a catalyst that triggered the downfall of a seemingly all powerful system. 

@@ -5,8 +5,13 @@ date:   2019-10-27
 blurb: "Kevin reflects on the theme of new beginnings, drawing inspiration from the words of Queen Elizabeth and President McAleese, and the parables of the Pharisee and the Tax Collector, and the Prodigal Son. The sermon emphasizes the importance of honesty, self-reflection, and the mercy of God, who welcomes us back with open arms, encouraging us to walk humbly and seek forgiveness."
 og_image: "/assets/img/posts/5bfadvent2019 (AutoRecovered).png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/5bfadvent2019 (AutoRecovered).pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/5bfadvent2019 (AutoRecovered).pdf)
 5th Sunday before Advent - Year C – 2019 – short thoughts for 9:00
 
 Last week, we were talking about new beginnings. Recalling words of Queen Elizabeth and President McAleese in Dublin Castle at the State dinner during the memorable visit by the Queen to this country in 2011, we thought of new beginnings in terms of an honesty about the past and a resolve to change in our approach to the future.

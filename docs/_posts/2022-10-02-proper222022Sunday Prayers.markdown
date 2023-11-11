@@ -5,8 +5,13 @@ date:   2022-10-02
 blurb: "This sermon is a series of prayers for peace, unity, salvation, the Church, the world, and the local community. It includes prayers for the environment, the vulnerable, the oppressed, and the dying. The sermon also acknowledges the ongoing struggles in Ukraine and the personal loss of the Rector."
 og_image: "/assets/img/posts/proper222022Sunday Prayers.png"
 tags: Church_of_Gaurdian_Spirit Proper
----
-[Original PDF](/assets/pdf/proper222022Sunday Prayers.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper222022Sunday Prayers.pdf)
 Sunday 2nd October 2022
 
 Prayers

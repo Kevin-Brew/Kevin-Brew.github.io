@@ -5,8 +5,13 @@ date:   2020-07-12
 blurb: "Kevin reflects on the Parable of the Sower, drawing parallels between gardening and nurturing one's faith. He emphasizes the importance of preparing oneself as fertile soil for God's teachings, finding stillness, and embracing the scriptures. The sermon encourages confidence in God's purposes, highlighting the potential for a bountiful spiritual harvest despite challenges."
 og_image: "/assets/img/posts/proper102020.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper102020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper102020.pdf)
 PROPER 10 – Year A – 2020 – Trinity 5
 
 As you are by now well aware, my gardening skills are somewhat limited. The one aspect of gardening that does give me pleasure is vegetable gardening – not that I am very good at it but I do get a thrill out of eating my own rhubarb, salads, peas, beans and, even one year, the odd carrot. So when we moved into the current Rectory just over ten years ago, I set to work on an area at the end of the back garden that had been separated off as a vegetable patch.

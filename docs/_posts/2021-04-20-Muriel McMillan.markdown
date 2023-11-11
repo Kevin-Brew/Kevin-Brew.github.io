@@ -5,8 +5,13 @@ date:   2021-04-20
 blurb: "This sermon was given at the funeral of Muriel McMillan, a beloved member of the parish. The sermon reflects on Muriel's life, her contributions to the church, and the comfort found in faith during times of loss. It emphasizes the Christian belief in the triumph of life over death, as celebrated during Easter."
 og_image: "/assets/img/posts/Muriel McMillan.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Muriel McMillan.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Muriel McMillan.pdf)
 We come today for the funeral of Muriel McMillan. In these strange times only a few of us can gather in Church with John but there are a large number of people outside the Church, those watching us online – we think especially of Muriel’s sons Russell and Murray. We extend our sympathy to John, Russell and Murray on this the day of your Mum’s funeral and assure you of our love and prayers in the days to come.
 
 In a funeral we do a number of things. We remember, we give thanks. Later on in the service, John will be paying his own personal tribute to Muriel on behalf of himself and his brothers who cannot be here, as they remember a mother, a husband of Alistair, a grandmother. One who was at the heart of the family. Her friends remember a dear friend, a wonderful companion and conversationist, one with a keen, impish sense of humour. As a parish we remember one who was regular in public worship, always willing to give of her time, share her talents.

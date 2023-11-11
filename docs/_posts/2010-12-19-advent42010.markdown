@@ -5,8 +5,13 @@ date:   2010-12-19
 blurb: "In this sermon, Kevin reflects on the meaning of Advent and the importance of compassion and care in society. He shares a story about a young man who fell into destitution but found hope and support through Focus Ireland. The sermon emphasizes the presence of God in our lives, embodied in the acts of love and care we show to each other."
 og_image: "/assets/img/posts/advent42010.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent42010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent42010.pdf)
 This week, as I do every year at this time, I travelled into the Focus Ireland café on Eustace Street, on the edge of Temple Bar to hand over the gifts you gave to Focus Ireland. I always find this a very humbling experience. There is the gratitude of the staff for our modest offering. Then there are the stories of those they meet in the café and out on the streets. As the chef told me, those on the streets are coming from a wider and wider group in society. He told me of a young man, 12 months ago with a job, a company car, his own flat – suddenly destitute. Pride prevented him from seeking help until after several weeks on the street he came to Focus Ireland. Now he has received job training and is back in a flat.
 
 That place a symbol of hope and care ever more necessary in our straightened times. for me it is also a very hopeful sign that fundamental values of care and compassion that marked Irish society were not swamped by the Celtic Tiger. That place is also a sign of God’s presence in our society. Those who work there may or may not have a specifically Christian commitment but they are definitely channels of God’s love and care.

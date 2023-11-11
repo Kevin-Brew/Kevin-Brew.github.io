@@ -5,8 +5,13 @@ date:   Unknown
 blurb: "This sermon explores the concept of change and redemption, focusing on the story of Simon the Pharisee and a notorious woman who seeks forgiveness at Jesus' feet. It raises two key questions: 'Do you believe that people can be changed?' and 'Do I believe that I need to be changed?'. The sermon suggests that our answers to these questions reflect our understanding of human nature and our own need for change and redemption."
 og_image: "/assets/img/posts/PROP6C - old from Ahoghill.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/PROP6C - old from Ahoghill.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/PROP6C - old from Ahoghill.pdf)
 "Do you believe that people can be changed?"
 That is one of the two questions that I believe lie at the heart of our Gospel reading this morning. It was a question that confronted Simon the Pharisee. He had invited Jesus to his house and a notorious woman came in and, in what to him was a quite shameless behaviour, she threw herself weeping at Jesus' feet, pouring perfume on his feet. Clearly if Jesus saw himself as some sort of prophet then, in Simon's eyes, he certainly did not show it by condoning this sort of behaviour.
 

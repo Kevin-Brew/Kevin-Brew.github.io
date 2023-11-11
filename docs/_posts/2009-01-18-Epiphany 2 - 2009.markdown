@@ -5,8 +5,13 @@ date:   2009-01-18
 blurb: "This sermon discusses the spiritual gifts and their place and purpose within the life of the Church. It emphasizes the importance of using these gifts for the common good, particularly in response to suffering, as exemplified by the earthquake in Haiti. The sermon encourages individuals to cherish, foster and use their spiritual gifts in the power of the Spirit."
 og_image: "/assets/img/posts/Epiphany 2 - 2009.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/Epiphany 2 - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Epiphany 2 - 2009.pdf)
 At the beginning of each week I print out for myself a copy of the Collect, Psalm and Lessons for the following Sunday. As I sit and think and think and sit particular words of themes strike a chord and then, with background reading, the sermon will begin to take shape. This week the passage that caught my attention was the portion set for the Epistle, 1st Corinthians chapter 12, and its references to spiritual gifts, their variety, their place and function within the life of the Church and the individual. The Collect for today seemed appropriate.
 
 Then something may happen during the week that blows all these developing thoughts all away. I speak of course of the earthquake that struck Haiti earlier in the week. I don’t think Hilary Clinton was far off the mark when she spoke of it of being of “biblical proportions”. How the poorest of the poor could be visited with disaster on such a cataclysmic scale is beyond our comprehension.

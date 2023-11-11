@@ -5,8 +5,13 @@ date:   2017-06-11
 blurb: "On Trinity Sunday, Kevin reflects on the importance of taking scripture seriously and approaching it with an open mind, open to fresh insights. He discusses the concept of 'poverty of faith' as a recognition that our understanding of God is always partial and provisional. The sermon emphasizes that regardless of our doubts or clarity of faith, God is with us, and we are each a focus of His love."
 og_image: "/assets/img/posts/trinitysunday2017.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/trinitysunday2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/trinitysunday2017.pdf)
 As I look over the lessons appointed for a particular Sunday, I often reflect on advice given to my class by our New Testament Lecturer, the late Professor F. E. Vokes, affectionately known to us all as Freddy. In the course of a series of lectures on St John's Gospel, he had been dealing with the passage describing the raising of Lazarus and the nature of his emergence from the tomb.
 
 Someone challenged him on one point. He grinned and asked of us, 'Tell me, what does the text actually say? Not what do you think it says. What does it actually say?' He went on to give us an object lesson, whether we were coming at things from a liberal or conservative viewpoint on the importance of taking the text seriously. I have found that advice invaluable in keeping the scriptures fresh, in trying to come to each passage, however familiar it may be, with an open mind, open to fresh insights.

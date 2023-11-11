@@ -5,8 +5,13 @@ date:   2011-04-10
 blurb: "In this sermon, Kevin draws parallels between the desolation of the battlefield of Solferino, the valley of dry bones in Ezekiel's vision, and the tomb of Lazarus. He emphasizes the transformative power of God's love, which can turn places of death and despair into symbols of life and hope. He also stresses the importance of being not only recipients of grace but also channels of grace."
 og_image: "/assets/img/posts/lent52011.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent52011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent52011.pdf)
 Back in 1859, a young Swiss man, Henri Dunant, was traveling in Northern Italy. In the course of his travels he passed through the city of Solferino. It was the day after a major battle between the armies of Austria and France. He came upon the field of battle - thousands lay dead and injured - there was no one to care for the wounded, who lay scattered across the field of battle. Dunant and friends organised an ad hoc field hospital to tend for the wounded of both sides.
 
 The desolation of the battle field was an image that stayed with Durant when he returned to his native Geneva. Over the next three years he wrote a book outlining his experiences and proposing the foundation of an international body, made up of volunteers, who would look after the wounded in time of war. In 1863, The International Red Cross was formed. Since then its members have brought help to the wounded, the prisoners of war, the bereaved in conflicts large and small around the world.

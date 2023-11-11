@@ -5,8 +5,13 @@ date:   2023-06-11
 blurb: "In this sermon, Kevin reflects on the story of Jesus calling Matthew, a tax collector, to follow him, challenging societal norms and Pharisees' prejudices. He emphasizes the importance of seeing beyond labels and categories to recognize the individuality and common humanity in others. Kevin urges us to engage with people as individuals, embodying Christ's love and service, and to seek understanding rather than judgment."
 og_image: "/assets/img/posts/proper52023mountmellick.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper52023mountmellick.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper52023mountmellick.pdf)
 Trinity 1 – Proper 5 – Year A – Mountmellick - 2023
 
 Can you imagine what the neighbours must have thought? You can almost see the headlines in the Galilee Sun – 'Local radical preacher seen with sinners.' Jesus, as Saint Matthew tells us, having delivered the Sermon on the Mount went on to perform a number of powerful signs of his authority in acts of healing, of deliverance and the calming of the storm. All these would have impressed those who witnessed them. His teaching certainly impressed the crowd - there was a freshness, a vitality to his teaching that was in sharp contrast to what they were used to.

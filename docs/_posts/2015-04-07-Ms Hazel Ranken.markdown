@@ -5,8 +5,13 @@ date:   2015-04-07
 blurb: "This sermon was delivered during the funeral of Hazel Ranken, a caring individual who lived her life serving others. Despite her struggles with MS and cancer, Hazel's life was a testament to the inherent value of each individual. The sermon emphasizes the Christian belief in the inherent value of each individual in the sight of God, regardless of the world's judgement."
 og_image: "/assets/img/posts/Ms Hazel Ranken.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Ms Hazel Ranken.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Ms Hazel Ranken.pdf)
 On this lovely spring day, we gather for the funeral of Hazel Ranken who died last Wednesday after a long battle with initially MS and then latterly cancer. She grew up in this area living initially on Claremont Road and then the Dublin Road, moving in 1991 to Damer Court following the death of her mother. She is remembered by family and former neighbours as a very caring individual, looking after her mother until her death. Unusually in today’s terms, she worked all her life for KPMG, most of that as secretary to one person.
 
 Janet Grant, on behalf of the family has shared memories and thanks givings the family have for Hazel. As it turns out her death came in Holy Week, as we were preparing for Good Friday, the day on which we remember with a particular emphasis the death of our Lord Jesus Christ and her funeral comes only two days after we have celebrated his resurrection, his victory over the powers of sin and death in the wonderful festival that is Easter.

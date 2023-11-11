@@ -5,8 +5,13 @@ date:   2012-12-25
 blurb: "This sermon tells the story of a fourth wise man, Arteban, who was always late but for good reasons. He gave away his gifts, originally meant for the King, to help others in need. In the end, he realized that his acts of kindness were received by the King in heaven."
 og_image: "/assets/img/posts/christmasfamily2012.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/christmasfamily2012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/christmasfamily2012.pdf)
 Christmas Day – Family Service – Howth – 2012
 
 How many wise men were there? Tradition is three – Caspar, Melchior and Balthasar – bible does not say. There is a story of a 4th wise man called Arteban, a friend of the other three, story has it he was a very clever, very compassionate doctor.

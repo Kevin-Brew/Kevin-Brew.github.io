@@ -5,8 +5,13 @@ date:   2014-03-16
 blurb: "This sermon reflects on the spirituality of the Celtic Church and its rediscovery in the life of the Iona community. It draws upon the image of the beloved disciple, leaning on Jesus' breast at the last supper, listening to the heart beat of God. It also discusses the Synod of Whitby in 664, the meeting between the Celtic and Roman Christian missions, and the influence of St John and St Peter on these missions."
 og_image: "/assets/img/posts/lent22014stpatrick.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent22014stpatrick.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent22014stpatrick.pdf)
 It was the year 664. The Synod of Whitby, summoned by Oswy, King of Northumbria met in the Abbey of Whitby, the home of a mixed religious community under the leadership of Abbess Hilda. It was a meeting between two Christian missions, the Celtic and the Roman. The Celtic had come through Lindisfarne, Iona and the mission lead by Columba from these shores. In their spirituality they would have looked to St John. The other had come from the south, through Canterbury and Rome and would have looked to St Peter. The main issue settled in that Synod was the date on which Easter was to be observed and Oswy came down on the side of the mission from Canterbury. Eventually the Celtic Church adopted the Roman date for Easter.
 
 On this Sunday closest to St Patrick’s Day, I want to reflect on something of the spirituality of the Celtic Church and the ways in which it has been rediscovered in the life of the Iona community and the life and witness of George McLeod, who pioneered the rebuilding of the Abbey in 1938.

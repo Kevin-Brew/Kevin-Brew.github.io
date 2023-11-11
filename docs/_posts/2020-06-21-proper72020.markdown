@@ -5,8 +5,13 @@ date:   2020-06-21
 blurb: "Kevin's sermon explores the radical loyalty to Jesus that should inform and underline our other commitments. He discusses the challenges of living in accordance with Jesus' teachings, especially when they conflict with familial and societal expectations. The sermon emphasizes the support and companionship Jesus offers on our spiritual journey, encouraging us to approach the throne of grace with boldness."
 og_image: "/assets/img/posts/proper72020.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper72020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper72020.pdf)
 PROPER 7 – Year A – 2020 Trinity 2
 
 Lord, you have taught us that all our doings without love are nothing worth: send your Holy Spirit and pour into our hearts that most excellent gift of love, the true bond of peace and of all virtues, without which whoever lives is counted dead before you. Grant this for your only Son Jesus Christ’s sake.

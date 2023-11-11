@@ -5,8 +5,13 @@ date:   2021-05-09
 blurb: "The sermon delivered on the 6th Sunday of Easter in 2021, emphasizes the importance of love and fellowship in Christian faith. It highlights the teachings of John, the beloved disciple, and his simple command, 'Little children, love one another.' The sermon also explores the concept of communion and the significance of worship in Christian life."
 og_image: "/assets/img/posts/6th Sunday of Easter - 2021.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/6th Sunday of Easter - 2021.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/6th Sunday of Easter - 2021.pdf)
 There are a number of stories surrounding the lives of the various disciples after the death and resurrection of Jesus. Some are obvious the stuff of legend, others one likes to think at least have their origins in the lives of these very ordinary, extraordinary men whom Jesus called to follow, to continue his work.
 
 One that has always appealed to me concerns the figure of John, associated with the writing of the Fourth Gospel and at least the first of the letters of John and by tradition linked with the beloved disciple, the one who sat next to Jesus at the Last Supper, the one who Jesus, as he died, entrusted with the care of his mother, who accompanied Peter to the tomb when Mary Magdalene came with the news of the empty tomb that first Easter morning.

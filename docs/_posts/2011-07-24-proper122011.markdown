@@ -5,8 +5,13 @@ date:   2011-07-24
 blurb: "Kevin reflects on the role of memory in shaping community identity, drawing from Psalm 105 and historical events. He discusses the impact of media on collective memory and emphasizes the importance of remembering in the context of faith. The sermon encourages understanding our place before God through the act of remembrance, especially during the Holy Communion."
 og_image: "/assets/img/posts/proper122011.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper122011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper122011.pdf)
 PROPER 12 – 2011 – Trinity 5 – year A
 
 The Spanish born American author George Santayana once wrote, 'Those who cannot remember the past are condemned to repeat it.' Our Psalm for today is a portion of Psalm 105, which is in itself one of a series of Psalms that rehearses a community’s remembering of its past, of God’s dealings with his people from the call of Abraham through to the entry into the Promised Land. It recalls the great events of Israel’s redemptive history along with the times of failure and rebellion. It is a story of the judgement and the mercy of God and lies at the heart of their self-understanding of who they were, a people belonging to God.

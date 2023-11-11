@@ -5,8 +5,13 @@ date:   2017-08-10
 blurb: "The sermon celebrates the marriage of Rosie and John, reflecting on the journey that brought them together and the love they share. It emphasizes the individuality within unity and the relational nature of love, drawing from the wisdom of the passages chosen by the couple. The message is underscored by the reading from Corinthians about the patience, kindness, and enduring nature of love."
 og_image: "/assets/img/posts/John Kavanagh and Rosie Cleland - Aug 10 2017.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/John Kavanagh and Rosie Cleland - Aug 10 2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/John Kavanagh and Rosie Cleland - Aug 10 2017.pdf)
 We come today to celebrate the marriage of Rosie and John. In one sense this has all happened very quickly and in another this is a culmination of your whole life together. We are celebrating the love that you have found in and for each other, a love that has sustained you up to the present moment.
 
 Today I invite the two of you to reflect on the whole series of events that has brought you to this day. You will look back to the day you first met, how friendship grew into love and love into a realization that you wanted to spend the rest of your lives together.

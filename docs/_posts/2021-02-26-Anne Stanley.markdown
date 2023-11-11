@@ -5,8 +5,13 @@ date:   2021-02-26
 blurb: "This sermon was delivered during the funeral of Mrs. Anne Stanley. It highlights Anne's life, her devotion to her family, and her faith. The sermon draws on passages from Ecclesiastes and John's Gospel to reflect on the themes of peace and the rhythm of life. It concludes with a hopeful message about the Christian belief in life after death."
 og_image: "/assets/img/posts/Anne Stanley.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Anne Stanley.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Anne Stanley.pdf)
 At the start of this service, David, on behalf of the family, spoke of some thoughts, some memories the family shared as they put together this service. Anne Stanley, being Anne Stanley, made clear a long time ago that there was to be no fuss, no elaborate eulogies at her funeral. The family have been determined to honour Anne's wishes yet cannot hold back from expressing love and gratitude for the love of a mother, a grandmother given unstintingly over the course of their lives.
 
 Towards the end of the First Letter to Timothy the Apostle gives his advice to the younger man:

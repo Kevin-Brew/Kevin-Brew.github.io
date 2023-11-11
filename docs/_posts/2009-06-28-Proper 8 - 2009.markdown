@@ -5,8 +5,13 @@ date:   2009-06-28
 blurb: "Kevin reflects on the importance of thankfulness in Christian life, drawing from the sequential reading of the Bible and the story of David. He discusses the attitudes behind giving, as illustrated by Paul's teachings to the Corinthians, and emphasizes the need for gratitude to inform our actions and priorities. The sermon concludes with a call to embody the values learned and to be thankful for God's love in Christ."
 og_image: "/assets/img/posts/Proper 8 - 2009.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/Proper 8 - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Proper 8 - 2009.pdf)
 PROPER 8 –Year B – 2009
 
 One of the features I have come to really appreciate about the way our readings from the Bible are ordered each Sunday is the facility it affords us for a sequential reading of various books of the Bible. So this year, during this Season of Trinity, in addition to our reading of Mark’s Gospel, in our Old Testament reading we are following the story of David. We have read of his anointing by Samuel and the conflict with Goliath. Today we have read of the battle that finally saw him displace Saul as King, and the mixed emotions as he mourns the death of Saul and his beloved friend Jonathan, son of the former King. It is a very human story in which the various strengths and frailties of David are presented to us.

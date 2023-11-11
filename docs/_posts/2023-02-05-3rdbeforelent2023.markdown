@@ -5,8 +5,13 @@ date:   2023-02-05
 blurb: "The sermon discusses the intersection of politics and religion, emphasizing the importance of Christian values in the political process. It highlights the need for justice, integrity, and concern for the marginalized in society. The sermon also explores the concept of covenant in the context of political order, suggesting a partnership between the governed and the governing."
 og_image: "/assets/img/posts/3rdbeforelent2023.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/3rdbeforelent2023.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/3rdbeforelent2023.pdf)
 3rd Sunday before Lent – 2023- year A – Booterstown and Mount Merrion
 
 It is lovely to have the chance to join you in worship this morning. Back in my student days I lived for two years in Frascati Park and St Philip and St James was my Parish Church (and when I went to work in St Mary’s Hospital in the Phoenix Park, Sheila Hillis signed my pay cheques.)

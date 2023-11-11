@@ -5,8 +5,13 @@ date:   2014-06-08
 blurb: "On this Pentecost Sunday, Kevin discusses the different perceptions of the gift of the Spirit and its role in enabling us to grow in likeness to Jesus Christ. He uses the story of a young boy and a master musician to illustrate how God, like the musician, draws out the best in us by accompanying us. He emphasizes the importance of being open to the Spirit's work in our lives."
 og_image: "/assets/img/posts/pentecost2014.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/pentecost2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/pentecost2014.pdf)
 # PENTECOST – 2014
 
 In our reading this Pentecost Sunday, we have two very different perceptions of the gift of the Spirit. There is the rushing wind, the tongues of flames, the speaking in different languages in the lesson from Acts. In the Gospel there is the gentle breath of the risen Christ as he greets disciples sheltering in the Upper Room. Different parts of the New Testament will bear witness to the various gifts of the Spirit. In the Cathedral this afternoon the Archbishop, as he conducts the Service of Confirmation will pray that the candidates may be confirmed in the Holy Spirit. So we have a picture of the Spirit as empowering, as inspiring in the life of the Church.

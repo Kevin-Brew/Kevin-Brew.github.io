@@ -5,8 +5,13 @@ date:   2017-04-30
 blurb: "This sermon discusses the journey from doubt to faith, using the story of the disciples on the road to Emmaus as an example. It emphasizes the importance of being Christ for each other, listening to and acknowledging each other's pain, and providing encouragement and hope. The sermon concludes with the realization that Christ is always with us, even in our doubts and fears, and encourages us to be channels of his healing and peace."
 og_image: "/assets/img/posts/3ofeaster2017.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/3ofeaster2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/3ofeaster2017.pdf)
 3rd Sunday of Easter – 2017 –year A
 
 “We had hoped ....”

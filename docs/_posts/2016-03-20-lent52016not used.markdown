@@ -5,8 +5,13 @@ date:   2016-03-20
 blurb: "This sermon discusses the theme of 'Covenant' that has been followed throughout the Lent season. It explores the relationship between God and man, the promises and commitments made, and the recurring theme of failure and reconciliation. The sermon also highlights the journey of the people in and out of promise, and the enduring hope rooted in the belief that God is with his people, even in his apparent absence."
 og_image: "/assets/img/posts/lent52016not used.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent52016not used.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent52016not used.pdf)
 Over the season of Lent this year, we've been following a theme that has been running through the Old Testament Lessons appointed to be read each Sunday - that of Covenant. We started thinking of Covenant in terms of relationship between God and man that developed from the basic Covenant with Noah between God and man through to the Covenant with Abram, subsequently reaffirmed with Isaac and Jacob. We then went on to think of Covenant in terms of promises and commitment - the promise of descendants, the promise of land. Another theme that runs through the Old Testament is that of failure, as the people fall away from their commitment to the Covenant, and reconciliation - we spoke of God as a God of fresh starts, of new beginnings.
 
 Today I want to pick up on another theme that has been running through our story - that of journey, or a series of journeys:

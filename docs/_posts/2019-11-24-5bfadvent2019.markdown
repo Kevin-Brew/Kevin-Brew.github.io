@@ -5,8 +5,13 @@ date:   2019-11-24
 blurb: "This sermon, delivered on the 5th Sunday before Advent in 2019, explores the themes of honesty, self-reflection, and new beginnings. Referencing the Parable of the Pharisee and the Tax Collector, it emphasizes the importance of recognizing our own faults and seeking forgiveness. The sermon concludes with the hopeful message of God's unending love and mercy, and the possibility of redemption and new beginnings."
 og_image: "/assets/img/posts/5bfadvent2019.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/5bfadvent2019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/5bfadvent2019.pdf)
 Last week, we were talking about new beginnings. Recalling words of Queen Elizabeth and President McAleese in Dublin Castle at the State dinner during the memorable visit by the Queen to this country in 2011, we thought of new beginnings in terms of an honesty about the past and a resolve to change in our approach to the future.
 
 I concluded my thoughts with a prayer of confession that I would often use at Family Service and Family Communion:

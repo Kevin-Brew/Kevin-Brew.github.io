@@ -17,8 +17,14 @@ date:   {}
 blurb: "{}"
 og_image: "/assets/img/posts/{}.png"
 tags: {}
----
-[Original PDF](/assets/pdf/{}.pdf)    
+---    
+<div class="tag-pills">
+    {{% for tag in page.tags %}}
+    <a href="{{{{ site.baseurl }}}}/tag/{{{{ tag | slugify }}}}" class="tag-pill">{{{{ tag }}}}</a>
+    {{% endfor %}}
+</div>
+[Original PDF](/assets/pdf/{}.pdf)
+
 {}
 """.format(
         json_object["title"],

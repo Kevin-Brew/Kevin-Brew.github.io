@@ -5,8 +5,13 @@ date:   2019-03-10
 blurb: "This sermon discusses the personal experience of temptation and how it relates to Christian faith and discipleship. It emphasizes the importance of free will and personal responsibility in making moral decisions. The sermon also highlights the role of faith in overcoming temptation, drawing on biblical examples of encounters with God in the wilderness."
 og_image: "/assets/img/posts/lent12029.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent12029.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent12029.pdf)
 1st Sunday of Lent – 2019 – year C
 
 Last Wednesday, as Elke and I were preparing the pizza that is served at the start of each of our Confirmation classes (the youngsters have just come direct from the Burrow School), Elke proceeded to prepare a serving of popcorn in the microwave. This was put into a bowl in the centre of the table with a note placed over it ‘Do not touch!’ It was interesting to watch their reaction. Hands reached out and then pulled back. In the course of the class, we got them to talk about their feelings, their reactions. It wasn’t a very dramatic temptation. It would not have mattered if the popcorn had not been there – they didn’t actually need it. There was that ongoing experience of temptation, that nagging feeling. There is nothing earth shattering or life changing about this experience. Our Gospel reading, telling as it does of the temptations of Jesus in the wilderness, set me thinking about those more fundamental moments of indecision that we all face in life, the experience of temptation.

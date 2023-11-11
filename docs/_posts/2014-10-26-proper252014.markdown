@@ -5,8 +5,13 @@ date:   2014-10-26
 blurb: "This sermon explores the journey of man from his origins, as depicted in the Old Testament. It emphasizes the concept of holiness as an attribute of God and the call to holiness for mankind. The sermon also highlights the timeless nature of God's presence with his people through all stages of life and calls for justice, hope, and reconciliation in individual and community life."
 og_image: "/assets/img/posts/proper252014.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper252014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper252014.pdf)
 PROPER 25 – Year A – 2017 – 5th Sunday before Advent
 
 This year, since Trinity Sunday, our Old Testament Lessons have been following the Old Testament stories of man from his very origins. On Trinity Sunday, in the Genesis account of creation, we are introduced to the idea of man as made in the image of God. From there we followed the Fall, the Flood, the call of Abram to leave his homeland and journey to a distant land and with that the promise of descendants. There then follow the stories of Isaac, of Jacob and Joseph and the captivity in Egypt. Then, more recently we have seen the emergence of Moses, the Exodus, the giving of the Law on Mount Sinai and the wandering in the desert. We will soon read of the entry into the Promised Land.

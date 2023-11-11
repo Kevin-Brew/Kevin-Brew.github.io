@@ -5,8 +5,13 @@ date:   2015-11-15
 blurb: "In the aftermath of the Paris attacks, Kevin reflects on the presence of God in the face of evil. He challenges the notion that such events are part of God's plan, instead emphasizing God's companionship in suffering. Drawing from Dr. Jonathan Sacks's writings and the President's poem, he calls for support of moderate voices within Islam and for unity in working towards peace and justice."
 og_image: "/assets/img/posts/proper282015pariskillings.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper282015pariskillings.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper282015pariskillings.pdf)
 2ND Sunday before Advent – Proper 28 – 2015
 Sunday after Paris attacks
 

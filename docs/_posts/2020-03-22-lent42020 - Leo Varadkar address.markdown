@@ -5,8 +5,13 @@ date:   2020-03-22
 blurb: "Kevin's sermon reflects on the unprecedented challenges posed by the Covid-19 pandemic, emphasizing the importance of solidarity and community spirit. He urges everyone to practice social distancing, support healthcare workers, and maintain hope during this national emergency. The core message is about coming together by staying apart, and the power of collective action in the face of a global crisis."
 og_image: "/assets/img/posts/lent42020 - Leo Varadkar address.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent42020 - Leo Varadkar address.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent42020 - Leo Varadkar address.pdf)
 Lá Fhéile Pádraig shona daoibh!
 
 This is a Saint Patrick’s Day like no other. A day that none of us will ever forget. Today’s children will tell their own children and grandchildren about the national holiday in 2020 that had no parades or parties, but instead saw everyone staying at home to protect each other. In years to come, let them say of us, when things were at their worst, we were at our best.

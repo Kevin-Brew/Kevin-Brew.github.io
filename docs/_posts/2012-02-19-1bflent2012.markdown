@@ -5,8 +5,13 @@ date:   2012-02-19
 blurb: "In this sermon, Kevin explores the concept of 'Transfiguration', drawing parallels between the biblical account and our own experiences of insight and blindness. He encourages the congregation to be beacons of hope and light in times of darkness and uncertainty, and calls on the Church to play a major role in society, particularly in challenging times."
 og_image: "/assets/img/posts/1bflent2012.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/1bflent2012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/1bflent2012.pdf)
 Could I begin by asking you a question? What went through your mind as you read our Gospel passage, Mark’s account of the Transfiguration of Jesus, either before the service or as it was read in the context of this service? For myself, whenever I read passages such as this, or the miracles of feeding or healing, I ask myself, ‘What experience did the disciples have, what experience of Jesus lay behind, this account?’ This is a question we have to ask ourselves whether we take these passages literally or see them as expressing in symbolic form their experience of Jesus as healer, as feeder, as Son of God.
 
 The narrative itself is set on the top of a mountain, frequently in the scriptures a place of encounter, of revelation – we think of Moses on Sinai, of Elijah on Mount Horeb hearing the still small voice, of the Sermon on the Mount. The words out of the cloud, ‘This is my son … listen to him.’ recall words spoken from the heavens in the accounts of Jesus’ Baptism. In the vision of Jesus talking with Moses and Elijah, this episode not only looks to the past but also looks forward to his coming passion and death. As I read over this passage a theme that seemed to run through it for me is that of insight, of understanding, of who this Jesus is.

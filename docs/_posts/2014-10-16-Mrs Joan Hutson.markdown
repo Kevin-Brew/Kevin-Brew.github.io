@@ -5,8 +5,13 @@ date:   2014-10-16
 blurb: "This sermon was delivered at the funeral of Mrs Joan Hutson on 16th October 2014. It highlights Joan's vibrant life, her faith, and her love for gardening. The sermon draws parallels between the life cycle of a seed and human life, emphasizing the importance of faith and worship."
 og_image: "/assets/img/posts/Mrs Joan Hutson.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Joan Hutson.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Joan Hutson.pdf)
 Funeral of Mrs Joan Hutson – 16th October 2014
 
 One of my early memories of my time here in Howth is of a group of ladies who sat on this side of the Church, about half way down. One of them was Joan Hutson. From the very outset I was struck by her demeanour; always perfectly turned out, the smile, the almost impish glint in the eye. Even until very recently, she was here in Church for the 9:30 whenever her health permitted it. Her attendance at worship, her faith were quite clearly a priority for her. In a world of busy-ness, of frantic activity, Joan’s generation have a lesson for us in the priority we give to the things of God, the worship of God.

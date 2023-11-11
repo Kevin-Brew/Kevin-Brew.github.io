@@ -5,8 +5,13 @@ date:   2015-01-12
 blurb: "This sermon was delivered on the occasion of the funeral of Mrs Madge O'Neill, a beloved member of the Howth community. The sermon reflects on her life, her contributions to the community, her faith, and her family. The sermon also addresses the challenges of aging and dementia, and offers a message of hope and immortality."
 og_image: "/assets/img/posts/Mrs Madge O,Neill.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Madge O,Neill.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Madge O,Neill.pdf)
 Funeral of Mrs Madge O’Neill – 12th January 2015
 
 We have come here today to remember before God Madge O’Neill who lived in this community of Howth for many years. Wife and companion of Bill, mother of Michael, Anne and David, teacher, friend – most of all, herself, Madge. I first came across Madge nearly 40 years ago when Rachel taught briefly in Sutton Park prior to our marriage. She took great pleasure in telling us over the years that when in College she had gone on a blind date with my father in law, Rev Tommy McIlroy. Tommy didn’t go past the first date.

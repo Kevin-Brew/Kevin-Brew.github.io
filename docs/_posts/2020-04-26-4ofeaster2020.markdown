@@ -5,8 +5,13 @@ date:   2020-04-26
 blurb: "In this sermon, Kevin discusses the concept of Jesus as the Good Shepherd, drawing parallels between the relationship of a shepherd and his flock to God's relationship with humanity. He emphasizes the unconditional love and care that a shepherd provides, mirroring God's unwavering love for us. The sermon also touches on the story of the Prodigal Son, further illustrating God's boundless love and forgiveness."
 og_image: "/assets/img/posts/4ofeaster2020.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/4ofeaster2020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/4ofeaster2020.pdf)
 As we move through the Easter season our Gospel readings shift from those which tell of Jesus’ resurrection appearances to passages from John’s account of his teaching at the Last Supper. We read them not as the disciples first heard them, as the words of a man about to die; we read them in the light of the Resurrection, Jesus victorious over sin and death.
 
 In our Gospel reading today, Jesus talks of himself as the Good Shepherd. When we think of shepherds in our own context, we think of sheep in well organised farms, with the shepherd and his dog driving the sheep from one pasture to another, returning to his home at night. The shepherd in Jesus’ time had a different relationship to his flock. He lived with them 24/7. He slept out in the fields with them; he protected them from wild animals. Whereas the modern sheep farmer rears his animals primarily for their meat and so will keep them for a relatively short period; the shepherd in Jesus’ time kept his flock for their milk and their wool so he would have kept them for a much longer period of time. The shepherd would know their sheep and the sheep would know the shepherd.

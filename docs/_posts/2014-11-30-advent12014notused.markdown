@@ -5,8 +5,13 @@ date:   2014-11-30
 blurb: "This sermon contrasts the busyness of the Christmas season with the patience and attentiveness required during Advent. It emphasizes the importance of waiting, watching, and responding during this season. The sermon also draws parallels between the attentiveness required in parenting and the discernment needed in our spiritual lives."
 og_image: "/assets/img/posts/advent12014notused.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent12014notused.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent12014notused.pdf)
 I don’t know whether you noticed it but last Friday was listed as Black Friday. It was a day on which people came up form the country to do their Christmas shopping in Dublin. It is that time of year already – a number of stores had special offers on electrical and household items – all with the idea of getting ready for Christmas.
 
 But there is so much to do, so many deadlines – deadlines for cards, deadlines for parcels, deadlines for on-line shopping. Then there are the preparations for Christmas dinner, presents to get – what do you get the elderly uncle who seems to have everything – the food for Christmas dinner, the tree, the decorations. So little time left, so much to do …..

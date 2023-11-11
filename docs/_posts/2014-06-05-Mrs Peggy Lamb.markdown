@@ -5,8 +5,13 @@ date:   2014-06-05
 blurb: "This sermon is a tribute to Mrs. Peggy Lamb, a faithful servant of the Church and a loving mother and wife. It recounts her love for music, her quiet resolute courage in the face of illness, and her enduring faith. The sermon encourages the congregation to remember Mrs. Lamb's life and death in the context of the life, death, and resurrection of Jesus Christ."
 og_image: "/assets/img/posts/Mrs Peggy Lamb.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Peggy Lamb.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Peggy Lamb.pdf)
 I remember back in 1978. I had just been ordained and I was sitting with Rev Cecil Wilson in the kitchen in the Rectory in Raheny and Cecil was starting to organise my Parish visiting. 'Who will we start you with? We’ll give you an easy start – head up to the Lamb’s on the Tonlegee Road. And so it came to pass that my pastoral ministry began with a knock on the door and a cheery welcome from Peggy Lamb. I have always remembered that visit with great affection – children coming and going, the dog, the cup of tea placed in my hand, the easy relaxed chat, that lovely smile that never seemed far away.
 
 Over the next two years I came to get an insight into her other gifts, her love of music, supporting Zoe Davidson without intruding on Zoe’s place as organist here in St John’s.

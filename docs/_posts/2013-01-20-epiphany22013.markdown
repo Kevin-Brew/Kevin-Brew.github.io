@@ -5,8 +5,13 @@ date:   2013-01-20
 blurb: "In this sermon, Kevin discusses the concept of grace and the transformative power of Christ. Drawing from the story of the wedding at Cana and Paul's letter to the Corinthians, he explores how God's grace can empower, inspire, and work through our strengths and weaknesses. He also reflects on the role of the Church in a rapidly changing society and the importance of embodying Christ's healing and reconciling presence in the world."
 og_image: "/assets/img/posts/epiphany22013.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany22013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany22013.pdf)
 With weddings in the air, at this time of year I will often find myself meeting with couples planning their marriage service. One of the choices to be made of course will be the lessons that are to be read. Very often the Gospel appointed for today, the account given to us by St John of the wedding at Cana in Galilee, will feature on the list. It is a story that can be read on a number of levels.
 
 There is the extravagance of the provision, huge amounts of high quality wine, far superior to what would normally be provided on such an occasion. There is the symbolism of the six water jars, one short of the number seven. One theme I will often explore with a couple either in the lead up to the service or in the context of the service itself is the idea that here we have a situation that has gone horribly wrong, the wine has run out, the embarrassment to the family, the loss of face in front of the community. A situation, moreover, that is transformed by the presence of Christ. I go on to suggest that there is no situation, no crisis in life, in marriage, in relationships that is not open to the transforming, healing presence of Christ.

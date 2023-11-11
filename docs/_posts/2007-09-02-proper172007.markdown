@@ -5,8 +5,13 @@ date:   2007-09-02
 blurb: "In this sermon, Kevin reflects on the profound contrast between the joy of his son's wedding and the somber visit to Auschwitz. He explores the crisis of faith faced by many during the Holocaust and the enduring message of hope found in the Epistle to the Hebrews. Kevin emphasizes the presence of God in both joy and suffering, and the moral choices that define our humanity."
 og_image: "/assets/img/posts/proper172007.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper172007.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper172007.pdf)
 Proper 17 – 2007 – year C – Trinity 13
 
 Last weekend we celebrated one of the joys of family life, the marriage of our elder son Anthony. His bride being Polish, the wedding took place in Poland, in the historic city of Krakow. It was a great joy to be able to conduct the ceremony myself in the Lutheran Church of St Martin using the liturgy of the Church of Ireland in a mixture of English and Polish. Krakow, with the royal castle of Wavel, many beautiful Churches and a magnificent Main Square bustling with life at all hours of the day and night, is a beautiful city, listed as a World Heritage Site by UNESCO. As with any such place, there were many trips on offer to different places of interest.

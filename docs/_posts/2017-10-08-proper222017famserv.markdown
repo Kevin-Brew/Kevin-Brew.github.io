@@ -5,8 +5,13 @@ date:   2017-10-08
 blurb: "Kevin reflects on the importance of staying motivated and encouraging others, using the story of a Presbyterian Minister who planted daffodils to leave a beautiful mark on his village. The sermon also touches on the community's efforts to repair the church roof, likening the task to eating an elephant in small pieces, and celebrates the togetherness and worship experienced during this time."
 og_image: "/assets/img/posts/proper222017famserv.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper222017famserv.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper222017famserv.pdf)
 ## PROPER 22 – Family Service – Year A – 2017
 
 Kevin shares a message about **Motivation** – staying focused and keeping at it when we are discouraged or face difficulties. He emphasizes the **Importance of encouraging others** and being the best person we can be. The Old Testament lesson of the giving of the 10 commandments is read, highlighting the best way to live with God and each other.

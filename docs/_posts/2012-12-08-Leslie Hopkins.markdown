@@ -5,8 +5,13 @@ date:   2012-12-08
 blurb: "This sermon is a tribute to Leslie Hopkins, a man of sharp intellect, faith, and devotion to his family. It reflects on his life, his contributions, and his faith. The sermon also provides comfort and hope in the face of loss, drawing on scripture to provide strength and reassurance."
 og_image: "/assets/img/posts/Leslie Hopkins.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Leslie Hopkins.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Leslie Hopkins.pdf)
 Funeral of Leslie Hopkins – Howth – 8th December 2012
 
 Leslie Hopkins – man of sharp intellect, research chemist, respected by his peers. Sportsman, keen rugby player and later referee. Man of faith, regular in worship, always ready to offer his service. Devoted husband, father and grandfather.

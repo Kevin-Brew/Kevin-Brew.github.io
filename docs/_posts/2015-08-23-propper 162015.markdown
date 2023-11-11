@@ -5,8 +5,13 @@ date:   2015-08-23
 blurb: "Kevin reflects on the reasons why people might give up on Jesus, drawing from the Gospel of John 6:66. He discusses the high demands of discipleship, the negative influence of other Christians' attitudes, and personal crises that test faith. The sermon emphasizes the importance of community support and the understanding that walking with God is not a solitary struggle but a journey with divine assistance."
 og_image: "/assets/img/posts/propper 162015.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/propper 162015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/propper 162015.pdf)
 Proper 16 – 2006 – year B – Trinity 11
 
 "From this time on many of his disciples turned back and no longer followed him." (John 6:66)

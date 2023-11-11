@@ -5,8 +5,13 @@ date:   2023-05-28
 blurb: "This sermon reflects on the Ascension of Jesus Christ, emphasizing the interconnectedness of Good Friday, Easter, Ascension, and Pentecost. It highlights the transformation of the disciples from guilt-ridden followers into evangelists. The sermon underscores the importance of being open to God's will, setting aside personal agendas, and viewing situations and people through God's eyes."
 og_image: "/assets/img/posts/7ofeaster2023.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/7ofeaster2023.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/7ofeaster2023.pdf)
 7th Sunday of Easter – Sunday after Ascension Day- 2023 – year A – St John’s Whitehouse
 
 'I believe in Jesus Christ, God’s only Son, our Lord. who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended to the dead. On the third day he rose again; he ascended into heaven, he is seated at the right hand of the Father, and he will come again to judge the living and the dead.'

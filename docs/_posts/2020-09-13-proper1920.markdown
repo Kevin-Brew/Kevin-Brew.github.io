@@ -5,8 +5,13 @@ date:   2020-09-13
 blurb: "Kevin's sermon on Proper 19, Year A, reflects on the complexities of forgiveness, using examples from Northern Ireland's reconciliation efforts and the biblical story of the Unmerciful Servant. He emphasizes that forgiveness is not about keeping score but a matter of the heart, requiring inner healing and a recognition of our own forgiven status through Jesus."
 og_image: "/assets/img/posts/proper1920.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper1920.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper1920.pdf)
 ## PROPER 19 – Year A - 2020 – Trinity 14
 
 A number of years ago, I was at a clergy day retreat that was lead by the then leader of the Corrymeela Community, the late Rev Dr John Morrow. He was talking about reconciliation in Northern Ireland that was still in the grip of the troubles. He remarked that we can be too glib at times about reconciliation, about forgiveness – as if it is something that just flows automatically out of a Christian life.

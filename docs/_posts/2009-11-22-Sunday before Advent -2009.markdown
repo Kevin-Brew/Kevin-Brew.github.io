@@ -5,8 +5,13 @@ date:   2009-11-22
 blurb: "Kevin reflects on the significance of the Sunday before Advent, known as 'Stir Up Sunday'. He emphasizes the importance of preparing for the Incarnation and the serious business of living in the light of Christ's coming. The sermon ties the end of the Church's year to the themes of Christ the King, the gift of God's love, and our priestly vocation in response to the Incarnation."
 og_image: "/assets/img/posts/Sunday before Advent -2009.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/Sunday before Advent -2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Sunday before Advent -2009.pdf)
 ## Sunday before Advent - 2009 - Year B
 
 'Stir up we beseech thee, O Lord, the wills of thy faithful people...' So begins the old collect of this Sunday before Advent. It is said that among the staffs of the big houses, hearing this in Church on Sunday morning was the signal to begin preparing the Christmas puddings. And so this Sunday got the alternative title 'Stir up Sunday.'

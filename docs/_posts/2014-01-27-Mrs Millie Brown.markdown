@@ -5,8 +5,13 @@ date:   2014-01-27
 blurb: "This sermon is a tribute to Mrs Millie Brown, a strong and compassionate woman who lived a full life and touched many others. Despite her physical decline in her later years, she remained a source of love and strength for her family. Her death, while a loss, is also seen as a release from her struggles."
 og_image: "/assets/img/posts/Mrs Millie Brown.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Millie Brown.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Millie Brown.pdf)
 We gather here this morning for the funeral of Mrs Millie Brown, who died as she lived, quietly and without fuss, in Brymore Nursing Home where she had been cared for over the last two years. Prior to that she had been cared for in her home off the Kilbarrack Road by her family who were determined that, even with the advance of dementia, she would remain as long as possible in her own home, retaining her own independence.
 
 In the eight years or so in which I have been visiting her, my experience of her has been one of frailty, of weakness. When I first visited her I was accorded a cheery welcome, she took me out into the garden which she still loved and managed to enjoy. She spoke of growing up in Bagnelstown, the garage she helped run with her father. I have since heard family members refer to a 'Trojan, a powerful women, nothing phased her.'

@@ -5,8 +5,13 @@ date:   2010-12-25
 blurb: "This sermon reflects on the importance of recognizing God's presence not just in worship, but also in the ordinary aspects of life. It emphasizes the values of care and compassion, and the idea of God present in the world today. The sermon also encourages us to think beyond the immediate, and to consider our role in making God present in the world."
 og_image: "/assets/img/posts/christmasday2010.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/christmasday2010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/christmasday2010.pdf)
 Ten days ago, as I do every year at this time, I travelled into the Focus Ireland café on Eustace Street, on the edge of Temple Bar to hand over the gifts you gave to Focus Ireland. As I remarked at the 9:30 last Sunday, I always find this a very humbling experience. There is the gratitude of the staff for our modest offering. Then there are the stories of those they meet in the café and out on the streets. That place is a symbol of hope and care ever more necessary in our straightened times. For me it is also a very hopeful sign that fundamental values of care and compassion that marked Irish society were not entirely swamped by the Celtic Tiger. That place is also a sign of God’s presence in our society. Those who work there may or may not have a specifically Christian commitment but they are definitely channels of God’s love and care.
 
 When I came home, I picked up a book from my bookshelves that I had not read for some time. It is a book of some of the writings and sermons of Archbishop Desmond Tutu, from the early 1980’s, ‘Crying in the Wilderness’. It is a book of sadness, anger, passion, hope as he reflects on the society within which he grew up, within which he worked as Bishop, making his prophetic call for peaceful change in South Africa. The foreword to the book is written by Archbishop Trevor Huddleston, who was himself a champion for the people of his Parish of Sophiatown, a township on the edge of Johannesburg and who was subsequently expelled from South Africa. In the foreword he identifies what lay at the heart of Desmond Tutu’s philosophy:

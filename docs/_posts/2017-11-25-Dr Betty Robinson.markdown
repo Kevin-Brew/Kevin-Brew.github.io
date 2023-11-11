@@ -5,8 +5,13 @@ date:   2017-11-25
 blurb: "This sermon is a touching tribute to Dr Betty Robinson, a woman of strength, resilience, and warmth. It highlights her life journey, her love for gardening, and her peaceful acceptance of life's inevitable end. The sermon draws parallels between the cycle of life and death and the cycle of sowing and reaping, offering comfort and hope in the promise of resurrection."
 og_image: "/assets/img/posts/Dr Betty Robinson.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Dr Betty Robinson.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Dr Betty Robinson.pdf)
 Funeral of Dr Betty Robinson – 25th November 2017
 
 The family have shared a number of memories and thoughts about Betty Robinson. I have only got to know her over the last 12 years since I came to this Parish. From the very outset she told me that I wouldn’t see her in Church very often and she wasn’t quite sure what she believed anymore. Over this time, as she spoke of her early years in the Isle of Wight, where her father was a GP, her own medical training, her time working as a matron in different schools, as locum for Dr Jessop here in this area, as one of the first members of staff of the new Sutton Park School where she enjoyed teaching for many years, (all of this combined with bringing up her family on her own) I came to know a very warm and engaging person, not only speaking about herself and her life but also about others.

@@ -5,8 +5,13 @@ date:   2017-12-24
 blurb: "In this sermon, Kevin explores the anticipation and excitement that comes with the expected arrival of a child, drawing parallels with the anticipation of the coming of Christ. He discusses the emotions of expectation and excitement in the context of the Gospel reading, the account of Mary's visit to her cousin Elizabeth. The sermon also reflects on the nature of God's coming Kingdom as described in the Magnificat, highlighting its transformative power."
 og_image: "/assets/img/posts/advent42017.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent42017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent42017.pdf)
 On this Sunday, the day before Christmas, it is lovely to be celebrating a Baptism in the context of our morning service. I want to begin with the sense of anticipation and excitement that comes with the expected arrival of a child in a house.
 
 There are all those questions that are asked of parents. When is the baby due? Do you know whether it is to be a boy or a girl? Have you chosen any names yet? The mother is asked all those intrusive questions, are you happy, are you surprised, are you feeling well, are you feeling sick, how long will you be working for?

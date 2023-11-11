@@ -5,8 +5,13 @@ date:   2014-12-25
 blurb: "In this sermon, Kevin reflects on the year 2014, filled with anniversaries of wars and atrocities, and finds hope in the enduring light of Christ. He draws upon historical events and personal experiences to illustrate the power of faith and love in the face of darkness. He encourages his congregation to be bearers of this light, to transform their own situations of darkness, and to let their good works shine before others."
 og_image: "/assets/img/posts/christmas2014.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/christmas2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/christmas2014.pdf)
 In this year 2014 there have been a number of anniversaries. There has been the centenary of the outbreak of the First World War. On the eve of the outbreak of war Sir Edward Grey, the British Foreign Secretary, observed to a friend, 'The lamps are going out all over Europe. We shall not see them lit again in our life time.' An all consuming darkness was indeed descending as in four years of trench war fare millions perished.
 
 We also saw the 70 Anniversary of the D-Day landings, a turning point in a war that had seen millions perish in concentration camps that operated ethnic cleansing on a truly industrial scale, as Jews, Slavs, handicapped, homosexuals, gypsies were consumed by gas and fire.

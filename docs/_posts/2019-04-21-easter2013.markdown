@@ -5,8 +5,13 @@ date:   2019-04-21
 blurb: "On Easter Day 2019, Kevin reflects on the profound transformation of Mary and the disciples after encountering the risen Jesus. He emphasizes that the risen Christ comes to us in unexpected ways, offering hope, forgiveness, and peace in our moments of sorrow, weakness, and confusion. He encourages us to be open to Christ's presence in others and to serve as channels of His presence."
 og_image: "/assets/img/posts/easter2013.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/easter2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/easter2013.pdf)
 EASTER DAY 2019
 
 'Woman, why are you weeping?' Words of an angel, words of a gardener to a woman weeping at a graveside. We have just sung as our opening hymn on Easter Day that hymn of triumph:

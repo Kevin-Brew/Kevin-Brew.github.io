@@ -5,8 +5,13 @@ date:   2017-11-22
 blurb: "This sermon is a tribute to Mr. Pat Curley, who passed away suddenly. It reflects on his life, his faith, and the impact he had on those around him. The sermon also offers comfort and support to those mourning his loss, reminding them of the enduring presence of God in times of sorrow."
 og_image: "/assets/img/posts/Mr Pat Curley.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mr Pat Curley.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mr Pat Curley.pdf)
 Funeral of Mr Pat Curley – 22nd November 2017
 
 A sense of unbelief, of shock went around the Parish last Friday as the news broke that Pat Curley had died suddenly in his home. So we can only imagine the shock experienced by his son David and wife Mary, who was away on a trade mission in the Far East.

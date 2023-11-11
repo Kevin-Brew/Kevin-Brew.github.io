@@ -5,8 +5,13 @@ date:   2009-07-05
 blurb: "Kevin reflects on the significance of Baptism as more than a family event, emphasizing its importance to the parish community. He draws from anecdotes and scripture to illustrate the Christian life as a journey of response to God's love, marked by both successes and failures. The sermon encourages us to embrace our roles as disciples, carrying the love and presence of Christ into the world, reassured by His constant presence."
 og_image: "/assets/img/posts/Proper 9 - 2009.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/Proper 9 - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Proper 9 - 2009.pdf)
 For the first two years of my ministry I worked alongside a wonderful priest and pastor of the Church of Ireland, the late Canon Cecil Wilson. He was a fund of anecdotes, rooted in his own experiences of life and ministry in the Parishes he served in rural Ireland as well as the city. One of his many stories came to mind as I was reflecting on this morning's service. In the course of this month we are going to have a number of Baptisms and I just want to think a bit about what we are doing in Baptism.
 
 This is where Cecil Wilson's particular anecdote came to my mind. He was recalling his time in the Parish of Templeharry. The Bishop was visiting one Sunday and in the Vestry expressed some disappointment that there has been no marriages in the Parish for a number of years. The Sexton grabbed Cecil's sleeve and said in a stage whisper; 'Mr Wilson, Mr Wilson, tell him about all the Baptisms!'

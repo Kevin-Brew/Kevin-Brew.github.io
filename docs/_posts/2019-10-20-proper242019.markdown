@@ -5,8 +5,13 @@ date:   2019-10-20
 blurb: "Kevin's sermon on Proper 24, Year C, focuses on the theme of new beginnings, anchored in the biblical narrative of redemption. He reflects on the need for honesty about the past and a resolve to change, drawing parallels between personal and communal transformation. The sermon emphasizes the new covenant written on the heart, as prophesied by Jeremiah, and the transformative power of Christ's incarnation, death, and resurrection."
 og_image: "/assets/img/posts/proper242019.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper242019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper242019.pdf)
 We have continued reading as our Old Testament Lesson from the Book of the Prophet Jeremiah. Up to this point, Jeremiah has spoken of judgement, of destruction. He has gone on to speak of the need for the exiles to put down roots in the land of their captivity. But now the mood begins to change, we hear words of new beginnings, he talks not of breaking down and destroying but in terms of building and planting.
 
 But this is not a matter of re-starting, of picking up pieces from the past. This is nothing less than a new beginning, founded on a new covenant. This is a covenant not to be written on tablets of stone but one to be written on the heart.

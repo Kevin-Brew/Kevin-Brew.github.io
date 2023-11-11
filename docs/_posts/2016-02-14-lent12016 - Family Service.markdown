@@ -5,8 +5,13 @@ date:   2016-02-14
 blurb: "On Valentine's Day, which also marks the first day of Lent, the sermon explores the concept of love. It emphasizes the importance of showing love through actions, not just words. It also highlights the need to show love for God by caring for the world He has given us."
 og_image: "/assets/img/posts/lent12016 - Family Service.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent12016 - Family Service.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent12016 - Family Service.pdf)
 Today is Valentine’s Day and also the first day of Lent. The first lesson tells people what they are to do when they first enter the land God is giving them. God had shown his love by rescuing them from slavery in Egypt – this is going to be a way of saying not just thank you to God but saying ‘I love you’. The second lesson is the story of Jesus being tempted in the wilderness – Jesus is showing he loves God more than anything else the tempter can offer him.
 
 How do we show our love to people we care about? Is a messy bedroom saying ‘Mum, I really love you’? Of course its not just little people throw tantrums. So its not enough just to say ‘I love you’ to someone we love – we have to show that love in the way we treat them, in the way we speak to them, in the way we appreciate them.

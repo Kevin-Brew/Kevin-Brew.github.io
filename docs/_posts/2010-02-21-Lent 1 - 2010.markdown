@@ -5,8 +5,13 @@ date:   2010-02-21
 blurb: "In this sermon, Kevin discusses the personal experience of temptation and how it affects our Christian faith and discipleship. He explores the concept of free will and the inner battle between self and God. He also highlights the importance of prayer and seeking God's presence in times of trial."
 og_image: "/assets/img/posts/Lent 1 - 2010.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/Lent 1 - 2010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Lent 1 - 2010.pdf)
 One of the things I quite enjoy is to head out for an early morning run. Often just from the house to the end of the East Pier and back. Prior to setting out there are those moments of indecision as I look out from the window – do I go out or do I stay in the warm and listen to the radio. As I get to the start of the pier – do I go onto the pier or just call it a day and head home. There is nothing earth shattering or life changing about these moments of indecision. Our Gospel reading, telling as it does of the temptations of Jesus in the wilderness, set me thinking about those more fundamental moments of indecision that we all face in life, the experience of temptation.
 
 I just want to think about temptation and our experience of it, how we deal with it, in the context of our Christian faith and discipleship. Does this mean that we descend into a mire of inadequacy, failure and guilt? For I often think that for a community that has at its heart a message of forgiveness and redemption we do guilt very well.

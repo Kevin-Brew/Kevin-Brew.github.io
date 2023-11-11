@@ -5,8 +5,13 @@ date:   2017-11-26
 blurb: "Kevin discusses the challenges of living in a world burdened by anxiety and stress, focusing on the high suicide rates among young people and the fears they face. He emphasizes the importance of community and the role of the church in providing hope and support. The sermon concludes with the message of the Great Commission, urging the congregation to share the good news and engage with all communities, following Jesus' example."
 og_image: "/assets/img/posts/sundaybeforeadvent 26th November 2017 - Tom O_Brien.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/sundaybeforeadvent 26th November 2017 - Tom O_Brien.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/sundaybeforeadvent 26th November 2017 - Tom O_Brien.pdf)
 Family Service Talk for 26th November 2017
 
 We live in a world that is weighed down by anxiety and stress. The country we live in is currently ranked 6th in the 0-25 year age bracket for suicide rates in Europe. We drink too much, misuse drugs, and have a high percentage of individuals on prescription anti-depressants... why? The answer suggests that human beings are not psychologically self-sufficient. We strive to fit in and long to be a part of a community.

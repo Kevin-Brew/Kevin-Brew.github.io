@@ -5,8 +5,13 @@ date:   2018-10-14
 blurb: "In this sermon, Kevin reflects on the themes of suffering and divine presence as illustrated through the story of Job. He emphasizes that while suffering can lead to feelings of isolation from God, the Christian faith offers a pathway to find meaning in God's presence. Through the death and resurrection of Christ, believers can approach God with confidence, finding grace and mercy in their time of need."
 og_image: "/assets/img/posts/proper232018.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper232018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper232018.pdf)
 ## Proper 23 – Year B – 2018 – Trinity 20
 
 At this time of year as we celebrate Harvest Thanksgiving, it is one of those 'feel good' times of the year when we recognize God's goodness towards us as in the decoration of our Churches we are reminded of the richness and variety of God's provision for us in the context of the natural world.

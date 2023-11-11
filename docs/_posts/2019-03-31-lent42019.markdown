@@ -5,8 +5,13 @@ date:   2019-03-31
 blurb: "On Mothering Sunday, traditionally observed as the Fourth Sunday in Lent, Kevin reflects on the Parable of the Prodigal Son. He draws parallels between the unconditional love of a parent and the love of God for us. He shares a personal story of a family in Ahoghill, whose sons were caught in addiction, yet the mother's love remained unwavering. This sermon emphasizes the power of unconditional love and forgiveness."
 og_image: "/assets/img/posts/lent42019.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent42019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent42019.pdf)
 This Sunday, the Fourth Sunday in Lent is traditionally observed as Mothering Sunday. It is a day on which, in the early Church, Christians used to return to the Church in which they had been baptised, their mother Church. It is a day on which we remember our mothers, those who brought us to birth, who nurtured us, who stayed with us through thick and thin, listened to our hopes and fears, our ingratitude, our tantrums – and through it all continued to love us.
 
 I would normally have chosen lessons appointed for Mothering Sunday over and above those appointed for this Fourth Sunday in Lent. I’m not doing that this year. As I read through the Gospel appointed for today, the Parable of the Prodigal Son, in the light of Mothering Sunday, I saw this as a Parable of family life – not the sugary ideal but life as it really is. It is all there. There is sibling rivalry, there is the self-centred impulsiveness of the younger son, the self-righteous resentment of the older brother – and running through the whole story the love of the parent in the face of hurts and misunderstandings.

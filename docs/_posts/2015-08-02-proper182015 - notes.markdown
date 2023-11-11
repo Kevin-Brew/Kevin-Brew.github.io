@@ -5,8 +5,13 @@ date:   2015-08-02
 blurb: "Kevin's sermon focuses on the biblical call to care for the marginalized, drawing from Leviticus 19 and Deuteronomy 24, which instruct the faithful to leave the edges of their harvest for the poor and the alien. He emphasizes the importance of remembering one's own past hardships to foster empathy and kindness towards others. The sermon also touches on the unity in Christ, as expressed in Galatians 3, and the sanctity of the Sabbath from Exodus 20."
 og_image: "/assets/img/posts/proper182015 - notes.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper182015 - notes.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper182015 - notes.pdf)
 Lev 19:9 When you reap the harvest of your land, you shall not reap to the very edges of your field, or gather the gleanings of your harvest. You shall not strip your vineyard bare, or gather the fallen grapes of your vineyard; you shall leave them for the poor and the alien: I am the LORD your God. Lev 19:9-10
 
 Dt 24:21 When you gather the grapes of your vineyard, do not glean what is left; it shall be for the alien, the orphan, and the widow. Remember that you were a slave in the land of Egypt; therefore I am commanding you to do this. Deut 24:21-22

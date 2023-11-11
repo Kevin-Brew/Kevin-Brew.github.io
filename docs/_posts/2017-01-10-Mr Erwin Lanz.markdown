@@ -5,8 +5,13 @@ date:   2017-01-10
 blurb: "This sermon is a tribute to Mr Erwin Lanz, a well-loved father, husband, and friend, who lived a life full of love, dignity, and respect. It reflects on the mystery of death in the context of Christian faith, and offers comfort, strength, and hope in the face of loss."
 og_image: "/assets/img/posts/Mr Erwin Lanz.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mr Erwin Lanz.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mr Erwin Lanz.pdf)
 This morning we have gathered in St Mary’s for the funeral of Mr Erwin Lanz. His son Urs has already shared with us some of the family’s memories and affection for him. They remember a family man, a man with a love and zest for life. A native of Switzerland, he was born in the town of Uzwil, in the Swiss German region of the country. He had met his wife Rosealeen at a party and so began a love match that was to last 61 years. A textile engineer by profession, his work was to take him to many parts of the world. In the course of their travels, Erwin and Rosealeen reared their three sons, Urs, David and Justin. A sister, Monica, died in childhood. As Urs has already said, Erwin is remembered as a well-loved father, a proud and dignified man, respected by all who knew him.
 
 He had just celebrated his 87th birthday and until recently had been in good health so his death has come as something of a shock to his family. A funeral is a time to reflect, to take stock. One of the privileges of being with a family as they prepare the funeral of a loved one, is to be there as memories are recalled, how they met, important and not so important events in a family’s journey. Even in the sadness there are the smiles as a loved one is remembered.

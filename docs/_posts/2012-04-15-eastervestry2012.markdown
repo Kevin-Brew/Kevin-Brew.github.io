@@ -5,8 +5,13 @@ date:   2012-04-15
 blurb: "In this sermon, Kevin reflects on the evolving nature of tradition within the church, emphasizing that change is not for its own sake but to adapt to the times while upholding the Gospel's timeless truths. He discusses initiatives to engage youth and maintain church traditions, acknowledging the contributions of various community members in supporting the church's growth and fellowship."
 og_image: "/assets/img/posts/eastervestry2012.png"
 tags: Easter Vestry
----
-[Original PDF](/assets/pdf/eastervestry2012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/eastervestry2012.pdf)
 Easter General Vestry - 15th April 2012
 
 At last year's Easter General Vestry, Kevin reflected on Archbishop Jackson's Enthronement sermon, addressing the changing environment for proclaiming the Gospel in our generation. He discussed tradition as a living and developing phenomenon, with change not undertaken simply for its own sake.

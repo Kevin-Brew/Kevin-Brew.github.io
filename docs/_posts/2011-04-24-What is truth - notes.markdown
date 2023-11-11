@@ -5,8 +5,13 @@ date:   2011-04-24
 blurb: "Kevin's sermon explores the concept of truth as revealed in the scriptures, particularly focusing on the teachings of Jesus Christ. He emphasizes the importance of living in truth, not just in words but through actions, and how truth is integral to the Christian faith. The sermon underscores the transformative power of truth and its role in guiding believers to live authentically and faithfully."
 og_image: "/assets/img/posts/What is truth - notes.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/What is truth - notes.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/What is truth - notes.pdf)
 ## What is truth?
 
 **MATTHEW 22:16**

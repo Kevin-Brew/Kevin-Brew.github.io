@@ -5,8 +5,13 @@ date:   2011-09-25
 blurb: "Kevin discusses the importance of being Christ-like in our daily lives, drawing parallels between the stained glass stories and our role as Christians. He emphasizes the significance of companionship, support, and embodying Christ for one another. Through personal anecdotes and community experiences, Kevin illustrates how we can live out Christ's teachings and be a source of encouragement and love."
 og_image: "/assets/img/posts/proper212011.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper212011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper212011.pdf)
 PROPER 21 – 2011 – Year A – Trinity 14
 
 One of the features of many of our churches is our use of stained glass. We have beautiful windows here in St Mary’s. The one over the communion table is the one most of us see every Sunday. It is magnificent, rich in symbolism, expressing the historic links between this Parish and the St Lawrence family in Howth Castle as well as references to ancient Irish Church in this land, featuring both local saints such as St Fintan and St Assam and the national figures of Patrick and Brigid, all focusing on the figure of the risen Christ in the centre. I must admit I love the window at the font and also the one behind the communion table at the back. Of course if you go into the great cathedrals of Europe such as Chartres or Notre Dame in Paris the windows are even more magnificent, as in a series of pictures a particular window will tell the story of a parable of Jesus, or the life of a particular saint. They have their origins in a time when few people could read – the windows were the storybook through which people learned and reflected on the faith.

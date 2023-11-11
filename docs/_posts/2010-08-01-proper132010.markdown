@@ -5,8 +5,13 @@ date:   2010-08-01
 blurb: "In this sermon, Kevin explores the concept of greed and its impact on our spiritual and societal values. He uses the Parable of the Rich Fool to illustrate how an obsessive accumulation of wealth can lead to a distortion of values and priorities. He emphasizes that true wealth lies in being 'rich towards God', a concept that goes beyond mere possessions."
 og_image: "/assets/img/posts/proper132010.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper132010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper132010.pdf)
 The late lamented Spike Milligan once observed: 'Money may not make you happy, but it does buy you a better class of misery.'
 
 I thought of that insight as I reflected on our Gospel reading for today and in particular the man who came to Jesus asking him to act on his behalf in settling a family dispute. Before we look at the detail of this story, let us just step back for a moment and look at the wider context within which Luke has placed this story (which is told only by Luke) in the Gospel as a whole.

@@ -5,8 +5,13 @@ date:   2015-05-31
 blurb: "Kevin's sermon on Trinity Sunday explores the multifaceted concept of salvation as presented in the Bible. Through a series of scriptural excerpts, he delves into the past, present, and future aspects of being saved, emphasizing the power of faith, the ongoing process of salvation, and the ultimate deliverance through endurance."
 og_image: "/assets/img/posts/trinity2015 - notes.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/trinity2015 - notes.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/trinity2015 - notes.pdf)
 HAS BEEN SAVED
 
 "48 Then he said to her, 'Your sins are forgiven.' 49 But those who were at the table with him began to say among themselves, 'Who is this who even forgives sins?' 50 And he said to the woman, 'Your faith has saved you; go in peace.'" Lk 7:49

@@ -5,8 +5,13 @@ date:   2011-11-13
 blurb: "Kevin's sermon on the 13th of November, 2011, delves into the nature of prayer, encouraging us to view God as a friend rather than a distant figure. He emphasizes the importance of communication in prayer, not just asking for things but also listening and understanding God's will. The sermon also touches on the significance of praying for others, including the new President and those affected by wars."
 og_image: "/assets/img/posts/familyservicenov2011.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/familyservicenov2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/familyservicenov2011.pdf)
 ## Family Service – 13th November 2011
 
 This morning reflecting on the whole subject of prayer. 'Prayer is something you do with your eyes shut!' What do we do when we pray? Who is it we are praying to? God – what is your idea of God? Jesus taught us to call God 'Father' – the word Jesus would have used is the word 'Abba' – Daddy. What sort of things do you ask your Dad, or your Mum for that matter, to do?

@@ -5,8 +5,13 @@ date:   2018-11-25
 blurb: "Kevin's sermon on the Sunday before Advent in 2018 emphasizes the significance of preparing for the coming of Christ. It reflects on the end of the Church's year and the anticipation of Advent, focusing on the incarnation of God's love through Jesus. The sermon calls the faithful to recognize the gift of redemption and to live out their priestly vocation, becoming more like Christ and serving as a holy priesthood."
 og_image: "/assets/img/posts/Sunday before Advent -2018.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/Sunday before Advent -2018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Sunday before Advent -2018.pdf)
 'Stir up we beseech thee, O Lord, the wills of thy faithful people ...'
 
 So begins the old collect of this Sunday before Advent. It is said that among the staffs of the big houses, hearing this in Church on Sunday morning was the signal to begin preparing the Christmas puddings. And so this Sunday got the alternative title 'Stir up Sunday'

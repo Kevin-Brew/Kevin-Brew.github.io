@@ -5,8 +5,13 @@ date:   2016-11-20
 blurb: "The sermon reflects on the resemblance between children and their parents, drawing parallels to Jesus being the 'image of the invisible God'. The speaker emphasizes the mystery of the incarnation, the humility of God in the person of Jesus, and the sacrificial nature of Jesus' love. The sermon concludes with an invitation to follow Jesus, the Servant King."
 og_image: "/assets/img/posts/sundaybeforeadvent2016.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/sundaybeforeadvent2016.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/sundaybeforeadvent2016.pdf)
 Over these last few months we have been blessed with the arrival of two grand children. At this time as people peer into the cot they look for signs of resemblance. And so we hear questions such as 'Isn’t he the image of his father?', 'Isn’t he just like his mother?' How often has that been said over many a child lying in a cot or starting to toddle around a room. Of course, we should not be surprised at this when you think of the very sharing of DNA in the bringing to birth of a child.
 
 I know I get great amusement at looking at pictures of my own children growing up as we come to recognise ourselves and even our own parents in our children. Of course as they grow up we begin to see far more than just physical characteristics but similarities of character, of mannerisms. Sometimes as parents give off about things their children have been up to, I sometimes remind them, 'You know, we do have our own children.' Or, as they used to say in Laois, 'They don’t lick it up off the ground.'

@@ -5,8 +5,13 @@ date:   2014-12-21
 blurb: "This sermon discusses the theme of broken and mended relationships, both human and divine. It explores the concept of God as a father figure who engages personally with his people, not as a distant entity. The sermon emphasizes the importance of forgiveness and reconciliation, drawing parallels between personal relationships and the relationship between God and his people."
 og_image: "/assets/img/posts/advent42014.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent42014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent42014.pdf)
 Do you remember some occasion when you were in deep trouble as a child at home? That awful feeling as you experienced your parent’s anger, or maybe worse disappointment. Experienced some penalty – grounded for a few days, loss of pocket money perhaps. Most of us have experienced that in one way or another – administered it as parents perhaps. Whichever side we are coming from, we have known something of the alienation from someone we in fact cared deeply about, the breakdown of relationships.
 
 But we have also known those relationships being put back together again. Sometimes all that is needed is a simple sorry. In other cases more has to be done to re-establish trust, re-open communications. Sometimes it can happen quickly, sometimes it takes much longer.

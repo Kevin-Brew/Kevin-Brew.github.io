@@ -5,8 +5,13 @@ date:   2016-02-07
 blurb: "This sermon discusses the importance of finding a quiet place to worship and connect with God. It emphasizes the transformative power of God's presence and how it can help us to both see and reflect the Lord's glory. The sermon also encourages us to step back from the noise of the world and tune into the music of eternity."
 og_image: "/assets/img/posts/sundaybeforelent2016.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/sundaybeforelent2016.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/sundaybeforelent2016.pdf)
 Sunday before lent – 2016 – year C
 
 Were you ever one of those children who was accused by a teacher of ‘day dreaming’ – those moments when you kind of lost touch with what was going on around you and you went into your own thoughts – what went on last night, who you met, who you fancied, or a host of other things that tripped through your mind.

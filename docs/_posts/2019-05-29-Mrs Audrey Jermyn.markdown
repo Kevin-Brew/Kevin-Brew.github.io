@@ -5,8 +5,13 @@ date:   2019-05-29
 blurb: "This sermon is a tribute to Audrey Dickson (Jermyn), who lived a life full of vitality and faith. Audrey was a beloved member of the Howth Presbyterian Church, who served her community with compassion and practicality. Her sudden passing left a deep void, but her life and faith serve as an inspiration for all. The sermon also reflects on the rhythm of life and our own mortality, encouraging us to live in service of others and God."
 og_image: "/assets/img/posts/Mrs Audrey Jermyn.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Audrey Jermyn.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Audrey Jermyn.pdf)
 Last Thursday morning Audrey Dickson was at her exercise class. It was the last of the season and at the end Audrey got up to thank the teacher on behalf of the class for keeping them all well. From there she went to join friends on Sutton beach for a swim. It is there that she was suddenly taken ill and she died in the early hours of Friday morning in Beaumont Hospital. As the family said in the death notice Audrey died 'doing what she did best, living life to the full, with friends and family.'
 
 Her death, and the sudden and unexpected nature of her death, has left her family and her friends and the wider community shocked and shattered. This is a measure of how widely loved and cherished this gentle and generous woman was esteemed.

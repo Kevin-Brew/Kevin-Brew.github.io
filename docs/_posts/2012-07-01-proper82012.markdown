@@ -5,8 +5,13 @@ date:   2012-07-01
 blurb: "Kevin's sermon explores the concept of Christian stewardship, emphasizing gratitude as its core principle. He reflects on the teachings of Paul in 2 Corinthians, where the focus is not on the amount given, but the thankful mindset behind giving. The sermon also ties in the baptism of Evan Finucane, using this occasion to discuss the responsibilities of Christian parents and the community in nurturing a child's faith."
 og_image: "/assets/img/posts/proper82012.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper82012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper82012.pdf)
 PROPER 8 –Year B – 2012 – Baptism of Evan Finucane
 
 One of the features I have come to really appreciate about the way our readings from the Bible are ordered each Sunday is the facility it affords us for a sequential reading of various books of the Bible. So this year, during this Season of Trinity, in addition to our reading of Mark’s Gospel, in our Old Testament reading we are following the story of David. We are also reading through a number of the Epistles; these letters to the early Churches that dealt with the various issues facing these evolving Christian communities as the Gospel moved out from its Jewish origins and out into the Graeco-Roman gentile world.

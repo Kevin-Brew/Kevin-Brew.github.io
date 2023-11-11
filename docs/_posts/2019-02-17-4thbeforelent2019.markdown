@@ -5,8 +5,13 @@ date:   2019-02-17
 blurb: "This sermon reflects on the story of Peter's call by Jesus, as told by St Luke. It explores the stages of Peter's call, from Jesus meeting him in his own territory to the transformation of a place of failure into a place of success with Jesus's presence. The sermon encourages us to venture into our 'deep places' of fear and failure, not alone, but with the presence of Christ."
 og_image: "/assets/img/posts/4thbeforelent2019.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/4thbeforelent2019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/4thbeforelent2019.pdf)
 4th Sunday before Lent – Year C – 2019
 
 Sunday by Sunday the Scriptures are read the length and breadth of this island. Sermons are preached, people are lead in prayer, in penitence, in praise, in worship. At one level it is part of who we are as individuals, as a community, as a society. Our Christian culture has shaped attitudes, behaviour, our legal system. While our Christian heritage has undoubtedly shaped us as individuals and as a society, by the same token, we have to ask what difference has our Christian culture made, to what extent does it distinguish us from other cultures, other societies?

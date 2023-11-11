@@ -5,8 +5,13 @@ date:   2016-10-13
 blurb: "Kevin reflects on the dual anniversary of the Parish of Howth, marking 200 years since the old church and 150 years of the new church. He emphasizes the importance of embracing change while honoring the past, and addresses the challenges of declining attendance and financial contributions. He calls for unity and innovation in the face of necessary maintenance and the intimate nature of upcoming worship during church repairs."
 og_image: "/assets/img/posts/Easter Vestry 2016.png"
 tags: Easter Vestry
----
-[Original PDF](/assets/pdf/Easter Vestry 2016.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Easter Vestry 2016.pdf)
 EASTER GENERAL VESTRY 2016
 
 200 years ago this year a new Church was consecrated on this site and became the place of worship of the local Church of Ireland community, replacing one, the ruins of which still stand, in the grounds of Howth Castle. As a building it received mixed reviews. Then 150 years later it was replaced by the present Church of St Mary’s. It was interesting that the old one was not completely demolished; the tower was incorporated into the spire of the present Church. In other words, part of what had gone before was incorporated into the new and the new was built on the foundations of the old.

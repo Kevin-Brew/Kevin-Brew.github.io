@@ -5,8 +5,13 @@ date:   2015-09-13
 blurb: "Kevin explores the question 'Who do you say that I am?' through the lens of personal inspiration and influence. He compares admiration of public figures to the deeper, more personal impact of family and individuals who shape our lives. Ultimately, he points to Jesus as the Christ, whose life, death, and resurrection bring us closest to encountering God himself."
 og_image: "/assets/img/posts/proper192015famserv.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper192015famserv.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper192015famserv.pdf)
 ### PROPER 19 – Year B – 2015 – Trinity 15
 
 **Family Service**

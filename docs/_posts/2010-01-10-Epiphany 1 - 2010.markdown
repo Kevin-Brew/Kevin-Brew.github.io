@@ -5,8 +5,13 @@ date:   2010-01-10
 blurb: "In this sermon, Kevin draws parallels between personal letters and the scriptures, emphasizing the personal and timeless nature of God's message. He discusses the concept of God as a personal redeemer and savior, who stays with us through all the ups and downs of life. The sermon also touches on the beginning of Jesus' public ministry with his baptism, reinforcing the message of personal redemption and God's enduring presence."
 og_image: "/assets/img/posts/Epiphany 1 - 2010.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/Epiphany 1 - 2010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Epiphany 1 - 2010.pdf)
 In my filing cabinet at home, I have a collection of letters that I have kept over the years. Letters from my parents, from friends, from different people. Periodically I would take them out and read some of them. These letters tell a story of people who have loved me, encouraged me, supported me over the years and in so doing they tell me something about myself.
 
 The scriptures, these written texts that lie at the heart of our worship, our very faith, represent a message of love, of encouragement, of rebuke - a story of a relationship between God and his people. They tell me something about God, something about myself.

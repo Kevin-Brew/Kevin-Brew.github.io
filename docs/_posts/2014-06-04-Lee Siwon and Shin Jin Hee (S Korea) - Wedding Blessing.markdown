@@ -5,8 +5,13 @@ date:   2014-06-04
 blurb: "Kevin's sermon on the occasion of Lee Siwon and Shin Jin Hee's wedding blessing emphasizes the spiritual clothing of compassion, kindness, humility, and love as described in Colossians 3:12 and 1 Corinthians 13:4-7. He encourages the couple to embody these virtues in their marriage, dealing with challenges through Christ-like love, and wishes them joy and happiness in their life together."
 og_image: "/assets/img/posts/Lee Siwon and Shin Jin Hee (S Korea) - Wedding Blessing.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/Lee Siwon and Shin Jin Hee (S Korea) - Wedding Blessing.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Lee Siwon and Shin Jin Hee (S Korea) - Wedding Blessing.pdf)
 Blessing of Marriage of Lee Siwon and Shin Jin Hee – 4th June 2014
 
 Siwon, it is a pleasure to welcome you back to St Mary’s. During your time living with Alison you were part of the Church, the Body of Christ in this place. It is with great joy that we welcome you today as you return with your beautiful wife Jin Hee to ask God’s blessing on your marriage.

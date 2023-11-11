@@ -5,8 +5,13 @@ date:   2009-10-18
 blurb: "In his sermon, Kevin reflects on the contrasting models of authority and community presented in the Gospel reading. He draws parallels between his experiences in a rigidly hierarchical naval establishment and the teachings of Jesus, who emphasized service over authority. Kevin underscores the Christian call to a different way of living, where leadership is about service and the community honors each member as part of the Body of Christ."
 og_image: "/assets/img/posts/Proper 24 - 2009.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/Proper 24 - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Proper 24 - 2009.pdf)
 At the end of my first year in Trinity, I took a summer job with the British Scientific Service. My idea was to get a flavor of what it would be like to work in one of the scientific establishments. I was duly posted to the Admiralty Surface Weapons Establishment, which was set on the hills overlooking Portsmouth Harbour with a fabulous view over the naval base and round to Southampton.
 
 I realized in a Naval establishment there would be a hierarchy; I was surprised, however, how deeply it was ingrained in the whole fabric of the place. Being a summer student, I was the lowest form of life so had no access to the current internal telephone directory, as it was deemed to be a classified document – I was, however, allowed access to the out-of-date one. They relented when one afternoon, while trying to contact the photographic department, I inadvertently telephoned the direct line of a Rear Admiral. Office furniture was awarded by rank. I had a plain desk, with a single drawer, a basic chair all set on a lino floor. The next grade up would get a desk with drawers down one side. Then as you rose through the ranks, you eventually got a rug underneath your desk and finally wall-to-wall carpeting. On one occasion, apparently a room that had been allocated to a man who qualified for wall-to-wall carpeting was given to a man that should only get a rug – a carpenter was sent with a Stanley knife to reduce the wall-to-wall carpet to a rug. There was, as I say, a definite hierarchy with clear lines of authority; you were either above someone or below someone. As a colleague said to me, if you were called into a room with deep pile carpet, you knew to say 'Sir'.

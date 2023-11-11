@@ -5,8 +5,13 @@ date:   2011-12-18
 blurb: "This sermon explores the intersection of scientific and religious truth, drawing parallels between the search for the Higgs Boson, or 'God Particle', and the Christian understanding of the Incarnation. The sermon emphasizes the radical message of Jesus, who challenges worldly power and calls for a more authentic way of living."
 og_image: "/assets/img/posts/advent42011.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent42011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent42011.pdf)
 Over the last few weeks we have been hearing news of results of a series of experiments taking place using a mysterious piece of equipment, the Large Hadron Collider at Geneva. This monster particle accelerator, with its capacity to produce very high energy particle beams travelling close to the speed of light, capable of simulating conditions thought to have existed at the time of the Big Bang, the very beginnings of our Universe. It was constructed with the aim of investigating the existence of a particle that up to now has only existed in the fevered minds of the theoretical physicist, the Higgs Boson. This particle, whose existence is suggested by the so called Standard Model on which the current understanding of atomic and nuclear structures is based. This Higgs Boson has been called the God-particle, a sort of Holy Grail of Nuclear physicists, would actually explain the whole concept of mass. Failure to find it in the course of these experiments would send theoretical physicists back to the drawing board.
 
 During these last few weeks scientists working at the Large Hadron Collider have reported that they have detected the first possible signs of the illusive Higgs Boson. As one who has held a near life-long passionate belief in the coherence of scientific and religious truth, I have found all this quite exciting. Ernest Walton, the Nobel Laureate, who was Professor of Physics in my time in Trinity once declared that the scientist and the theologian are both seeking after truth; and truth will never contradict truth. He was convinced that the scientist, engaged in the study of the created order, was engaged in a study of nothing less than the work of the Creator.

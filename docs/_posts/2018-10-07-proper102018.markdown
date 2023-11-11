@@ -5,8 +5,13 @@ date:   2018-10-07
 blurb: "Kevin reflects on the importance of speaking truth to power, drawing parallels between the brutal death of John the Baptist and the challenges Jesus faced. He recalls personal experiences with political figures during the Northern Ireland Peace process and emphasizes the church's role in proclaiming truth. The sermon reminds us of the cost of witnessing truth and the need for a clear declaration of truth in our times."
 og_image: "/assets/img/posts/proper102018.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper102018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper102018.pdf)
 Last week in our Gospel reading Mark spoke of the visit of Jesus to the synagogue in his home town, where he got something of a mixed reception. The whole passage was set in the context of a growing hostility to Jesus and his message on the part of the religious authorities of his day. Mark, speaking of the reaction of the people in the synagogue in Nazareth, says 'And they took offence at him.'
 
 In our reading from Mark today we see offence taken to a new level. On the one hand it is the brutal death of John the Baptist at the whim of a weak and vacillating Herod and on the other a foretaste of what lies in store for Jesus himself as hostility to his message develops. Here Herod submits to the pressure of his wife to dispense with John as later Pilate is to submit to the pressures of a mob to dispose of Jesus.

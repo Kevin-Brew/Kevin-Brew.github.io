@@ -5,8 +5,13 @@ date:   2021-06-07
 blurb: "This sermon is a tribute to Mrs. Joy Smith who passed away on 7th June 2021. The sermon reflects on her life, her devotion to her family and community, and her strong faith. The sermon also highlights her enduring spirit and her ability to find joy in caring for others."
 og_image: "/assets/img/posts/Joy Smith.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Joy Smith.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Joy Smith.pdf)
 Funeral of Mrs Joy Smith – 7th June 2021
 
 Joy Smith – where do we begin? Over these few days since Joy died in Clontarf Hospital in the early hours of last Friday morning, Des, Denis, Alison, Trevor and the wider family have been remembering Joy, remembering a devoted wife, mother and grandmother. We as a Parish remember a longstanding a faithful member of this Parish. Her worship of Almighty God here each Sunday was an essential element of her weekly routine. In the full of their health, Des and Joy would have been here every Sunday A faith that worked itself out in so many ways in individual acts of care to wider family and community.

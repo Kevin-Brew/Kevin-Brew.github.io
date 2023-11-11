@@ -5,8 +5,13 @@ date:   2020-04-10
 blurb: "In this sermon, Kevin reflects on the crucifixion of Jesus Christ, drawing parallels between the clarity that glasses bring to vision and the clarity that faith brings to understanding the significance of the crucifixion. He emphasizes that while the world may see the crucifixion as a victory of hate and ugliness over love, through the lens of faith, it is seen as God acting in power."
 og_image: "/assets/img/posts/Good Friday - Crucifixion.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/Good Friday - Crucifixion.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Good Friday - Crucifixion.pdf)
 Ever since I was some 8 years of age, when I had the measles, I have had to wear glasses. Without these glasses the world is a hazy blur. While I am thankful that I can at least see, I cannot make out faces, TV or computer screen, the details of a landscape. Put on the glasses and the same faces, screens, landscapes become clear. It is not that the faces or the landscape have changed; rather the glasses enable me to see them as they are.
 
 We read tonight as our lesson St John’s account of the crucifixion. It was an ugly business that first Good Friday. Jesus, before Pilate, sacrificed to the demands of the mob. Humiliated by the soldiers, scourged and paraded through the streets of Jerusalem, carrying his own cross out of the city to Golgotha. Then after three hours the cry goes up, ‘It is finished’.

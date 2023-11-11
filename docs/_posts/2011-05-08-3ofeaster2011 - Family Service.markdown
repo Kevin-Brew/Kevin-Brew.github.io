@@ -5,8 +5,13 @@ date:   2011-05-08
 blurb: "The sermon emphasizes the importance of recognizing Jesus not by his physical appearance but by his actions. It highlights the need for followers of Jesus to emulate his actions and compassion. The sermon concludes with a powerful reminder that as followers, we are the body of Christ on earth."
 og_image: "/assets/img/posts/3ofeaster2011 - Family Service.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/3ofeaster2011 - Family Service.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/3ofeaster2011 - Family Service.pdf)
 3rd Sunday of Easter - 2011 - Family Service
 
 How would you describe a painter, a postman, a bus driver? We recognise them not by how big or small they are, the sound of their voice but by what they do.

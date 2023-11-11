@@ -5,8 +5,13 @@ date:   2010-10-10
 blurb: "Kevin's sermon reflects on the Jewish people's exile in Babylon, drawing parallels to the role of faith communities in society. He emphasizes the importance of a faith community's care for its surrounding society, citing Jeremiah's advice to the exiles and the example of Archbishop Desmond Tutu's moral leadership in South Africa. The core message is the timeless relevance of faith in contributing to social justice and community welfare."
 og_image: "/assets/img/posts/proper232010.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper232010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper232010.pdf)
 Our Old Testament Lesson is set in one of the bleakest periods in the history of the Jewish people, the period of Exile in Babylon following the conquest of Judah and the destruction of the city of Jerusalem by the Babylonians. Years earlier the Northern Kingdom of Israel had suffered a similar fate at the hands of the Assyrians. That spelled the end of the Kingdom of Israel not just as a political entity but also as a nation. From then on people talk of the lost tribes of Israel with all sorts of speculation as to where they eventually ended up—including the British Israelite movement that would have us believe that the inhabitants of the British Isles constitute the lost tribe with the singing of that awful hymn Jerusalem.
 
 But Judah was to survive the exile; the people were to return to rebuild the shattered city of Jerusalem—there was to be a new start. That start was to begin in Exile as the exiles struggled with the profound questions posed by the destruction of Jerusalem and in particular the Temple. Where was God in all this? Had the God in whose sanctuary the Ark of the Covenant had rested in the Temple in Jerusalem himself been defeated by the gods of their conquerors? How, in the words of Psalm 137, do we sing the Lord's song in a strange land? Without the Temple, without the sacrificial system of that Temple, how were they to live as the People of God in Exile?

@@ -5,8 +5,13 @@ date:   Unknown
 blurb: "The sermon explores the various instances in the Gospels where Jesus identifies Himself with the powerful statement 'I AM.' These declarations across Matthew, Mark, Luke, and John reveal Jesus' divine identity and mission, emphasizing His role as the bread of life, the light of the world, the good shepherd, the resurrection and the life, the way, the truth, and the life, and the true vine."
 og_image: "/assets/img/posts/GREAT I AM NOTES.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/GREAT I AM NOTES.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/GREAT I AM NOTES.pdf)
 ### Matthew
 27 But immediately Jesus spoke to them and said, "Take heart, it is I; do not be afraid." 14:27
 22 And they became greatly distressed and began to say to him one after another, "Surely not I, Lord?" 26:22

@@ -5,8 +5,13 @@ date:   2011-07-24
 blurb: "Kevin reflects on the omnipresence of God as depicted in Psalm 139, drawing parallels with personal experiences and biblical narratives. He emphasizes the idea that God is always with us, even when we are unaware, and provides comfort and hope in times of despair. The sermon concludes with the reassuring message that God understands us completely and is always by our side."
 og_image: "/assets/img/posts/proper112011.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper112011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper112011.pdf)
 It is strange how particular passages of scripture can set off particular memories. Whenever I see Psalm 139 coming up in the lectionary my mind goes back to one afternoon, visiting in the Ballykeel estate in Ballymena. I had called on a parishioner who had recently gone for tests and I had heard the results had not been good. I was brought in and handed a Bible opened at Psalm 139. 'Before we say anything sir, would you just read that to me.' We went on to talk about his hopes and fears for the future, for his wife. 'But one thing I know,' he said, 'is that God will be with me thorough all of this.'
 
 It is this sense of God's presence as reflected in this psalm that I just want to reflect on this morning. 'O Lord, you have searched me out and known me; Do I go looking for God – or does God come looking for me? I suppose as we look back on life there is an element of both. I for one can certainly identify with the figure of Jacob, as described for us in our Old Testament lesson this morning. We find Jacob on the run; on the run not just from his brother Esau whom he had cheated out of his birthright but also on the run from God, on the run from himself. In a dream he hears a promise first articulated to his grandfather Abraham and reaffirmed to his father Isaac. Then a promise particular to him, 'I am with you and will watch over you wherever you go.'

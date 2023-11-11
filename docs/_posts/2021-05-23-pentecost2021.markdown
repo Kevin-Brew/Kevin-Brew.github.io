@@ -5,8 +5,13 @@ date:   2021-05-23
 blurb: "The sermon discusses the contrast between the Tower of Babel and Pentecost, representing the closing down and opening up of communication respectively. It reflects on the societal changes due to the Covid-19 pandemic and the challenges faced by the Church in adapting to these changes. The sermon emphasizes the need to continue engaging with the wider community, both in-person and online, and not simply revert to pre-pandemic practices."
 og_image: "/assets/img/posts/pentecost2021.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/pentecost2021.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/pentecost2021.pdf)
 We have read this morning, the Feast of Pentecost, that well known passage in the Acts of the Apostles telling of the coming of the Holy Spirit upon the disciples of Jesus on that first Pentecost. It falls on one of the great Festivals of the Jewish calendar, 'Shavuot', the Feast of Weeks, on which Jews remember the giving of the Law on Mount Sinai. And so Jerusalem at that time would have been full of pilgrims from all over the Eastern Mediterranean. This is a fast-moving passage, with its images of wind, of tongues of fire, of disciples speaking in languages that could be understood by 'Parthians, Elamites, dwellers in Mesopotamia', pilgrims of different nationalities, speaking different languages.
 
 It is a passage that contrasts with the story in Genesis of the building of the Tower of Babel, of people who initially spoke the same language, suddenly not able to understand each other's languages, a story of people being driven apart. Babel, Pentecost: one representing a closing down of communication, the other an opening up of communication. Closing, opening.

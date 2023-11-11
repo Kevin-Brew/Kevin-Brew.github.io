@@ -5,8 +5,13 @@ date:   2021-05-14
 blurb: "This sermon was given at the funeral of Mrs. Kay Bishop, a beloved member of the parish. The speaker recalls Kay's warm welcome, her strong faith, and her resilience in the face of loss. The sermon invites everyone to remember Kay and give thanks for her life."
 og_image: "/assets/img/posts/Kay Bishop.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Kay Bishop.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Kay Bishop.pdf)
 One of my memories of my first Sunday in this Parish was of being warmly greeted at the end of the service by a delightful couple, both speaking with West Midlands accents, Maurice and Kay Bishop. I could have been back home in Birmingham. Maurice even supported Birmingham City though I’m afraid Kay supported Leicester.
 
 When Maurice, who had been an RAF pilot during the last war joined Aer Lingus, he and Kay settled in this area. Here they reared their children Chris, Paul and Helen. They shared their pain in the loss of Helen in a tragic accident. Around the time of Maurice’s retirement they settled in the apartment in Corr Castle. Just before I arrived here they joined this Parish and very much entered into the life of this place; regular in Sunday worship and, in the case of Kay, in the Bridge club.

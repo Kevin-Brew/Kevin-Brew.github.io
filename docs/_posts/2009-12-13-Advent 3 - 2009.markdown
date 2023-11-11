@@ -5,8 +5,13 @@ date:   2009-12-13
 blurb: "This sermon, delivered on the 3rd Sunday of Advent in 2009, focuses on the figure of John the Baptist and his role in preparing the way for Jesus. The sermon emphasizes the importance of repentance and the need for it to go beyond mere words and start working itself out in daily living. It also highlights the need for Christians to show their trust in Christ through lives committed to his service and the advancement of his kingdom of justice and peace."
 og_image: "/assets/img/posts/Advent 3 - 2009.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/Advent 3 - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Advent 3 - 2009.pdf)
 3rd Sunday of Advent – Year C - 2009
 
 Over these Sundays in Advent our Gospel readings are focussing on the figure of John the Baptist and his role as one preparing the way for Jesus. John must have been a formidable character. Certainly not one to skirt around an issue - you would know that he was talking to you and not the fellow behind you. He did not mince his words with Herod and he did n't mince his words with the crowds who came out to hear him, as we read in our Gospel reading this morning. "Brood of vipers" is not the remark of one exchanging pleasantries. I would imagine he would be the sort of man who would evoke either deep admiration or a strong dislike. You get the impression that John did not really mind - the important thing for him was that people took his message seriously. God's Messiah was coming and people needed to prepare and at the heart of that preparation was John's call to repent.

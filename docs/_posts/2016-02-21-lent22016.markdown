@@ -5,8 +5,13 @@ date:   2016-02-21
 blurb: "Kevin explores the theme of Covenant within the community during Lent, emphasizing the importance of relationships and reconciliation. He reflects on the Old Testament stories of sibling rivalries and their resolutions, drawing parallels to the need for reconciliation within the Christian community. The sermon concludes with a call to embody the peace and love of Christ in our daily lives, inspired by the prayer of St. Francis."
 og_image: "/assets/img/posts/lent22016.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent22016.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent22016.pdf)
 LENT 2 – 2016 – Year C
 
 As we go through this season of Lent, our Old Testament Lessons share a common theme of Covenant, a relationship between God and his people, a relationship of promise, of commitment. Like all relationships it is a living thing. It had its periods of trial, of tension, of failure. But God's abiding commitment to the Covenant has sustained a community of faith through a long and tortuous history. This morning, instead of focusing on our particular Old Testament lesson, I want to reflect on Covenant, and in particular relationships within the Covenant community.

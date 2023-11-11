@@ -5,8 +5,13 @@ date:   2009-06-20
 blurb: "In this sermon, Kevin speaks on the occasion of Ursula Woods and Jed's wedding, reflecting on the significance of marriage and the Christian understanding of love. He emphasizes the importance of being Christ for one another, embodying forgiveness, reconciliation, and sacrificial love. Kevin also highlights the need for individual growth within the unity of marriage, drawing on the wisdom of 'The Prophet' and the biblical passage from 1 Corinthians 13:4-7."
 og_image: "/assets/img/posts/Wedding Blessing - Jed and Ursula.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/Wedding Blessing - Jed and Ursula.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Wedding Blessing - Jed and Ursula.pdf)
 Wedding Blessing – June 20th – Ursula Woods and Jed
 
 We are here in the grounds of St Mary’s in Howth on this beautiful day to celebrate and ask God’s blessing on the marriage of Ursula and Jed. Cultures down through the ages have celebrated, have built rituals around the coming together of two people in love, to live together, to share their lives together, to build family life together, to support each other in all the ups and downs of life. Some of the early kibbutz, some of the early communes in post revolutionary Russia tried to collectivise family life – all ultimately came to realise the value of the basic family unit.

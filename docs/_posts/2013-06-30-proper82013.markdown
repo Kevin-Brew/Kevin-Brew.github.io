@@ -5,8 +5,13 @@ date:   2013-06-30
 blurb: "This sermon explores the concept of prayer as a form of communication and encounter with God. It discusses how prayer can be a source of comfort and understanding during times of despair and hardship. The sermon also emphasizes the importance of honesty and openness in prayer, and the transformative power it can have on individuals and communities."
 og_image: "/assets/img/posts/proper82013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper82013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper82013.pdf)
 Last week, if you recall, our Old Testament Lesson was the story of Elijah hiding in the cave on the slopes of Mount Horeb, on the run from Jezebel, in fear for his life, feeling very vulnerable, desperately alone, at a very low ebb both mentally and spiritually. In the course of my reflections I spoke of a book I was reading by Richard Holloway, former Primus of the Church of Scotland, in which he spoke of a time in his ministry when God went absent. In this period in his life prayer, worship, ministry seemed empty.
 
 This morning, at the 11:00 o’clock service, we are using the form of worship for the Service of Wholeness and Healing. This brings together both sickness and prayer. Illness, particularly a serious illness either in ourselves or one close to us, can be a time when God seems to go absent. I recall a time in my own life, as I approached my ordination and my mother was diagnosed with terminal cancer. I recall anger, despair, God not seeming to be around when I wanted him the most. It was, as it turned out, at that particular time that Canon John Bartlett was giving a series of lectures on the Psalms and I found in them, quite literally, a spiritual lifeline.

@@ -5,8 +5,13 @@ date:   2014-09-21
 blurb: "This sermon is about the ordination of Linda Frost to the priesthood. The sermon emphasizes the importance of service, faith, and dedication in the ministry. It also highlights the significance of personal faith and the need for spiritual nourishment and growth through prayer and scripture reading."
 og_image: "/assets/img/posts/Linda_s Ordination - sermon.png"
 tags: Special_Occasions
----
-[Original PDF](/assets/pdf/Linda_s Ordination - sermon.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Linda_s Ordination - sermon.pdf)
 Ordination of Rev Linda Frost to the Priesthood
 St John’s Cathedral, Sligo – 21st September 2014
 ‘For Christ’s love compels us’

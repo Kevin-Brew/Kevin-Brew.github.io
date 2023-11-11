@@ -5,8 +5,13 @@ date:   2019-05-12
 blurb: "This sermon, delivered on the 4th Sunday of Easter in 2019, discusses the baptism of two children, Frederick and Sebastian Black. The sermon reflects on the journey of faith, the role of parents and the church in nurturing and guiding the children in their spiritual growth. It emphasizes the importance of living out the teachings of Christ in everyday life."
 og_image: "/assets/img/posts/4ofeaster2019baptism.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/4ofeaster2019baptism.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/4ofeaster2019baptism.pdf)
 4th Sunday of Easter – Year A – 2019
 Baptism of Frederick and Sebastian Black
 

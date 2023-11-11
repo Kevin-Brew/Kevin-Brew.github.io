@@ -5,8 +5,13 @@ date:   2017-06-04
 blurb: "This sermon discusses the different perceptions of the gift of the Spirit and its role in enabling us to grow in likeness to Jesus Christ. Through the story of a young boy and a master musician, it illustrates how God draws out the best in us by accompanying us. It emphasizes the importance of being open to the workings of the Spirit in our lives."
 og_image: "/assets/img/posts/pentecost2017 - rehash of 2014.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/pentecost2017 - rehash of 2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/pentecost2017 - rehash of 2014.pdf)
 In our reading this Pentecost Sunday, we have two very different perceptions of the gift of the Spirit. There is the rushing wind, the tongues of flames, the speaking in different languages in the lesson from Acts. In the Gospel there is the gentle breath of the risen Christ as he greets disciples sheltering in the Upper Room. Different parts of the New Testament will bear witness to the various gifts of the Spirit.
 
 The Revised Catechism, in the section on the person and work of the Holy Spirit, puts it like this:

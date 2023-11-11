@@ -5,8 +5,13 @@ date:   2013-09-08
 blurb: "This sermon reflects on the image of a potter patiently working and reworking clay as a symbol of God's patience, power, and purpose. It explores the intertwining themes of God's commitment to us and our response to God, highlighting the sacrament of Baptism as a manifestation of this relationship. The sermon concludes with a call to live out our Baptismal call in daily life."
 og_image: "/assets/img/posts/proper182013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper182013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper182013.pdf)
 Our Old Testament Lesson begins with an image that would have been familiar to the citizens of Jerusalem at the time of Jeremiah. Jeremiah is watching a potter working at his wheel. This is a very skilled job. The clay has been properly prepared, kneaded to make sure there are no air pockets to cause the pot to crack when it is fired. The lump of clay has to be centred on the wheel. Then begins the process of carefully forming the pot. The potter must keep his hands moist and steady – any sudden movement and the pot goes all over the place and he has to start the process all over again.
 
 We don’t get a chance to watch a potter at work very often but you do see pavement artists at work in the city centre. There is a lovely sequence we see sometimes on RTE as the Angelus rings at 6:00pm of an artist reproducing “The Praying Hands” on the pavement opposite the Front Gate of Trinity College.

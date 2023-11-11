@@ -5,8 +5,13 @@ date:   2019-04-19
 blurb: "This sermon, delivered on Good Friday 2019, takes us to the foot of the Cross, focusing on the two Mary's - Mary the mother of Jesus and Mary Magdalene. The sermon explores the themes of redemption, forgiveness, and the boundless love of God. It emphasizes that Jesus' death is a triumph of God's loving purposes, not a desolation."
 og_image: "/assets/img/posts/Good Friday.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/Good Friday.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Good Friday.pdf)
 This evening, in word and hymn we have taken ourselves to the foot of the Cross. In the Jewish Passover tradition, the worshippers are told to place themselves in the place, the time, the circumstances of that first Passover night. As they eat the bitter herbs, the unleavened bread, the Passover lamb and recite the Passover liturgy, in their hearts and minds they are there. These events represent not just the redemption of their ancestors, these events are for them, for each and every generation.
 
 In bread and wine of communion we remember the death and resurrection of Jesus Christ. In the words of invitation to come and participate in communion the celebrant will say:

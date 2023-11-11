@@ -5,8 +5,13 @@ date:   2011-04-24
 blurb: "This sermon reflects on the meaning of Easter and the resurrection of Jesus Christ. It emphasizes that the Church is shaped by the death and resurrection of Jesus, and that the resurrection is not just an event that happened to Jesus, but also to his disciples. The sermon also discusses the sacrament of Baptism and its close relation to the death and resurrection of Jesus."
 og_image: "/assets/img/posts/easterday2017.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/easterday2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/easterday2017.pdf)
 I remember one Easter when I was in Mountmellick going to visit a retired priest in hospital. We had established a friendship early in my time there. He had left Clonaslee (a village that formed part of my Parish) and spent his entire ministry in Birmingham, finishing up as Parish Priest of a Church not far from the part of Birmingham I came from. I had left Birmingham and found myself as Rector of the village of Clonaslee.
 
 This was the first Easter Sunday since his ordination that he had not celebrated the Eucharist. In the course of our chat he came out with an expression that has stayed with me. ' We are,' he said, 'an Easter people.' I have often reflected upon that since. Today we celebrate the Resurrection of our Lord Jesus Christ. The Church is a fellowship that is shaped, that has its very origins in the death and resurrection of Jesus. Resurrection is not just an event that happened to Jesus, it is an event that happened to his disciples.

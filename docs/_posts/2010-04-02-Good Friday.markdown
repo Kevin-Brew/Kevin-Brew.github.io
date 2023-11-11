@@ -5,8 +5,13 @@ date:   2010-04-02
 blurb: "This sermon reflects on the pain and suffering of Jesus Christ during his crucifixion, and the profound impact this event has on the believer's faith. The sermon emphasizes the personal and relational aspect of God's love, and how it calls for a response from the believer. It also highlights the transformative power of Christ's death and resurrection, which brings new life and hope to believers."
 og_image: "/assets/img/posts/Good Friday.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/Good Friday.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Good Friday.pdf)
 During our joint Holy Week Services with the Methodist Church in Sutton, Sonia and I chose to centre our thoughts around Mrs Alexander’s Hymn, ‘There is a green hill far away’. For one thing hymns are very much part of our spiritual diet. Hymns help both express and shape our thinking. We express our faith in our worship, in our liturgies. What you have in a good hymn is a combination of good basic theology simply expressed in poetry, sung to a memorable tune. I often think hymns can be more powerful than sermons in developing our spiritual formation. The combination of poetry and music mean the words, the thoughts stay in our minds long after the most eloquent of sermons. We can mull over the words, consciously, even subconsciously.
 
 I just want to stay with the hymn ‘There is a green hill far away’ and recap some of our thoughts:

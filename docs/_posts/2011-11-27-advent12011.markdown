@@ -5,8 +5,13 @@ date:   2011-11-27
 blurb: "This sermon, delivered on the first Sunday of Advent in 2011, explores the themes of life-changing and life-challenging encounters, drawing parallels between the anticipation of significant life events, such as weddings or retirements, and the spiritual anticipation of Advent. The sermon emphasizes the presence of Christ in every aspect of our lives and in every person we encounter, challenging us to see and serve Christ in others."
 og_image: "/assets/img/posts/advent12011.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent12011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent12011.pdf)
 ADVENT 1 – year B – 2011
 
 Periodically in the course of visiting I am asked, ‘Do you get many weddings these days?’ As it turns out, so far this autumn I have been involved in preparing for five weddings – both here in St Mary’s and in other Parish Churches. The last one was only yesterday. Each of these has been very different but each has involved preparation, a sense of anticipation, a sense of excitement and celebration. For each has marked a life changing encounter between two people as two lives, two sometimes very different personalities, two life histories have come together.

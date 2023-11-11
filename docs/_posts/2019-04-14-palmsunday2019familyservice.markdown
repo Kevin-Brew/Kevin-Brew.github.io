@@ -5,8 +5,13 @@ date:   2019-04-14
 blurb: "This sermon from Palm Sunday 2019 focuses on the concept of 'I' and how it can be used both positively and negatively. It emphasizes the importance of controlling the 'I' and aligning our attitudes and lives with Jesus. The sermon concludes with the prayer of St Ignatius, providing a pattern for living in the footsteps of Jesus."
 og_image: "/assets/img/posts/palmsunday2019familyservice.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/palmsunday2019familyservice.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/palmsunday2019familyservice.pdf)
 Palm Sunday – 2019 – Family Service
 
 Palm Sunday – we began with the story of Jesus’ entry into Jerusalem. Started with a cheering crowd – ends with Jesus on the Cross, with his enemies jeering. What happened?

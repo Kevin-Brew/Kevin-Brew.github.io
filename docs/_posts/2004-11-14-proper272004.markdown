@@ -5,8 +5,13 @@ date:   2004-11-14
 blurb: "In this sermon, Kevin explores the concept of human understanding of God's knowledge. He emphasizes the importance of acknowledging our limitations and the incomprehensibility of God. Drawing from various biblical passages and personal experiences, Kevin encourages the acceptance of uncertainty and the pursuit of faith, even in the face of unanswered questions."
 og_image: "/assets/img/posts/proper272004.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper272004.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper272004.pdf)
 "Gentlemen, we just don't know, do we?"
 
 I can still see Rev Dr Freddy Vokes, Archbishop King's Professor of Divinity, who lectured me in New Testament and Church History, standing with a glint in his eye. We had tried to tie him down on some point of interpretation as he lectured us on St John's Gospel - he just looked back at us and said in his sing song English voice, "Gentlemen, we just don't know, do we?" For some of us that was quite infuriating. Questions had answers and answers were either right or they were wrong. I actually found it quite liberating as Freddy went on to say, "Sometimes the most honest thing I can say is 'I don't know'."

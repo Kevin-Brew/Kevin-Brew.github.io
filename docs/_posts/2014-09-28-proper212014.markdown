@@ -5,8 +5,13 @@ date:   2014-09-28
 blurb: "Kevin explores the role of stained glass and icons in learning and reflecting on faith, drawing parallels with the Christian call to be Christ-like in daily life. He discusses the power of art as a storytelling medium in times when literacy was rare, and the personal impact of visual aids in spiritual practice. Kevin also touches on the importance of embodying Christ's teachings in marriage and community, emphasizing the transformative potential of being Christ for one another."
 og_image: "/assets/img/posts/proper212014.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper212014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper212014.pdf)
 One of the features of many of our churches is our use of stained glass. We have beautiful windows here in St Mary's. The one over the communion table is the one most of us see every Sunday. It is magnificent, rich in symbolism, expressing the historic links between this Parish and the St Lawrence family in Howth Castle as well as references to ancient Irish Church in this land, featuring both local saints such as St Fintan and St Assam and the national figures of Patrick and Brigid, all focusing on the figure of the risen Christ in the centre.
 
 One of the other great artistic traditions was the design and painting of icons, which are very much a feature of the orthodox tradition. These stylized pictures of great figures of the Old Testament, of Christ and his disciples are designed as aids to prayer and reflection. There is one that I very much associate with the Taize community in France, it is the figure of Christ standing alongside a disciple with an arm around his shoulder, which is included in our lesson sheet.

@@ -5,8 +5,13 @@ date:   2011-04-09
 blurb: "This sermon was given at the funeral of Mrs Pat Jessop, a remarkable lady who lived a full life of service and love. She was a pillar of the Sutton/Howth area, a devoted wife and mother, and a dedicated community member. Her life was marked by her practical help, including cooking in a convent and establishing Riding for the Disabled in her area. The sermon also reflects on the cycle of life and death, and the hope of resurrection."
 og_image: "/assets/img/posts/Mrs Pat Jessop.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Pat Jessop.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Pat Jessop.pdf)
 Funeral of Mrs Pat Jessop – Glasnevin Crematorium -9th April 2011
 
 I will always remember my first meeting with Mrs Pat Jessop. I had called at her house not long after my arrival in the Parish of Howth. I introduced myself and was invited in with the warning ‘You are very welcome – but please don’t talk about religion.’ Duly warned, I went in and over a series of visits discovered a remarkable lady, with a wide range of interests and a huge interest in people – despite the warning, she would almost always ask how things were going in the Parish and would have been supportive of the Parish.

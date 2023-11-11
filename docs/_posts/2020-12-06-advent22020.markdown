@@ -5,8 +5,13 @@ date:   2020-12-06
 blurb: "This sermon reflects on the hardships of 2020 and draws parallels with the biblical theme of emerging from a time of suffering and uncertainty. It emphasizes the importance of hope, anticipation, and preparation for the coming of Christ. The sermon also encourages the congregation to live in the light of hope, even amidst the ongoing challenges."
 og_image: "/assets/img/posts/advent22020.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent22020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent22020.pdf)
 2020 has not been a good year. Home and family life, business and community life, school and college life, Church life – all have been traumatised by a virus we had not even heard of this time last year. A virus that even on this island has killed thousands, left people with debilitating disease, left people afraid to leave their own homes, meet their own families. Ordinary rites of passage that we would celebrate as a community, births, marriages, deaths – all reduced to small numbers – people left without the supports from extended family, neighbours and friends in time of grievous loss.
 
 This is our first Sunday back in Church – and part of us is asking for how long. Many are wary of taking the step back in among crowds and so we will continue to meet not only in Church but also on line. But there are signs of hope. In the Republic our infection numbers, though still much higher than last summer are falling significantly. There has been encouraging news not only about the development of effective vaccines but now, in the past couple of weeks, about their approval and vaccination programmes over the next few months.

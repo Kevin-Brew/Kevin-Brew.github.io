@@ -5,8 +5,13 @@ date:   2011-11-12
 blurb: "Kevin's sermon for the wedding of Iain and Denise focuses on the depth of commitment and self-giving love that marriage represents. Drawing from St. Paul's teachings, he reflects on how Christian love should manifest in the relationship, emphasizing patience, kindness, and perseverance. The sermon also highlights the importance of a strong marriage in overcoming difficulties and making Christ present to each other."
 og_image: "/assets/img/posts/Iain _ Denise Coulter Nov 2011.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/Iain _ Denise Coulter Nov 2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Iain _ Denise Coulter Nov 2011.pdf)
 We gather this afternoon to celebrate the marriage of Iain and Denise. As we do so we join with them as they celebrate and rejoice in what they have already shared together, in the love and the companionship, the encouragement and the strength they have found in each other.
 
 This day is for them a day of affirmation, of even deeper commitment to each other in love.

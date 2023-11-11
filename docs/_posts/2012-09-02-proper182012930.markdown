@@ -5,8 +5,13 @@ date:   2012-09-02
 blurb: "Kevin reflects on the societal tensions in Northern Ireland and the inherent instability of a polarised society. He discusses the growing divide between rich and poor following the Celtic Tiger's demise, and the challenges of power dynamics and inequality. The sermon draws from the Letter of James, urging a change in attitudes towards wealth and others, emphasizing the 'royal law' of loving one's neighbor as oneself."
 og_image: "/assets/img/posts/proper182012930.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper182012930.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper182012930.pdf)
 In recent weeks we have seen a recurrence of violence surrounding parades in Belfast that all had hoped was slipping into the past. What troubled me more than the actual violence, that could have been attributed to a mindless extreme, were some of the comments made by senior political figures. They would have obviously felt that they had the support of at least a significant proportion of their support. These events and the accompanying comments bear witness to tensions simmering beneath the surface as Northern Ireland braces itself for the first of the big centenaries that will be coming up over the next ten years, that of the signing of the Ulster Solemn League and Covenant. Just as the Covenant was in its own day, so these recent events are signs of a still polarised society. But not only that, it demonstrates the inherent instability of a polarised society.
 
 Of course, it is easy for us in the comfort of this beautiful part of the world to look askance at societies such as Northern Ireland and to ignore the problems of polarities and inequalities that lie on our own doorstep, that left unattended could have a destabilising effect on our own society. There are a number of polarities, maybe less obvious but deep-seated none the less, in our own society.

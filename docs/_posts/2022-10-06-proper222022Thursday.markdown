@@ -5,8 +5,13 @@ date:   2022-10-06
 blurb: "In this sermon, Kevin explores the concept of prayer, not as a shopping list of demands, but as an open dialogue with God. He discusses the challenges of unanswered prayers and the importance of faith in understanding God's will. The sermon emphasizes the idea of prayer as a means of seeking God's guidance and wisdom, rather than simply asking for what we want."
 og_image: "/assets/img/posts/proper222022Thursday.png"
 tags: Church_of_Gaurdian_Spirit Proper
----
-[Original PDF](/assets/pdf/proper222022Thursday.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper222022Thursday.pdf)
 Thursday 6th October 2022 – week of Proper 22 – COGS
 
 'Rector, I don’t know what I believe anymore.’ I was in a sitting room on the Hill of Howth one sunny afternoon, visiting a lady in the Parish. She had just received news that the tumour that doctors had initially thought to be benign was in fact malignant and the prognosis was not good.

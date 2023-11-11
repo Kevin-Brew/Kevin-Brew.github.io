@@ -5,8 +5,13 @@ date:   2015-04-19
 blurb: "In this sermon, Kevin Brew discusses the concept of identity, particularly as it relates to being a child of God. He emphasizes that our fundamental identity as God's children is unchangeable and pre-dates all other identities we may have. He also highlights that our Christian life is a continual response to this identity."
 og_image: "/assets/img/posts/3ofeaster2015.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/3ofeaster2015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/3ofeaster2015.pdf)
 Back in 1968, when I came to Dublin to study in Trinity, there were a number of cultural differences between Dublin and my native Birmingham that struck me as I began to settle down. The first one was that of what amounted to a ‘mixed marriage’. I recall my land lady in Blackrock saying with some satisfaction that none of her sons were involved in a mixed marriage. In Birmingham a mixed marriage was inter racial. Dublin in 1968 did not have a large overseas population and for a moment I was left wondering were there whole areas of Dublin of which I was unaware with a large overseas population.
 
 The other one that intrigued me at the time was in the area of people’s names. I got to know two students, who were brother and sister who seemed to have different surnames. There was Owen Mac Egoin and his sister Niamh Nic Egoin until Owen explained to this Sassenach blow the obvious significance of the Mac and the Nic – son of and daughter of.

@@ -5,8 +5,13 @@ date:   2021-02-26
 blurb: "This sermon, delivered at the funeral of Lilian O’Connor, celebrates her life and the love she shared with her family and community. It emphasizes the Christian hope in the face of death, and the unity that can be found in shared life experiences. The sermon also touches on the power of faith in overcoming darkness and suffering."
 og_image: "/assets/img/posts/Lilian O_Connor.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Lilian O_Connor.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Lilian O_Connor.pdf)
 We come to celebrate the life of Lilian O’Connor, to give thanks for all that she meant to us. Those outside the family circle, many joining with us online, offer their love, their sympathy and their prayers to you her family.
 
 One of the options for prayers in the Church of Ireland funeral Liturgy contains the words, ‘In the midst of life, we are in death, of whom may we seek for succour.’ As we gather for the funeral of Lilian O’Connor, I just want to reverse that. ‘In the midst of death, we are in life.’ In the face of death, accepting our mortality, we come in Christian hope to celebrate life.

@@ -5,8 +5,13 @@ date:   2015-05-31
 blurb: "Kevin's sermon on Trinity Sunday, 2015, focuses on the intertwined concepts of healing and salvation, as exemplified in the story of Zacchaeus and the baptism of Jacob Warburton. He draws parallels between biblical stories of healing and the ongoing process of spiritual restoration, emphasizing the role of the community in nurturing faith and embodying the 'aroma of Christ'."
 og_image: "/assets/img/posts/trinity2015.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/trinity2015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/trinity2015.pdf)
 ## TRINITY SUNDAY – 2015 – Year B Baptism of Jacob Warburton
 
 As you know, one of the aspects of my connection with the Burrow School that I really enjoy is that of going in to see classes that are preparing for the monthly Assembly. Last Thursday was this year’s Junior Infant Assembly and they took as the basis of their Assembly the story of Zacchaeus, the story of a tax collector turned good. We know the story well, how Jesus told Zacchaeus that he was going to come to his house, how Zacchaeus announced he was going to reimburse and more those he had cheated. In all our translations we read of Jesus declaring, 'Today salvation has come to this house.' As it turns out the very first English translation of the bible, by William Tyndale, put it slightly differently. Instead of 'today salvation has come to this house' his translation read 'today healing has come to this house'. Both are correct in that the Greek words that we translate as salvation and saved carry connotations of healing.

@@ -5,8 +5,13 @@ date:   2018-09-23
 blurb: "Kevin's sermon at St Mary's Church of Ireland Howth celebrates Tearfund Ireland's 10th anniversary and its vision for flourishing communities free from poverty and injustice. Drawing from biblical teachings and the work of partner churches, he inspires action towards creating a world where everyone can maintain their dignity and reach their full potential."
 og_image: "/assets/img/posts/Tearfund Ireland at St Mary_s Howth Sept 2018.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/Tearfund Ireland at St Mary_s Howth Sept 2018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Tearfund Ireland at St Mary_s Howth Sept 2018.pdf)
 Thank you for the invitation to Tearfund Ireland to be with you this morning. We are in a season of celebration as we are 10 years old in Ireland this autumn. Over the past 10 years hundreds of thousands of lives have been reached and thousands of churches have been mobilised to reach out to their communities with the support of individuals and churches in Ireland.
 
 Tearfund Ireland's vision is to see 'flourishing communities in partnership with local churches free from poverty and injustice'. We long to see people and communities flourishing – reaching their full potential – this resonates with what Jesus said in John 10:10 "I am come that they may have life, and have it to the full" (NIV).

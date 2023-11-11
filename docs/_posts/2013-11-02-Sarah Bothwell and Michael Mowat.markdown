@@ -5,8 +5,13 @@ date:   2013-11-02
 blurb: "In this sermon, Kevin speaks on the occasion of Sarah Bothwell and Michael Mowat's wedding, emphasizing the Christian principles of love and commitment. He reflects on the journey of the couple's relationship, the significance of their public declaration before God, and the parallels between their love and Christ's love for the Church. Kevin encourages the couple to embody the virtues of compassion, kindness, humility, and patience in their marriage, drawing from St. Paul's teachings."
 og_image: "/assets/img/posts/Sarah Bothwell and Michael Mowat.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/Sarah Bothwell and Michael Mowat.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Sarah Bothwell and Michael Mowat.pdf)
 Wedding of Michael Mowat and Sarah Bothwell – Durrow – 2nd November 2013
 
 This afternoon, here in St Fintan's Church in Durrow, we are celebrating the marriage of Sarah and Michael. Here in this Church you are making a very public declaration before your family and friends, before God of a commitment to one another that you have already found in your shared life together. This commitment has grown out of the love you have discovered in one other. Today, your friends and your family come to share with you in celebrating that love and joy you have found in each other and to ask God's richest blessing upon you in the days that lie ahead. The Bible readings you have chosen for the service today and the words of the Marriage Service itself are full of themes of commitment, of faithfulness, of the love that you have found for each other.

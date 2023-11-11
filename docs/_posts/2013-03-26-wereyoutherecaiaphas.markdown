@@ -5,8 +5,13 @@ date:   2013-03-26
 blurb: "This sermon, part of the Holy Week series, focuses on the character of Caiaphas, the High Priest, during the crucifixion of Jesus. It explores the religious establishment's reaction to Jesus and the tragic inability of Caiaphas to recognize Jesus as the Messiah. The sermon emphasizes the importance of taking the claims of Jesus seriously and warns against indifference."
 og_image: "/assets/img/posts/wereyoutherecaiaphas.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/wereyoutherecaiaphas.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/wereyoutherecaiaphas.pdf)
 HOLY WEEK 2013-03-26 'Were you there when they crucified my Lord?' (2) Caiaphas
 
 During this season of Holy Week David and myself are sharing some thoughts around the central theme of 'Were you there when they crucified my Lord?'. Over the course of these nights we are looking at some of the participants in the whole drama. David began last night with Peter. Peter so courageous, so faithful and yet so vulnerable. He was the one who confessed Jesus as the Christ, he was the one who declared that he would stand by him, who followed him into the courtyard of the High Priest’s house – and yet he was the one who denied that he ever knew him and wept bitter tears of remorse and repentance.

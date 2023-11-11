@@ -5,8 +5,13 @@ date:   2019-07-14
 blurb: "Kevin explores the question 'Who is my neighbour?' through the lens of the Parable of the Good Samaritan. He challenges us to extend our understanding of neighbor beyond family and community to all humanity. The sermon calls for an embrace of a common humanity that transcends differences, urging us to act in love and concern, reflecting Christ's teachings in our lives."
 og_image: "/assets/img/posts/proper102019.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper102019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper102019.pdf)
 ## PROPER 10 – Year C – 2019 – Trinity 4
 
 'And who is my neighbour?'

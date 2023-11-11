@@ -5,8 +5,13 @@ date:   2009-05-17
 blurb: "This sermon from Easter 2009 explores the theme of love and fellowship, focusing on the teachings of John, the beloved disciple. It emphasizes the importance of love as a relational and reciprocal act, and the role of fellowship in the Christian community. The sermon calls for the congregation to embody the self-emptying, self-forgetting love that is known in Christ."
 og_image: "/assets/img/posts/6th Sunday of Easter - 2009.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/6th Sunday of Easter - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/6th Sunday of Easter - 2009.pdf)
 There are a number of stories surrounding the lives of the various disciples after the death and resurrection of Jesus. Some are obvious the stuff of legend, others one likes to think at least have their origins in the lives of these very ordinary, extraordinary men whom Jesus called to follow, to continue his work..
 
 One that has always appealed to me concerns the figure of John, associated with the writing of the Fourth Gospel and at least the first of the letters of John and by tradition linked with the beloved disciple, the one who sat next to Jesus at the Last Supper, the one who Jesus, as he died, entrusted with the care of his mother, who accompanied Peter to the tomb when Mary Magdalene came with the news of the empty tomb that first Easter morning.

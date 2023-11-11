@@ -5,8 +5,13 @@ date:   2023-08-29
 blurb: "This sermon is a heartfelt tribute to Ethel Morrison, a dear sister in faith. It reflects on the eternal nature of life and the unending love of God, as expressed through the life and death of Ethel. The sermon also includes prayers for those who mourn and for all who are called to care, in our hospitals, in the community, and in our nursing homes."
 og_image: "/assets/img/posts/Ethel Morrison - Aug 29 2023 - prayers.png"
 tags: Conor_Diocese Funeral
----
-[Original PDF](/assets/pdf/Ethel Morrison - Aug 29 2023 - prayers.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Ethel Morrison - Aug 29 2023 - prayers.pdf)
 # Funeral of Ethel Morrison – Prayers
 
 ## Introduction

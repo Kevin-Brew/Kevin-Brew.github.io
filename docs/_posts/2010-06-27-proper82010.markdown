@@ -5,8 +5,13 @@ date:   2010-06-27
 blurb: "This sermon discusses the journey of Jesus towards Jerusalem, accompanied by his disciples. It draws parallels between this journey and our own life journey with Jesus, highlighting the challenges and the discoveries made along the way. The sermon emphasizes Jesus' inclusive approach, reaching out to all, and the need for immediate commitment to follow Him."
 og_image: "/assets/img/posts/proper82010.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper82010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper82010.pdf)
 Our Gospel passage this morning marks the beginning of a whole new section of St Luke's Gospel that tells of the journey of Jesus towards Jerusalem. It is a journey that is going to reach its climax in the cross and resurrection of Jesus.
 
 It is a journey on which Jesus will be accompanied by his newly appointed disciples - in the course of this journey they will enter into a deeper understanding of Jesus and also a deeper understanding of themselves in relationship with Jesus.

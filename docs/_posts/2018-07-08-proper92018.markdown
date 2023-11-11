@@ -5,8 +5,13 @@ date:   2018-07-08
 blurb: "Kevin explores the concept of the Incarnation and how Jesus, by becoming human, invites us to become more like him. He discusses how Jesus' actions and teachings often led to scandal and offense, yet also to transformation and beauty. The sermon encourages Christians to be a positive irritant in society, challenging injustices and modeling a different way of living."
 og_image: "/assets/img/posts/proper92018.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper92018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper92018.pdf)
 'Who do they think they are?'
 
 This is the title of a television series that became very popular and was shown in a number of different countries across the world. Celebrities were enabled to track down their roots; where they had come from, what their forbears did, where they lived.

@@ -5,8 +5,13 @@ date:   2017-04-23
 blurb: "The sermon discusses the power of forgiveness and the ability to let go of resentments. It emphasizes the teachings of Jesus, who encouraged forgiveness and discouraged holding onto grievances. The sermon also touches on the importance of self-forgiveness and the healing power of Christ's love."
 og_image: "/assets/img/posts/2ofeaster2017.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/2ofeaster2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2ofeaster2017.pdf)
 Second Sunday of Easter – Year A – 2017
 
 Jesus came and stood among them and said, “Peace be with you!” After he said this, he showed them his hands and side. The disciples were overjoyed when they saw the Lord. Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you.” And with that he breathed on them and said, “Receive the Holy Spirit. If you forgive anyone his sins, they are forgiven; if you do not forgive them, they are not forgiven.”

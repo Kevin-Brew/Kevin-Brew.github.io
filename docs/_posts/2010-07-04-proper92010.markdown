@@ -5,8 +5,13 @@ date:   2010-07-04
 blurb: "On the occasion of the sacrament of Baptism, the sermon reflects on the identity of the Church and its members. It emphasizes the Church as Apostolic, Catholic, Holy, and One. The Church is 'sent' to look beyond itself, it is part of the universal Church of Christ, it is set apart for a purpose, and it is one because Christ is one."
 og_image: "/assets/img/posts/proper92010.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper92010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper92010.pdf)
 I believe in one holy catholic and apostolic Church. Today, July 4th, citizens of the United States are celebrating Independence Day. In the course of the many demonstrations and parades, both large and small, they will be not just celebrating the fact that the original colonists threw off British rule back in 1776, they will also be celebrating the nation they have become in the years that have followed. They will, in short, be celebrating their identity, their contribution to the wider world. For all its shortcomings, a nation that has been built out of many nations, a place that has given opportunity and hope to people fleeing persecution and poverty in their own land.
 
 Today, in the context of our morning service, we are celebrating the sacrament of Baptism, in which we are welcoming young Johnny Blake into the fellowship of the Church. This Service, a service of inclusion, of welcome very much celebrates the identity not just of the one being baptised today but of the whole Church. It is a celebration of who we are as individuals and as a community before God.

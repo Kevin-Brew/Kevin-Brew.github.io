@@ -5,8 +5,13 @@ date:   2002-11-11
 blurb: "This sermon reflects on the importance of Remembrance Day, the memories of war and the sacrifices made by many. It emphasizes the reality of war and the cost it has on humanity. The sermon also highlights the need for prayer for world leaders in their decision-making, especially in times of international conflict."
 og_image: "/assets/img/posts/2002-11-11-Remembrance=3bfadvent-year-a.png"
 tags: Advent Crucial_Events Special_Occasions
----
-[Original PDF](/assets/pdf/2002-11-11-Remembrance=3bfadvent-year-a.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2002-11-11-Remembrance=3bfadvent-year-a.pdf)
 3rd Sunday before Advent-Remembrance Sunday - 2002-year A
 
 "At the going down of the sun and in the morning, we will remember them." Ode to the fallen

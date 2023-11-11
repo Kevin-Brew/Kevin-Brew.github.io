@@ -5,8 +5,13 @@ date:   2016-06-19
 blurb: "In this sermon, Kevin discusses the influence of various individuals on his life and faith journey, particularly highlighting the impact of Bishop Richard Holloway. He relates his experiences to the biblical story of Elijah, emphasizing moments of doubt and rediscovery in one's faith journey. The sermon encourages the congregation to find God in the stillness and quiet places of their hearts, assuring them of God's constant presence and understanding."
 og_image: "/assets/img/posts/proper72016 - rehash of 2013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper72016 - rehash of 2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper72016 - rehash of 2013.pdf)
 Every so often I will find myself discussing with people different people who have left a mark on their lives, who have influenced their way of thinking. Many of us will look back to particular teachers in school or college. I have often referred to my Physics teacher, total eccentric, brilliant teacher, devout Anglican who got me thinking about issues of faith. Over the years, as I have developed my own thinking, I have come to be indebted to a number of Christian leaders. One of these for me is Bishop Richard Holloway, former Primus of the Church of Scotland. He is a writer who has appealed to me since I first heard him speak at a post Easter Clergy Conference shortly after I went to Ahoghill. After his retirement he wrote a particular book, 'Leaving Alexandria'. When I first heard of it I thought it referred to a shift in his theological thinking – Alexandria was one of the centres of theological thinking in the early Church.
 
 As I discovered when the book arrived through the post, the Alexandria Bishop Holloway is referring to is, in fact, the district in Glasgow where he had grown up, the son of working class parents with little or no Church connection. He remembers the poverty of Glasgow in those days, the distances his father had to travel to obtain work. He had been drawn into the life of the local Parish and, encouraged by the Rector, Richard had been sent to school with a religious community in England and for a while he had joined the community and they sent him to Ghana. During his time there he left the community and returned to Scotland to be ordained in the Episcopal Church of Scotland. Apart from a short period in Union Theological College in New York, he spent his early years working in the Gorbals district of Glasgow.

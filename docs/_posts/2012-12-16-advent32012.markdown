@@ -5,8 +5,13 @@ date:   2012-12-16
 blurb: "This sermon reflects on the nearness of God, contrasting the oppressive presence of 'Big Brother' in the novel '1984' with the comforting, understanding presence of God. The sermon encourages the listener to bring their concerns and anxieties to God, who listens with gentle understanding. It ends with a prayer of blessing, reminding the listener of God's constant presence."
 og_image: "/assets/img/posts/advent32012.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent32012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent32012.pdf)
 Advent 3 – 2012 – year C
 
 “The Lord is near” Phil 4:5

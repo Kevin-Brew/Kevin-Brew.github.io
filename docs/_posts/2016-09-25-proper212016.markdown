@@ -5,8 +5,13 @@ date:   2016-09-25
 blurb: "Kevin discusses the importance of positivity beyond mere optimism, using the example of Jeremiah buying land during Jerusalem's siege as a sign of faith in God's promises. He emphasizes that God's work is carried out through the faithfulness of ordinary people, and that the values of God's Kingdom—justice, peace, and joy—must be evident in our lives to effect change in the world."
 og_image: "/assets/img/posts/proper212016.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper212016.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper212016.pdf)
 ### PROPER 21 – 2016 – year C Trinity 18
 
 Each year in the Burrow School there is a start of year service here in the Church which is lead by the new 6th Class. What has amazed me over the years that I have been here is that each 6th class brings something fresh to this service. The service last Friday was no exception. Over the course of the service they were exploring the whole idea of positivity, the importance of having a positive approach to life, to situations.

@@ -5,8 +5,13 @@ date:   2014-04-15
 blurb: "This sermon focuses on the concept of crisis and judgement, using the metaphor of a seed that must be buried before it can come to life. It emphasizes the importance of self-surrender to find our true selves and God. The sermon also highlights the impending crisis that Jesus faces and the judgement that comes with it."
 og_image: "/assets/img/posts/From Cheeers to Jeers - Tuesday - approaching crisis.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/From Cheeers to Jeers - Tuesday - approaching crisis.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/From Cheeers to Jeers - Tuesday - approaching crisis.pdf)
 HOLY WEEK 2014 – From Cheers to Jeers
 
 Johannine readings for Holy Week – Tuesday – Approaching Crisis

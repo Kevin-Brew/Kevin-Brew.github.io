@@ -5,8 +5,13 @@ date:   2019-12-04
 blurb: "This sermon was given at the funeral of Wesley Bell, a beloved member of the community. The sermon reflects on Wesley's life, his love for teaching, and his strong moral compass. It also acknowledges his imperfections, making him a relatable and human figure. The sermon ends with a prayer for peace for Wesley's family."
 og_image: "/assets/img/posts/Wesley Bell.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Wesley Bell.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Wesley Bell.pdf)
 Funeral of Wesley Bell – 4th December 2019 – St George’s Church, Belfast
 
 Like so many of you here today, I was very saddened to hear of the death of Wesley Bell after a spell in the Royal Victoria Hospital. We gather here in St George’s Church to remember, to come before God with our own particular memories of Wesley Bell, to offer our sympathy to his daughters Jaine and Ellen. Before I go any further, I would just want to express the gratitude of the family and myself for the hospitality that has been so graciously offered to the family by the Rector and Parish of St George’s. A hospitality that is so much part of the tradition, the DNA of this Parish.

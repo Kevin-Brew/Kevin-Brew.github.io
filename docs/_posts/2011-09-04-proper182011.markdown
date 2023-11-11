@@ -5,8 +5,13 @@ date:   2011-09-04
 blurb: "Kevin reflects on the significance of the Passover and its observance through generations, emphasizing the importance of passing traditions and faith from one generation to another. He introduces a new approach to Sunday School aimed at integrating young parishioners into the life and worship of the Church, while also addressing the need for flexibility in maintaining traditions to ensure they remain relevant and meaningful in contemporary times."
 og_image: "/assets/img/posts/proper182011.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper182011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper182011.pdf)
 ## PROPER 18 – Year A - 2011 – Trinity 11
 
 What is your favourite time in the Church year? For many, particularly in country Parishes, it is Harvest, which this year we will be celebrating on the 9th October. For others, it is the season of Christmas. It is a time of family gatherings, the familiar hymns and carols, the Nativity, the Carol Service, the midnight service and the Family Service. People, who maybe do not have much of a Church attachment, make a point of being here sometime over that period. Myself, I have always loved Easter, coming as it does in the spring, at the end of the season of Lent, with its themes of new life, new beginnings, of hope.

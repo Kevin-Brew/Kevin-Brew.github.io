@@ -5,8 +5,13 @@ date:   2019-04-21
 blurb: "In the Easter General Vestry of 2019, Kevin reflects on the past achievements and challenges faced by the church, emphasizing the need for a forward-looking approach. He discusses the decline in church attendance and the rapid societal changes, urging the community to embrace faith and adapt to serve the evolving needs of the parish. Kevin highlights the importance of engaging with the youth, reevaluating worship practices, and being open to change while maintaining the core values of faith and community."
 og_image: "/assets/img/posts/Easter Vestry 2019.png"
 tags: Easter Vestry
----
-[Original PDF](/assets/pdf/Easter Vestry 2019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Easter Vestry 2019.pdf)
 EASTER GENERAL VESTRY – 2019
 
 This time last year, as we gathered for our Easter General Vestry, we had recently completed the work on the roof of St Mary’s and associated works. We were quite justifiably feeling good about ourselves, with a very positive outcome from our fundraising efforts, and we were back in the Church. Kevin emphasized the need to focus on the future and what lies ahead for us as a Church and as a society.

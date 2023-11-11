@@ -5,8 +5,13 @@ date:   2011-10-06
 blurb: "In the sermon for Sinead and Ron's wedding, Kevin speaks about the importance of commitment, faithfulness, and love that mirrors the bond between Christ and his Church. He reflects on the journey of the couple's relationship and the Christian dimension of their union. The sermon also touches on the symbolism of clothing in expressing one's nature and the spiritual attire of compassion, kindness, and love as described by St. Paul."
 og_image: "/assets/img/posts/Sinead and Ron - 6th Oct 2011.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/Sinead and Ron - 6th Oct 2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Sinead and Ron - 6th Oct 2011.pdf)
 Wedding of Sinead Kileen and Ron Henderson – 6th October 2011
 
 This afternoon here in St Mary’s Church Sinead and Ron are celebrating their marriage. For you, this is the celebration of a life of commitment to one another that has been at the heart of your shared life together. In that shared life, you have discovered love and healing in one another. Within that love, you have become a family unit. Today, your friends and your family come to share with you in celebrating the love and joy you have found in each other and to ask God’s richest blessing upon you in the days that lie ahead.

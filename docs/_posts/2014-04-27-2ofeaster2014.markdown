@@ -5,8 +5,13 @@ date:   2014-04-27
 blurb: "In this sermon, Kevin draws parallels between a play about the Northern Ireland conflict and the Gospel story of Jesus' resurrection. He emphasizes the power of forgiveness to unlock doors of resentment, regret, and prejudice, and to initiate new beginnings. He encourages us to be agents of God's healing, reconciling, and door-opening love in our world."
 og_image: "/assets/img/posts/2ofeaster2014.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/2ofeaster2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2ofeaster2014.pdf)
 Last Wednesday, Rachel and I went to see a play in the Peacock Theatre, 'Quietly'. The play is set in a bar in Nationalist Belfast. The action begins with an amazing act of violence. As the story unfolds, it transpires that 25 years earlier Jimmy’s Dad had been killed in the same bar, with five others watching a football match. Ian, then 16, the same age as Jimmy, had been the one who had thrown the bomb into the pub.
 
 In a tension filled exchange, Jimmy is initially dismissive of Ian’s motives for coming. He tells of the pain inflicted on him and his mother by the brutal events that robbed them of his father who was just sitting with friends watching a football match. We hear hatred, pain and contempt. Little by little he begins to let Ian tell his story. We hear of a mother who is so ashamed of her son she cannot bear to visit him in prison. We hear of a realisation of a life that has been destroyed, there is no way he can make amends for what he has done.

@@ -5,8 +5,13 @@ date:   2015-01-18
 blurb: "Kevin delivers a sermon on the 2nd Sunday of Epiphany, Year B, 2015, focusing on the themes of openness to truth and recognizing personal biases. He uses the story of the blind men and the elephant to illustrate the importance of being receptive to different perspectives. He also discusses the significance of the Week of Prayer for Christian Unity and the need for ecumenism."
 og_image: "/assets/img/posts/epiphany22015.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany22015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany22015.pdf)
 I recall when I was Bishop’s Curate in Finglas and we were out socialising on the south side of the city, I used to get innocent amusement watching people’s reactions, when they asked me what part of the city I was living in. I would reply brightly 'Finglas' or, even better, 'Finglas West' – or if I was feeling really mischievous, 'the bottom of the Cappagh Road'. People from Dublin 4 had their own particular mental picture of Finglas that coloured their reaction to people.
 
 But of course it is always someone else who has prejudices, isn’t it? As the character Bernard Wooley in the TV series 'Yes, Prime Minister' once remarked: 'It’s one of those irregular verbs isn’t it? I have strong opinions, you are prejudiced, he is being prosecuted under the Race Relations Act.'

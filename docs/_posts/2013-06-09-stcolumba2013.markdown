@@ -5,8 +5,13 @@ date:   2013-06-09
 blurb: "Kevin reflects on the Feast of St Columba, emphasizing the importance of Christian witness and the legacy of evangelization by Irish monks. He draws parallels between the historical figures of St Columba, Rev George McLeod, and the Iona community's impact on justice, peace, and Celtic spirituality. The sermon calls on contemporary Christians to bear witness to Christ in their own time and place, inspired by the past but looking beyond to the wider world."
 og_image: "/assets/img/posts/stcolumba2013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/stcolumba2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/stcolumba2013.pdf)
 Today is the Feast of St Columba, one of the towering figures of the early Irish Church. A native of Donegal, of noble birth, he was one of several famous Irish saints who came under the influence of St Finian. He was one of a number of Irish monks who were to embark upon a programme of evangelisation of Scotland, Northern England and on into Northern Europe. Columba himself, along with twelve others sailed from North Antrim to establish the community in Iona, where he was to spend the rest of his life.
 
 75 years ago, the present ecumenical community of Iona was founded by Rev George McLeod, a minister in the Church of Scotland. In 1938 he led a group of unemployed skilled craftsmen from the dockland Parish of Govan in Glasgow along with a group of trainee clergy to rebuild the ancient Abbey on Iona along with the living accommodation and to re-establish the common life. This initiative was to be a sign of hope and rebuilding of community in a Scotland that was re-emerging from the Great Depression.

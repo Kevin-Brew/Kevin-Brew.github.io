@@ -5,8 +5,13 @@ date:   2014-11-16
 blurb: "Kevin reflects on the true treasures of the Church, drawing inspiration from the story of St. Lawrence and the parable of the Talents. He challenges us to consider what we treasure and how we utilize the gifts entrusted to us. The sermon emphasizes the importance of nurturing children in faith and recognizing each other as treasures within the parish community."
 og_image: "/assets/img/posts/proper282014.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper282014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper282014.pdf)
 2nd Sunday before Advent – Year A – 2014
 
 On the Sunday closest to All Saints you may recall that I drew your attention to the East Window here in St Mary’s, given in memory of the last Earl of Howth. This morning I want to begin by returning to that window, and in particular the figure of St Lawrence. For me there is a rather nice personal connection in that my home Parish Church in Northfield Birmingham is dedicated to St Lawrence.

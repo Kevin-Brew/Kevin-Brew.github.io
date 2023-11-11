@@ -5,8 +5,13 @@ date:   2017-09-24
 blurb: "This sermon is about the ordination to the priesthood and the responsibilities that come with it. The speaker emphasizes the importance of service, teaching, and pastoral work in ministry. The sermon also highlights the need for diligence in prayer, reading holy Scripture, and studies that deepen faith."
 og_image: "/assets/img/posts/Ordination Service - Christchurch - Sept 24 2017.png"
 tags: Special_Occasions
----
-[Original PDF](/assets/pdf/Ordination Service - Christchurch - Sept 24 2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Ordination Service - Christchurch - Sept 24 2017.pdf)
 Ordination to the Priesthood
 
 Christ Church Cathedral

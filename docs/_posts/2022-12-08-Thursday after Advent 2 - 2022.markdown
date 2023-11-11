@@ -5,8 +5,13 @@ date:   2022-12-08
 blurb: "This sermon discusses the concept of status in the Kingdom of Heaven, using the example of John the Baptist. It emphasizes the importance of humility and servitude, and the need to be 'little' before God. It also highlights the call to care for the marginalized and oppressed, following the example of Jesus' ministry."
 og_image: "/assets/img/posts/Thursday after Advent 2 - 2022.png"
 tags: Advent Church_of_Gaurdian_Spirit
----
-[Original PDF](/assets/pdf/Thursday after Advent 2 - 2022.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Thursday after Advent 2 - 2022.pdf)
 People will sometimes say that someone’s world has been turned upside down. It is generally not a happy experience. It can come after bereavement, loss of job, break up of a relationship – all that gave life meaning, all that we took for granted has been taken away and we are left struggling. Our world has been turned upside down.
 
 During this season of Advent our Gospel readings on Sunday mornings tell of aspects of the ministry of John the Baptist and his ministry of preparing the way. We are also hearing about the nature of the coming Kingdom.

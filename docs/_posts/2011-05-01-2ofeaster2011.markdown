@@ -5,8 +5,13 @@ date:   2011-05-01
 blurb: "In this sermon, Kevin reflects on the distinguishing marks of Jesus, his scars, as not just identifiers but also markers of his personality and sacrifice. He discusses the impact of suffering, using the example of the First World War, and how Jesus' scars speak to a world shattered by pain. The sermon concludes with the message of peace offered by Jesus, a peace that addresses sin and shines through suffering."
 og_image: "/assets/img/posts/2ofeaster2011.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/2ofeaster2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2ofeaster2011.pdf)
 Recently I have had to fill out an application form for a new passport. As I was filling it out, my mind went back to the time I applied for my first passport. I was due to take part in a school trip. It was to be my first trip abroad and so I needed a passport. On that occasion I recall they asked not only for details of name, address and date of birth, but also details of hair colour, the colour of your eyes, your height and also for details of any distinguishing marks such as scars or birth marks.
 
 These distinguishing marks were, I suppose, things that marked us out as individuals. Then of course there are our fingerprints, those combinations of whirls and lines on the tips of our fingers that are unique to us as individuals. In this high tech age, the lowly fingerprint has been joined by what has become known as genetic fingerprinting, based on the complex DNA molecule, present in each cell of our bodies, that again is unique to each one of us.

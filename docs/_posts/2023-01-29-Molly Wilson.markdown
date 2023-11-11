@@ -5,8 +5,13 @@ date:   2023-01-29
 blurb: "This sermon is a tribute to Molly Wilson, a woman of profound faith and a loving wife, mother, and grandmother. It reflects on her life, her deep faith, her delightful sense of humor, and her love for people. The sermon also highlights her supportive role in her husband Cecil's ministry and her impact on the community."
 og_image: "/assets/img/posts/Molly Wilson.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Molly Wilson.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Molly Wilson.pdf)
 Interment of ashes of Molly Wilson – All Saints’ Raheny – 29th January 2023
 
 “Abraham breathed his last and died in a good old age, an old man full of years, and was gathered to his people.’

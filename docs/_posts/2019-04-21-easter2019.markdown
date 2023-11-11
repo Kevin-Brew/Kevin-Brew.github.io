@@ -5,8 +5,13 @@ date:   2019-04-21
 blurb: "This sermon reflects on the profound transformation that Mary and the disciples experienced upon encountering the risen Jesus. It emphasizes the unexpected ways in which Christ comes to us, offering hope, forgiveness, and peace in our moments of sorrow, weakness, and confusion. The sermon encourages us to be open to seeing Christ's presence in others and to serve as channels of His presence."
 og_image: "/assets/img/posts/easter2019.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/easter2019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/easter2019.pdf)
 EASTER DAY 2019
 
 'Woman, why are you weeping?' Words of an angel, words of a gardener to a woman weeping at a graveside. We have just sung as our opening hymn on Easter Day that hymn of triumph: Jesus Christ is risen today, Alleluia! Our triumphant holy day, Alleluia! Who did once, upon the cross, Alleluia! Suffer to redeem our loss. Alleluia!

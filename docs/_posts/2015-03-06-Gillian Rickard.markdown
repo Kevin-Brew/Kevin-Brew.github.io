@@ -5,8 +5,13 @@ date:   2015-03-06
 blurb: "This sermon was delivered during the funeral of Gillian Rickard on 6th March 2015. It reflects on Gillian's life, her interests, and her work, acknowledging her contributions to social issues and her love for nature and literature. The sermon also addresses the shock and sadness of sudden bereavement, offering words of hope and comfort."
 og_image: "/assets/img/posts/Gillian Rickard.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Gillian Rickard.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Gillian Rickard.pdf)
 Funeral of Gillian Rickard – 6th March 2015 – Mount Jerome
 
 Earlier this week the news broke that has left everyone shocked and saddened, that Gillian had died suddenly in her home in Crumlin. We gather today for her funeral. Those of us outside the immediate family come to offer our love and support to those who will miss her most. Her Mum Audrey, her partner of 14 years Malcolm, her sister Fiona and her family and Leo. We come to give thanks to God for all that we received in Gillian as family, as friend, as colleague.

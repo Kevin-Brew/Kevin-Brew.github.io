@@ -5,8 +5,13 @@ date:   2014-01-09
 blurb: "This sermon is a heartfelt tribute to Bill Webb, a beloved member of the parish who passed away. Kevin speaks of Bill's wisdom, insight, affection for the Parish, loyalty to former clergy, and his welcoming nature. He also highlights Bill's deep faith, his devotion to his family, and his contributions to the Church."
 og_image: "/assets/img/posts/Bill Webb.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Bill Webb.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Bill Webb.pdf)
 Funeral of Bill Webb – 9th January 2014
 
 Not long after my arrival in Howth, I called at the house of Billy and Jackie Webb. I received that warm and generous welcome that is the hall mark of that house. Bill had spoken of his early years, growing up in Glasnevin, the son of a school teacher, his lifelong friendship with Cecil. Stan, Derek, Aubrey, his time in Trinity and beginning with Craig Gardiners, before going out on his own, his career in accountancy and he went on to speak of this Parish of Howth. He spoke with great pride and affection of Jackie and the family. Then, just as he was about to open the front door, he said, ‘Kevin, there is just one thing I want to say to you. For your first year or two here, your biggest sin will be that you are not Cecil Hyland. But don’t worry, Cecil’s biggest sin when he first came was that he wasn’t Frank Blennerhassett. The Parish will take to you.’ There was so much of Bill Webb in that – wisdom, insight, affection for the Parish, loyalty to former clergy and a life long friend, welcome and encouragement to me; all given with that gentle smile we will always associate with him.

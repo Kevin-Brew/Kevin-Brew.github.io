@@ -5,8 +5,13 @@ date:   2015-12-20
 blurb: "This sermon reflects on the significance of small beginnings and the radical message of the Magnificat. It speaks of the new beginnings prophesied by Micah, and the radical reversal of societal norms as expressed in Mary's song. It also emphasizes the call to a new way of living in the world, as exemplified by Jesus."
 og_image: "/assets/img/posts/advent42015.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent42015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent42015.pdf)
 ADVENT 4 – Year C – 2015
 
 Last Tuesday the TV bulletins were filled with reports of the launch of the rocket that would take three astronauts, including Timothy Peake, up to the International Space Station. It is amazing that even 54 years after Yuri Gagarin first travelled into space, the whole concept of space travel, space exploration still stirs the imagination. On the day of the launch, reporters visited several places that where people were going to be watching the takeoff. One of these was the Primary school in the small English village where Timothy Peake was born and grew up. The children in the School spoke of their amazement that someone from their School, their small village was actually going to be going up into space.

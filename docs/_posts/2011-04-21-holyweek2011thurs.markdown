@@ -5,8 +5,13 @@ date:   2011-04-21
 blurb: "This sermon, delivered during Holy Week in 2011, focuses on the trial of Jesus before Pilate as told by St John. It explores the contrasting world views and kingdoms represented by Jesus and Pilate. The sermon delves into the concept of the Kingdom of God, as represented by Jesus, and the Kingdom of the world, as represented by the Emperor and Pilate. It challenges listeners to consider who their King is and to whom they owe their ultimate spiritual allegiance."
 og_image: "/assets/img/posts/holyweek2011thurs.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/holyweek2011thurs.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/holyweek2011thurs.pdf)
 HOLY WEEK – 2011 –Pilate’s Questions
 Thursday – ‘Here is your King!’
 We are continuing tonight in our reflections on the trial of Jesus before Pilate as told to us by St John. It was, as we have been thinking, an encounter not just between two very different individuals but two very different world views, two very different kingdoms.

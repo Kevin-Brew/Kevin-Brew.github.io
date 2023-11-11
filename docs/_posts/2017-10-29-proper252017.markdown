@@ -5,8 +5,13 @@ date:   2017-10-29
 blurb: "Kevin reflects on the Old Testament stories from creation to the entry into the Promised Land, emphasizing the theme of holiness as an attribute of God. He highlights God's call for His people to be holy and to live out justice, kindness, and humility in their lives. The sermon underscores the timeless nature of God's presence with His people through every step of life's journey."
 og_image: "/assets/img/posts/proper252017.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper252017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper252017.pdf)
 PROPER 25 – Year A – 2017 – 5th Sunday before Advent
 
 This year, since Trinity Sunday, our Old Testament Lessons have been following the Old Testament stories of man from his very origins. On Trinity Sunday, in the Genesis account of creation, we are introduced to the idea of man as made in the image of God. From there we followed the Fall, the Flood, the call of Abram to leave his homeland and journey to a distant land and with that the promise of descendants. There then follow the stories of Isaac, of Jacob and Joseph and the captivity in Egypt. Then, more recently we have seen the emergence of Moses, the Exodus, the giving of the Law on Mount Sinai and the wandering in the desert. We will soon read of the entry into the Promised Land.

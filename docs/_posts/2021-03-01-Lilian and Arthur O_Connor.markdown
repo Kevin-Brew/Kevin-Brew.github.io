@@ -5,8 +5,13 @@ date:   2021-03-01
 blurb: "This sermon is a celebration of the lives of Arthur and Lilian O'Connor, a couple who lived their lives in love, respect and understanding. Despite coming from different traditions, they showed an ecumenism lived out in their daily lives. The sermon also emphasizes the Christian hope of life in the face of death, and the light that shines in the darkness."
 og_image: "/assets/img/posts/Lilian and Arthur O_Connor.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Lilian and Arthur O_Connor.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Lilian and Arthur O_Connor.pdf)
 We come to celebrate the life of Arthur and Lilian O’Connor, to give thanks for their lives and for all that they meant to us as parents, grandparents, brother and sister. They came to Church together to be married, today they come together in death on the day of their funeral.
 
 Those outside the family circle, many joining with us online, offer their love, their sympathy and their prayers to you their family.

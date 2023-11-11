@@ -5,8 +5,13 @@ date:   2015-04-05
 blurb: "In this sermon, Kevin recounts a pilgrimage to the Holy Land and relates it to the experience of Mary Magdalene on the first Easter Day. He emphasizes the transformative power of Jesus, as seen in Mary's life. The sermon also discusses the disciples' failures and Jesus' forgiveness, leading to the spread of the Gospel."
 og_image: "/assets/img/posts/easter2015.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/easter2015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/easter2015.pdf)
 Shortly after we arrived in Ahoghill, Rachel and I lead a small group on a pilgrimage to the Holy Land, visiting many of the sites in Jerusalem and around the Sea of Galilee. On the Sunday we were in Jerusalem, our party attended morning worship at a site known as the Garden Tomb. It is one of the sites associated with the Resurrection of Jesus. Close by is a rock face with holes in it that gives it the appearance of a skull. There is no massive Church built on the site – it still has the atmosphere of a garden, the focus of which is a tomb hewn out of the rock. Even if it is not the actual site of the resurrection, it has an atmosphere all of its own. Whenever I read the account in John’s Gospel of that first Easter morning, I often find myself thinking of that garden and our worship there that morning.
 
 We went there that morning with thoughts of resurrection. That was not the frame of mind of Mary Magdalene when she went there that first Easter Day. She was one to whom Jesus meant a great deal. She is traditionally identified with the sinful woman who had washed the feet of Jesus with her tears of remorse. Despised by everyone else, she was welcomed and accepted by Jesus. She was one of the last to leave the Cross. She is the first to come to the tomb that morning.

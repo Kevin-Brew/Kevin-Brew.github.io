@@ -5,8 +5,13 @@ date:   2013-05-26
 blurb: "On Trinity Sunday 2013, Kevin reflects on the relationship between God as Father, Son, and Holy Spirit, and the world. He discusses the personal nature of God's wisdom and the importance of living in harmony with creation. The sermon emphasizes the need to respect nature as God's creation and to consider our environmental responsibilities."
 og_image: "/assets/img/posts/trinity2013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/trinity2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/trinity2013.pdf)
 Today is Trinity Sunday, when we think upon God as Father, Son, and Holy Spirit. It is one of those days for standing back and taking a look at the big picture, for thinking of the wonder of God, the wonder of this world and our place in it.
 
 As I have mentioned before, my own path to faith came through my interest in science. One of my key memories is of an 'A' Level Physics class. My physics teacher, himself a devout member of the Church of England, had been talking of the order of the created world. He then challenged us, 'Don't tell me that that is all down to chance.'

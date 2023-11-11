@@ -5,8 +5,13 @@ date:   2017-07-31
 blurb: "This sermon was delivered at the funeral of William Carron, a poet and artist, who passed away four months after his wife, Barbara. The sermon reflects on William's passion for the creative arts and his spiritual connection with the world around him. It also touches on his love for sailing, drawing a parallel between his journey and a ship's voyage."
 og_image: "/assets/img/posts/Mr William Carron.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mr William Carron.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mr William Carron.pdf)
 Funeral of William Carron – Mount Jerome – July 31st 2017
 
 Back in May we gathered in St Mary’s Church for the funeral of Barbara Carron. Back then we referred to a wonderful creative partnership between Barbara and her husband William. Today, less than four months later, we gather for the funeral of William.

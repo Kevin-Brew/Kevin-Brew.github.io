@@ -5,8 +5,13 @@ date:   2011-03-09
 blurb: "This sermon discusses the theme of journey, as seen in the Old Testament, and relates it to our own life journey. It emphasizes the importance of community, repentance, and reflection in this journey. The sermon also draws parallels between the journey of faith and the political journey of the nation, urging the congregation to be guided by spiritual heritage and the teachings of the prophet Micah."
 og_image: "/assets/img/posts/Ash Wednesday 2011.png"
 tags: Lent Mid_Week
----
-[Original PDF](/assets/pdf/Ash Wednesday 2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Ash Wednesday 2011.pdf)
 One of the recurring themes of the Old Testament is that of journey; Abram called to leave his homeland in Ur and travel to Canaan. Moses called to journey with God’s people from slavery in Egypt to the Land of Promise. Jesus told stories of journeys – the young man who demanded his inheritance of his father and travelled off – who later journeyed back in penitence to experience the extravagant love of his father. Journeys into exile and slavery. Journeys to the Land of Promise, to the place of renewal and forgiveness.
 
 Our 3rd Eucharistic prayer reminds us that “when we turned away you did not reject us. You came to meet us in your son, welcomed us as your children and prepared a table where we might feast with you. In our own day description of the Church as a pilgrim people. We make our journey not just as individuals but as a community.

@@ -5,8 +5,13 @@ date:   2010-03-28
 blurb: "This sermon, delivered during Holy Week 2010, explores the themes of divine love, sacrifice, redemption, and our response to these. It reflects on the pain and loneliness experienced by Jesus, the vulnerability of God's love, and the power of love to bring about redemption and change. The sermon encourages us to respond to God's love by embodying it in our own lives."
 og_image: "/assets/img/posts/holyweek22010.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/holyweek22010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/holyweek22010.pdf)
 Hymn 244 ‘There is a green hill far away’
 Thursday vs 5 ‘O dearly, dearly has he loved…’
 

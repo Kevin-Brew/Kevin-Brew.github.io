@@ -5,8 +5,13 @@ date:   2013-03-31
 blurb: "Kevin reflects on his 7th year at the Parish of Howth, emphasizing the sense of belonging and care within the community. He discusses the personal and parish developments, including family milestones, the building of a new Rectory, and the establishment of a Youth Worker post. Kevin also highlights the parish's social initiatives and expresses gratitude to various individuals for their contributions to the parish life."
 og_image: "/assets/img/posts/eastervestry2013.png"
 tags: Easter Vestry
----
-[Original PDF](/assets/pdf/eastervestry2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/eastervestry2013.pdf)
 Easter General Vestry – 2013
 
 This year I am chairing my 7th Easter General Vestry since my arrival in the Parish of Howth. This means that after Ahoghill & Portglenone, where we spent 16 years, this is the longest period of time I have spent anywhere in the course of my ordained ministry in the Church of Ireland. A lot has happened in personal terms since we arrived here. We have seen the marriage of our older son and the arrival of his two boys. Within the Parish we have seen the building of the new Rectory, the establishment of the post of Youth Worker. It has been my privilege to enter into and become part of the life of this place. I have shared in moments of great sadness and moments of great joy. I have been welcomed into homes and benefited from your love and support in the ups and downs of life. Rachel and I have enjoyed the many facets of the life of this place.

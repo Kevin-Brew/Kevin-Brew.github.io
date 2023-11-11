@@ -5,8 +5,13 @@ date:   2011-10-23
 blurb: "Kevin reflects on the journey of faith as a path guided by God's presence, drawing parallels between the Israelites' journey from Mount Sinai and our own spiritual journey. He emphasizes the importance of God's grace and the Holy Spirit in overcoming challenges and growing in likeness to Jesus Christ. The sermon encourages believers to be living signs of God's kingdom, embodying hope and purpose in the world."
 og_image: "/assets/img/posts/proper242011.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper242011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper242011.pdf)
 Proper 24 – 2011 – year A – Trinity 21
 
 I remember a few years ago sitting with a lady in hospital drawing close to the end of a long battle with cancer over a period of 20 years. Liz had maintained a wonderful, yet deeply rooted, positivity over that period. We chatted over lots of things, her family, the ups and downs of her battle with cancer and we almost drifted into the whole issue of faith. I asked her, “You do know that God loves you, don’t you?” She smiled and said, “If I had not known that I would not have been able to cope.”

@@ -5,8 +5,13 @@ date:   2013-11-24
 blurb: "This sermon explores the concept of Jesus as the 'image of the invisible God', drawing parallels between the familial resemblance between parents and children and the spiritual resemblance between God and Jesus. It emphasizes the humility and servitude of Jesus, who came not to be served, but to serve. The sermon concludes with an invitation to follow Jesus, the Servant King."
 og_image: "/assets/img/posts/sundaybeforeadvent2013.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/sundaybeforeadvent2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/sundaybeforeadvent2013.pdf)
 Isn’t he the image of his father? How often has that been said over many a child lying in a cot or starting to toddle around a room. Of course, we should not be surprised at this when you think of the very sharing of DNA in the bringing to birth of a child.
 
 I know I get great amusement at looking at pictures of my own children growing up as we come to recognise ourselves and even our own parents in our children. Of course as they grow up we begin to see far more than just physical characteristics but similarities of character, of mannerisms. Sometimes as parents give off about things their children have been up to, I sometimes remind them, 'You know, we do have our own children.' Or, as they used to say in Laois, 'They don’t lick it up off the ground.'

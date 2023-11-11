@@ -5,8 +5,13 @@ date:   2013-01-06
 blurb: "This sermon discusses the Feast of Epiphany, marking the end of the Christmas season. It emphasizes the profound change brought about by the birth of Jesus, breaking down barriers between clean and unclean, Jew and Gentile. The sermon encourages listeners to not just be spectators, but participants in the ongoing manifestation of Christ to the world."
 og_image: "/assets/img/posts/epiphany2013.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany2013.pdf)
 FEAST OF THE EPIPHANY – 2019 – YEAR C
 
 Today, the 6th January, the Feast of Epiphany falls on a Sunday. So we have read as our Gospel lesson the account given to us in St Matthew of the coming of the Wise Men. Epiphany marks the end of the season of Christmas. The story of the visitation of the Magi completes in our minds eye the scene around the manger. Everyone is now in place, shepherds, wise men, camels, sheep, angelic voices, all focussed intently on the child in the manger and his parents. It is the stuff of Christmas cards. Now the decorations can come down and be packed away for another year, the schools will be back, family routines will be back and life returns to normal.

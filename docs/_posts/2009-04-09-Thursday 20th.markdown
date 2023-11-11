@@ -5,8 +5,13 @@ date:   2009-04-09
 blurb: "This sermon discusses the journey of faith, referencing the speaker's personal experiences with fellow clergy and the challenges of organizing religious tours. It also touches on the theme of competition within the clergy, using the example of John the Baptist and Jesus. The sermon ends with a story about a unique church plant in Dublin, tasked with reaching out to those disillusioned with traditional churches."
 og_image: "/assets/img/posts/Thursday 20th .png"
 tags: Church_of_Gaurdian_Spirit Easter
----
-[Original PDF](/assets/pdf/Thursday 20th .pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Thursday 20th .pdf)
 I remember, shortly after I was ordained, being at the North Dublin Clergy Fellowship. One of those there was the then Rector of Howth (a Parish I was eventually to serve in until I retired), Canon Frank Blennerhassett. Over the years, Frank had made a name for himself leading tours to the Holy Land. In all innocence I asked him, 'Frank, how do you go about organising these tours of yours?'
 
 Maybe Frank was wary of this new young Curate – was he thinking of moving in on his territory? I got a very cagey reply – 'There’s a lot more to this than you think – I’ve had to work at building up contacts over the years.'

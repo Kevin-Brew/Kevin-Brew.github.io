@@ -5,8 +5,13 @@ date:   2012-07-08
 blurb: "Kevin explores the human inclination to ask 'Why?' in the context of scientific discovery and moral inquiry. He reflects on the discovery of the Higgs Boson and its implications for our understanding of the universe. The sermon encourages us to never stop questioning the world around us, to challenge injustice, and to seek understanding of God's will and purpose."
 og_image: "/assets/img/posts/proper92012.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper92012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper92012.pdf)
 Proper 9 – Year B – 2012 – Trinity 5
 
 'If I were a wealthy man ... I would sit in the synagogue all day asking questions that would cross a rabbi’s eyes.' (Topol in 'Fiddler on the Roof')

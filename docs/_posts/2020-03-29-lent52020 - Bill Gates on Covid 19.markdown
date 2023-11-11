@@ -5,8 +5,13 @@ date:   2020-03-29
 blurb: "In this sermon, Kevin discusses the spiritual lessons that the Covid-19 pandemic is teaching us. He emphasizes that the virus is a reminder of our equality, interconnectedness, and the importance of health, family, and our true purpose. He also highlights the choices we have in how we respond, and the opportunity for growth and learning."
 og_image: "/assets/img/posts/lent52020 - Bill Gates on Covid 19.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent52020 - Bill Gates on Covid 19.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent52020 - Bill Gates on Covid 19.pdf)
 What is the Corona/ Covid-19 Virus Really Teaching us?
 
 I’m a strong believer that there is a spiritual purpose behind everything that happens, whether that is what we perceive as being good or being bad.

@@ -5,8 +5,13 @@ date:   2022-09-06
 blurb: "In this sermon, Kevin reflects on the Magnificat and the importance of humility before God. He uses the example of Hyacinth Bucket from the television series 'Keeping up Appearances' to illustrate the futility of social climbing and the importance of acknowledging that we have no claim on God's love. He emphasizes that we must become 'little' before God, acknowledging that everything we have is a gift, and this attitude should extend to our interactions with others, particularly the marginalized and oppressed."
 og_image: "/assets/img/posts/proper182022Thursday.png"
 tags: Church_of_Gaurdian_Spirit Proper
----
-[Original PDF](/assets/pdf/proper182022Thursday.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper182022Thursday.pdf)
 Back in 1989 I left the Parish of Mountmellick in Co Laois to be Rector of Ahoghill & Portglenone, just outside Ballymena. I followed a Rector who had cherished the old Book of Common Prayer, affectionally referred to as the 'Black Book'. He had resisted all efforts by the wider Church to introduce any of the modern language service books.
 
 I quickly realised that any changes would have to be made gently and with sensitivity. We began by introducing on a monthly basis a more informal order of evening service without the traditional canticles.

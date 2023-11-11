@@ -5,8 +5,13 @@ date:   2010-02-28
 blurb: "This sermon explores the theme of maintaining faith in God during difficult times, using the story of Sophie O'Neill and Abraham's journey as examples. It emphasizes that faith in God does not insulate us from trials and tribulations, but equips us to live with courage and hope."
 og_image: "/assets/img/posts/Lent 2 - 2010.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/Lent 2 - 2010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Lent 2 - 2010.pdf)
 It is strange how little incidents stay with you – memories of events from the past that have a habit of coming back to surface from time to time. During the week, in the course of the Confirmation Group, Shaz and I were talking to the youngsters about faith not just in the good times of life but also in the harder times. As we were talking my mind went back to Finglas in the early 1980’s and a Mrs Sophie O’Neill. At that stage Sophie was well into her 80’s. She had married late, had one son John, who had Downe’s Syndrome. She had been widowed not long after John had been born. Life had been hard in Dublin in the 40’s and the 50’s as she had reared her son. She and John were always seen together – she looked after him until just before she died. I visited her in her house one cold winter night not long before she died. The house was run down, drab and cold. John had been sent out to the kitchen to make a cup of tea for us – out of the blue she looked me straight in the eye and said, ‘You know, Mr Brew, God is good.’
 
 ‘God is good.’ Everything in that house seemed to say otherwise – the cold, the hardship, early widowhood, anxiety about John’s future when anything happened to her – but the eyes and the whole expression told me this was not empty platitude, this came straight from the heart. Sophie O’Neill knew that ‘God is good’ – she knew that not despite her experiences of life but in and through her experiences of life.

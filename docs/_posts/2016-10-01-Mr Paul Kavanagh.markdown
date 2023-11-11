@@ -5,8 +5,13 @@ date:   2016-10-01
 blurb: "This sermon was given at the funeral of Paul Kavanagh, a beloved member of the community who passed away suddenly. It reflects on Paul's life, his passions, and the impact he had on those around him. The sermon also offers words of comfort and hope, reminding us of the Christian belief in life triumphant over death."
 og_image: "/assets/img/posts/Mr Paul Kavanagh.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mr Paul Kavanagh.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mr Paul Kavanagh.pdf)
 Funeral of Paul (PK) Kavanagh – 1st October 2016 – St Mary’s
 
 Last weekend Paul Kavanagh (PK to his friends) had travelled North with his son Max for a sailing event. It was a trip that was to end in his sudden death leaving his family and his friends shocked and saddened. Paul had grown up in Finglas. He had set up his own business, Apollo Blinds, and in time had come to live on the Dublin Road in Sutton. Here he and Jill raised their two lads Alex and Max. His own family moved to Australia but Paul chose to stay here, maintaining close contacts over the years. The family speak of PK’s three great passions in life; sailing, which he took to in his 20’s, rugby and the lads.

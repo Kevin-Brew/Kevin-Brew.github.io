@@ -5,8 +5,13 @@ date:   2023-01-01
 blurb: "In this sermon, Kevin reflects on the transition from the old year to the new one, acknowledging the mixture of emotions that come with it. He emphasizes the constant presence of God in our lives, regardless of our circumstances. The sermon also highlights the significance of the Feast of the Naming and Circumcision of Jesus, and how it underscores God's care and concern for humanity."
 og_image: "/assets/img/posts/Naming of Jesus.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/Naming of Jesus.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Naming of Jesus.pdf)
 Well here we are – 2022 is behind us and 2023 opens up before us. Around this time of year there are a host of ‘End of Year Specials on our radio and TV channels – looking back over the events of the year that is past, looking forward to try and predict what lies in store for us in the year to come. Of course we don’t need the radio or the TV to do that for us – each of us is probably conducting our own review of the year that is past, our own peep into the year that lies ahead.
 
 We look back, I would suspect with a mixture of thanks and regrets. Some of you may be saying, ‘Boy, am I glad to see the back of 2022’ – it may have been a year of crisis, anxiety over the health or well-being of a loved one, or yourself, maybe a year of bereavement – or just a year when things have just gone wrong in your life. For some of us though this will have been a good year, one we will recall with a smile. Perhaps romance has been in the air in your family – maybe a wedding or engagement, the arrival of a child. Or maybe, and more probably, there’s been a bit of both – there have been moments of dark and light in the year that is past.

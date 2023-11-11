@@ -5,8 +5,13 @@ date:   2020-04-09
 blurb: "This sermon reflects on the Gospel reading for Maundy Thursday 2020, which emphasizes Jesus' act of washing his disciples' feet. It discusses the significance of this act as a symbol of self-emptying service and humility. The sermon encourages us to emulate this act in our lives, to empty ourselves of pride and self-centeredness, and to love one another as Jesus loved us."
 og_image: "/assets/img/posts/Thursday - foot washing.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/Thursday - foot washing.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Thursday - foot washing.pdf)
 In these days of lockdown, of isolation of families from each other, children kissing grandparents through the glass of a front window, the sheer intimacy of the Gospel reading for today really came home to me.
 
 Picture the scene. As they enter the upper room, disciples had been arguing among themselves as to who would be the greatest in the Kingdom. They take their places. Jesus, without a word, takes on the task none of them are prepared to do, the task of the lowest servant in the household, he washes their feet.

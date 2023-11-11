@@ -5,8 +5,13 @@ date:   2016-12-04
 blurb: "In this sermon, Kevin explores the concept of 'Wouldn't it be nice if...?' and how it can be transformed into reality. He uses examples from everyday life, city planning, and the peace process in Northern Ireland to illustrate his point. He also discusses the biblical teachings of Isaiah and the ministry of John the Baptist, emphasizing the importance of repentance and change in direction to bring about new possibilities."
 og_image: "/assets/img/posts/advent22016.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent22016.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent22016.pdf)
 Do you ever find yourself asking, 'Wouldn't it be nice if...?' Maybe around the house the question is asked 'Wouldn't it be nice if there was a flower bed in the middle of the lawn?' I often remark that these questions may take only a minute to ask but a lot longer to put into effect. This can all just remain at the level of the day dream. We can sit looking at the lawn and imagine the flower bed, the rockery, the roses. We can imagine the scent of the flowers, the buzzing of the bees. They remain at the level of the day dream because we are not willing to take the practical steps, to put in the effort required, to transform our day dreams into reality.
 
 Of course there are more far reaching questions of this nature. Years ago, as traffic planners looked at the mounting problems as a larger and larger number of bigger and bigger trucks clogged up the traffic in the city of Dublin, at some point someone will have said something along the lines of 'Wouldn't it be nice if we had a tunnel that took all those trucks out of the port out onto the M50?' A whole project was born. Plans were drawn up, calculations made and eventually the tunnel built as a 'Wouldn't it be nice if...?' has been transformed into a reality.

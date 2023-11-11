@@ -5,8 +5,13 @@ date:   2014-11-23
 blurb: "Kevin reflects on his visit to Berlin and the lessons of history, contrasting the dark kingdoms of the past with the true Kingship of Christ. He draws parallels between the authority of oppressive regimes and the servant leadership exemplified by Jesus. The sermon culminates with the Parable of the Sheep and the Goats, urging us to recognize Christ in serving the marginalized."
 og_image: "/assets/img/posts/sundaybeforeadvent2014.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/sundaybeforeadvent2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/sundaybeforeadvent2014.pdf)
 Sunday before Advent – Year A – 2014
 
 This last week I made a long delayed trip to the city of Berlin. I was originally meant to go on a school trip in 1965. Unfortunately some 6 weeks prior to departure I ran into the back of a car on my bike and badly broke my leg. So nearly 50 years later, I finally set foot in Berlin.

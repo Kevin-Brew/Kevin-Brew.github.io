@@ -5,8 +5,13 @@ date:   2014-04-18
 blurb: "This sermon, delivered on Good Friday, explores the transition from the cheers of Palm Sunday to the jeers of Good Friday. It delves into the raw pain of the Passion, the manipulation, the cynicism, the fear, and the panic, with Jesus at the center of it all. It emphasizes that while the events of Good Friday were unfolding, those watching could only see and feel the pain, but later, they would understand the full significance of Jesus' sacrifice."
 og_image: "/assets/img/posts/From Cheeers to Jeers - Friday - It is finished.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/From Cheeers to Jeers - Friday - It is finished.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/From Cheeers to Jeers - Friday - It is finished.pdf)
 From cheers to jeers – Johannine readings
 
 Friday – It is finished

@@ -5,8 +5,13 @@ date:   2014-03-12
 blurb: "This sermon was given at the funeral of Mr. Peter Smeed, a man of love, zest for life, and courage in the face of adversity. The sermon reflects on the life of Peter, his contributions, and the hope of life after death. It emphasizes the Christian faith's perspective on death and the hope of resurrection."
 og_image: "/assets/img/posts/Peter Smeed.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Peter Smeed.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Peter Smeed.pdf)
 This morning we have gathered in St Mary’s for the funeral of Mr Peter Smeed. His son David has already shared with us some of the family’s memories and affection for him. They remember a family man, a man with a love and zest for life. A native of Kent, he had travelled widely, serving in India and Burma in World War 2, an accomplished engineer, involved in an incredible range of projects from the UK Department of Defence to Gallahers Tobacco plant in Belfast. They remember a father and a grandfather, a loving husband to his wife Mary. They remember a man who faced illness with a dogged defiance. The deterioration over the last few years has been hard for the family to watch, hard for Peter. I thought of words from the 2nd Letter to Timothy as Paul proclaims, ‘I have fought the good fight, I have finished the race, I have kept the faith.’ Today is a day for you to come before God with your own particular memories of Peter and give thanks to God for all that he has meant to you as husband, as father, as grandfather and friend, to thank God for all that was good and true in his life, his courage in the face of adversity, his love and friendship.
 
 Those of us outside the family circle have come to offer our love and support at this time as you begin to come to terms with your loss, how best to support one another in the days and weeks and months to come. A passage I often find myself turning to at a time of a funeral is from St Paul's second letter to the Church at Corinth, the end of chapter 4 and the beginning of chapter 5. In this Paul presents us with the reality of our own mortality and death, he talks very plainly of the body wearing out. But just as he talks of the reality of physical decline and death, Paul talks of our new heavenly home. The words that really stand out for me are ; "So that what is mortal may be swallowed up by life." This is our hope for Peter Smeed, that all the limitations of these latter years, the frailty, along with all the limitations that go with being human are "swallowed up by life", that is our inheritance in Christ.

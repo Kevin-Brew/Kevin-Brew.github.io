@@ -5,8 +5,13 @@ date:   2012-05-13
 blurb: "The sermon reflects on the importance of remembering key moments in our lives, such as baptism and confirmation, as these are the moments when we choose to belong to Christ. It emphasizes that as followers of Christ, we are his body on earth, and it is our mission to act as his hands, feet, and eyes, showing compassion and doing good in the world."
 og_image: "/assets/img/posts/6ofeaster2012preconf.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/6ofeaster2012preconf.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/6ofeaster2012preconf.pdf)
 Do you remember? Your first day at school? Your first teacher? Do you remember - the first time you rode a bicycle, the day you learned to swim? Do you remember your first day at work? Do you remember your wedding day? Do you remember your Baptism? - we are remembering who we belong to.
 
 Next Sunday 8 of our young people are being confirmed. Do you remember your own confirmation? The day of taking for ourselves the promises of Baptism Bishop of Aston – St Lawrence’s Northfield. ‘You did not choose me, I chose you and appointed you.’

@@ -5,8 +5,13 @@ date:   2009-04-19
 blurb: "The sermon discusses the importance of faith and belief, using the story of Doubting Thomas as a key example. It highlights how our society is often reliant on visual evidence to believe in something, and how this can be a weakness. The sermon encourages questioning and doubt as a means to strengthen faith and belief."
 og_image: "/assets/img/posts/2ofeasterrossstyles.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/2ofeasterrossstyles.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2ofeasterrossstyles.pdf)
 We live in a world that is dominated by technology. In our lifetimes we have seen the arrival of the mobile phone, the laptop, the pc, the Internet. We have become rapidly used to such innovations and quickly imported them into our lives. My own son is 18 months old. His ability to use mobile phones and remote controls seems amazing to me and I am sure you have seen the same in your children and grandchildren. We truly live in an interactive age with instant news on our phones, flat screen 3D TV’s, films and television streamed on the Internet. We have access to all the information and misinformation in the world with just the click of a mouse key. We are constantly bombarded with visual media, ads, special effects and computer generated graphics and games. In our society, seeing is truly believing. And very often if we do not see something ourselves, then we do not believe.
 
 Yet this human trait is not just reserved for our present day society. In this morning’s gospel reading from the gospel according to John, chapter 20, beginning at the 19th verse, we see Thomas not believing that Jesus was resurrected because he himself did not witness evidence of Jesus’ resurrection.

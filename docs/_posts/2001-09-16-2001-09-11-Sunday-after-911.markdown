@@ -5,8 +5,13 @@ date:   2001-09-16
 blurb: "This sermon reflects on the horrific events of the 9/11 attacks, the raw pain and anger felt by the American society, and the need for healing and understanding. It emphasizes the importance of maintaining Christian values even in times of anger and retaliation, and the need for a just response that doesn't compromise our morality."
 og_image: "/assets/img/posts/2001-09-11-Sunday-after-911.png"
 tags: Crucial_Events Special_Occasions
----
-[Original PDF](/assets/pdf/2001-09-11-Sunday-after-911.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2001-09-11-Sunday-after-911.pdf)
 Sunday after the World Trade Centre attack in New York
 
 As I looked at the news coverage this week - those awful images of fully laden passenger jets slamming into the World Trade Centre Towers in New York, those almost surreal images of the wreckage afterwards and tried to make some sort of sense of it all, I was conscious of a blackness, a silence, out of which nothing seemed to be coming. For these events went far beyond anything I had seen, experienced or heard of. Was there anything I could say on Sunday that could relate this to my faith in the God and Father of my Lord Jesus Christ. I must confess the blackness, the silence, continued for much of the week.

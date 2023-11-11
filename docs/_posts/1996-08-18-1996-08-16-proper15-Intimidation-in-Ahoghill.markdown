@@ -5,8 +5,13 @@ date:   1996-08-18
 blurb: "In this sermon, Kevin reflects on the pain and division caused by recent tensions in the community. He condemns the intimidation of police families and local businesses, urging the community to resist evil and pursue peace with reference to scripture. Kevin draws parallels with Joseph's story, emphasizing forgiveness and God's purpose for peace, and encourages steadfast faith and persistence in seeking God's healing."
 og_image: "/assets/img/posts/1996-08-16-proper15-Intimidation-in-Ahoghill.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/1996-08-16-proper15-Intimidation-in-Ahoghill.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/1996-08-16-proper15-Intimidation-in-Ahoghill.pdf)
 During the week I had a couple of conversations that brought home to me in a very real way the pain that has come to many people as a result of the tensions of the last couple of months in our Province. On Friday evening I met with an RUC officer and his wife, members of the Parish of Ahoghill. I had last spoken to them about a month ago. At that stage the intimidation of police families had not affected them. Last Friday he told me he had been threatened and told his house would be burned. After much anguish, and for the sake of his wife and young children, he has decided to move out of Ahoghill. I have learned of at least one other RUC family who have been similarly threatened and who intend to do the same. Men and women who over the years have put their life on the line in the service of this Province, hounded out of this village by a small criminal element who would call themselves loyalist.
 
 Earlier in the week, I was talking to a Protestant business in Portglenone. He has been threatened and his business subjected to a boycott. That boycott has been fomented by a small criminal element on the nationalist side and is maintained by fear. His concern is that the situation could easily develop into one of escalating boycotts which would leave the village of Portglenone divided long after the present tensions had subsided. That he said does no good to anyone.

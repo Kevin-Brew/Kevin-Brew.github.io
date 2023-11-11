@@ -5,8 +5,13 @@ date:   2010-05-01
 blurb: "In this sermon, Kevin speaks about the significance of marriage as a life-long commitment of love, reflecting on the self-giving nature of Christ's love for the Church. He draws parallels between the bond of marriage and the relationship between Christ and his Church, emphasizing mutual sacrifice and the importance of nurturing love that is patient, kind, and persevering, as described in 1 Corinthians 13:4-7."
 og_image: "/assets/img/posts/Priest-Douglas - 1 may 2010.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/Priest-Douglas - 1 may 2010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Priest-Douglas - 1 may 2010.pdf)
 This afternoon we have come together with Jane and Andrew on a very special day in their lives; the day of your marriage. The day on which you make a life-long commitment of love to one another.
 
 Of course, a day like this does not happen out of the blue. You no doubt recall the time you first met, what attracted you to each other. Then attraction grew into love and love into a conviction that you were meant for each other, that you wanted to share the rest of your lives together.

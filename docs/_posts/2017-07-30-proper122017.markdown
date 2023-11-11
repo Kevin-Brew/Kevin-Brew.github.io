@@ -5,8 +5,13 @@ date:   2017-07-30
 blurb: "Kevin delves into the parables of the Kingdom from Matthew's Gospel, focusing on the mustard seed's symbolism. He explains how God values the small and seemingly insignificant, teaching that faith, even as tiny as a mustard seed, can lead to great things. The sermon emphasizes the importance of simple acts of kindness and service, empowered by the Spirit, to bring the Kingdom of God closer to our world."
 og_image: "/assets/img/posts/proper122017.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper122017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper122017.pdf)
 PROPER 12 – 2017 – Year A – Trinity 7
 
 I get great value out of my car radio – compared to the North of Ireland, I find that the Irish radio programmes are far more engaging. The week before last, I found myself listening to a programme on the classic film director Orson Wells. In discussing one particular film, the person spoke of Orson Wells stringing together a succession of scenes 'like pearls on a necklace'. Each one was a gem, each one sets off the others, counterbalances the others and taken together they were magnificent.

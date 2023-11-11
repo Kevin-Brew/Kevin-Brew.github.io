@@ -5,8 +5,13 @@ date:   2013-03-28
 blurb: "This sermon, given during Holy Week 2013, reflects on the character of Pilate and his interaction with Jesus. It explores the concept of truth as presented in the Gospel of John and how it relates to our understanding of Jesus. The sermon also discusses the intersection of the Kingdom of God and the world, and how the values of the world can impact the Church and individual Christians."
 og_image: "/assets/img/posts/wereyoutherepilate.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/wereyoutherepilate.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/wereyoutherepilate.pdf)
 Holy week 2013 – Were you there when they crucified my Lord
 Thursday - Pilate
 

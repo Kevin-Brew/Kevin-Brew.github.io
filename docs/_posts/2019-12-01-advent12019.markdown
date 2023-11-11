@@ -5,8 +5,13 @@ date:   2019-12-01
 blurb: "In this sermon, Kevin uses the metaphor of budding trees in winter to discuss the anticipation of Advent. He reminds us of the promise of new life and growth, even in the bleakest times. Drawing from the scriptures, he highlights the significance of the fig tree as a symbol of God's provision and the richness of His word."
 og_image: "/assets/img/posts/advent12019.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent12019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent12019.pdf)
 At this time of year our gardens can look pretty bleak. In the Rectory garden all the leaves are gone off our apple tree, the roses, a lilac tree I planted to remind me of the house I grew up in in Birmingham. It all looks very bare. Earlier in the week, as I was going down to the compost heap, I looked at these apparently bare branches. On each one of them buds had formed.
 
 There is a sense of anticipation in those buds on the trees in my garden. Much will happen between now and the promised leaves, the apples, the flowers appearing. Whatever frosts, storms, winds may come in the meantime, there is a certainty that they will come. It kind of echoes the promise to Noah that we read in Genesis, as they all come out of the Ark after the Great Flood.

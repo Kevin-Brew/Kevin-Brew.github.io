@@ -5,8 +5,13 @@ date:   2021-03-07
 blurb: "In this sermon, Kevin discusses the transitory nature of human power and the enduring strength of God's wisdom. Drawing from his personal experiences and biblical teachings, he contrasts the might of superpowers like Rome and the seeming powerlessness of the Church. He emphasizes the importance of faith in navigating uncertain times and the need for each generation to make the faith its own."
 og_image: "/assets/img/posts/lent32021.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent32021.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent32021.pdf)
 Earlier in the week, I had a message from Ryan, my eldest grandson, obviously in the midst of a school project, asking me what new technologies did I remember from when I was his age, in the early 1960’s. I told him of the first satellite sputnik 1, of Yuri Gagarin the first man in space, of Telstar, the first communications satellite.
 
 It was a different world; the era of the Cold War, of superpowers armed with enough nuclear weapons to annihilate each other, only held in check by that fear of mutual annihilation. It seemed that this was how things were going to be far into the future.

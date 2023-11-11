@@ -5,8 +5,13 @@ date:   2020-04-19
 blurb: "In this sermon, Kevin discusses the concept of doubt and faith, using the story of Thomas from the Bible as a reference. He highlights the importance of community and understanding each other's struggles, especially in the face of a global crisis. He encourages his congregation to support each other and stay strong in their faith."
 og_image: "/assets/img/posts/2ofeaster2020.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/2ofeaster2020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2ofeaster2020.pdf)
 2nd Sunday of Easter – Year A – 2020
 
 'Rector, I’m not sure what I believe anymore'. Many is the time I have heard that in the privacy of someone’s home. People will have come to this position for a number of reasons. It could be the trauma of bereavement, or serious illness in themselves or someone they love, some natural disaster leaving many innocents suffering or dead. Or just simply the spark has gone out of living.

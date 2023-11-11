@@ -5,8 +5,13 @@ date:   2020-10-11
 blurb: "In this sermon, Kevin reflects on the passages from Paul's Letter to the Philippians, emphasizing the message of rejoicing and finding peace amidst life's difficulties. He discusses the challenges faced by individuals and businesses during the pandemic and relates personal stories of struggle and the realization that it is okay to express one's feelings of anger and loneliness. Kevin assures us that we are heard, not alone, and that God walks with us, offering peace that surpasses all understanding."
 og_image: "/assets/img/posts/proper232020.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper232020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper232020.pdf)
 PROPER 23 – Year A – 2020 - Trinity 18
 
 Over these past few weeks, among the passages set to be read in our worship have been passages from Paul’s Letter to the Philippians. This is one of Paul’s later letters, written while he was in captivity in Rome, not long before his death. It is written in very affectionate terms. The passage today is full of expressions of warm encouragement.

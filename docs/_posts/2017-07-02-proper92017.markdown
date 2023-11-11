@@ -5,8 +5,13 @@ date:   2017-07-02
 blurb: "Kevin reflects on the human condition and the struggles of life, drawing from the Old Testament and the teachings of Paul. He emphasizes the concept of grace, the internal tug of war we face, and the comfort found in Jesus' invitation to learn the 'unforced rhythms of grace'. The sermon reassures us that in our weaknesses and contradictions, we are understood and accepted by God."
 og_image: "/assets/img/posts/proper92017.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper92017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper92017.pdf)
 ### PROPER 9 – Year A – 2017 – Trinity 4
 
 Over the last couple of weeks we have been following the Old Testament stories of the call of Abraham, the birth of Isaac and Sarah’s demand that Hagar and Ishmael be driven out into the wilderness. Then there was the call on Abraham to sacrifice his son. As I reflected these stories involve real human beings, with all their strengths and failings, with all their virtues and flaws, living out life in the presence of the God who called them.

@@ -5,8 +5,13 @@ date:   2012-04-01
 blurb: "This sermon reflects on the Beatitudes, particularly focusing on the phrase 'Blessed are the poor in spirit'. It discusses the contrast between God's foolishness and human wisdom, and the radical nature of the Beatitudes' message. The sermon also explores the concept of grace, and the joy and peace that comes from recognizing our total dependence on God."
 og_image: "/assets/img/posts/mondy2012.png"
 tags: Holy_Week Lent
----
-[Original PDF](/assets/pdf/mondy2012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/mondy2012.pdf)
 HOLY WEEK 2012 – Fools for Christ’s sake
 
 Reflecting on the Beatitudes – Blessed are the poor in spirit

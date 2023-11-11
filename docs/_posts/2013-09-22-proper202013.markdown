@@ -5,8 +5,13 @@ date:   2013-09-22
 blurb: "Kevin reflects on the Collect of the Day, drawing from St. Augustine's journey to faith and his famous words about our hearts being restless until they find rest in God. He also references Dr. Jonathan Sachs's work on interfaith dialogue and the contrast between the 'noise of now' and the 'music of eternity.' The sermon emphasizes the need for attentiveness to God's presence in our lives and the importance of seeking, asking, and knocking to find the peace and rest that only God can provide."
 og_image: "/assets/img/posts/proper202013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper202013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper202013.pdf)
 PROPER 20 – 2013 also 2016 – Year C – Trinity 17
 
 One of the features of the worship of the Church of Ireland, in common with the rest of the Anglican Communion, is the Collect of the Day. This is a short prayer that gathers together our thoughts. Some are related to particular seasons such as Christmas or Easter, others are more general. Some are relatively recent in origin and composition, others go back to the early centuries of the Church. And so in themselves they are a reminder to us, as Archbishop Henry McAdoo used to remind us, that we confess a faith 'once for all delivered to the saints.'

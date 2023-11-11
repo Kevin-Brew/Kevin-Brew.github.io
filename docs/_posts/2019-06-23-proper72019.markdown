@@ -5,8 +5,13 @@ date:   2019-06-23
 blurb: "This sermon discusses the feeling of abandonment by God, especially during times of hardship and suffering. It draws from the experiences of Elijah and a Jewish Rabbi, Harold Kushner, to illustrate that God's presence is often felt not in the spectacular, but in the quiet and in the midst of trauma. The sermon encourages believers to be instruments of God's presence in the lives of others, especially during their darkest times."
 og_image: "/assets/img/posts/proper72019.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper72019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper72019.pdf)
 PROPER 7 – Year C – 2019 - Trinity 1
 
 'I say to God my rock,

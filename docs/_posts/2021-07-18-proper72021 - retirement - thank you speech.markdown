@@ -5,8 +5,13 @@ date:   2021-07-18
 blurb: "In his retirement speech, Kevin expresses heartfelt thanks for the support received over his 43-year ministry. He reflects on the diversity and unity within the Church of Ireland, his journey through different parishes, and the significance of ending his ministry in Howth. He acknowledges the contributions of various individuals and the importance of family, ending his speech with a hopeful look towards the future."
 og_image: "/assets/img/posts/proper72021 - retirement - thank you speech.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper72021 - retirement - thank you speech.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper72021 - retirement - thank you speech.pdf)
 Howth Retirement – Thank you speech
 
 First of all, I want to say a huge thank you for the generosity of the many messages we have received since I announced my retirement and for everything today. It has been a privilege, as a blow in from the Church of England, to have served in the Church of Ireland over the last 43 years. I have seen the Church of Ireland, North and South, urban and rural. I have come to love this Church, in all its strengths and weaknesses, and in it I have found my spiritual home.

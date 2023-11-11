@@ -5,8 +5,13 @@ date:   2013-10-24
 blurb: "This sermon is a tribute to Grace Devine, a woman who touched many lives in her 97 years. She was a teacher, a mother, and a woman of strong character. Despite her doubts about religion, she had a keen sense of right and wrong and a love for life."
 og_image: "/assets/img/posts/Mrs Grace Devine.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Grace Devine.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Grace Devine.pdf)
 We have gathered here to remember a woman who has in her 97 years touched so many lives. A native of Lincolnshire, her father was chauffeur to the Bishop of Peterborough. He served with distinction in the First World War, eventually finishing his working life as curator of a museum in Northamptonshire.
 
 Grace trained as a teacher and served in a number of schools, soon returning to her native Peterborough. She met and married Flight Engineer Terence Devine in 1940. After serving in the war, the family moved to London, eventually returning to Peterborough where Terence taught in the Technical College and Grace resumed her teaching career.

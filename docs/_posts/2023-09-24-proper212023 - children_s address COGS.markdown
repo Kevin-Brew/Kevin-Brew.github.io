@@ -5,8 +5,13 @@ date:   2023-09-24
 blurb: "This sermon discusses the concept of heroes and admiration. It mentions figures from sports like Rory McIlroy and Mary Earps, and how they inspire us not just because of their achievements, but also because of their character. The sermon also touches on the integration of faith and science."
 og_image: "/assets/img/posts/proper212023 - children_s address COGS.png"
 tags: Church_of_Gaurdian_Spirit Proper
----
-[Original PDF](/assets/pdf/proper212023 - children_s address COGS.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper212023 - children_s address COGS.pdf)
 PROPER 21 – 2014 – Year A – Family Communion
 
 Who are our heroes? - used alongside Powerpoint ‘Proper212023’

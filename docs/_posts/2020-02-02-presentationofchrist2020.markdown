@@ -5,8 +5,13 @@ date:   2020-02-02
 blurb: "This sermon reflects on the 75th anniversary of the liberation of Auschwitz and the Feast of the Presentation of Christ in the Temple. It contrasts the inhumanity of Auschwitz with the humanity as God intended, as seen in the person of Jesus. The sermon warns against the dangers of racism, sectarianism, and populism, and calls for the Gospel's message of righteousness and reconciliation to heal a broken world."
 og_image: "/assets/img/posts/presentationofchrist2020.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/presentationofchrist2020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/presentationofchrist2020.pdf)
 Presentation of Christ in the Temple – Year A – 2020
 
 Last Monday marked the 75th anniversary of the liberation of the Nazi Concentration Camp at Auschwitz Birkenau in Poland by the Soviet Army in 1945. To this day, the word ‘Auschwitz’ summons up images of a brutal human depravity that is even now hard to comprehend.

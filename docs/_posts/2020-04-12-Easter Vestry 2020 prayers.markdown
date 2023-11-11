@@ -5,8 +5,13 @@ date:   2020-04-12
 blurb: "This sermon is a powerful reminder of the blessings that come with being humble, merciful, and peace-loving. It emphasizes the importance of being pure in heart, hungering for righteousness, and enduring persecution for the sake of righteousness. The sermon concludes with a prayer for the church to be a welcoming place for all, yet strong against temptation."
 og_image: "/assets/img/posts/Easter Vestry 2020 prayers.png"
 tags: Easter Vestry
----
-[Original PDF](/assets/pdf/Easter Vestry 2020 prayers.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Easter Vestry 2020 prayers.pdf)
 Collect of the Day
 
 Almighty God,

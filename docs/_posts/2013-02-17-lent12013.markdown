@@ -5,8 +5,13 @@ date:   2013-02-17
 blurb: "In this sermon, Kevin reflects on the meaning and significance of baptism. He explores the concept of spiritual birth and growth, emphasizing that faith is a journey that must be nurtured and developed. Kevin also discusses the importance of understanding our identity as members of the Body of Christ and the continual learning process involved in living a Christian life."
 og_image: "/assets/img/posts/lent12013.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent12013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent12013.pdf)
 What are you doing for Lent? Some I know are giving up something; some choose to do something, read a particular book, pay more attention to their attendance at worship or whatever. Some make one more attempt to give up smoking, others go diets, reduce alcohol intake – none of these are bad things in themselves – but is that all there is to Lent?
 
 The Service of Ash Wednesday in your prayer book begins with the following declaration, which I have included in the first of the boxed items on your lesson sheet. Brothers and sisters in Christ: since early days Christians have observed with great devotion the time of our Lord’s passion and resurrection. It became the custom of the Church to prepare for this by a season of penitence and fasting.

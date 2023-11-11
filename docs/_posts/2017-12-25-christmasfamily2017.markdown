@@ -5,8 +5,13 @@ date:   2017-12-25
 blurb: "This sermon tells the story of Arteban, the fourth wise man who was always late but for good reasons. He used his gifts, originally intended for the King, to help others in need. He saved a sick man, a baby, and a slave girl, only to realize that in doing so, he had given his gifts to the King."
 og_image: "/assets/img/posts/christmasfamily2017.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/christmasfamily2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/christmasfamily2017.pdf)
 How many wise men were there? Tradition is three – Caspar, Melchior and Balthasar – bible does not say. There is a story of a 4th wise man called Arteban, a friend of the other three, story has it he was a very clever, very compassionate doctor.
 
 Plan was for Arteban to travel with the other three to visit the King – he was going to bring jewels, diamond, ruby and a pearl. He was always late – but for a very good reason – on his way to meet them he came across a sick man by the roadside – he stopped to look after him until he was better – but friends went on without him.

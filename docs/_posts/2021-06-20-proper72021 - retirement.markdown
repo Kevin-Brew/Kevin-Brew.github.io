@@ -5,8 +5,13 @@ date:   2021-06-20
 blurb: "Kevin reflects on the resilience of faith through personal experiences and historical challenges faced by the Church of Ireland. He recounts his visit to Budapest and the emotional service at Kalvin Ter Presbyterian Church. The sermon emphasizes the importance of resilience in the face of adversity, drawing parallels between the early Church's endurance and the parish's recent efforts during the pandemic and church restoration."
 og_image: "/assets/img/posts/proper72021 - retirement.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper72021 - retirement.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper72021 - retirement.pdf)
 PROPER 7 – 2021 – Trinity 3 – Farewell to Howth
 
 Whenever I hear the passage that we read as our first lesson this morning, my mind goes back to the period after Christmas in 1991. Myself and a member of Ahoghill Parish went to Budapest, capital of Hungary, for the European Meeting being organised by the Taize Community. It was a wonderful experience as we joined more than 30,000 people who had travelled from all over Europe. All 30,000 were found beds in Church Halls, School classrooms and private homes. We were all assigned to a particular Church and I found myself in Kalvin Ter Presbyterian Church in the centre of Budapest.

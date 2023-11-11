@@ -5,8 +5,13 @@ date:   2012-06-17
 blurb: "Kevin reflects on the parables of Jesus concerning the seed, drawing parallels between the growth of seeds in gardening and the spiritual growth fostered by God's grace. He emphasizes the importance of nurturing and the joint venture between human effort and divine grace. The sermon also touches upon the significance of baptism as a symbol of grace and the role of the community in influencing the growth of its newest members."
 og_image: "/assets/img/posts/proper62012.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper62012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper62012.pdf)
 Proper 6 – 2012 – Year B – Trinity 2
 
 In our Gospel reading this morning we have heard of some of the parables told by Jesus in the course of his ministry; simple stories, related to everyday life that convey a profound message. Jesus’ parables were very much related to the life experience of his hearers, so he would talk of a housewife losing a coin, a shepherd searching for a lost sheep, a farmer sowing seed. The two we have heard today relate to the seed; they speak of the seeming insignificance of the seed and the huge potential contained within.

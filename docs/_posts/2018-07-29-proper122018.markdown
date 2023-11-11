@@ -5,8 +5,13 @@ date:   2018-07-29
 blurb: "Kevin reflects on the story of David, Bathsheba, and Uriah, highlighting the dangers of deceit and the consequences of abusing power. He emphasizes the importance of moral accountability and integrity, drawing parallels between biblical times and contemporary society. The sermon calls for a reconnection with spiritual heritage and moral compass, urging the Christian community to align faith with action."
 og_image: "/assets/img/posts/proper122018.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper122018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper122018.pdf)
 There is an old saying from my childhood that goes along the lines:
 
 > 'O what a tangled web we weave

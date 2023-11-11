@@ -5,8 +5,13 @@ date:   2010-03-15
 blurb: "This sermon is a tribute to Jack Maguinness, a remarkable man who lived his life with honesty, hard work, and a deep love for gardening. Despite his age, Jack continued to push boundaries and live life to the fullest. His passing is a reminder of our mortality, but also of the hope we have in Christ for eternal life."
 og_image: "/assets/img/posts/Jack Maguinness.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Jack Maguinness.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Jack Maguinness.pdf)
 Funeral of Mr. Jack Maguinness – 15th March 2010
 
 We have come here this morning to remember with thanksgiving and affection a remarkable man. Jack Maguinness, apart from a short time in the North during the war, spent his whole life here on the peninsula, having worked as gardener in several of the big houses around the Bailey, finishing up in the home of Mrs. Jennifer Guinness.

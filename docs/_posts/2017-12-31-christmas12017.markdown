@@ -5,8 +5,13 @@ date:   2017-12-31
 blurb: "This sermon reflects on the transition from 2017 to 2018, discussing the uncertainties of the future and the faith in God's guidance. It highlights the challenges faced globally and locally, while also acknowledging personal triumphs and losses within the community. The sermon emphasizes the importance of trusting in God's plan, even amidst the unknown."
 og_image: "/assets/img/posts/christmas12017.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/christmas12017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/christmas12017.pdf)
 First Sunday after Christmas – Year B – 2018
 
 And I said to the man who stood at the gate of the year: “Give me a light that I may tread safely into the unknown.”

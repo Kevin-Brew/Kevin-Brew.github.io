@@ -5,8 +5,13 @@ date:   2020-03-07
 blurb: "This sermon discusses the human perception of control over the world and its consequences. It draws parallels between the biblical plagues of Egypt and the modern-day disasters like Covid-19, wildfires, and floods. The sermon emphasizes that despite our advancements, we are not the masters of nature and our actions have consequences."
 og_image: "/assets/img/posts/lent32020 - Fintan O_Toole article.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent32020 - Fintan O_Toole article.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent32020 - Fintan O_Toole article.pdf)
 Fintan O’Toole – Irish Times – Corona Virus – we are not kings Sat 7/3/20
 
 It is the locusts that make this moment in history seem so biblical. The plague of locusts is one of the 10 catastrophes visited upon the Egyptians in the Book of Exodus. The images of the vast and relentless swarms that have rampaged through Ethiopia, Somalia and Kenya, infesting hundreds of thousands of hectares of crops, pasture and forest, seem to take us back to the ancient Egypt of Moses and the pharaoh, bringing the myth horribly alive.

@@ -5,8 +5,13 @@ date:   2017-11-26
 blurb: "Kevin's sermon reflects on the Archbishop's message of 'Generous Christianity' and the parable of the sheep and the goats. He emphasizes the importance of serving the poor and marginalized as a way of serving Christ, and challenges the congregation to consider the future of their worshipping community. The sermon calls for a community that embodies a 'Garland of Generosity and Inclusion' and warns against 'Self-Generosity'."
 og_image: "/assets/img/posts/sundaybeforeadvent2017.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/sundaybeforeadvent2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/sundaybeforeadvent2017.pdf)
 Sunday before Advent – Year A – 2017
 
 Last Sunday was a day of celebration for two families in our Parish as they celebrated the arrival of new members of their families and for us as we welcomed them into the family of the Church. The Archbishop, in his sermon, encouraged us to draw inspiration from those who had gone before us and to look forwards and outwards, highlighting the emergence of new housing areas on the edge of our Parish.

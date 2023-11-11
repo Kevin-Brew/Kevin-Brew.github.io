@@ -5,8 +5,13 @@ date:   2015-09-21
 blurb: "This sermon is a tribute to Mr. Cecil Jermyn, a man of faith, love, endurance, and gentleness. It celebrates his life journey, his faithfulness, and his courage in the face of life's challenges. The sermon also reflects on the hope and peace offered by Christian faith in the face of death."
 og_image: "/assets/img/posts/Mr Cecil Jermyn.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mr Cecil Jermyn.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mr Cecil Jermyn.pdf)
 Funeral of Mr Cecil Jermyn – Howth – 21st September 2015
 
 The Service of Baptism in the Book of Common Prayer has a Pastoral Introduction which begins with the following words:

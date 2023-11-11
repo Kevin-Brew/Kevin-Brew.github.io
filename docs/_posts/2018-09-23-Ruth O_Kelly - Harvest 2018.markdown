@@ -5,8 +5,13 @@ date:   2018-09-23
 blurb: "In this sermon, Kevin discusses the unique connection humans have with the earth, as described in Genesis. He emphasizes the importance of caring for the environment and responsibly managing resources. Kevin also highlights the impact of our choices on future generations and the poorest in our world. The sermon concludes with a call to produce a fruitful harvest of spiritual fruits."
 og_image: "/assets/img/posts/Ruth O_Kelly - Harvest 2018.png"
 tags: Harvest
----
-[Original PDF](/assets/pdf/Ruth O_Kelly - Harvest 2018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Ruth O_Kelly - Harvest 2018.pdf)
 What fun for any three-year-old to be allowed to mix soil and water and make mud pies, I remember doing so myself and mum gracefully declining to eat my masterpiece! In the second of the creation stories in Genesis we are told how out of the earth God moulded and formed human beings, just like making those mud pies but with a lot more TLC! then having breathed life into these human forms charged them with taking care of the of the earth from which they came.
 
 Human beings, unlike the rest of creation were formed by God’s own hands and had his own breath of life breathed into them! Set apart from the rest of creation which was spoken into being and life with a word from God. As human beings this creation account reminds us we have a connection to this world that is unique among God’s creation.

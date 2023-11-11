@@ -5,8 +5,13 @@ date:   2013-06-23
 blurb: "Kevin reflects on the journey of faith, drawing parallels between the story of Elijah and the experiences of Bishop Richard Holloway. He explores the theme of feeling God's absence and the subsequent rediscovery of faith. The sermon emphasizes the presence of God even in times of doubt, encouraging believers to seek stillness to sense God's presence."
 og_image: "/assets/img/posts/proper72013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper72013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper72013.pdf)
 PROPER 7 – 2013 – Year C – Trinity 4
 
 At the moment I am reading a book by Bishop Richard Holloway, former Primus of the Church of Scotland. He is a writer who has appealed to me since I first heard him speak at a post Easter Clergy Conference shortly after I went to Ahoghill. This particular book is called 'Leaving Alexandria'. When I first heard of it I thought it referred to a shift in his theological thinking – Alexandria was one of the centres of theological thinking in the early Church. The Alexandria Bishop Holloway is referring to is, in fact, the district in Glasgow where he had grown up, the son of working class parents with little or no Church connection.

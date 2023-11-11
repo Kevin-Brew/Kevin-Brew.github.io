@@ -5,8 +5,13 @@ date:   2020-07-12
 blurb: "Kevin reflects on the importance of preparing oneself for spiritual growth, likening it to cultivating a vegetable patch. He emphasizes the need for personal effort in nurturing one's faith, drawing parallels between gardening and spiritual practices. The sermon encourages listeners to be receptive to God's teachings and to invest time in prayer and reflection to foster a deeper connection with the divine."
 og_image: "/assets/img/posts/proper102020 family youtube.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper102020 family youtube.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper102020 family youtube.pdf)
 PROPER 10 – Year A – 2020 – Trinity 5 – YouTube Family Service
 
 Many people watching our YouTube clips of services made during the lockdown have admired the view of the garden from the Rectory. I thought I would deliver the sermon for this service from the vegetable patch at the bottom of the garden.

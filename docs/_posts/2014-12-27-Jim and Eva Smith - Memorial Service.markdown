@@ -5,8 +5,13 @@ date:   2014-12-27
 blurb: "This sermon is a memorial service for Jim and Eva Smith, long-time members of the parish. It reflects on their contributions to the community and their devotion to each other. The sermon also discusses the grief of loss and the Christian faith's perspective on death and eternal life."
 og_image: "/assets/img/posts/Jim and Eva Smith - Memorial Service.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Jim and Eva Smith - Memorial Service.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Jim and Eva Smith - Memorial Service.pdf)
 This morning we gather here in St Mary’s for a simple Memorial Service for Jim and Eva Smith, a Parish and community of which they were a part for many years. Jim served on the Vestry for many years and would have had a high regard for Canon Frank Blennerhassett. Eva in her day was an accomplished sports woman excelling as a cyclist. The loss of mobility must have been very hard to bear. Jim and Eva were very much a team and Jim would have spoken with pride of their meeting, their first flat of how they worked together to build a home, a business, a family.
 
 The family are left with memories of loving parents, devoted to each other. People recall firm friendships and generosity of spirit. You are left with your memories on this the first Christmas since Eva’s death.

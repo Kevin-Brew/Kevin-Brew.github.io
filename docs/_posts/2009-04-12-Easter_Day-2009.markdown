@@ -5,8 +5,13 @@ date:   2009-04-12
 blurb: "Kevin reflects on the Easter story, emphasizing the theme of movement and the journeys between the Upper Room and the tomb. He highlights the transition from despair to faith, and the living presence of Christ that comforts and guides us in times of doubt and despair. The sermon reassures us that nothing can separate us from the love of God in Christ Jesus."
 og_image: "/assets/img/posts/Easter_Day-2009.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/Easter_Day-2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Easter_Day-2009.pdf)
 EASTER 2009 – Year B
 
 The Easter story, the story of Mary Magdalene going to the tomb and finding it empty is one of the most familiar of all the Bible stories. The theme of resurrection lies at the heart of our Christian faith.

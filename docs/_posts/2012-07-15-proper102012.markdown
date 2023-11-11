@@ -5,8 +5,13 @@ date:   2012-07-15
 blurb: "Kevin reflects on the public trial of a footballer and the story of John the Baptist, emphasizing human frailty and sin. He draws parallels between the biblical narrative and contemporary issues of justice and racial equality, highlighting the tension between worldly demands and Christian discipleship. The sermon concludes with a call to bring our whole selves to God for healing and service."
 og_image: "/assets/img/posts/proper102012.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper102012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper102012.pdf)
 Proper 10 – 2012 – year B – Trinity 6
 
 Over the last couple of weeks, we have been treated to the rather unedifying spectacle of the trial of an English footballer for racial abuse on the field of play. The individual in question has been found not guilty but will face further proceedings by the football authorities. At the heart of it all was a very public row in which things were said that should be totally unacceptable in any civilised society.

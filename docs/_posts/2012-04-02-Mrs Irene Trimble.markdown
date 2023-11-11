@@ -5,8 +5,13 @@ date:   2012-04-02
 blurb: "This sermon was given during the funeral of Mrs. Irene Trimble, a long-time member of the parish and a faithful choir member. The sermon reflects on Irene's life, her dedication to her family, her love for teaching, and her passion for music. It also addresses the hope and faith in the resurrection of Jesus Christ, providing comfort and solace during a time of loss."
 og_image: "/assets/img/posts/Mrs Irene Trimble.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Irene Trimble.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Irene Trimble.pdf)
 We gather here today on this Monday of Holy Week for the funeral of Mrs Irene Trimble, long time member of this Parish, faithful in her membership of the choir, of the Parish. Holy Week is a time of remembering, remembering the events that lead up to the death of Jesus on the Cross. Good Friday gives way to Easter, death gives way to resurrection. And so we come today to set our sadness and our loss in the context of the death and resurrection of Jesus.
 
 Irene died quietly in her home, with Valerie at her side, in her home in Binn Eadir last Wednesday, just short of her 90th birthday. Irene had been born in Tipperary and went to School in Cork. In 1940, when she was 18 she came up to Dublin to study in English and history in Trinity. This was in the times when not many women went to university and female students were escorted off campus from the 1937 Reading Room at 5:00pm and dispatched to their accommodation in Trinity Hall in Rathmines. The family have a photo of Irene sitting on the steps of the 1937 Reading Room. On graduation she was appointed as a teacher in Bertrand and Rutland School, later to be absorbed into Mount Temple. On her marriage to Charlie Trimble she was obliged to retire and she and Charlie set up their home together in Clontarf before moving to Howth where they brought up their three children, Hilary, Valerie and Ken.

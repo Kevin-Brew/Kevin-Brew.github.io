@@ -5,8 +5,13 @@ date:   2013-02-10
 blurb: "This sermon reflects on the Transfiguration of Jesus, a crucial point in the Gospel story. It emphasizes the importance of listening, reflecting, and learning from the Gospel stories. The sermon also discusses the disciples' struggle to understand Jesus' identity and mission, and encourages believers to continue seeking understanding in the midst of life's struggles, with the assurance of Jesus' presence and power."
 og_image: "/assets/img/posts/1beflent2013.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/1beflent2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/1beflent2013.pdf)
 One of the TV series I remember when I was growing up was the BBC programme 'Steptoe and Son'. It is the story of a father and son working in a rather haphazard partnership as Rag and bone men – the forerunners of the recycling business. The son Harold feels trapped and yearns to move on and yet cannot bring himself to leave – the old man for his part cannot understand his discontent. He looks back to the old days, repeating stories of his time in the trenches of the 1st World War. Harold knows the stories so well he can repeat them word for word – knows them so well he has stopped listening.
 
 We read as our Gospel reading the story of the Transfiguration of our Lord before his disciples – as with so many of the Gospel stories it can become so familiar that we all too easily stop listening as it is read to us. As we stop listening, we stop reflecting, so we stop learning.

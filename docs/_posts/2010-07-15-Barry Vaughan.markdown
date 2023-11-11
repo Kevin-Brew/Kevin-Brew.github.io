@@ -5,8 +5,13 @@ date:   2010-07-15
 blurb: "This sermon is a tribute to Barry Vaughan, a man of intelligence, humor, and capability. It reflects on his life journey, his love for flying, and his family. The sermon also discusses the concepts of mortality and eternal life, offering hope and comfort in the face of loss."
 og_image: "/assets/img/posts/Barry Vaughan.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Barry Vaughan.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Barry Vaughan.pdf)
 Last Saturday Barry Vaughan died in Beaumount Hospital. While the end came quite quickly, it was for Barry the end of a long period of struggle and decline that must have been hard for him and certainly hard for those who loved him to watch. On this the day of his funeral we meet to honour the memory of an intelligent, reserved, humorous, capable gentleman and to commend him to the love and care of Almighty God.
 
 Barry in the course of his life lived in five different countries. He was born at Lake Maracaibo in Venezuela where his father was working in the oil business. Schooling, as was the case with all children of expatriate communities, involved a variety of locations and separation from parents fro an extended period of time from quite a young age. He spent a year in Montego Bay in Jamaica before moving on to British Columbia via New York. For his secondary education he was sent to Loughborough (near Derby, in the English East Midlands). During his time there he excelled in cross country running and other athletic events as well as rugby. But towards the end of his time in Loughborough he learned to glide and so began a lifelong association love of flying. When he left school he went to work for Shell in London but this was not his thing. He left to join the RAF in which he served for 8 years. During this time he flew Hawker Hunters and was involved in the Black Arrows, the forerunners of the Red Arrow Display team. He left the RAF to join Aer Lingus and moved to Dublin. Here he met his wife Mary and here they reared their daughter Jane. Mary died relatively young in 1992.

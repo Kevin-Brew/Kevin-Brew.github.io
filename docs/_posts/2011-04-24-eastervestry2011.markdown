@@ -5,8 +5,13 @@ date:   2011-04-24
 blurb: "The sermon reflects on the importance of tradition within the Church of Ireland, emphasizing the need for flexibility to adapt to changing times. It discusses the balance between respecting inherited traditions and broadening them to remain relevant. The sermon also highlights the Church's efforts to engage with contemporary issues and maintain its relevance in modern society."
 og_image: "/assets/img/posts/eastervestry2011.png"
 tags: Easter Vestry
----
-[Original PDF](/assets/pdf/eastervestry2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/eastervestry2011.pdf)
 Easter General Vestry 2011
 
 Last Sunday afternoon, Christchurch Cathedral was filled to capacity for the Enthronement of Archbishop Michel Jackson. At the beginning of the Service, in a ceremony that dates back to medieval times, the new Archbishop approaches the Cathedral and knocks on the door. Archbishop Michael veritably struck the door of Christchurch Cathedral with his pastoral staff and the sound reverberated around the Cathedral. I turned to Rev Martha Waller, Curate of Raheny and remarked, 'That sounds like a man who means business.' That sense of purpose ran through the whole of that service: in his invitation to Archbishop Martin not only to attend but also to read the Gospel; his decision not just to invite the representatives of other Christian Churches but also leaders of the Jewish and Islamic communities in Dublin. It also came through in the sermon he preached that day.

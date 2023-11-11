@@ -5,8 +5,13 @@ date:   2011-03-21
 blurb: "This sermon is a touching tribute to Dudley Macaulay, a devoted husband, father, and grandfather. It recounts his love for his wife, Jennifer, his passion for engineering, and his quiet faith. The sermon also offers comfort and hope, drawing parallels between the cycle of life and death and the changing seasons."
 og_image: "/assets/img/posts/Dudley Macaulay.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Dudley Macaulay.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Dudley Macaulay.pdf)
 Funeral of Mr Dudley Macaulay – March 21st 2011 – Howth
 
 A former Rector of Mountmellick and Dean of Kildare, the late Dean Alfred Buchanan, speaking of records held by Parishes, said they spoke of events, of births, marriages, deaths, the number attending services and who preached, the minutes of Vestry meetings and Parish Accounts. They said nothing of the number of people who slipped quietly into Church, who said their prayers, shared their hopes, fears, regrets, sadness, joy with God and slipped quietly home.

@@ -5,8 +5,13 @@ date:   2019-12-01
 blurb: "This sermon explores the symbolism of figs in the Bible, from their first appearance in the Garden of Eden to their representation of Israel's spiritual and physical health. The sermon also discusses how figs symbolize prosperity, wellbeing, and security, and how their flourishing in modern-day Israel could be seen as a Messianic sign."
 og_image: "/assets/img/posts/advent12019 - notes on figs.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent12019 - notes on figs.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent12019 - notes on figs.pdf)
 God gives good gifts. When he gave Israel to the Jewish people, it was not just any old piece of land. God says in Deuteronomy 8, 'The Lord your God is bringing you into a good land... a land with wheat and barley, vines and fig trees, pomegranates, olive oil and honey'. There are seven species of food mentioned here, which would be abundant in the land promised to his people.
 
 The fig is a fruit that crops up again and again in the scriptures, because God does nothing without purpose. The plant becomes a symbol of prosperity, wellbeing, and security. Along with the vine, to sit under the plentiful shade of your own fig tree is the epitome of safety, peace and wellbeing in many Biblical passages.

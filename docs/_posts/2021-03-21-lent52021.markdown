@@ -5,8 +5,13 @@ date:   2021-03-21
 blurb: "This sermon, delivered on the fifth Sunday of Lent in 2021, explores the desire of unnamed Greeks to see Jesus. It discusses the anticipation and tension surrounding Jesus' entry into Jerusalem, the expectations of the people, and the subsequent disappointment when Jesus did not fit into their preconceived notions. The sermon emphasizes that Jesus cannot be owned or controlled by any group and challenges listeners to reflect on their own understanding and portrayal of Jesus."
 og_image: "/assets/img/posts/lent52021.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent52021.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent52021.pdf)
 LENT 5 – Year B – 2021
 
 ‘Sir, we would like to see Jesus.’

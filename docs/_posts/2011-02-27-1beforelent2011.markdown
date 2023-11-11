@@ -5,8 +5,13 @@ date:   2011-02-27
 blurb: "This sermon reflects on the story of the Transfiguration of our Lord and the disciples' journey with Jesus. It emphasizes the importance of not just admiring Jesus, but obeying and following him. The sermon also discusses the disciples' struggle to understand who Jesus was and assures that Jesus is with us in our struggles and searches."
 og_image: "/assets/img/posts/1beforelent2011.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/1beforelent2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/1beforelent2011.pdf)
 One of the TV series I remember when I was growing up was the BBC programme 'Steptoe and Son'. It is the story of a father and son working in a rather haphazard partnership as Rag and bone men – the forerunners of the recycling business. The son Harold feels trapped and yearns to move on and yet cannot bring himself to leave – the old man for his part cannot understand his discontent. He looks back to the old days, repeating stories of his time in the trenches of the 1st World War. Harold knows the stories so well he can repeat them word for word – knows them so well he has stopped listening.
 
 We read as our Gospel reading the story of the Transfiguration of our Lord before his disciples – as with so many of the Gospel stories it can become so familiar that we all too easily stop listening as it is read to us. As we stop listening, we stop reflecting, so we stop learning.

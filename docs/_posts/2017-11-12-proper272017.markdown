@@ -5,8 +5,13 @@ date:   2017-11-12
 blurb: "Kevin's sermon on the 3rd Sunday before Advent in 2017 emphasizes the importance of worship and communion with God. He reflects on the journey of faithfulness and failure, akin to the Exodus, and the call to be 'the salt of the earth' and 'the light of the world.' The sermon encourages self-emptying and self-offering in worship, mirroring Jesus' ministry, and stresses that our witness to faith is through both our words and actions, driven by love and care for our neighbors."
 og_image: "/assets/img/posts/proper272017.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper272017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper272017.pdf)
 3rd Sunday before Advent – 2017 – year A
 
 Morning Service – Holy Communion (1)

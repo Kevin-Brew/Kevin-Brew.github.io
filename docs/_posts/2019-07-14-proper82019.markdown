@@ -5,8 +5,13 @@ date:   2019-07-14
 blurb: "Kevin's sermon explores the challenge of taking the first step in faith, drawing parallels with everyday life's hesitations. He reflects on St. Augustine's struggle for chastity and the universal fear of change, emphasizing the Christian belief that we are not meant to face life's trials alone. The sermon reassures us that God's presence and the guidance of the Holy Spirit empower us to embark on our faith journey, despite our fears and failures."
 og_image: "/assets/img/posts/proper82019.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper82019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper82019.pdf)
 Every so often as we read the Gospels, as we read the teaching of Jesus, we come across passages where I certainly find myself saying, 'Hmm, that is a bit harsh. I wish you hadn't said that Lord.' The Gospel passage appointed for today would fall into that category as Jesus seems to dismiss those potential followers who say to him, 'Lord, first let me go and bury my father.' 'But let me first say farewell to those at my home.' This seems to fly in the face of compassion, of loyalty to family. So, what are we to make of this?
 
 I suppose we can begin by thinking in terms of reluctance to make a first step, that initial commitment. When I began to think along those lines my mind went back to that initial prayer of St. Augustine. St. Augustine, Bishop of Hippo, born in North Africa in 354 AD. Augustine was a giant of the early Church but he was very definitely a saint with a past. The son of devout Christian parents, to the distress of his mother, he led a very dissolute early life and his path to faith was certainly not an easy one. In his book, 'Confessions,' he talks of that crucial time he wrestled with faith and the implications that would have for his lifestyle. He wrote:

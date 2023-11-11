@@ -5,8 +5,13 @@ date:   2009-03-15
 blurb: "This sermon discusses the concept of human power versus divine power, drawing on historical and contemporary examples. It contrasts the might of the Roman Empire with the 'weakness' of the Church, and the sophistication of Graeco-Roman culture with the simplicity of Christian teachings. The sermon concludes with the assertion that God's 'foolishness' and 'weakness' are wiser and stronger than human wisdom and strength."
 og_image: "/assets/img/posts/Lent 3 - 2009.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/Lent 3 - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Lent 3 - 2009.pdf)
 Shortly after the end of the 2nd World War, the world divided into two armed camps. As Churchill remarked, an Iron Curtain came down across Europe. International relationships were set in the context of the “Cold War”, only tempered by the realisation that either side has the power to obliterate the other. Periodically crises arose that threatened this perilous stability – I have memories of the tensions that surrounded the Cuban Missile Crisis. I also recall huge army convoys driving past our house in Birmingham at the time of the Suez Crisis. In more recent days, as we have watched the Civil War in the Ukraine, we have seen a return of the East West tensions that has characterised European politics since the time of Churchill.
 
 In the context of Eastern Europe in the Cold War Era, the communist regimes held total control over the lives of their citizens. That power sought to control and suppress the Church. Our family was in Taize the summer after the fall of the Berlin Wall. For the first time Christians from many parts of Eastern Europe were allowed to travel freely. They spoke of the amazing changes they had witnessed as power collapsed. One of the Taize community spoke of a visit to priest in a village in what is now the Czech Republic. The priest told of how for years he had ministered to a faithful few – only a handful in Church each Sunday. Secret police had harassed his Church members, other villagers has viewed them with a mixture of amusement and hostility. Now, he mused, the power that sought to suppressed had collapsed almost overnight. The Church had not only survived but was now beginning to grow.

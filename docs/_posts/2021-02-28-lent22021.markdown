@@ -5,8 +5,13 @@ date:   2021-02-28
 blurb: "In this sermon, Kevin reflects on the journey of faith, using the story of Abraham as a metaphor. He discusses the challenges and doubts that can arise along the way, and the importance of trust and patience in God's timing. He also draws parallels between Abraham's journey and the path of self-sacrifice that Jesus calls his disciples to follow."
 og_image: "/assets/img/posts/lent22021.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent22021.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent22021.pdf)
 I recall some years ago having a longstanding problem in my last Parish that I was afraid was going to end in conflict and pain, not only for myself but also for the individual involved – this was a person who had offered many years of service to the Parish in the past. Without going into detail, the matter resolved itself over a relatively short period of time and we moved on, remaining on very good terms.
 
 I remember discussing this with one of the curates in Ballymena at the time, telling him of my relief that things had worked out so well. He grinned and said, ‘See, Kevin, God does answer prayer.’ To which I replied, with some irritation, ‘Oh, I know that – I just wish he wouldn’t take so long at times!’ I still remember Tom’s response: ‘God’s time is the right time.’

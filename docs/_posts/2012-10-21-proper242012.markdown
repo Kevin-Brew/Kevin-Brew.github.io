@@ -5,8 +5,13 @@ date:   2012-10-21
 blurb: "In this sermon, Kevin reflects on the theme of seeking position and power, drawing parallels between the Gospel narrative of James and John and contemporary societal issues. He emphasizes the importance of advocating for the voiceless in society, such as children, the elderly, and the vulnerable, especially in the face of economic challenges and budget cuts that affect the less fortunate."
 og_image: "/assets/img/posts/proper242012.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper242012.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper242012.pdf)
 PROPER 24 – YEAR B – 2012 – Trinity 20
 
 This last week has seen the latest Summit meeting of EU leaders. One of the features of these summits would be the meetings that go on ahead of the summit itself, or apparently chance encounters that happen on the edges. And so over the last few days we have had pictures of Angela Merkel and Francois Hollande in deep discussion; then there was that picture in the Irish Times of the Taoiseach and Angela Merkel in conversation. People jockeying for position, getting close to those in positions of power, trying to get assurances in advance on topics that will come up in the main meeting.

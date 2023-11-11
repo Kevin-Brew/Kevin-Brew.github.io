@@ -5,8 +5,13 @@ date:   2015-01-25
 blurb: "This sermon, delivered on the 3rd Sunday of Epiphany in 2015, discusses the transformation of Simon into Peter as per the teachings of Jesus. It draws a parallel between this transformation and the metamorphosis of a moth, emphasizing the idea that there is something divine in each one of us, waiting to emerge. The sermon also touches upon the importance of names and the significance of their change in biblical times."
 og_image: "/assets/img/posts/epiphany32015.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany32015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany32015.pdf)
 3rd Sunday of Epiphany – Year B – 2015
 
 He brought Simon to Jesus, who looked at him and said, "You are Simon son of John. You are to be called Cephas" (which is translated Peter). John 1:42

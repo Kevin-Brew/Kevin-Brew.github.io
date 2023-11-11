@@ -5,8 +5,13 @@ date:   2010-04-25
 blurb: "This sermon, delivered on the 4th Sunday of Easter in 2010, explores the theme of Jesus as the Good Shepherd. The speaker recounts a personal experience in Galilee, drawing parallels between a shepherd's relationship with his flock and Jesus' relationship with his followers. The sermon emphasizes the sense of belonging and protection that comes from following Jesus, and the importance of listening and following where he leads, even without full understanding."
 og_image: "/assets/img/posts/4th Sunday of Easter - 2010.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/4th Sunday of Easter - 2010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/4th Sunday of Easter - 2010.pdf)
 4th Sunday of Easter – year C – 2010
 
 My sheep hear my voice. I know them, and they follow me. John 10:27

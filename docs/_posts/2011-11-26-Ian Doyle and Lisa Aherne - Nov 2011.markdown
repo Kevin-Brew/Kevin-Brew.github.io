@@ -5,8 +5,13 @@ date:   2011-11-26
 blurb: "In this sermon, Kevin reflects on the depth of commitment in marriage, drawing parallels between the love shared by a couple and the love Christ has for his Church. He emphasizes the self-giving nature of love and its reflection in the marital bond. The sermon also explores the challenges and strengths discovered within a relationship, highlighting the importance of affirmation, healing, and making Christ present to one another."
 og_image: "/assets/img/posts/Ian Doyle and Lisa Aherne - Nov 2011.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/Ian Doyle and Lisa Aherne - Nov 2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Ian Doyle and Lisa Aherne - Nov 2011.pdf)
 We gather this afternoon to celebrate the marriage of Ian and Lisa. As we do so we join with them as they celebrate and rejoice in what they have already shared together, in the love and the companionship, the encouragement and the strength they have found in each other.
 
 When I was down in Mountmellick, I recall a friend telling me of the various ways people got round to proposing marriage. The one that came to my mind as I looked over the lesson from Ruth that we have just heard is 'Do you want to be buried with my people?' Those words from the Book of Ruth, as Ruth declared her undying loyalty to her mother-in-law Naomi, speak of the depth of commitment in marriage.

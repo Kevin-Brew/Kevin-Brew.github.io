@@ -5,8 +5,13 @@ date:   2011-04-14
 blurb: "Kevin's sermon on 14th April 2011, during the Lent season, focuses on the role of the Church and its members in society. Drawing from the Acts of the Apostles and the Sermon on the Mount, he emphasizes the need for Christians to be like 'salt and light', spreading the love of Christ and serving those outside the Church. He challenges the Church to avoid becoming insular and to live out their faith in the world."
 og_image: "/assets/img/posts/April 14 2011.png"
 tags: Lent Mid_Week
----
-[Original PDF](/assets/pdf/April 14 2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/April 14 2011.pdf)
 Lent 2011 – 14th April 2011
 
 Acts 2:42-46

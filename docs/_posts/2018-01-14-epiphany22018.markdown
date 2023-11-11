@@ -5,8 +5,13 @@ date:   2018-01-14
 blurb: "The sermon discusses the theme of seeking and being sought, finding and being found, in the context of the Gospel and Psalm. It emphasizes that God seeks and finds us, knowing and loving us not because of anything we do but simply because of who we are before him. The sermon also highlights the importance of realizing that we are children of God, beloved in all our strengths and failings."
 og_image: "/assets/img/posts/epiphany22018.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany22018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany22018.pdf)
 Can you just think back to a time when you played hide and seek with a child, particularly a very young one? There is the thrill of hiding but also of being sought after. There is the toe left poking out from behind the settee, the barely suppressed giggle from behind the curtain – and the thrill of being found. When they are looking for us, we need to strike that balance between making it too easy for them to find us (denying them the excitement of the hunt) and being out of sight for too long. And here again there is the delight of finding.
 
 I just want to ponder on this whole business of seeking and being sought after, finding and being found, in the context of our Gospel and Psalm for this morning. Looking first at our reading from John’s Gospel; Jesus goes to Galilee and finds Philip and calls him to follow. Philip, having been found by Jesus, then tells others of finding Jesus. In this passage the Gospel writer gives us this sense of Philip both finding Jesus and being found by Jesus.

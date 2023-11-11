@@ -5,8 +5,13 @@ date:   2021-03-28
 blurb: "This sermon explores the themes of Palm Sunday and the days that follow, focusing on the apparent contradictions in the nature of Jesus Christ. It discusses the meekness and majesty of Jesus, and how understanding both aspects is crucial to understanding his identity and the events of Holy Week. The sermon also delves into the mystery of Jesus' suffering and the depth of God's love."
 og_image: "/assets/img/posts/palmsunday2021.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/palmsunday2021.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/palmsunday2021.pdf)
 I recall many years ago, when studying physics at school, we began looking more closely at the phenomenon of light. Now we tend to assume that light travels in straight lines yet there are things we come across that show us that it is a bit more complicated than that, such as the rainbow pattern you get when light shines on a CD.
 
 There are times when it makes more sense to think of light as a stream of particles, others when it makes more sense to think of it as a wave. Wave or particle – they seem to be mutually exclusive yet neither by themselves gives us the full picture – yet taken together they help us to understand the complex phenomenon that is light.

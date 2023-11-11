@@ -5,8 +5,13 @@ date:   2013-06-02
 blurb: "Kevin reflects on the Old Testament stories of Elijah and Elisha, emphasizing God's presence in both grand and subtle ways. He draws parallels between these stories and the healing of the centurion's servant in the Gospel, highlighting the theme of journeying through life's challenges with faith. The sermon reassures us that God is present in our struggles, even when we feel alone, and encourages us to invite God into our journey."
 og_image: "/assets/img/posts/proper42013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper42013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper42013.pdf)
 PROPER 4 – 2013 – Year C – Trinity 1
 
 One of the features of our system of reading lessons is that over the summer and autumn months that make up the season of Trinity, we follow some of the big stories of the Old Testament. These are stories that have shaped, that bear witness to, the people of Israel, their sense of who they were before God, before other nations, before themselves. For the next few Sundays we will be following the stories of Elijah and Elisha. Today we have the encounter between Elijah and the prophets of Baal on Mount Carmel. It is a clash of two identities, of two cultures. It comes to a climax with a flash of fire from heaven as Elijah’s sacrifice is consumed by the heavenly fire.

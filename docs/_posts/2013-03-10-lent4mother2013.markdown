@@ -5,8 +5,13 @@ date:   2013-03-10
 blurb: "This sermon uses the metaphor of a pet to explore the challenges and rewards of parenthood. It highlights the responsibilities and dedication required in raising a child, from constant care and attention to dealing with mess and mischief. The sermon concludes with a surprise reveal, using a mirror to show that the 'special pet' is in fact the listener themselves, prompting reflection on self-care and personal growth."
 og_image: "/assets/img/posts/lent4mother2013.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent4mother2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent4mother2013.pdf)
 Anyone have a pet?
 Would anyone like a pet? What sort?
 

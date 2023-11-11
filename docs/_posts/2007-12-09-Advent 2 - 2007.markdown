@@ -5,8 +5,13 @@ date:   2007-12-09
 blurb: "In this sermon, Kevin discusses the importance of finding a quiet place amidst the busyness of Christmas preparations. He draws parallels between the desert places in the Bible, where key figures had encounters with God, and our own need for a 'desert place' in our lives. He encourages listeners to find their own place of quiet and encounter with God amidst the busyness of life."
 og_image: "/assets/img/posts/Advent 2 - 2007.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/Advent 2 - 2007.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Advent 2 - 2007.pdf)
 Well, how are your Christmas preparations going? Have you sent all your cards? Are all the Christmas presents chosen? How are the arrangements going for the Christmas dinner? So much to do, so little time. Could I add one more thing to your ever growing list – in the midst of all this, have you got your own desert place, a place apart, a place of quietness in the midst of all the activity and busyness of our preparations?
 
 This question came to my mind as I read the portion appointed as our Gospel reading for today. In this passage we come across that strange and slightly troubling character of John the Baptist. He drew people of his society, the respectable and the pious, along with those on the margins – the tax collector and the soldier. He drew them out into the desert to hear his call to repentance, to receive his baptism of repentance.

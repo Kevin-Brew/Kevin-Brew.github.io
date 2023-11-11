@@ -5,8 +5,13 @@ date:   2014-06-18
 blurb: "This sermon is a tribute to the life and faith of Mr Percy Lovegrove, delivered at his funeral. It highlights his devotion to his wife Doreen, his love for gardening, and his acceptance of mortality. The sermon also emphasizes Percy's faithfulness to his church and community, and his calm acceptance of life's seasons."
 og_image: "/assets/img/posts/Mr Percy Lovegrove.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mr Percy Lovegrove.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mr Percy Lovegrove.pdf)
 Funeral of Mr Percy Lovegrove – St Mary’s – 18th June 2014
 
 As the end of life approached the Apostle Paul wrote to the young man Timothy

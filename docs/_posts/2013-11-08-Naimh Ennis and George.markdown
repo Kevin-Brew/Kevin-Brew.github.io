@@ -5,8 +5,13 @@ date:   2013-11-08
 blurb: "Kevin's sermon on the occasion of Niamh Ennis and George's wedding at Spanish Point emphasizes the Christian understanding of marriage as a public declaration of commitment, akin to Christ's bond with the Church. It reflects on the couple's journey from friendship to love and the importance of selfless love in marriage, drawing from Biblical teachings on love, patience, and forgiveness."
 og_image: "/assets/img/posts/Naimh Ennis and George.png"
 tags: Wedding
----
-[Original PDF](/assets/pdf/Naimh Ennis and George.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Naimh Ennis and George.pdf)
 Wedding of Niamh Ennis and George – Spanish Point – 8th November 2013
 
 This afternoon, here in Spanish Point, we are celebrating the marriage of Niamh and George. Here in this Church you are making a very public declaration before your family and friends, before God of a commitment to one another that you have already found in your shared life together. This commitment has grown out of the love you have discovered in one another. Today, your friends and your family come to share with you in celebrating that love and joy you have found in each other and to ask God’s richest blessing upon you in the days that lie ahead. The Bible readings you have chosen for the service today and the words of the Marriage Service itself are full of themes of commitment, of faithfulness, of the love that you have found for each other.

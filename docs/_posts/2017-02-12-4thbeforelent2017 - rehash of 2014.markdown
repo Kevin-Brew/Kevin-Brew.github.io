@@ -5,8 +5,13 @@ date:   2017-02-12
 blurb: "This sermon by Kevin Brew, delivered on the 4th Sunday before Lent in 2017, explores the concept of identity and purpose. He encourages the congregation to understand themselves in terms of relationships and love, and to reflect on the fundamental questions of 'Who am I?', 'Why am I here?' and 'What is my purpose?'. He emphasizes the importance of love for God and neighbor, and the need for justice, righteousness, and care for the marginalized in a Christian society."
 og_image: "/assets/img/posts/4thbeforelent2017 - rehash of 2014.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/4thbeforelent2017 - rehash of 2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/4thbeforelent2017 - rehash of 2014.pdf)
 What brings us here each Sunday, to sit in this Church? What is on our hearts this day?
 
 Could I take this a step further back? Who are we who come to sit here in this Church? Who are we? Who am I?

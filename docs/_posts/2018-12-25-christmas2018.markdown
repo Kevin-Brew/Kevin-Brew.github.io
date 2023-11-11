@@ -5,8 +5,13 @@ date:   2018-12-25
 blurb: "This sermon explores the idea of not confining Jesus to the manger scene, but acknowledging his growth into a challenging, demanding Christ. It emphasizes the need to see Christ not only in the church but also in the world, particularly among the marginalized. The sermon challenges us to join Christ in his mission in this messy, untidy world."
 og_image: "/assets/img/posts/christmas2018.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/christmas2018.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/christmas2018.pdf)
 Going around homes with young families, I am often intrigued by the various steps that are taken to stop infants who have just started moving from getting into cupboards, heading upstairs, out of the door, getting burned by the cooker, fire or whatever. When our kids were young, we used a wooden playpen with bars – we used to call it ‘Benjamin’s Prison’. Once he was in there, he was safe from harm, the contents of our cupboards were safe and he wasn’t going anywhere.
 
 At this time, we celebrate the birth of our Lord Jesus Christ. The image of the child in the manger, the picture of parents looking lovingly at their first born child, the thought of shepherds, of wise men from the East coming offering gifts, offering worship and adoration is one we have come to love. It features on our Christmas cards, in stained glass windows, in Nativity plays in our Churches. Don’t get me wrong, I am not criticising any of these as such, they are a lovely part of our celebration of Christmas.

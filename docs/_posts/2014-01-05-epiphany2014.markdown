@@ -5,8 +5,13 @@ date:   2014-01-05
 blurb: "In this sermon, Kevin uses the metaphor of fluorescent stars in the darkness to illustrate the theme of light in the Bible. He explores how light is not only a symbol of God's presence and guidance, but also a call for us to become channels of light ourselves. The sermon emphasizes the importance of receiving God's light in our lives and sharing it with others."
 og_image: "/assets/img/posts/epiphany2014.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany2014.pdf)
 One night before Christmas, Rachel and I were over in our son’s house in Donnybrook putting the children to bed. As we turned out the lights, Ryan pointed to the ceiling and said, ‘Look, Grandpa. Look!’ On the ceiling there were fluorescent stars. We hadn’t noticed them when the lights were on but as the lights went out they glowed in the dark. They reminded me of those toys you used to get in your Cornflakes when I was growing up. The principle behind these things is quite simple – when light shines on these things, the energy is absorbed and then released as that greenish fluorescent light – a phenomenon that has delighted youngsters down through the years.
 
 This image of the stars on that bedroom ceiling fluorescing in the darkness came to me as I reflected on our Lesson from Isaiah and the whole theme of light that runs through from those words we read on Christmas Eve from John’s Gospel:

@@ -5,8 +5,13 @@ date:   2019-03-31
 blurb: "Kevin shares about the journey of the confirmation group, their activities, and their study of the Parable of the Prodigal Son. He emphasizes the importance of acknowledging mistakes and making a fresh start, symbolized by the group exercise of writing down regrets and burning them. He invites the congregation to support these young people in their spiritual journey."
 og_image: "/assets/img/posts/lent42019confirmationgroupservice.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent42019confirmationgroupservice.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent42019confirmationgroupservice.pdf)
 ## LENT 4 – Year C – 2019 – Confirmation Group Service
 
 For the last number of weeks in the announcements I have been announcing the Confirmation classes. Elke and I have been meeting up with them after school each Wednesday afternoon. This year there are nine: Matthew Bray, Aelfreda Young, Jayne Mangan, Ava Doyle, Amy Ennis-Crosbie, Elsie Bath, Justin O’Neill, Louise Riis Byrne and Simon Fogarty. Elke and I have really enjoyed our time working with them. You are a credit to your parents, to the School – you are also a credit to yourselves.

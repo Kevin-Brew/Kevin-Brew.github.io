@@ -5,8 +5,13 @@ date:   2012-02-12
 blurb: "This sermon focuses on our place in the universe and God's care for us. It explores the vastness of the universe, the beauty of life on Earth, and the intricate details of our own bodies. It emphasizes that not only does God create, but He also cares deeply for His creation, including us in all our goodness and badness."
 og_image: "/assets/img/posts/2bflent2012famserv.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/2bflent2012famserv.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2bflent2012famserv.pdf)
 2nd Sunday before Lent – 2012 – year B - Family Service
 
 Not so very long ago we celebrated Christmas, the birth of Jesus. This Sunday we are getting close to the beginning of Lent when we will be starting our preparations for Good Friday and Easter, when we think of the death and resurrection of Jesus. On this particular Sunday, in our readings we are asked to think about this wonderful world in which we live. Not just how it is made but what is it all for. At the centre of all that is the person of Jesus.

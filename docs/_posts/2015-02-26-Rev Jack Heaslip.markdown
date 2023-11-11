@@ -5,8 +5,13 @@ date:   2015-02-26
 blurb: "This sermon is a tribute to Rev Jack Heaslip, a man who made a lasting impression on many people in various ways. It reflects on the faith that inspired him and that he shared so faithfully. The sermon also discusses the concept of faith, the journey of learning, and the hope we have in Christ of life, resurrection life, and eternal life."
 og_image: "/assets/img/posts/Rev Jack Heaslip.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Rev Jack Heaslip.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Rev Jack Heaslip.pdf)
 We gather here in St Mary’s in Howth for the funeral of Jack Heaslip, to honour the memory of a man who made a lasting impression on so many people in so many ways. Jack being Jack had certain views as to how his funeral was to be conducted – the sermon was to be short and it was not to focus on Jack Heaslip but on the Christian faith he lived and proclaimed in so many ways and in so many contexts.
 
 You are here today with your own memories of Jack that will speak far more eloquently to your hearts that any words I speak. We will take the time today to come before God with our own particular memories, our own particular thank givings. We will talk of faith but it is hard to talk of faith apart from the people in whom, through whom we experience it.

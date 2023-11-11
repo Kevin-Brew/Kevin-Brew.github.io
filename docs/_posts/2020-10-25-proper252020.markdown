@@ -5,8 +5,13 @@ date:   2020-10-25
 blurb: "In this sermon, Kevin draws parallels between political campaigns and the challenges Jesus faced from authorities. He emphasizes the greatest commandments: to love God and love our neighbor, as reflected in Jesus' teachings and actions. The sermon concludes with a call to embody these commandments through loving, self-giving service, inspired by Jesus washing the disciples' feet."
 og_image: "/assets/img/posts/proper252020.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper252020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper252020.pdf)
 PROPER 25 – Year A – 2020 – 5th Sunday before Advent
 
 Earlier this week, we witnessed the final debate between President Donald Trump and former Vice President Joe Biden before the United States goes to the polls to elect a President for the next four years. It has not been a particularly edifying campaign – our own political campaigns look remarkably sedate in comparison. At this stage in the campaign, people are on the lookout for something said in haste, some action that is inappropriate that will knock the candidate off balance, put him on the back foot, discredit him in front of the electorate.

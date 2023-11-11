@@ -5,8 +5,13 @@ date:   2019-05-19
 blurb: "In this sermon, Kevin discusses the importance of embracing change and loving one another. He uses the story of Peter's vision and the inclusion of Gentiles into the Christian Church as an example of how change can lead to growth and inclusivity. He emphasizes that love, particularly Christ-like love, should be the guiding principle in our interactions with others."
 og_image: "/assets/img/posts/easter52019.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/easter52019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/easter52019.pdf)
 There is the story of a man who came upon two workmen. One man was carefully digging holes at regular intervals along the roadside. The second man followed along behind, carefully filling in the holes. When the second man was asked what he was doing, he said; ‘Planting trees.’ ‘What do you mean? Where are the trees?’ ‘Well, you see, Ed here digs the holes; Chris puts in the trees; then I fill the holes. Unfortunately Chris is off sick.’
 
 A story of people locked into a way of doing things that cannot be changes, however circumstances may change. It is easy to laugh at a story like that and lose sight of how we can fall into the same trap. Things have always been this way, why change?

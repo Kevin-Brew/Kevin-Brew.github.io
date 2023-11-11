@@ -5,8 +5,13 @@ date:   2023-01-15
 blurb: "This sermon is a series of prayers, voicing concerns and seeking guidance from God. The prayers cover a range of topics, from the mission of the Church to global crises, to personal struggles and losses. The sermon emphasizes the importance of faith, encouragement, and the pursuit of what is right and just."
 og_image: "/assets/img/posts/epiphany22023 - Prayers.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany22023 - Prayers.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany22023 - Prayers.pdf)
 January 15th 2023 – Epiphany 2
 St Mark’s Ballysillan
 

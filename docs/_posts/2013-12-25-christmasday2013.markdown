@@ -5,8 +5,13 @@ date:   2013-12-25
 blurb: "This sermon, delivered on Christmas Day 2013, explores the theme of light overcoming darkness. Drawing on passages from John's Gospel and Matthew, it emphasizes the power of Jesus as the 'light of the world' and calls upon disciples to let their light shine before others. The sermon uses the imagery of the winter solstice and the stars to illustrate the enduring and far-reaching power of light."
 og_image: "/assets/img/posts/christmasday2013.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/christmasday2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/christmasday2013.pdf)
 What has come into being in him was life, and the life was the light of all people. The light shines in the darkness, and the darkness did not overcome it. John 1:4,5
 
 One thing that never ceases to amaze me is the sky at night. Close as we are to the city, we still have a wonderful view of the stars and planets on a clear night. The closest of the stars we are able to see is four light years away – meaning that it has taken four years for the light to travel to us. Others are hundreds, thousands, millions of light years away. This is all a reminder of the incredible scale of the universe of which we are but a small part. But there is also the fact that light, once emitted, travels through the darkness, pierces the void that is the darkness of outer space.

@@ -5,8 +5,13 @@ date:   2014-02-23
 blurb: "The sermon explores the speaker's journey from agnosticism to faith, driven by a fascination with the natural world and science. It discusses the concept of 'transfiguration', using the biblical story of Jesus' transfiguration as a metaphor for personal spiritual transformation. The sermon emphasizes the Christian life as a process of becoming more like Jesus, of growing into Christ."
 og_image: "/assets/img/posts/1beforelent2014.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/1beforelent2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/1beforelent2014.pdf)
 I have always had a fascination with the natural world about me, whether it be just looking into the night sky or at a sunset - or just the order of the physical world as revealed to us through science. It is this, as I have remarked before, that prompted me as I set out on my journey from teenage agnosticism towards faith. I often think back to my late 'A' Level Physics master, Howard Stockley. Howard was a devout Anglican. One afternoon, in the middle of a class, maybe someone has said something flippant, he turned on us and challenged our teenage atheism – don't tell me, he challenged us, that this is all just an accident. He went on to speak of order, of beauty, of purpose. I often look back to that class that afternoon as a turning point in my own spiritual growth, that took me somewhat nervously into my local Parish church.
 
 Shortly after this I came to Trinity and it was my privilege to study under Ernest Walton, Nobel Laureate and devout Methodist who had no problem combining a devout Christian faith with a brilliant scientific, enquiring mind. In those early years of my faith journey, I came to sense an "other" a deeper reality that lay behind such wonders as the beauty of the night sky, that amazing structure in each cell in my body called DNA that enabled me to grow from the tiniest speck in my mother's womb into this body I now possess. Over the years, I find myself identifying over and over again with the writer of Psalm 8 as he too stands in wonder at the world about him, that the God who brought it all into being should have a care and a concern for him.

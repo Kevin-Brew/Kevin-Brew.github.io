@@ -5,8 +5,13 @@ date:   2019-10-13
 blurb: "The sermon discusses the healing of ten lepers as narrated in St Luke's Gospel, emphasizing the gratitude shown by the lone Samaritan who returned to give thanks. The sermon highlights the transformative power of gratitude and the grace at the heart of true thankfulness. It encourages the practice of gratitude in daily life and a genuine concern for those less fortunate."
 og_image: "/assets/img/posts/proper232019.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper232019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper232019.pdf)
 This morning’s Gospel reading is that well-known account in St Luke’s Gospel of the healing of ten men who had leprosy, only one of whom, a Samaritan, a despised foreigner, returned to give thanks. There is a lot more to this passage than a lesson in good manners.
 
 So let us just take this passage a bit more slowly than we might otherwise do. Even in the modern world, leprosy still evokes strong reactions in the communities in which it is still found. It is still, mistakenly, assumed to be highly infectious. Sufferers are often seen to be under some kind of curse. Because of this sufferers are often banished from their communities. It is a disease that is feared and in its early stages often goes untreated. People are left disfigured, sometimes blind, sometimes losing limbs from associated infections. The leper was one to be kept at a distance.

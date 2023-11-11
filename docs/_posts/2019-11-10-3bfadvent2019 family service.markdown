@@ -5,8 +5,13 @@ date:   2019-11-10
 blurb: "Kevin's sermon on the 3rd Sunday before Advent in 2019 focuses on the themes of belonging, love, and the importance of community. He reflects on the assembly by 4th class on friendship and loneliness, and connects these ideas to Jesus' teachings on loving God and our neighbors. The sermon emphasizes the message of 'Little children, love one another,' as the core of Christian life and the expression of our belonging to God and each other."
 og_image: "/assets/img/posts/3bfadvent2019 family service.png"
 tags: Advent Proper Special_Occasions
----
-[Original PDF](/assets/pdf/3bfadvent2019 family service.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/3bfadvent2019 family service.pdf)
 3rd Sunday before Advent – Year C – 2019
 
 **Belonging**

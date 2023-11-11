@@ -5,8 +5,13 @@ date:   2011-01-21
 blurb: "In this sermon, delivered at the funeral of Leonard Harvey, the core message emphasizes the inherent value of every individual, regardless of their status in the world. It highlights the unique gifts each person brings to the world and underscores the significance of these contributions. The sermon also emphasizes that each individual is made in God's image and carries a piece of the divine, thereby possessing a dignity before God."
 og_image: "/assets/img/posts/Leonard Harvey.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Leonard Harvey.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Leonard Harvey.pdf)
 Funeral of Mr. Leonard Harvey - St Mary's - 21st January 2011
 
 In a world that puts a great deal of store on status, we often judge people by the house they live in, the car they drive or even, when they die, by the numbers who turn out for their funeral.

@@ -5,8 +5,13 @@ date:   2016-11-13
 blurb: "This sermon, delivered on the 2nd Sunday before Advent in 2016, reflects on the election of Donald Trump and the uncertainties that come with it. It draws parallels with other historical events and emphasizes the importance of faith and hope in times of change and uncertainty. The sermon also highlights the significance of Remembrance Sunday and the enduring power of God's purposes."
 og_image: "/assets/img/posts/proper282016.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper282016.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper282016.pdf)
 PROPER 28 – Year C – 2016 – 2nd Sunday before Advent.
 
 Last Wednesday morning, along with many others, I watched Donald Trump, as President elect of the United States, make his acceptance speech to supporters after Hilary Clinton had phoned him to offer her congratulations. It was something of a surreal moment. There were of course swift reactions. There was a very understandable jubilation among his supporters. International leaders sent messages of congratulation with varying degrees of enthusiasm. The stock markets had a period of panic but later recovered. Others in the United States were appalled and marched in protest to express their dismay.

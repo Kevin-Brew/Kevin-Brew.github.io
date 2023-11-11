@@ -5,8 +5,13 @@ date:   2019-06-30
 blurb: "This sermon discusses the concept of life as a journey, whether it be for pleasure, work, or desperation. It emphasizes the importance of having a plan, trustworthy companions, and faith in God. The sermon also highlights the baptism of two children, marking the beginning of their spiritual journey."
 og_image: "/assets/img/posts/proper82019 Baptism.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper82019 Baptism.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper82019 Baptism.pdf)
 I heard a lovely story at the coffee morning in the Parish Centre last Friday in aid of Miriam O’Callaghan’s trip to the Philippines. It was of a five year old child who was packing his suitcase for the holidays. Nothing unusual about that except for the fact the family were not going on their holidays for four weeks. The poor lad had heard his mother saying that he will be breaking up for holidays from School and then they will be going on their holidays. School had broken up – so why weren’t they going immediately?
 
 Of course, this is the season when people plan to go off on their holidays – some stay close at home some travel further away. But in each case we are planning a journey. What route are we going to take, where are we going to stay and what will we need to bring with us.

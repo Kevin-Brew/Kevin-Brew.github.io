@@ -5,8 +5,13 @@ date:   2023-01-04
 blurb: "This sermon is a heartfelt tribute to Roderick O'Dowd, reflecting on his life and the hope of eternal life through Jesus Christ. It emphasizes the unbreakable bond of love in Christ and the comfort of faith in times of loss. The sermon also acknowledges Roderick's love for nature and the importance of tending to the world we inhabit."
 og_image: "/assets/img/posts/Roderick O_Dowd - 4th Jan 2023 - prayers.png"
 tags: Conor_Diocese Funeral
----
-[Original PDF](/assets/pdf/Roderick O_Dowd - 4th Jan 2023 - prayers.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Roderick O_Dowd - 4th Jan 2023 - prayers.pdf)
 Funeral of Roderick O’Dowd – Prayers
 
 I am persuaded that neither death, nor life,

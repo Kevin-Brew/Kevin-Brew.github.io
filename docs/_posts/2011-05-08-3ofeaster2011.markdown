@@ -5,8 +5,13 @@ date:   2011-05-08
 blurb: "This sermon discusses the journey of faith, from doubt to belief, using the story of the disciples on the road to Emmaus as a metaphor. The sermon emphasizes the importance of being Christ for each other, listening and sharing in each other's pain, and the realization of Christ's presence in our lives."
 og_image: "/assets/img/posts/3ofeaster2011.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/3ofeaster2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/3ofeaster2011.pdf)
 3rd Sunday of Easter – 2011 –year A
 
 “We had hoped ....” Words to a stranger on the road; words spoken by someone for whom life had turned sour, whose dreams had been shattered, who was getting out of town. It is the start of what is for me one of the most telling of the resurrection experiences recounted in the Gospels. It is the account of a journey, a journey from doubt to faith, a journey of encounter with the Risen Christ.

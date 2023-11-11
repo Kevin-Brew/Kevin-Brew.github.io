@@ -5,8 +5,13 @@ date:   2019-08-04
 blurb: "Kevin's sermon reflects on the concept of mercy as an extravagant, gracious act that goes beyond justice, drawing from the story of a mother's plea to Napoleon for her son and the biblical texts from Hosea and the Psalms. It emphasizes God's enduring love and mercy, the steadfast love (chesed) that persists despite human disobedience. The sermon connects this Old Testament theme to the New Covenant through Jesus' incarnation, highlighting the transformative power of God's love and the call for believers to embody this love in the world."
 og_image: "/assets/img/posts/proper132019.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper132019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper132019.pdf)
 PROPER 13 – 2019 – Year C Trinity 7
 
 There is a story dating back to the Napoleonic wars. A young officer had been condemned to death for cowardice in the face of the enemy and was due to be shot the next day. The young man’s mother came to make one desperate plea for her son’s life to the Emperor himself, asking for mercy. Napoleon listened to her plea and simply replied, 'Madame, your son does not deserve mercy.' To which the woman replied, 'Sir, if he deserved mercy it would not be mercy.' It is a story that has always appealed to me – it underlines for me the extravagance of mercy, the sheer graciousness of mercy, to the point of going beyond what is just. This came to my mind as I read our Lesson from Hosea and the psalm appointed for today.

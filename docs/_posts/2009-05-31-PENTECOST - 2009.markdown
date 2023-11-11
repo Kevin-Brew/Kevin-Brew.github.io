@@ -5,8 +5,13 @@ date:   2009-05-31
 blurb: "This sermon, delivered on Pentecost 2009, discusses the role of the Holy Spirit in revealing truth, even when that truth is uncomfortable. The sermon references the Ryan Report and the Church of Ireland's self-examination for sectarianism, emphasizing the healing and liberating power of truth. It calls for openness to truth and responsiveness to it, for the betterment of society."
 og_image: "/assets/img/posts/PENTECOST - 2009.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/PENTECOST - 2009.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/PENTECOST - 2009.pdf)
 When we were first married we used to decorate our various flats with posters. One that always appealed to me was a picture of a rag doll being put through an old-fashioned mangle. The caption was a quotation from a 19th century American President, James Garfield, 'The truth will set you free – but first it will make you miserable'.
 
 Today, the Feast of Pentecost, we celebrate the coming of the Holy Spirit on the Church. The passage from the Acts of the Apostles paints a vivid picture – we are possibly a little uncomfortable with the images of tongues of fire, of rushing wind. The picture of the crowd, drawn from all parts of the Eastern Mediterranean, each hearing the Good News in their own tongue, suggests a picture of a reversal of the scattering of the nations at the Tower of Babel, prefigures the spread of the Gospel beyond the narrow confines of Palestine.

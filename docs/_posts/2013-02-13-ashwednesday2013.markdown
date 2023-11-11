@@ -5,8 +5,13 @@ date:   2013-02-13
 blurb: "In this sermon, Kevin reflects on the significance of Ash Wednesday and the journey of Lent. He explores the challenges and temptations that Jesus faced in the desert and relates them to the struggles we face in our own lives. He encourages us to follow Jesus' example of humility, service, and love."
 og_image: "/assets/img/posts/ashwednesday2013.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/ashwednesday2013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/ashwednesday2013.pdf)
 Jesus, you said to your disciples, 'Come follow me.' Lord Jesus, sometimes where you lead is hard to follow. If you are not there, how can we go? But you have promised to be with us, to the very end of time, to go ahead to prepare the way, to come back so that where you are, we may be also.
 
 Lord Jesus, we follow and you lead us into the desert. The desert, where you went to pray; the place where Jacob wrestled with God; the place where Moses met with God at the burning bush; the place where Elijah heard the still small voice. The desert – a place of encounter, of meeting, of encouragement. But when I am alone, this is a silent place, a place of alone-ness, a place of hunger, of thirst, of uncertain noises. The desert – a place of temptation, of spiritual trial, of vulnerability.

@@ -5,8 +5,13 @@ date:   2019-02-24
 blurb: "This sermon discusses the concept of a creation in disarray, drawing parallels between a manufacturer recalling faulty cars and the need for God's intervention in a flawed world. It emphasizes Jesus' authority over all aspects of a dysfunctional creation, as demonstrated through his miracles and healings. The sermon also explores the discomfort that can come with Jesus' presence and challenges, and the ultimate healing and restoration that follows."
 og_image: "/assets/img/posts/2ndbeforelent2019.png"
 tags: Epiphany Lent
----
-[Original PDF](/assets/pdf/2ndbeforelent2019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/2ndbeforelent2019.pdf)
 Every so often you will hear of a motor manufacturer announcing that they are recalling a number of particular cars. It would appear that a fault had developed in these vehicles that may put the owner at risk. It might be the brakes, it may be the airbags or steering. Whatever it is, the owners are advised that they should contact their nearest dealer who will arrange for remedial work to be done. What we have here is an example of a fault that requires the urgent attention and action of the manufacturer.
 
 This morning our Old Testament Lesson is part of the account of creation given in the second chapter of the Book Genesis. It is a picture of man in harmony with his maker and an evolving universe. Our Gospel reading is very different, with its themes of storm, of demons, of fear. It tells of Jesus confronting a creation in disarray.

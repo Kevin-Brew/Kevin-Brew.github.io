@@ -5,8 +5,13 @@ date:   2010-04-25
 blurb: "In this sermon, Kevin reflects on the deep sense of belonging that comes from following Jesus. He shares a personal story about a lost sheep that finds its way back to the flock, drawing parallels with our own spiritual journey. Kevin emphasizes the importance of listening and following Jesus, even when we don't fully understand His ways. He assures us of Jesus's protection and love, that nothing can separate us from."
 og_image: "/assets/img/posts/easter42010.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/easter42010.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/easter42010.pdf)
 4th Sunday of Easter – year C – 2013. 27My sheep hear my voice. I know them, and they follow me. John 10:27
 
 Whenever I read those words in St John’s Gospel my mind goes back to a hillside in Galilee. Rachel and I had lead a group to the Holy Land and this particular day had been spent on Lake Galilee. Towards the end of the day our group had celebrated communion on the hills overlooking the Lake. We were relaxing while we waited for our bus to come and collect us. As we sat there a shepherd came by, leading his flock. One of the younger sheep spotted something tasty by the side of the road and stopped to eat it. By the time it had finished, the rest of the flock had moved on. The poor thing looked up to see no flock or shepherd, just a bunch of complete strangers staring at it. Panic set it and it started bleating frantically. The shepherd, now some way off, heard the noise and called out. The sheep heard the familiar voice and ran off to join it. The shepherd had heard the cry for help and responded; the sheep recognised the familiar voice and headed towards it.

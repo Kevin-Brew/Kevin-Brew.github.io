@@ -5,8 +5,13 @@ date:   2015-09-27
 blurb: "Kevin's sermon reflects on the importance of recognizing God in every human being, drawing from a powerful example of a church window in Krakow depicting God with the face of a local beggar. He emphasizes Jesus' teachings on inclusion, as seen in the Gospel of Mark, where Jesus counters attempts to exclude with statements of inclusion. The sermon challenges us to be inclusive and generous, to look beyond boundaries and hierarchies, and to see the face of God in the poor and dispossessed."
 og_image: "/assets/img/posts/proper212015.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper212015.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper212015.pdf)
 PROPER 21 – Year B – 2015 – Trinity 17
 
 Last May, Rachel and I returned to the city of Krakow to visit my daughter-in-law's family. It was a lovely opportunity to visit this lovely city – we returned to many of the places we had seen before when we were there for Anthony and Angie's wedding. Angie's father had kindly made available to me a small car to enable us to get around Krakow – I tried one trip out and decided to stay on foot! One day we joined a walking tour and our guide took us to places we had not seen before. One was the Franciscan Church, opposite the Archbishop's Palace. It had been nearly destroyed by fire in the 1850's and had to be totally restored. The most notable feature of this Church is a collection of windows by the artist Stanislaw Wyspianski, the most striking is the West Window and depicts God in the act of creation.

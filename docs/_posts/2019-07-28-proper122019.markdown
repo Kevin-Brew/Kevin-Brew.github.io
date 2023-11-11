@@ -5,8 +5,13 @@ date:   2019-07-28
 blurb: "Kevin explores the concept of prayer as more than just talking to oneself. He delves into the expectations and feelings associated with unanswered prayers and the idea of 'thinking things through before God.' He discusses the different levels of thinking in prayer—passionate, compassionate, and responsible—and how these lead to action and a life aligned with God's purposes."
 og_image: "/assets/img/posts/proper122019.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper122019.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper122019.pdf)
 PROPER 12 – 2019 – Trinity 6
 
 I remember many years ago going to see a film one night starring Peter O’Toole, called 'The Ruling Class'. The story was a caricature of an English aristocratic family that had lost all touch with reality. The father, who longed for the return of Empire when foreigners knew their place dies suddenly in dubious circumstances and he is succeeded by his eldest son, a charming young man apart from the fact that he is convinced he is God. As the film progressed his understanding of who he was swung from what he perceived as the New Testament God of love and forgiveness and more towards the sterner, Old Testament God of judgement and punishment. During a stay in an upmarket, private clinic he was asked by his doctor why he thought he was God. To which he replied, 'I find that when I pray, I realise I am simply talking to myself.'

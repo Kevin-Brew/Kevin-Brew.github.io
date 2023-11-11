@@ -5,8 +5,13 @@ date:   2020-10-11
 blurb: "Kevin reflects on the Parable of the Great Banquet, emphasizing the themes of thankfulness and the pain of ingratitude. He draws parallels between the parable and our own experiences of being taken for granted. The sermon concludes with a call to respond to God's invitation to be part of His kingdom, to offer ourselves in love and service, and to live to His praise and glory."
 og_image: "/assets/img/posts/proper232020familycommunion.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper232020familycommunion.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper232020familycommunion.pdf)
 ### PROPER 23 – Year A – 2020 – Trinity 18
 
 Family Communion Service on Zoom

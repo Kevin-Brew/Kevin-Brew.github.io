@@ -5,8 +5,13 @@ date:   2021-04-15
 blurb: "This sermon is a tribute to Dorrie MacCann, a devoted wife, mother, and grandmother, and a central figure in her parish. Despite the challenges she faced in her later years, her faith remained strong. Her life is celebrated and her contributions to her family and community are remembered fondly."
 og_image: "/assets/img/posts/Dorrie MacCann.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Dorrie MacCann.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Dorrie MacCann.pdf)
 Funeral of Dorrie MacCann – Howth – 15th April 2021
 
 Dorrie MacCann – where do we begin? Norman, Lyndon, Adrian and Melanie and their families remember a devoted wife, mother, grandmother – a rock in all their lives. We as a Parish remember one who was at the very heart of this place. First and foremost, regular in public worship. Her worship of Almighty God here each Sunday was an essential element of her weekly routine. In the full of their health, Norman and Dorrie would have been here every Sunday – apart of course from the holidays they enjoyed together. A faith that worked itself out in so many ways in individual acts of care to wider family and community.

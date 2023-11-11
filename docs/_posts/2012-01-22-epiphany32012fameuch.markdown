@@ -5,8 +5,13 @@ date:   2012-01-22
 blurb: "This sermon explores the transformation of Simon into Peter, as told in the Gospel of Mark. It uses the metaphor of an egg hatching into a swan to illustrate the potential for change and growth within each individual. The sermon emphasizes that God sees beyond our external appearances and values the inherent goodness within us."
 og_image: "/assets/img/posts/epiphany32012fameuch.png"
 tags: Epiphany
----
-[Original PDF](/assets/pdf/epiphany32012fameuch.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/epiphany32012fameuch.pdf)
 Epiphany 3 - 2012 – Year B - Family Eucharist
 
 'You are Simon – you will be called Peter.' This is from John’s account of the calling of Simon that we read from Mark’s Gospel. What was the difference between the Simon that Jesus first encountered and the Peter at the end of the story.

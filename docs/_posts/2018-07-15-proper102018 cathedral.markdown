@@ -5,8 +5,13 @@ date:   2018-07-15
 blurb: "Kevin reflects on the importance of understanding the broader context of scripture, using the story of John the Baptist's death as a focal point. He emphasizes the tension between the values of God's Kingdom and worldly values, and the inner conflict we face in reconciling our Christian aspirations with our human frailty. The sermon calls for a recognition of our ambiguities and a commitment to service and healing through Christ."
 og_image: "/assets/img/posts/proper102018 cathedral.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper102018 cathedral.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper102018 cathedral.pdf)
 PROPER 10 – 2018 – Year B – Trinity 7 – Christchurch Cathedral
 
 I remember when I was at school, a friend pointed out an advertisement in the 'Readers Digest' for a speed reading course. The ad featured a testimonial by an American comedian who said, "After taking this speed reading course, I read Tolstoy's 'War and Peace' in four hours – it's about Russia." He had, if you like, got the big picture, even if the finer details had passed him by.

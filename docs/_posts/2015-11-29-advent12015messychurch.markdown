@@ -5,8 +5,13 @@ date:   2015-11-29
 blurb: "In this sermon, Kevin uses the metaphor of a mirror reflecting light to explain the role of Jesus as the light of the world. He emphasizes the importance of keeping our faces turned towards Jesus and not letting anything come between us and Him. This way, we can reflect His light to the entire world."
 og_image: "/assets/img/posts/advent12015messychurch.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent12015messychurch.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent12015messychurch.pdf)
 Have you ever sat outside on a bright sunny day and used a mirror to reflect the sun’s light? If one of you will take this flashlight and shine it on me I will show you what I mean. You see, as the light shines on me, I hold up my mirror and I can reflect the light to shine on you. I am not the light, I am just letting my mirror reflect the light to shine on you.
 
 If I am going to reflect the light on you, there are a couple of things that are very important:

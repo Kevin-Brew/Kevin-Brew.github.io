@@ -5,8 +5,13 @@ date:   2011-06-12
 blurb: "In this sermon, Kevin explores the concept of the Holy Spirit and its role in inspiring all that is good in mankind. He discusses how the Holy Spirit enables us to become more like Christ and how our love, concern, and service for one another should mirror Christ's love for us. He emphasizes the intertwining of love and obedience, and how our adherence to what is right should be rooted in love."
 og_image: "/assets/img/posts/pentecost2011.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/pentecost2011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/pentecost2011.pdf)
 Feast of Pentecost – 2011 – year A
 
 It has often been said that pets become more like their owner – or is it the other way round? Whichever way you take it, what is meant is that the long term association, the long term companionship has its effect in affecting change in one party or the other.

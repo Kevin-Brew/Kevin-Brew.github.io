@@ -5,8 +5,13 @@ date:   2019-10-10
 blurb: "This sermon is a tribute to Anna Kenny, who had a long association with the Wallace family and passed away after a brief illness. The sermon reflects on Anna's life, her qualities, and the memories she left behind. It also discusses the concept of love and its enduring nature, as described by St. Paul in his letter to the Corinthians."
 og_image: "/assets/img/posts/Anna Kenny.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Anna Kenny.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Anna Kenny.pdf)
 On Tuesday I heard from Vincent Wallace that Anna Kenny, who had a long association with the Wallace family, had died and the process of planning her funeral got under way.
 
 Anna, though of a good age, had kept remarkable health over the years. Then recently she developed a chest infection which when investigated further showed she was seriously ill. She died just four weeks later in Beaumont hospital very much as she had lived, quietly and without fuss. A bereavement, however much we may anticipate it, always carries with it a sense of shock, of loss, of sadness. Someone who has been so much part of our lives is now gone and a gap is left that no one else can fill in quite the same way. It is also a time of a gathering together of memories, the things that made a loved one special, their talents, their weaknesses, their love, their humour, their gentleness. As we gather these memories, our remembering promotes thankfulness, gratitude, to the one we have lost, to God himself. And there is a lot to be thankful for.

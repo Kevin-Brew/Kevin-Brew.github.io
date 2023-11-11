@@ -5,8 +5,13 @@ date:   2012-03-11
 blurb: "This sermon emphasizes the importance of recognizing our unique talents and using them to serve God and others. It highlights the significance of the commandments as the 'maker's instructions' for leading a righteous life. The sermon also reminds us that we are all made in God's image and should strive to reflect His light in our daily lives."
 og_image: "/assets/img/posts/lent32012famserv.png"
 tags: Lent
----
-[Original PDF](/assets/pdf/lent32012famserv.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/lent32012famserv.pdf)
 Show video clip of 'Dog Music'
 
 There are things that we are good at and things we aren't. Examples of things people are good at and not good at – running & ice skating. Sometimes we say someone was made to be a runner, a singer, a doctor. If we have a real talent someone will tell us to go and take lessons, go and get trained.

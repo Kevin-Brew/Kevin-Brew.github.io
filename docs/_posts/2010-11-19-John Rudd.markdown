@@ -5,8 +5,13 @@ date:   2010-11-19
 blurb: "This sermon is a tribute to Mr. John Rudd, a man of great pride in his family and achievements. Despite his declining health, he fought bravely and continued to attend church services. He was a man of great interest in sports and held a significant position in his professional life. His life is celebrated with affection and thanksgiving."
 og_image: "/assets/img/posts/John Rudd.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/John Rudd.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/John Rudd.pdf)
 Funeral of Mr John Rudd – Howth – 19th November 2010
 
 My first memory of Mr John Rudd is at the evening service here in St Mary’s at which he was a regular attender for as long as he was able, sitting alongside his life long friend Derek Moody and Don Jermyn.

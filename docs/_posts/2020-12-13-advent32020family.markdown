@@ -5,8 +5,13 @@ date:   2020-12-13
 blurb: "In this sermon, Kevin discusses the importance of signposts in life, both literal and metaphorical. He talks about the people who have acted as signposts in his life, guiding him in his faith and personal development. He also emphasizes the role of parents and godparents as signposts in a child's life, guiding them in their faith and personal development. Finally, he uses the story of John the Baptist to remind us of our role as signposts, pointing others to Jesus."
 og_image: "/assets/img/posts/advent32020family.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent32020family.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent32020family.pdf)
 As I was walking along the Fisherman’s Pier in Howth the other day, I came across a large Christmas decoration outside one of the fish shops. It is in the form of a large sleigh pulled by white reindeer. At the back of the sleigh there is a sign post pointing vaguely north out beyond Ireland’s Eye, indicating the North Pole is 4000 odd miles away.
 
 Signposts are important to us. If you get to a crossroads it is good to see a clear sign pointing to the place you are looking for.

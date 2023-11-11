@@ -5,8 +5,13 @@ date:   2012-12-21
 blurb: "This sermon is a tribute to Tom Stanley, a beloved member of the church community, who passed away on 21st December 2012. The sermon reflects on Tom's life, his values, and his commitment to the church. It also offers comfort and hope to the grieving family, reminding them of the Christian faith's promise of eternal life."
 og_image: "/assets/img/posts/Tom Stanley.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Tom Stanley.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Tom Stanley.pdf)
 Funeral of Tom Stanley – 21st December 2012 - Howth
 
 I recall in my early times here in Howth calling on the house of Tom and Anne Stanley in Offington Park. I was coming looking for some advice. We went out and sat in the garden and Tom listened to what I had to say and in that gentle manner we will all associate with Tom Stanley he gave me very sound advice. We come here today for the funeral of this gentle man, Tom Stanley, husband to Anne, father to Roger, Robert, Christopher and David, brother to Ina and Helen, grandfather and friend to many. The family have already shared their memories and reflections on Tom, his life, his values, the value he placed on relationships.

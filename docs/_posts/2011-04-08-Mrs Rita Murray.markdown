@@ -5,8 +5,13 @@ date:   2011-04-08
 blurb: "This sermon is a tribute to Mrs. Rita Murray, who is remembered for her love, hard work, and love of animals. It reflects on her life, her family, and her faith. The sermon also discusses the concept of mortality and the hope of resurrection, drawing parallels with the Easter season."
 og_image: "/assets/img/posts/Mrs Rita Murray.png"
 tags: Funeral
----
-[Original PDF](/assets/pdf/Mrs Rita Murray.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Mrs Rita Murray.pdf)
 Funeral of Mrs Rita Murray – 8th April 2011
 
 Some time ago Bardis contacted me to talk about future funeral arrangements for her uncle Leonard and her mother, Rita Murray. Not so very long ago we gather here for the funeral of Leonard Harvey, today we gather for Rita’s. Brother and sister had early associations with this area when their parents came to live on the Claremont Road. On marriage, Rita continued to live on the Claremont Road, looking after her parents. When her husband and herself retired from business they moved into Sutton Park where she continued to live until moving into sheltered accommodation in Glenageary and then into the Nursing Home near Swords.

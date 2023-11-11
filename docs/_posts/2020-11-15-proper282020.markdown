@@ -5,8 +5,13 @@ date:   2020-11-15
 blurb: "Kevin's sermon reflects on the true treasures of the Church, drawing parallels between the story of St. Lawrence and the Parable of the Talents. He emphasizes the importance of community, interdependence, and using our gifts in service to God. The sermon encourages us to see each other as treasures of the Church, to support and uplift one another, and to live out the Gospel in our daily lives."
 og_image: "/assets/img/posts/proper282020.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper282020.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper282020.pdf)
 PROPER 28 – 2020 – Year A – 2nd Sunday before Advent
 
 Two weeks ago, on All Saints Day you may recall that I drew your attention to the East Window in St Mary’s Church in Howth, given in memory of the last Earl of Howth. This morning I want to begin by returning to that window. At the centre of that window is the figure of the risen and ascended Christ. Surrounding him are a number of figures associated with the history of the Church, the Apostles, saints of the Irish Church and others. Among these is the figure of St Lawrence, reflecting the history of the St Lawrence family in Howth Castle over the last 800 years. For me there is a rather nice personal connection, in that my home Parish Church in Northfield, Birmingham is dedicated to St Lawrence.

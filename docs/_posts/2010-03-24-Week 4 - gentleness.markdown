@@ -5,8 +5,13 @@ date:   2010-03-24
 blurb: "This sermon is part of a series on the Fruits of the Spirit, focusing on gentleness. It discusses how gentleness and self-control are not innate, but are fruits of the Spirit that come from allowing God's Holy Spirit to live and work within us. It emphasizes that Christian life is not always easy, and that it involves pain, sacrifice, and misunderstanding. The sermon also explores the barriers to gentleness, such as pride and wilfulness."
 og_image: "/assets/img/posts/Week 4 - gentleness.png"
 tags: Lent Mid_Week
----
-[Original PDF](/assets/pdf/Week 4 - gentleness.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Week 4 - gentleness.pdf)
 # Fruits of the Spirit: Gentleness
 
 This sermon is part of a series on the Fruits of the Spirit as listed by Paul: love, joy, peace, patience, kindness, generosity, faithfulness, gentleness, and self-control. We have looked at Love, joy, patience as we find them in Scripture, as we find them in God – attributes we should expect to see in ourselves as we seek to follow God.

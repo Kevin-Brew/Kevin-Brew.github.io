@@ -5,8 +5,13 @@ date:   2016-05-15
 blurb: "This sermon celebrates the baptism of a child named Cass on the Feast of Pentecost, which is also considered the birthday of the Church. The sermon emphasizes the role of the Holy Spirit in helping us become more like Jesus, embodying his qualities of wisdom, compassion, love, and forgiveness. It encourages us to reveal the 'lovely person' within us, guided by the Holy Spirit."
 og_image: "/assets/img/posts/pentecost2016family.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/pentecost2016family.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/pentecost2016family.pdf)
 PENTECOST – year C – 2016
 
 This morning we are celebrating with a family as they bring Cass to Church for Baptism. What lies ahead for her? What talents, what potential are in this beautiful child? Already part of her own family – she will learn what it is to grow up as a member of the Bradley and Blackhurst families. Today, on this Feast of Pentecost, Cass is being welcomed into the family of the Church.

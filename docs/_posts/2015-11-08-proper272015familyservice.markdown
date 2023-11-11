@@ -5,8 +5,13 @@ date:   2015-11-08
 blurb: "Kevin reflects on the importance of the spirit in which we give, rather than the amount. He shares a touching story of 'Bert', who despite his own hardships, gave his Christmas disability bonus to those in need. The sermon emphasizes that our offerings, whether they be money, time, or compassion, are valuable to God and can make a significant difference in the lives of others."
 og_image: "/assets/img/posts/proper272015familyservice.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper272015familyservice.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper272015familyservice.pdf)
 ### 3rd Sunday before Advent – Proper 27 – Year B – 2015 – Family Service
 
 Every Sunday we gather here in Church we do a number of things. We sing hymns, we hear the Bible read, we pray, and we contribute to running the parish – my salary, upkeep of Church building, payment of Youth Work, giving to charity. This is much more than just paying our bills – it's part of our worship, part of saying thank you to God for all the blessings we enjoy. In Old Testament times, there was the idea of the tithe – people would have given a tenth of all they earned to God.

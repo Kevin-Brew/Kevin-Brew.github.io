@@ -5,8 +5,13 @@ date:   2017-04-16
 blurb: "This sermon explores the story of the two disciples on the road to Emmaus on the first Easter Day. It discusses their initial confusion and despair, and how their encounter with the risen Jesus, initially unrecognized, brings them comfort and understanding. The sermon emphasizes the importance of honesty with God in times of pain and confusion."
 og_image: "/assets/img/posts/3ofeaster2017 - not used.png"
 tags: Easter
----
-[Original PDF](/assets/pdf/3ofeaster2017 - not used.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/3ofeaster2017 - not used.pdf)
 While they were talking and discussing, Jesus himself came near and went with them, but their eyes were kept from recognizing him. Luke 24:15
 
 The opening greeting in our services on Easter Morning is 'The Lord is risen; He is risen indeed. Alleluia'. This reminds me of the custom in Russia in the time of the Czars. On Easter morning the Czar would come out of his chamber and greet the guard at the door with the words 'The Lord is risen!' To which the guard would reply, 'He is risen indeed!'. The two men would embrace each other. It was the only occasion of the year when the Czar would have physical contact with any of the lower orders.

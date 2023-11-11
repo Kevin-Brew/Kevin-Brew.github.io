@@ -5,8 +5,13 @@ date:   2014-12-28
 blurb: "This sermon, delivered on the Feast of the Holy Innocents in 2014, reflects on the human nature of Jesus Christ and his identification with humanity. Drawing from a sermon by Desmond Tutu, it emphasizes the message of God's understanding of human frailty and his promise to redeem. The sermon also discusses the story of the slaughter of the innocents, reminding us of the world's distance from God and the resistance to the message of Christ in the corridors of power."
 og_image: "/assets/img/posts/holyinnocents2014.png"
 tags: Christmas
----
-[Original PDF](/assets/pdf/holyinnocents2014.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/holyinnocents2014.pdf)
 In the study at home I have a book by Desmond Tutu, that remarkable man who found himself as Bishop of Johannesburg and Archbishop of Capetown in South Africa in those crucial years of the end of apartheid and the beginning of new era in South Africa. He always reminded me of the Old Testament prophet who spoke truth to power. he was a thorn in the flesh of the white governments and has continued to be a thorn in the flesh for ANC governments. I just want to begin this morning with words from a sermon he preached in Johannesburg Cathedral in the early 1980’s. Words that form the basis of what lay behind his passion for justice and human rights in his native South Africa.
 
 > The God whom we worship is wonderfully transcendent – St John in his Gospel sums it all up by saying ‘God is Spirit’. Yet when this God wanted to intervene decisively in the affairs of man, he did not come as a spiritual being. He did not come as an angel. No, he became a human being. He came in a really human and physical way – his mother became pregnant, and he was born a helpless baby, depending on mother and father for protection, for food, for love and teaching. When they looked for him in the houses of the kings and the high and mighty, he was born in a stable, as one of the lowly and despised. He worked as a village carpenter, knowing what it meant for his mother to lose a coin, to sweep out the house diligently by candle light until she found the lost coin and rejoiced at the finding.

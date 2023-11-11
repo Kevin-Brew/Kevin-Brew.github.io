@@ -5,8 +5,13 @@ date:   2013-06-16
 blurb: "Kevin discusses the importance of witness in the Christian faith, using the story of Elijah and the clash of cultures in the Old Testament as a backdrop. He emphasizes the need for Christians to live as disciples of Christ, bearing witness not only with words but also through their lives. The sermon also touches on the themes of inclusion, forgiveness, and self-awareness, contrasting the judgmental attitude of Simon the Pharisee with the welcoming and forgiving approach of Jesus."
 og_image: "/assets/img/posts/proper62013.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper62013.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper62013.pdf)
 PROPER 6 – 2013 – year C – Trinity 3
 
 As I said a couple of weeks ago, during these Sundays of the season of Trinity we are, in the course of our Old Testament readings following some of the big stories of the Old Testament. We are currently following the story of Elijah who lived and worked in the Kingdom of Israel after the break up of the Kingdom of Israel following the death of Solomon. Ahab was king, married to Jezebel, who was of Phoenician origin. Jezebel had brought different religious practices with her to Samaria and a different understanding about royal power and prerogatives.

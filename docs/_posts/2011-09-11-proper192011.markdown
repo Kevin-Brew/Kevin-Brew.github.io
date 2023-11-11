@@ -5,8 +5,13 @@ date:   2011-09-11
 blurb: "The sermon marks the beginning of a new Sunday School year, emphasizing the importance of the community's support for the teachers and students. It highlights the role of Sunday School in teaching children about being followers of Jesus Christ, the significance of forgiveness, and integrating with the larger church community. The sermon also notes changes to make services more accessible for children and the exemplary dedication of the Sunday School teachers."
 og_image: "/assets/img/posts/proper192011.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper192011.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper192011.pdf)
 ## Proper 19 – 2011 – Year A – Trinity 12
 
 ### Start of Sunday School Year

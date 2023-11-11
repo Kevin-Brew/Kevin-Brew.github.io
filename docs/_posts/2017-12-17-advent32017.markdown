@@ -5,8 +5,13 @@ date:   2017-12-17
 blurb: "This sermon, delivered on the third Sunday of Advent in 2017, discusses the expectations of the coming of a Messianic figure during the time of John the Baptist. It emphasizes the importance of recognizing Christ in our daily lives and the special place of the poor and marginalized in the Kingdom of God. The sermon calls for hope, integrity, reconciliation, and compassion in a fractured world."
 og_image: "/assets/img/posts/advent32017.png"
 tags: Advent
----
-[Original PDF](/assets/pdf/advent32017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/advent32017.pdf)
 ADVENT 3 – Year B – 2017
 
 Among you stands one whom you do not know, John 1:26

@@ -5,8 +5,13 @@ date:   2017-11-19
 blurb: "Archbishop Jackson delivers a sermon on the occasion of the dedication of St Mary’s Church in Howth. He commends the parish for their respect and love for the church, and encourages them to continue their efforts. He reflects on the history of Christianity in Ireland and the heritage of the parish, urging them to claim their heritage and continue their spiritual journey. He also discusses the upcoming 150th anniversary of Disestablishment and the need for the church to avoid self-generosity."
 og_image: "/assets/img/posts/Archbishop Jackson - Dedication of Church 19 Nov 2017.png"
 tags: 
----
-[Original PDF](/assets/pdf/Archbishop Jackson - Dedication of Church 19 Nov 2017.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/Archbishop Jackson - Dedication of Church 19 Nov 2017.pdf)
 Service of Thanksgiving for St Mary’s Church Howth on Sunday 19th November 2017, The Second Sunday before Advent. Psalm 127: Unless the Lord builds the house, those who built in labour in vain.
 
 I wish to thank the rector The Reverend Canon Kevin Brew and all members of this parish along with the architect and the builder for the work completed in St Mary’s to such a high standard. This work we cherish and it is a mark of your respect and love for this pace and for all that happens in it and flows from it. You have done good things here and I wish to encourage you to continue to develop this initiative and this energy and this openness to others and to change for the future.

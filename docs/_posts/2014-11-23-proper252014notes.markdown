@@ -5,8 +5,13 @@ date:   2014-11-23
 blurb: "Kevin's sermon reflects on the covenant between God and His people, emphasizing the themes of obedience, blessing, and being a holy nation. The sermon draws from various biblical texts to illustrate the idea that God's people are called to a special relationship with Him, marked by justice, kindness, and humility. The sermon also touches on the concept of being made in God's image and the responsibility that comes with it."
 og_image: "/assets/img/posts/proper252014notes.png"
 tags: Proper Special_Occasions
----
-[Original PDF](/assets/pdf/proper252014notes.pdf)    
+---    
+<div class="tag-pills">
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="tag-pill">{{ tag }}</a>
+    {% endfor %}
+</div>
+[Original PDF](/assets/pdf/proper252014notes.pdf)
 Exodus 19:5,6
 > 5 Now therefore, if you obey my voice and keep my covenant, you shall be my treasured possession out of all the peoples. Indeed, the whole earth is mine, 6 but you shall be for me a priestly kingdom and a holy nation. These are the words that you shall speak to the Israelites.
 

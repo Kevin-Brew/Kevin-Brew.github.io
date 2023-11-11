@@ -18,8 +18,9 @@ def create_image(prompt, outpath):
                "represents the main message from the following sermon:" +
                prompt,
         size="1024x1024",
-        quality="standard",
+        quality="hd",
         n=1,
+        style="vivid"
     )
     image_url = response.data[0].url
     data = requests.get(image_url)

@@ -1,0 +1,10 @@
+{
+    "title": "Harvest Children Cards",
+    "date": "Unknown",
+    "blurb": "Kevin talks about the journey of different ingredients used in our daily meals. He highlights the distances they travel from various parts of the world to our tables, emphasizing the global interconnectedness of our food supply.",
+    "raw_text": "Kevin discusses the journey of various ingredients. Flour for base travels 8000 km from North America. Tomatoes travel 1500 km from Italy. Pineapples travel 7000 km from Kenya. Black Pepper travels 8000 km from India. Mozzarella Cheese also travels 1500 km from Italy.",
+    "request": {
+        "file_name": "raw/sermons archive//Sermons/Special Occasions/harvestchildren cards.txt",
+        "raw_ocr_content": "Flour for base\n8000 km from North\nAmerica\nTomatoes\n1500 km from Italy\nPineapples\n7000 km from Kenya\nBlack Pepper\n8000 km from India\nMozzarella\nCheese\n1500 km from Italy"
+    }
+}

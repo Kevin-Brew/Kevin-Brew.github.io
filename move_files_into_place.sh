@@ -11,3 +11,4 @@ DIRECTORY="$1"
 find raw -type f \( -name "*.markdown" \) -exec cp {} ./docs/_posts/ \;
 find raw -type f \( -name "*.pdf" \) -exec cp {} ./docs/assets/pdf/ \;
 find raw -type f \( -name "*.png" \) -exec cp {} ./docs/assets/img/posts/ \;
+find raw -type f \( -name "*.json" \) -exec cp {} ./docs/assets/json/ \;

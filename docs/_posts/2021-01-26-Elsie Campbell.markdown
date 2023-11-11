@@ -4,6 +4,7 @@ title:  "Cycle of Life"
 date:   2021-01-26
 blurb: "This sermon, delivered at the funeral of Mrs Susan Magan, reflects on the cycle of life, drawing parallels between the rhythms of gardening and human existence. It emphasizes the importance of letting go, and the hope of a fuller life beyond death. The sermon also pays tribute to Susan's quiet and reserved nature, her love for her garden, and her special memories of summers in Kerry."
 og_image: "/assets/img/posts/Elsie Campbell.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Elsie Campbell.pdf)    
 We gather here today in Dardistown for the Funeral of Susan Magan. But for Covid 19, this service would have taken place in St Mary’s where Susan worshipped. True to her nature as a very private person she would have slipped in and out. Here may friends would have joined you her family to thank God for Susan and to support you, her immediate family, in your loss.

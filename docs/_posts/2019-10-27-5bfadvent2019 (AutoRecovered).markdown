@@ -4,6 +4,7 @@ title:  "New Beginnings and Humility"
 date:   2019-10-27
 blurb: "Kevin reflects on the theme of new beginnings, drawing inspiration from the words of Queen Elizabeth and President McAleese, and the parables of the Pharisee and the Tax Collector, and the Prodigal Son. The sermon emphasizes the importance of honesty, self-reflection, and the mercy of God, who welcomes us back with open arms, encouraging us to walk humbly and seek forgiveness."
 og_image: "/assets/img/posts/5bfadvent2019 (AutoRecovered).png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/5bfadvent2019 (AutoRecovered).pdf)    
 5th Sunday before Advent - Year C – 2019 – short thoughts for 9:00

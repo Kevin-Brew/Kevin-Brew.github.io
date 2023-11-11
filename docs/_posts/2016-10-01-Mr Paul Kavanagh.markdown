@@ -4,6 +4,7 @@ title:  "Remembering Paul Kavanagh"
 date:   2016-10-01
 blurb: "This sermon was given at the funeral of Paul Kavanagh, a beloved member of the community who passed away suddenly. It reflects on Paul's life, his passions, and the impact he had on those around him. The sermon also offers words of comfort and hope, reminding us of the Christian belief in life triumphant over death."
 og_image: "/assets/img/posts/Mr Paul Kavanagh.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mr Paul Kavanagh.pdf)    
 Funeral of Paul (PK) Kavanagh – 1st October 2016 – St Mary’s

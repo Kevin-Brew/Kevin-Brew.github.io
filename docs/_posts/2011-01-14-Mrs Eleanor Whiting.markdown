@@ -4,6 +4,7 @@ title:  "Eleanor Whiting's Funeral"
 date:   2011-01-14
 blurb: "This sermon is a tribute to the life of Mrs. Eleanor Whiting, a woman of quiet sincere faith, who was a regular at the 9:30 service. She was a nurse, a wife, a mother, and a grandmother. Despite her health challenges in her later years, she maintained her independence and interest in life. The sermon also reflects on the Christian understanding of death and the hope of resurrection."
 og_image: "/assets/img/posts/Mrs Eleanor Whiting.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Eleanor Whiting.pdf)    
 When I first came here as Rector in 2005 I quickly came to recognise the different atmosphere of our two morning services. The quieter atmosphere of the 9:30 with its smaller numbers; the 11:00 with its larger numbers and greater sense of movement. One of the regulars at the 9:30 in those early days until relatively recently would have been Mrs Eleanor Whiting. Smartly dressed, cheerful, quietly spoken, a lady with a quiet sincere faith. When I went to visit her in her home in Corr Castel she spoke with obvious pride of her late husband Sydney and their children, Gerald, John, Robert, Elizabeth and Peter.

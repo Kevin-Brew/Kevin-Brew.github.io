@@ -4,6 +4,7 @@ title:  "Reflections on Parish Anniversaries"
 date:   2016-10-13
 blurb: "Kevin reflects on the dual anniversary of the Parish of Howth, marking 200 years since the old church and 150 years of the new church. He emphasizes the importance of embracing change while honoring the past, and addresses the challenges of declining attendance and financial contributions. He calls for unity and innovation in the face of necessary maintenance and the intimate nature of upcoming worship during church repairs."
 og_image: "/assets/img/posts/Easter Vestry 2016.png"
+tags: Easter Vestry
 ---
 [Original PDF](/assets/pdf/Easter Vestry 2016.pdf)    
 EASTER GENERAL VESTRY 2016

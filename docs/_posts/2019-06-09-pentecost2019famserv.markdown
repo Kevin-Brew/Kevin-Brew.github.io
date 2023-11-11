@@ -4,6 +4,7 @@ title:  "Pentecost 2019 - Family Service"
 date:   2019-06-09
 blurb: "This sermon discusses the role of the Holy Spirit in enabling and empowering individuals, drawing parallels with how mentors and teachers help to bring out the best in their students. It uses the story of a young boy's musical journey to illustrate how God works within us, drawing out our potential and helping us to reflect His glory. The sermon concludes with a reminder of our ultimate goal to become more like Jesus Christ."
 og_image: "/assets/img/posts/pentecost2019famserv.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/pentecost2019famserv.pdf)    
 PENTECOST 2019 – Family Service – Year C – 2019

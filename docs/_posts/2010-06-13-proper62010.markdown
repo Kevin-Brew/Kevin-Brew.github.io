@@ -4,6 +4,7 @@ title:  "Reflection on Community"
 date:   2010-06-13
 blurb: "Kevin's sermon explores the concept of community within the church, emphasizing the importance of love and sacrifice as demonstrated through actions. He narrates a story of a couple's selfless love at Christmas, using it as a metaphor for the church's call to embody Christ's teachings. The sermon challenges the church to actively show concern for the marginalized and to be agents of reconciliation, reflecting Christian values in society."
 og_image: "/assets/img/posts/proper62010.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper62010.pdf)    
 ## Trinity 2 – 2010

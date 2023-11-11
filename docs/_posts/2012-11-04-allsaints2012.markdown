@@ -4,6 +4,7 @@ title:  "All Saints Day Reflection"
 date:   2012-11-04
 blurb: "Kevin's sermon on All Saints Day emphasizes the celebration of the 'foot soldiers' of the Church and the Christian understanding of sainthood. It reflects on the calling to discipleship in baptism and the hope found in the ultimate triumph of good over evil as depicted in the book of Revelation. The sermon also explores the presence of God in daily life and in times of pain, as illustrated by the story of Lazarus."
 og_image: "/assets/img/posts/allsaints2012.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/allsaints2012.pdf)    
 ALL SAINTS – year B – 2012

@@ -4,6 +4,7 @@ title:  "Remembering Muriel Robinson"
 date:   2016-04-29
 blurb: "This sermon is a touching tribute to Mrs. Muriel Robinson, who passed away in 2016. It recounts her life, her love for people, and her dedication to her family and community. The sermon emphasizes her contentment in life and her faith, inspiring others to find peace and prioritize faith in their own lives."
 og_image: "/assets/img/posts/Mrs Muriel Robinson.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Muriel Robinson.pdf)    
 Funeral of Mrs Muriel Robinson – 29th April 2016

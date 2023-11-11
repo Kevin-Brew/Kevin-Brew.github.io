@@ -4,6 +4,7 @@ title:  "Advent 4 - Year C"
 date:   2018-12-23
 blurb: "The sermon reflects on the message of new beginnings, drawing parallels between the story of Noah and the prophecy of Micah. It emphasizes the significance of seemingly insignificant places like Bethlehem and Nazareth in the story of Jesus. The Magnificat, a song of reversal, is highlighted as a symbol of the humble being lifted and the powerful being brought low."
 og_image: "/assets/img/posts/advent42018.png"
+tags: Advent
 ---
 [Original PDF](/assets/pdf/advent42018.pdf)    
 We have read as our Old Testament Lesson that passage from Micah that we will be reading at our Carol Service this evening. Micah was writing in the closing years of the 8th century BC. The Northern Kingdom of Judah had been over run, the Kingdom of Judah and its capital Jerusalem was expected to follow suit. Micah saw all this in terms of God’s judgement on a people who had betrayed their divine call. This passage, with its reference to ‘Bethlehem of Ephrathah, one of the little clans of Judah’, recalls the very beginnings of the monarchy, the anointing of David. The prophet is speaking of new beginnings, a fresh start for a people, for a kingdom that has brought itself to the edge of destruction.

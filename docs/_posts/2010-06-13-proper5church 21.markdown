@@ -4,6 +4,7 @@ title:  "Church 21: Adapting to Change"
 date:   2010-06-13
 blurb: "In this sermon, Kevin discusses the importance of adapting to change, using the metaphor of a battleship changing course. He highlights how the Church, like society, has had to adjust to new realities, such as multiculturalism, secularism, and technological advancements. He also outlines the efforts of the Church of Ireland's Parish Development Organisation, Church 21, to respond to these changes."
 og_image: "/assets/img/posts/proper5church 21.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper5church 21.pdf)    
 Start with 'battleship' video clip. This raises the issue of the importance of responding to changing situations, new insights, new information. Politicians in the UK have had to come to terms with the new political realities of hung Parliaments and Coalitions. We have all been affected to a greater or lesser extent by the financial downturn. Governments have had to be more proactive in control of banks and financial institutions. Reduced incomes, drop in house prices & negative equity – we have had to change our way of doing things. Purchase of new car, meals out, trips away have been scaled back – like the battleship we have had to change course.

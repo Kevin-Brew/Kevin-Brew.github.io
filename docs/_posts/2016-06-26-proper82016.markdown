@@ -4,6 +4,7 @@ title:  "First Step of Faith"
 date:   2016-06-26
 blurb: "This sermon discusses the importance of taking the first step in faith, using the example of St. Augustine's struggle with his faith. It emphasizes that we are not meant to walk this path alone, but with God's guidance and strength. The sermon encourages us to live freely, motivated by God's Spirit, and to keep in step with the Spirit on our journey of faith."
 og_image: "/assets/img/posts/proper82016.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper82016.pdf)    
 PROPER 8 – Trinity 5 –Year C - 2016

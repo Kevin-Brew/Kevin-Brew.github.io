@@ -4,6 +4,7 @@ title:  "Value of Individuals"
 date:   2011-01-21
 blurb: "In this sermon, delivered at the funeral of Leonard Harvey, the core message emphasizes the inherent value of every individual, regardless of their status in the world. It highlights the unique gifts each person brings to the world and underscores the significance of these contributions. The sermon also emphasizes that each individual is made in God's image and carries a piece of the divine, thereby possessing a dignity before God."
 og_image: "/assets/img/posts/Leonard Harvey.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Leonard Harvey.pdf)    
 Funeral of Mr. Leonard Harvey - St Mary's - 21st January 2011

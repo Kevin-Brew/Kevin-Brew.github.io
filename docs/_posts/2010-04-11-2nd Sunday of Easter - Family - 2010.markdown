@@ -4,6 +4,7 @@ title:  "Learning and Understanding"
 date:   2010-04-11
 blurb: "This sermon discusses the different ways and times people come to understand things, using the example of Jesus' followers understanding His resurrection. It emphasizes the importance of patience and not making others feel foolish during their learning process. The sermon also highlights the value of intergenerational learning and the different expressions of faith."
 og_image: "/assets/img/posts/2nd Sunday of Easter - Family - 2010.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/2nd Sunday of Easter - Family - 2010.pdf)    
 Has someone learned to do something new recently – how to swim, how to ride a bike? Sometimes we get it straight away, sometimes it might take us a bit longer – while we are learning it is important people don’t make us feel foolish.

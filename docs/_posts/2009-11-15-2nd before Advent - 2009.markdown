@@ -4,6 +4,7 @@ title:  "Discernment and Change"
 date:   2009-11-15
 blurb: "Kevin reflects on the importance of discernment in the face of change, drawing parallels between the disciples' amazement at the Temple and modern reactions to historical events like the fall of the Berlin Wall. He emphasizes the need to understand the significance of events and to question our values and the way we live, especially in times of societal upheaval."
 og_image: "/assets/img/posts/2nd before Advent - 2009.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/2nd before Advent - 2009.pdf)    
 2nd Sunday before Advent – 2009 – year B

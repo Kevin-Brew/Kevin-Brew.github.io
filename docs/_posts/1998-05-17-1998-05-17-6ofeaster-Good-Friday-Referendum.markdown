@@ -4,6 +4,7 @@ title:  "Good Friday Referendum"
 date:   1998-05-17
 blurb: "Kevin discusses the upcoming referendum, encouraging members of the church to read the agreement, pray about it, and make their decision based on truth, not deceit. He emphasizes that members can vote either way with equal integrity. He also criticizes the misuse of scripture and the exploitation of victims in the debate."
 og_image: "/assets/img/posts/1998-05-17-6ofeaster-Good-Friday-Referendum.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/1998-05-17-6ofeaster-Good-Friday-Referendum.pdf)    
 During this past week I was in Dublin attending the General Synod of the Church of Ireland. This body, with delegates drawn from every diocese of our Church, is ultimately responsible for the governance of the Church of Ireland. This year there were a number of issues being discussed. These included the reorganisation of Diocesan boundaries, mainly in the Republic; developments in our liturgy which will result in the publication of a single prayer book for the Church including both the traditional and revised services, the layout of a new hymn book as well as ongoing concerns such as the Church's involvement in education, in mission (both home and overseas) and more mundane issues such as the clergy pension fund - the retirement age for clergy is at long last being reduced to 65.

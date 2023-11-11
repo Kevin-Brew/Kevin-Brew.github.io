@@ -4,6 +4,7 @@ title:  "Sacrificial Giving and Remembrance"
 date:   2006-11-12
 blurb: "Kevin reflects on the theme of sacrificial giving, drawing from the story of the widow's mite and a personal encounter with a generous couple from his parish. He connects this to the act of remembrance for those who sacrificed their lives in conflict, urging the congregation to consider how they respond to the sacrifices of others. The sermon emphasizes the Christian call to live in the self-emptying love of Christ, as exemplified by Jesus' humility and obedience."
 og_image: "/assets/img/posts/3rd before Advent - 2006.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/3rd before Advent - 2006.pdf)    
 3rd Sunday before Advent - year B - 2006 - morning service

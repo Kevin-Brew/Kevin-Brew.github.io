@@ -4,6 +4,7 @@ title:  "Embracing the Spiritual Wind"
 date:   2009-06-07
 blurb: "In his sermon for Trinity Sunday 2009, Kevin draws an analogy between sailing and the spiritual life, emphasizing the need to work with the power of the Spirit rather than trying to control it. He reflects on the elusiveness of the Spirit and the importance of attentive passivity, being open to God's guidance without preconceived ideas. The sermon also touches on the doctrine of the Trinity and the limitations of human understanding in defining God."
 og_image: "/assets/img/posts/TRINITY SUNDAY - 2009.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/TRINITY SUNDAY - 2009.pdf)    
 One of the pleasures of coming to live in Howth is the opportunity it has afforded me to get out onto the water. The basic points of sailing, let alone the finer points, are still something of a mystery to me but I have a fascination with the power of the water, of the wind. Sailing is clearly a matter not of domination of that power but rather one of working with, harnessing that power.

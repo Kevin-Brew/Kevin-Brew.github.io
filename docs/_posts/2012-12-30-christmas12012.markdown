@@ -4,6 +4,7 @@ title:  "Christmas Reflections"
 date:   2012-12-30
 blurb: "This sermon reflects on the meaning and purpose of Christmas, and the arrival of Jesus into the world. It explores the puzzlement of Mary at the events surrounding Jesus' birth and growth, and invites us to reflect on who Jesus is. The sermon also hints at the future journey towards Good Friday and Easter, symbolizing death and resurrection."
 og_image: "/assets/img/posts/christmas12012.png"
+tags: Christmas
 ---
 [Original PDF](/assets/pdf/christmas12012.pdf)    
 Christmas is coming and goose is getting fat. Please put a penny in the old man’s hat. So runs the jingle I remember from my own childhood. I would suspect that the goose, or whatever graced your Christmas table, has been plucked clean and whatever pennies we had before Christmas have been well and truly depleted. Each year I would suspect we all ask at some stage or another, ‘What is it all for?’ and yet we have enjoyed the celebration, the coming together and the fact we make it that bit special with our special foods and other treats.

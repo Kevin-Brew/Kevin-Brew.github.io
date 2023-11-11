@@ -4,6 +4,7 @@ title:  "Meekness and Majesty"
 date:   2021-03-28
 blurb: "This sermon explores the themes of Palm Sunday and the days that follow, focusing on the apparent contradictions in the nature of Jesus Christ. It discusses the meekness and majesty of Jesus, and how understanding both aspects is crucial to understanding his identity and the events of Holy Week. The sermon also delves into the mystery of Jesus' suffering and the depth of God's love."
 og_image: "/assets/img/posts/palmsunday2021.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/palmsunday2021.pdf)    
 I recall many years ago, when studying physics at school, we began looking more closely at the phenomenon of light. Now we tend to assume that light travels in straight lines yet there are things we come across that show us that it is a bit more complicated than that, such as the rainbow pattern you get when light shines on a CD.

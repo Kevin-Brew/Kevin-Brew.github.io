@@ -4,6 +4,7 @@ title:  "Heroes of Faith"
 date:   2014-09-28
 blurb: "In this sermon, Kevin explores the concept of heroes, not just for their accomplishments, but for their character. He highlights figures like Brian O'Driscoll and Katie Taylor, who exemplify determination and sportsmanship, serving as models to aspire to. The sermon also touches on reconciling faith with science, and the significance of the cross in Christian belief."
 og_image: "/assets/img/posts/proper212014famcommunion.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper212014famcommunion.pdf)    
 ## PROPER 21 – 2014 – Year A – Family Communion

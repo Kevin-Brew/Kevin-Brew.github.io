@@ -4,6 +4,7 @@ title:  "Remembering Mr. Pat Curley"
 date:   2017-11-22
 blurb: "This sermon is a tribute to Mr. Pat Curley, who passed away suddenly. It reflects on his life, his faith, and the impact he had on those around him. The sermon also offers comfort and support to those mourning his loss, reminding them of the enduring presence of God in times of sorrow."
 og_image: "/assets/img/posts/Mr Pat Curley.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mr Pat Curley.pdf)    
 Funeral of Mr Pat Curley – 22nd November 2017

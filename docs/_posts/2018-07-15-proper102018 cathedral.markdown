@@ -4,6 +4,7 @@ title:  "The Bigger Picture"
 date:   2018-07-15
 blurb: "Kevin reflects on the importance of understanding the broader context of scripture, using the story of John the Baptist's death as a focal point. He emphasizes the tension between the values of God's Kingdom and worldly values, and the inner conflict we face in reconciling our Christian aspirations with our human frailty. The sermon calls for a recognition of our ambiguities and a commitment to service and healing through Christ."
 og_image: "/assets/img/posts/proper102018 cathedral.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper102018 cathedral.pdf)    
 PROPER 10 – 2018 – Year B – Trinity 7 – Christchurch Cathedral

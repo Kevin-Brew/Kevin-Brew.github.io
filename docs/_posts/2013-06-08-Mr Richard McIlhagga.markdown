@@ -4,6 +4,7 @@ title:  "Value in God's Eyes"
 date:   2013-06-08
 blurb: "This sermon, delivered at the funeral of Mr Richard McIlhagga, emphasizes the inherent value of individuals in the eyes of God. It discusses how the world may judge people by their material possessions, but in God's eyes, each person is valuable and unique. The sermon concludes with a prayer for peace and comfort for the bereaved family."
 og_image: "/assets/img/posts/Mr Richard McIlhagga.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mr Richard McIlhagga.pdf)    
 In a world that puts a great deal of store on status, we often judge people by the house they live in, the car they drive or even, when they die, by the numbers who turn out for their funeral.

@@ -4,6 +4,7 @@ title:  "Hospitality in Interesting Times"
 date:   2019-09-22
 blurb: "In these interesting times marked by division and uncertainty, this sermon calls for the practice of hospitality. Drawing from the teachings of Jesus and the nature of God as love, it encourages openness and generosity towards all, especially those who are different or marginalized. It also highlights a community project to welcome a Syrian refugee family, embodying the sermon's message of inclusive love and hospitality."
 og_image: "/assets/img/posts/proper202019.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper202019.pdf)    
 PROPER 20 – Year C – 2019 – Trinity 14

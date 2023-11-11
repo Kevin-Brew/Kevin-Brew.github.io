@@ -4,6 +4,7 @@ title:  "Easter Day 2016"
 date:   2016-03-27
 blurb: "In this sermon, Kevin reflects on the Easter story, the resurrection of Jesus Christ, and its significance in the world today. He emphasizes the triumph of life and light over death and darkness, drawing parallels with current events such as the centenary of the Easter Rising and the attacks in Brussels. He encourages listeners to shine as lights in their communities and to reach out in compassion and understanding."
 og_image: "/assets/img/posts/easter2016.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/easter2016.pdf)    
 And in your light we shall see light Psalm 36 v 9. We have just read as our Gospel from John’s Gospel, chapter 20. Last Friday night we had those sombre words from John 19, as he presented his picture of the death of our Lord Jesus Christ on the Cross. On Good Friday we were left in darkness, Jesus dying on the cross, ridiculed by his enemies, deserted by all but a few of his friends. His body is deposited in a borrowed tomb. It seems to be the end. To his friends it is the end of a dream, their hopes, their dreams of God’s kingdom breaking into the world. To his enemies it seemed to be the end, the end of a dangerous radical, a troublemaker, a heretic.

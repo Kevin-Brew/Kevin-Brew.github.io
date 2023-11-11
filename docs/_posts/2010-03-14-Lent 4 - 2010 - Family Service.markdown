@@ -4,6 +4,7 @@ title:  "Mothering Sunday"
 date:   2010-03-14
 blurb: "This sermon, delivered on Mothering Sunday in 2010, explores the concept of home and the role of mothers. It emphasizes the importance of living together, loving together, and learning together. The sermon also underscores the significance of mothers, who often go unnoticed and taken for granted, in shaping our lives."
 og_image: "/assets/img/posts/Lent 4 - 2010 - Family Service.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/Lent 4 - 2010 - Family Service.pdf)    
 Show model of a house. What is difference between a house and a home? House is the building – might be big or small – set in Howth or Darndale. Home is about not just the building but the people who live there. One of the insights of the writer of Genesis is when he writes of God, having brought into being all the wonders of creation, saying ‘It is not good for man to be alone’. God has made us to live together – home is where we learn the complicated business of living with others: the simple things, sharing meals, sharing tasks, relaxing together, playing together – the importance of understanding, of consideration.

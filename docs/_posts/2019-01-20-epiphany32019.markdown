@@ -4,6 +4,7 @@ title:  "Interconnectedness and Compassion"
 date:   2019-01-20
 blurb: "In this sermon, Kevin uses the game of Jenga as a metaphor for interconnectedness within the community. He emphasizes the importance of compassion, which he defines as the courage to see, feel, and act. He also highlights the significance of each individual's contribution to the community, likening the absence of a person to a missing block in a Jenga tower that weakens the structure."
 og_image: "/assets/img/posts/epiphany32019.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany32019.pdf)    
 Over the last few years, a feature of our Fete has been the various games overseen by our Youth Clubs that are set up near the entrance. One year there was a large game of Jenga. The game begins with a tower constructed of simple smooth oblong blocks. One by one the players remove the blocks until the removal of one of them causes the tower to collapse.

@@ -4,6 +4,7 @@ title:  "Values and Vision"
 date:   2010-11-14
 blurb: "In this sermon, Kevin discusses the importance of understanding our values as a faith community, which are greatly influenced by our perception of God. He explores the correlation between a person's social and theological attitudes and their perception of God. He also uses the story from Victor Hugo's 'Les Miserables' to illustrate the values of forgiveness and redemption."
 og_image: "/assets/img/posts/2nd beforeadvent2010.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/2nd beforeadvent2010.pdf)    
 Last Sunday, when Paul Hoey of Church 21, the Church of Ireland Parish Development programme, was with us, he was challenging us to reflect on how we see ourselves as a Church. As he reflected on Jesus’ washing of his disciples’ feet, he focussed on a vocation of service, ourselves as a servant community, serving Christ, serving others in the name of Christ.

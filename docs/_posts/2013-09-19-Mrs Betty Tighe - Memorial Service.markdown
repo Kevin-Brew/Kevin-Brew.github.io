@@ -4,6 +4,7 @@ title:  "Memorial Service for Mrs Betty Tighe"
 date:   2013-09-19
 blurb: "This sermon is a memorial service for Mrs Betty Tighe, a beloved member of the community who passed away suddenly. The sermon is a celebration of her life, her love for her family, and her passion for golf. It also reflects on the preciousness of life and the importance of expressing love and not taking each other for granted."
 og_image: "/assets/img/posts/Mrs Betty Tighe - Memorial Service.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Betty Tighe - Memorial Service.pdf)    
 We have come here today to remember before God Mrs Betty Tighe, to comfort one another, particularly her husband Teddy and their children David and Janice and the extended family. Betty’s death in Italy was sudden and unexpected. The difficulties the family have experienced in bringing her ashes home have added an extra edge to their loss and sadness.

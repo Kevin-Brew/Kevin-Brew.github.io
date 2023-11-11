@@ -4,6 +4,7 @@ title:  "Born of the Spirit"
 date:   2017-03-12
 blurb: "In this family service for the second Sunday of Lent, Kevin explores the conversation between Jesus and Nicodemus, emphasizing the concept of being 'born again' and the significance of the Holy Spirit. He reflects on the importance of personal relationships with God, symbolized by the prayer of Confirmation. The sermon also touches on understanding Jesus as a teacher, friend, and healer, and the transformative power of the cross."
 og_image: "/assets/img/posts/lent22017 - family service.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent22017 - family service.pdf)    
 LENT 2 – 2017 – Year A

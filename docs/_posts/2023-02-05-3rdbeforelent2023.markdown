@@ -4,6 +4,7 @@ title:  "Politics and Religion"
 date:   2023-02-05
 blurb: "The sermon discusses the intersection of politics and religion, emphasizing the importance of Christian values in the political process. It highlights the need for justice, integrity, and concern for the marginalized in society. The sermon also explores the concept of covenant in the context of political order, suggesting a partnership between the governed and the governing."
 og_image: "/assets/img/posts/3rdbeforelent2023.png"
+tags: Epiphany Lent
 ---
 [Original PDF](/assets/pdf/3rdbeforelent2023.pdf)    
 3rd Sunday before Lent – 2023- year A – Booterstown and Mount Merrion

@@ -4,6 +4,7 @@ title:  "Mothering Sunday"
 date:   2010-03-14
 blurb: "This sermon, delivered on Mothering Sunday in 2010, explores the concept of home and the role of mothers. It emphasizes the importance of living together, loving together, and learning together. It also highlights the crucial role of mothers in nurturing, understanding, and caring for their families."
 og_image: "/assets/img/posts/lent42010.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent42010.pdf)    
 Lent 4 – 2010 – Mothering Sunday – Family Service

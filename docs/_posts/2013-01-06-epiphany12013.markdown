@@ -4,6 +4,7 @@ title:  "Power of the Spirit"
 date:   2013-01-06
 blurb: "This sermon, delivered on the 1st Sunday after the Epiphany in 2013, discusses the power of the Holy Spirit and its role in the world. The sermon draws parallels between the power of natural phenomena like lightning and the power of the Holy Spirit, emphasizing the Spirit's unpredictability and potential for massive impact. It also highlights the role of the Church in pointing to Christ and the Spirit's role in guiding and empowering the Church."
 og_image: "/assets/img/posts/epiphany12013.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany12013.pdf)    
 1st Sunday after the Epiphany – 2013 – year C

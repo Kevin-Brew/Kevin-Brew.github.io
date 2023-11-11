@@ -4,6 +4,7 @@ title:  "Anticipation and Significance"
 date:   2015-03-22
 blurb: "This sermon discusses the themes of anticipation and significance, drawing parallels between events like a solar eclipse and the Six Nations matches to the anticipation and significance of the coming of Jesus Christ. It explores the prophetic words of hope and new beginnings from Jeremiah, and the expectation of a messianic figure who would restore the Kingdom of Israel. The sermon ends with a powerful quote from C.S. Lewis about the divinity of Jesus."
 og_image: "/assets/img/posts/lent52015.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent52015.pdf)    
 Earlier this week we witnessed a rare spectacle (unless we found ourselves under cover of cloud) – a near complete solar eclipse. Even if we did not see the full spectacle, the sky got darker, it got cooler – and you could see why earlier societies, without our scientific understanding of the process, would have been very much in awe of this sudden, unexpected darkening of the sun.

@@ -4,6 +4,7 @@ title:  "Love at Full Stretch"
 date:   2021-03-14
 blurb: "This sermon focuses on the concept of 'love at full stretch', drawing parallels between the love of a parent and the love of God. It emphasizes the importance of forgiveness, just as the Lord has forgiven us, and the graciousness of love. The sermon also reflects on the unconditional love experienced at home, which serves as our first encounter with such love."
 og_image: "/assets/img/posts/lent42021 family service.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent42021 family service.pdf)    
 Lent 4 – Year B – 2021 – Family Service

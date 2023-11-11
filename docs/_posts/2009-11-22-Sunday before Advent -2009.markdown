@@ -4,6 +4,7 @@ title:  "Stir Up Sunday Reflection"
 date:   2009-11-22
 blurb: "Kevin reflects on the significance of the Sunday before Advent, known as 'Stir Up Sunday'. He emphasizes the importance of preparing for the Incarnation and the serious business of living in the light of Christ's coming. The sermon ties the end of the Church's year to the themes of Christ the King, the gift of God's love, and our priestly vocation in response to the Incarnation."
 og_image: "/assets/img/posts/Sunday before Advent -2009.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/Sunday before Advent -2009.pdf)    
 ## Sunday before Advent - 2009 - Year B

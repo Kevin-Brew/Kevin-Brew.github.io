@@ -4,6 +4,7 @@ title:  "The Road to Emmaus"
 date:   2017-04-16
 blurb: "This sermon explores the story of the two disciples on the road to Emmaus on the first Easter Day. It discusses their initial confusion and despair, and how their encounter with the risen Jesus, initially unrecognized, brings them comfort and understanding. The sermon emphasizes the importance of honesty with God in times of pain and confusion."
 og_image: "/assets/img/posts/3ofeaster2017 - not used.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/3ofeaster2017 - not used.pdf)    
 While they were talking and discussing, Jesus himself came near and went with them, but their eyes were kept from recognizing him. Luke 24:15

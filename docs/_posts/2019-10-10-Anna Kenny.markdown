@@ -4,6 +4,7 @@ title:  "Funeral of Anna Kenny"
 date:   2019-10-10
 blurb: "This sermon is a tribute to Anna Kenny, who had a long association with the Wallace family and passed away after a brief illness. The sermon reflects on Anna's life, her qualities, and the memories she left behind. It also discusses the concept of love and its enduring nature, as described by St. Paul in his letter to the Corinthians."
 og_image: "/assets/img/posts/Anna Kenny.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Anna Kenny.pdf)    
 On Tuesday I heard from Vincent Wallace that Anna Kenny, who had a long association with the Wallace family, had died and the process of planning her funeral got under way.

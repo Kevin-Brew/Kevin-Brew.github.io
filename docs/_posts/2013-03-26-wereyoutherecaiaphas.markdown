@@ -4,6 +4,7 @@ title:  "Were You There: Caiaphas"
 date:   2013-03-26
 blurb: "This sermon, part of the Holy Week series, focuses on the character of Caiaphas, the High Priest, during the crucifixion of Jesus. It explores the religious establishment's reaction to Jesus and the tragic inability of Caiaphas to recognize Jesus as the Messiah. The sermon emphasizes the importance of taking the claims of Jesus seriously and warns against indifference."
 og_image: "/assets/img/posts/wereyoutherecaiaphas.png"
+tags: Holy_Week Lent
 ---
 [Original PDF](/assets/pdf/wereyoutherecaiaphas.pdf)    
 HOLY WEEK 2013-03-26 'Were you there when they crucified my Lord?' (2) Caiaphas

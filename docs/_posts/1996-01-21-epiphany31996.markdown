@@ -4,6 +4,7 @@ title:  "Epiphany 3 - 1996"
 date:   1996-01-21
 blurb: "In this sermon, Kevin discusses the importance of not letting our attachments to people, places, and traditions distract us from our commitment to God. He uses his experiences with different churches and congregations to illustrate this point. He emphasizes the urgency of Jesus' call to follow Him and the importance of focusing on the message of the Gospel rather than the preacher."
 og_image: "/assets/img/posts/epiphany31996.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany31996.pdf)    
 “Rector, if this church closes you will never see me in church again”. A vivid memory from an unforgettable meeting with the Select Vestry of Rosenallis, one of the Mountmellick Group of Parishes.

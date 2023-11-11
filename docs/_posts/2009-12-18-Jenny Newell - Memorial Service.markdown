@@ -4,6 +4,7 @@ title:  "Memorial Service - Jenny Newell"
 date:   2009-12-18
 blurb: "This sermon was given at the memorial service of Jenny Newell. It speaks of the light and hope in the face of the tragic loss, and the comfort and assurance found in the love of God. The sermon also highlights the importance of remembering Jenny not just for the tragic events, but for who she was as a mother, daughter, sister, and friend."
 og_image: "/assets/img/posts/Jenny Newell - Memorial Service.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Jenny Newell - Memorial Service.pdf)    
 It is now a month since we gathered in the Chapel at Glasnevin for Jenny’s funeral. On that day Fred and her son Karl lit a candle and placed it on Jenny’s coffin. It was, I said at the time, a sign of light and hope and peace.

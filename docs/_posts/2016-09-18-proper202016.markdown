@@ -4,6 +4,7 @@ title:  "The Heart of God Revealed"
 date:   2016-09-18
 blurb: "Kevin's sermon explores the deep connection between God's love and judgement through the lens of the prophet Jeremiah. It highlights how God's chastening is an expression of His love, akin to a parent's concern for their child. The sermon emphasizes the recurring theme of redemption in the Bible, where God's people are given new beginnings despite their disobedience, culminating in the ultimate act of love and redemption through Jesus Christ."
 og_image: "/assets/img/posts/proper202016.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper202016.pdf)    
 Proper 20 – 2016 – Year C Trinity 17

@@ -4,6 +4,7 @@ title:  "Divine Reflection"
 date:   2016-02-07
 blurb: "This sermon discusses the teachings of St Gregory Nazianzen, emphasizing the importance of introspection and connection with God. It highlights the belief in the Trinity and the full humanity of Christ. The sermon encourages us to strive to be like Christ, as he became like us."
 og_image: "/assets/img/posts/presentationofchrist2016 - notes.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/presentationofchrist2016 - notes.pdf)    
 St Gregory Nazianzen wrote:

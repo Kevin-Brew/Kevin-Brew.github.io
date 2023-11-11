@@ -4,6 +4,7 @@ title:  "Remembering Ethel Morrison"
 date:   2023-08-29
 blurb: "This sermon is a tribute to Ethel Morrison, a woman of faith and service. It highlights her love for her family, her dedication to nursing, and her active participation in church activities. The sermon draws parallels between Ethel's life and the Apostle's advice to Timothy, emphasizing her pursuit of righteousness, godliness, faith, love, endurance, and gentleness."
 og_image: "/assets/img/posts/Ethel Morrison - Aug 29 2023.png"
+tags: Conor_Diocese Funeral
 ---
 [Original PDF](/assets/pdf/Ethel Morrison - Aug 29 2023.pdf)    
 We have come here this afternoon for the funeral of Ethel Morrison. Her sister Anne has shared with us her memories of Ethel as sister, of the family’s pride in her many achievements in the field of nursing and her zest for life. She grew up in a loving and supportive family. That was a love that was freely and generously returned in the care she would give to her parents, to her uncle, to her brother. It is lovely to hear of the family’s love for her, a love that spanned the generations, of her brothers and sisters, their families and grandchildren.

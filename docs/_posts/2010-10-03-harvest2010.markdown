@@ -4,6 +4,7 @@ title:  "Harvest Thanksgiving"
 date:   2010-10-03
 blurb: "The sermon discusses the concept of Harvest Thanksgiving, its origins, and its relevance in the modern world. It emphasizes the importance of stewardship of the Earth and the need for balance between work and rest, drawing from the Biblical concept of Sabbath. The sermon also highlights the responsibility each individual has towards the environment and the choices we make in our daily lives."
 og_image: "/assets/img/posts/harvest2010.png"
+tags: Harvest Special_Occasions
 ---
 [Original PDF](/assets/pdf/harvest2010.pdf)    
 HARVEST THANKSGIVING – Howth – 3rd October 2010

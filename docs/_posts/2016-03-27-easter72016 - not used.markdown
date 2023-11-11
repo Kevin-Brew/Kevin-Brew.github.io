@@ -4,6 +4,7 @@ title:  "Invitation to Journey"
 date:   2016-03-27
 blurb: "The sermon discusses the concept of invitation and welcome, relating it to the journey of faith. It draws on passages from the Book of Revelation, highlighting the ultimate triumph of good over evil. The sermon emphasizes the importance of embarking on this journey with God, which begins with the sacrament of Baptism."
 og_image: "/assets/img/posts/easter72016 - not used.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/easter72016 - not used.pdf)    
 ‘Why don’t you come over for a meal?’ An invitation that would have been offered to us when we move into a new area.. Or ‘Lovely to see you – why don’t you come on in?’ Come over, come on in – words of welcome, words of invitation.

@@ -4,6 +4,7 @@ title:  "Pilate's Questions"
 date:   2011-04-22
 blurb: "In this sermon, Kevin explores the conflict between Pilate and Jesus, and the different concepts of Kingship they represent. He highlights the short-term considerations that often govern our actions and the importance of recognizing Jesus as a King. He emphasizes the Kingdom Jesus represents, based on service, righteousness, repentance, forgiveness, and reconciliation, and the offer of forgiveness and reconciliation even in the midst of condemnation."
 og_image: "/assets/img/posts/goodfriday2011.png"
+tags: Holy_Week Lent
 ---
 [Original PDF](/assets/pdf/goodfriday2011.pdf)    
 Holy Week – 2011 – Pilate’s Questions

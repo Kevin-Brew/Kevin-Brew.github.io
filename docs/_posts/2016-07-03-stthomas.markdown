@@ -4,6 +4,7 @@ title:  "Faith in Progress"
 date:   2016-07-03
 blurb: "Kevin reflects on the journey of faith using the example of St. Thomas, emphasizing that faith is a work in progress, not a finished product. He highlights the importance of patience and inclusion within the church community, especially as a young child is welcomed into the fellowship through baptism. The sermon encourages understanding and personal growth in faith, drawing parallels between the disciples' experiences and our own spiritual journey."
 og_image: "/assets/img/posts/stthomas.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/stthomas.pdf)    
 St Thomas' Day – Trinity 6 – year C – 2016

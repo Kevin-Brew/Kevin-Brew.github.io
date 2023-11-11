@@ -4,6 +4,7 @@ title:  "Power of the Spirit"
 date:   2010-01-10
 blurb: "In this sermon, Kevin explores the power of the Spirit, drawing parallels between the unpredictable and uncontrollable nature of the wind and the Holy Spirit. He emphasizes the role of the Church in pointing to Christ and the importance of being open to and responsive to the Spirit. The sermon also touches on the concept of being baptized in the Spirit that leads and empowers."
 og_image: "/assets/img/posts/Epiphany 1 - 2010 - not used.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/Epiphany 1 - 2010 - not used.pdf)    
 1st Sunday of Epiphany – 2010 – year C

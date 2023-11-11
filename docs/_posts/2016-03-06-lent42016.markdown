@@ -4,6 +4,7 @@ title:  "Mothering Sunday"
 date:   2016-03-06
 blurb: "This sermon, delivered on the 4th Sunday of Lent, also known as Mothering Sunday, explores the feminine aspects of God's love. Drawing from personal experiences and biblical references, the sermon emphasizes the nurturing, understanding, and unending love of God, likened to a mother's love for her child."
 og_image: "/assets/img/posts/lent42016.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent42016.pdf)    
 As a mother comforts her child, so I will comfort you; you shall be comforted in Jerusalem. Isa 66:13

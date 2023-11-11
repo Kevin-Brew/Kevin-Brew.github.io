@@ -4,6 +4,7 @@ title:  "Crisis and Redemption"
 date:   2016-08-07
 blurb: "Kevin's sermon reflects on the historical crises faced by Jerusalem, drawing parallels with personal and communal crises of faith and society. He emphasizes the intertwined nature of judgment and redemption in the biblical narrative, and the constant opportunity for new beginnings offered by God. The core message is about living in accordance with God's covenant, seeking justice, and embracing God's mercy and grace for a life of faithfulness."
 og_image: "/assets/img/posts/proper142016.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper142016.pdf)    
 In AD 70, at a time of deepening crisis in the city of Jerusalem, Rabbi Hanina, then Deputy High Priest in the Temple, said 'Pray for the welfare of the government, for were it not that the people stood in fear of it, they would swallow one another alive.' Rabbi Hanina served during the last days of the Second Temple, prior to its final destruction by the Romans in the year 70 AD. During that period the historian Josephus tells us of the people of Jerusalem locked in bitter internal conflict.

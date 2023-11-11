@@ -4,6 +4,7 @@ title:  "Imperfections and Grace"
 date:   2020-03-01
 blurb: "This sermon, delivered on the first Sunday of Lent in 2020, explores the theme of human imperfection and God's grace. It reflects on the fallibility of even the most respected figures, such as Jean Vanier, and the ability of God to work through flawed individuals. It emphasizes the understanding and mercy of Jesus, who experienced human life and its challenges."
 og_image: "/assets/img/posts/lent12020.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent12020.pdf)    
 LENT 1 – Year A – 2020

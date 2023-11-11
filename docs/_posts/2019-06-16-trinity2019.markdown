@@ -4,6 +4,7 @@ title:  "Trinity Sunday 2019"
 date:   2019-06-16
 blurb: "On Trinity Sunday 2019, Kevin discusses the concept of God as the Father, Son, and Holy Spirit. He emphasizes the importance of understanding God not just as a creator, but as a being in a relationship with us. He also highlights the importance of living in harmony with our creator and the world he created."
 og_image: "/assets/img/posts/trinity2019.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinity2019.pdf)    
 Today is Trinity Sunday, when we think upon God as Father Son and Holy Spirit. It is a day on which the preacher can tie him or herself in knots (and probably the congregation as well) as they get lost in closely argued philosophical speculation. As for myself I see it as one of those days for standing back and taking a look at the big picture, for thinking of the wonder of God, the wonder of this world and our place in it.

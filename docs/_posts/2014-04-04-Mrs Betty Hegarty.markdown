@@ -4,6 +4,7 @@ title:  "Remembering Betty Hegarty"
 date:   2014-04-04
 blurb: "This sermon is a tribute to the life of Mrs. Betty Hegarty, a remarkable woman with a wide range of interests and a passion for justice. She was a beloved mother, a voracious reader, a traveler, and an advocate for women's rights. Her death was sudden and unexpected, but she was comfortable with her mortality, viewing death as a 'big adventure'."
 og_image: "/assets/img/posts/Mrs Betty Hegarty.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Betty Hegarty.pdf)    
 Funeral of Mrs Betty Hegarty – 4th April 2014

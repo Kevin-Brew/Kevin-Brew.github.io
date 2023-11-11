@@ -4,6 +4,7 @@ title:  "The Bond of Love"
 date:   2017-06-24
 blurb: "In the sermon for the wedding of Peter and Deidre Kingston, Kevin speaks about the Christian dimension of marriage, reflecting on commitment, faithfulness, and love. He draws parallels between the love of Christ for the Church and the love shared between husband and wife, emphasizing selflessness and mutual support. The sermon also touches on the symbolism of wedding attire, relating it to the spiritual qualities of compassion, kindness, and patience."
 og_image: "/assets/img/posts/Peter _ Deidre Kingston June 24 2017.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Peter _ Deidre Kingston June 24 2017.pdf)    
 This afternoon, here in Killarney, Peter and Deidre are celebrating their marriage. Today, your friends and your family come to share with you in celebrating the love and joy you have found in each other and to ask God's richest blessing upon you in the days that lie ahead. The Bible readings for the service today and the words of the Marriage Service itself are full of themes of commitment, of faithfulness, of the love that you have found for each other.

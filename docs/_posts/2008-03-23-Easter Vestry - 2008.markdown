@@ -4,6 +4,7 @@ title:  "Easter General Vestry 2008"
 date:   2008-03-23
 blurb: "The sermon from Easter General Vestry in 2008 is a reflection on the year's activities and achievements within the Parish. The sermon expresses gratitude towards the individuals who have served the Parish, discusses the ongoing projects, and highlights the importance of youth engagement in the Church. The sermon also addresses the challenges faced by the Church in maintaining the involvement of the younger generation."
 og_image: "/assets/img/posts/Easter Vestry - 2008.png"
+tags: Easter Vestry
 ---
 [Original PDF](/assets/pdf/Easter Vestry - 2008.pdf)    
 As is customary, I want to begin my address with a number of thank you's to people who have served the Parish over the last year. I thank the outgoing Church Wardens, Mr Aubrey McMurtry and Mrs Eileen Geaney. Last year, when no one came forward to take on these positions, they very generously undertook to serve a second year – for that I have been extremely grateful.

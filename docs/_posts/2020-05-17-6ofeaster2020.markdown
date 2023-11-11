@@ -4,6 +4,7 @@ title:  "6th Sunday of Easter - Year A"
 date:   2020-05-17
 blurb: "In this sermon, the speaker talks about the intertwining of love and obedience. He emphasizes the role of the Holy Spirit in inspiring all that is good in mankind and enabling us to become more like Christ. He also reflects on the importance of selfless acts of love and service, and how our love for one another should mirror Jesus' love for us."
 og_image: "/assets/img/posts/6ofeaster2020.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/6ofeaster2020.pdf)    
 6th Sunday of Easter – Year A – 2020

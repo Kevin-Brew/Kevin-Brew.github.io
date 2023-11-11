@@ -4,6 +4,7 @@ title:  "Love and Lent"
 date:   2016-02-14
 blurb: "On Valentine's Day, which also marks the first day of Lent, the sermon explores the concept of love. It emphasizes the importance of showing love through actions, not just words. It also highlights the need to show love for God by caring for the world He has given us."
 og_image: "/assets/img/posts/lent12016 - Family Service.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent12016 - Family Service.pdf)    
 Today is Valentine’s Day and also the first day of Lent. The first lesson tells people what they are to do when they first enter the land God is giving them. God had shown his love by rescuing them from slavery in Egypt – this is going to be a way of saying not just thank you to God but saying ‘I love you’. The second lesson is the story of Jesus being tempted in the wilderness – Jesus is showing he loves God more than anything else the tempter can offer him.

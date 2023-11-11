@@ -4,6 +4,7 @@ title:  "Presentation of Christ"
 date:   2013-02-03
 blurb: "This sermon discusses the humanity of Jesus, emphasizing his experiences and feelings that are common to all people. It explores the concept of 'solidarity', with God standing alongside us in the person of Jesus. The sermon also touches on the idea of redemption and the journey of faith, encouraging perseverance and looking to Jesus as the pioneer and perfecter of our faith."
 og_image: "/assets/img/posts/presentationofchrist2013.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/presentationofchrist2013.pdf)    
 Our Gospel reading today, that appointed for the Feast of the Presentation of Christ in the Temple, gives us the setting of one of the best loved canticles in our Prayer Book, the Nunc Dimittis. It is one of the canticles appointed for use at Evening Prayer but it is also one that would often be read or sung as a coffin is taken out of the Church at the end of a funeral. It is a canticle of hope and fulfilment. For the aged Simeon, at the end of a long life of patient waiting, it speaks of a realisation that his wait was not in vain, there was substance to his hope. In the context of a funeral, as a loved one is taken out of the Church for burial or cremation, we commit our loved one in confidence to the love and care of Almighty God. At the heart of that hope is the declaration of Simeon:

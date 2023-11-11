@@ -4,6 +4,7 @@ title:  "Farewell to Rosemary Latimer"
 date:   2021-03-16
 blurb: "This sermon is a touching tribute to Miss Rosemary Latimer, who passed away suddenly in March 2021. It reflects on her life, her contributions to her community, and her faith. The sermon also provides comfort and support to those grieving her loss, reminding them of the eternal nature of love and life."
 og_image: "/assets/img/posts/Funeral of Rosemary Latimer.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Funeral of Rosemary Latimer.pdf)    
 On Wednesday of last week, Rosemary Latimer was full of life. Talking as she did each day to her sister Hazel; talking of books she had read and life in general. Then on Thursday she died very suddenly in her home in Verbena, Sydney, her companion of over fifty years close at hand.

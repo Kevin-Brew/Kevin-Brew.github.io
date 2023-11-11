@@ -4,6 +4,7 @@ title:  "Epiphany 2015"
 date:   2015-01-04
 blurb: "The sermon discusses the significance of the Epiphany, the visit of the Magi, and the paradoxes of Christmas. It emphasizes the journey of faith, the impact of Jesus' teachings, and the importance of recognizing Jesus in our lives and in others. The sermon concludes with the challenge of allowing God's authority in our lives, thereby reflecting the life and love of Jesus Christ in the world."
 og_image: "/assets/img/posts/epiphany2015.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany2015.pdf)    
 The season of Christmas is finally drawing to a close. The decorations will soon be down and put away for another year. Trips to family or their visits to us are now just memories. This Sunday, the closest to the Feast of the Epiphany, we read as our Gospel reading the last of the Christmas events, the visit of the Magi (as told to us by St Matthew). The Gospel writer tells us very little, who they were, where precisely they came from – simply that they had come from the East. The East carries connotations of mystery, of difference. These men came not just from beyond Judaism, they came from beyond the boundary of the known world. They came bearing magnificent gifts that seem strangely out of place in a bare stable.

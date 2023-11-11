@@ -4,6 +4,7 @@ title:  "Imitation Beyond Externals"
 date:   2020-09-27
 blurb: "Kevin's sermon on Proper 21 of Year A emphasizes the call to embody the mindset of Christ Jesus, as stated in Philippians 2:5. He draws parallels between fans emulating their favorite characters and Christians imitating Christ, highlighting that true imitation involves a deep conversion of heart and mind. In times of pandemic and societal division, Kevin urges solidarity and service, inspired by the example of Christ and the teachings of St. Francis."
 og_image: "/assets/img/posts/proper212020.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper212020.pdf)    
 PROPER 21 – Year A – 2020 – Trinity 16

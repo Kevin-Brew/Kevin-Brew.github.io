@@ -4,6 +4,7 @@ title:  "Understanding Prayer"
 date:   2011-11-13
 blurb: "Kevin's sermon on the 13th of November, 2011, delves into the nature of prayer, encouraging us to view God as a friend rather than a distant figure. He emphasizes the importance of communication in prayer, not just asking for things but also listening and understanding God's will. The sermon also touches on the significance of praying for others, including the new President and those affected by wars."
 og_image: "/assets/img/posts/familyservicenov2011.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/familyservicenov2011.pdf)    
 ## Family Service – 13th November 2011

@@ -4,6 +4,7 @@ title:  "The Daffodil Minister"
 date:   2017-10-08
 blurb: "Kevin reflects on the importance of staying motivated and encouraging others, using the story of a Presbyterian Minister who planted daffodils to leave a beautiful mark on his village. The sermon also touches on the community's efforts to repair the church roof, likening the task to eating an elephant in small pieces, and celebrates the togetherness and worship experienced during this time."
 og_image: "/assets/img/posts/proper222017famserv.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper222017famserv.pdf)    
 ## PROPER 22 – Family Service – Year A – 2017

@@ -4,6 +4,7 @@ title:  "Letter of Christ"
 date:   2010-03-21
 blurb: "This sermon reflects on the life and teachings of St. Patrick, emphasizing his role as a 'letter of Christ' spreading the message of Christianity. It also discusses the journey of faith that young people embark on during their teenage years, and the importance of the church community in supporting them through this journey."
 og_image: "/assets/img/posts/lent52010.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent52010.pdf)    
 Last Wednesday parades were held all over Ireland to celebrate St Patrick’s Day. It is a day of carnival, of celebration but behind it all, almost hidden by it all is the story of the evangelisation of the Irish people. Much has happened in the years since. The Church has known times of great spiritual growth in which this island has been truly blessed alongside times of great failure and hurt. But at all times there has been this figure of Patrick, himself a complex and very human figure, as a source of inspiration.

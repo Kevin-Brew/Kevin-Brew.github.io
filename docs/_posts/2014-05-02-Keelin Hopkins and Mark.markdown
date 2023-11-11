@@ -4,6 +4,7 @@ title:  "Love and Commitment"
 date:   2014-05-02
 blurb: "In the sermon for Keelin Hopkins and Mark's wedding, Kevin speaks about the Christian understanding of marriage as a commitment that reflects Christ's love for the Church. He emphasizes the importance of self-giving love and the need for patience, kindness, and forgiveness within the marriage. The sermon also touches on the symbolism of the wedding attire, representing the couple's personalities and the spiritual clothing of Christian virtues."
 og_image: "/assets/img/posts/Keelin Hopkins and Mark.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Keelin Hopkins and Mark.pdf)    
 Wedding of Keelin Hopkins and Mark – St Mary’s – 2nd May 2014

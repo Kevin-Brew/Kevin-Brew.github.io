@@ -4,6 +4,7 @@ title:  "Love and Commitment"
 date:   2013-11-08
 blurb: "Kevin's sermon on the occasion of Niamh Ennis and George's wedding at Spanish Point emphasizes the Christian understanding of marriage as a public declaration of commitment, akin to Christ's bond with the Church. It reflects on the couple's journey from friendship to love and the importance of selfless love in marriage, drawing from Biblical teachings on love, patience, and forgiveness."
 og_image: "/assets/img/posts/Naimh Ennis and George.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Naimh Ennis and George.pdf)    
 Wedding of Niamh Ennis and George – Spanish Point – 8th November 2013

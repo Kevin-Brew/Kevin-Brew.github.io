@@ -4,6 +4,7 @@ title:  "Marriage: A Lifelong Commitment"
 date:   2017-11-04
 blurb: "This sermon, delivered at the wedding of Matt Dixon and Jenni Scott, explores the significance of marriage as a lifelong commitment. It emphasizes the importance of cherishing each other's individuality and the need for selfless love in the relationship. The sermon also highlights the role of faith in sustaining the marriage and the importance of forgiveness and understanding."
 og_image: "/assets/img/posts/Matt and Jenni - Nov 2017.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Matt and Jenni - Nov 2017.pdf)    
 First of all could I say what a delight and privilege it is for me to be here as we celebrate the wedding of Jenni and Matt. Of course weddings are occasions of joy, of celebration – they are also occasions of great hope and confidence, of trust and commitment to the future.

@@ -4,6 +4,7 @@ title:  "Wisdom and Folly"
 date:   2011-01-30
 blurb: "In this sermon, Kevin explores the contrasts between foolish and wise, weak and strong, through the lens of the Epistle to the Church in Corinth. He reflects on the power of small, seemingly insignificant actions to bring about great change, and the illusion of strength in worldly systems. He also discusses the role of Christians in society, particularly in the context of politics and social justice."
 og_image: "/assets/img/posts/epiphany42011.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany42011.pdf)    
 In our Epistle today, written to the Church in Corinth, a community that would have been steeped in the Greek philosophical tradition, Paul presents contrasts between foolish and wise, weak and strong; between the foolishness of the cross and the wisdom of the wise. I am reminded that what the world considers wise, what the world considers strong is often illusory. 

@@ -4,6 +4,7 @@ title:  "God's Unfailing Love"
 date:   2018-07-15
 blurb: "Kevin reflects on the enduring and steadfast love of God as exemplified in Psalm 89 and the life of Sophie O'Neill. Despite hardships and the appearance of abandonment, God's covenant love, 'hesed', remains unfailing. This love is fully embodied in Jesus Christ, who brings salvation and eternal life, affirming that even in the messiness of life, 'God is good.'"
 og_image: "/assets/img/posts/proper112018.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper112018.pdf)    
 PROPER 11 – 2018 – Year B – Trinity 8

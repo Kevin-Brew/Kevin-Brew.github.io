@@ -4,6 +4,7 @@ title:  "Understanding the Trinity"
 date:   2017-06-11
 blurb: "In this sermon for Trinity Sunday, Kevin draws parallels between the vastness of the cosmos and the awe-inspiring nature of God. He emphasizes that the God who created the universe is also a God who cares deeply for each individual. Through Jesus, God understands human experiences, and through the Holy Spirit, God is always present to guide and comfort us."
 og_image: "/assets/img/posts/trinitysunday2017 - family.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinitysunday2017 - family.pdf)    
 TRINITY SUNDAY – Year A – 2017 – Family Service

@@ -4,6 +4,7 @@ title:  "Seeking Solace in Sorrow"
 date:   2015-07-19
 blurb: "In the wake of a tragic balcony collapse in Berkley, Kevin reflects on the role of the Church in providing comfort during times of sorrow. He discusses the deep connection people feel with the Church during crises, despite a growing distance in daily life. The sermon emphasizes the Church's duty to be open and welcoming, to be the hands and feet of Christ to those in pain, and to offer a place where life's hardest questions can be asked and shared."
 og_image: "/assets/img/posts/proper82015.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper82015.pdf)    
 PROPER 8 – 2015 – Year B – Trinity 4

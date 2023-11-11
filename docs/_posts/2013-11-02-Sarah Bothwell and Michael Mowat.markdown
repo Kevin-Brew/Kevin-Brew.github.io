@@ -4,6 +4,7 @@ title:  "Love and Commitment"
 date:   2013-11-02
 blurb: "In this sermon, Kevin speaks on the occasion of Sarah Bothwell and Michael Mowat's wedding, emphasizing the Christian principles of love and commitment. He reflects on the journey of the couple's relationship, the significance of their public declaration before God, and the parallels between their love and Christ's love for the Church. Kevin encourages the couple to embody the virtues of compassion, kindness, humility, and patience in their marriage, drawing from St. Paul's teachings."
 og_image: "/assets/img/posts/Sarah Bothwell and Michael Mowat.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Sarah Bothwell and Michael Mowat.pdf)    
 Wedding of Michael Mowat and Sarah Bothwell – Durrow – 2nd November 2013

@@ -4,6 +4,7 @@ title:  "Harvest of Faith in Trials"
 date:   2012-10-14
 blurb: "In this sermon, Kevin reflects on the theme of suffering and God's presence during times of hardship, as illustrated by the story of Job. He emphasizes that meaning and purpose in life are found not in our own experiences but in God's life, particularly through the death and resurrection of Christ. The sermon reassures us that in our suffering, we are not alone; God understands our pain and is with us in our darkest moments."
 og_image: "/assets/img/posts/proper232012.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper232012.pdf)    
 At this time of year as we celebrate Harvest Thanksgiving, it is one of those 'feel good' times of the year when we recognize God's goodness towards us as in the decoration of our Churches we are reminded of the richness and variety of God's provision for us in the context of the natural world.

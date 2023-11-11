@@ -4,6 +4,7 @@ title:  "Love and Commitment"
 date:   2021-05-30
 blurb: "In this sermon, Kevin reflects on the essence of love and commitment in the context of marriage, drawing parallels between the bond of a couple and the relationship between Christ and his Church. He emphasizes the importance of self-giving love, as taught by St. Paul, and the qualities of patience, kindness, and perseverance that underpin a strong marriage. The sermon concludes with a prayer for the newlyweds, Beatriz and Ben, wishing them a life filled with unity, forgiveness, and joy."
 og_image: "/assets/img/posts/Ben Hopkins and Beatriz Sanchez Garcia - May 2021.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Ben Hopkins and Beatriz Sanchez Garcia - May 2021.pdf)    
 We gather today to celebrate the marriage of Beatriz and Ben. As we do so we join with them as they celebrate and rejoice in what they have already shared together, in the love and the companionship, the encouragement and the strength they have found in each other.

@@ -4,6 +4,7 @@ title:  "Let Your Light Shine"
 date:   2017-11-19
 blurb: "The sermon 'Let Your Light Shine' emphasizes the importance of letting the love of God shine through us in all that we do. It draws a parallel between fireflies being recognized by their light and how people can recognize us by the light of God within us. The message encourages us to be consistent in our faith, not just on Sundays but every day, and to show which side we are on by our actions and dedication."
 og_image: "/assets/img/posts/proper272017 - family service.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper272017 - family service.pdf)    
 2nd Sunday before Advent – Year A (Family Service)

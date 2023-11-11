@@ -4,6 +4,7 @@ title:  "The Living Bread"
 date:   2015-08-16
 blurb: "Kevin explores the concept of Jesus as the 'bread of life' and the personal nature of spiritual nourishment. Using the metaphor of choosing a meal, he discusses the significance of the Holy Communion and the act of eating as a personal and intimate act of faith. The sermon reflects on the figurative language used by Jesus and the deeper meaning of the communion as a remembrance of Christ's sacrifice."
 og_image: "/assets/img/posts/proper152015.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper152015.pdf)    
 PROPER 15 – Year B – 2015 – Trinity 11

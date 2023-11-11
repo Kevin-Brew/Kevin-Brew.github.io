@@ -4,6 +4,7 @@ title:  "3rd Sunday of Advent - Year C"
 date:   2018-12-16
 blurb: "This sermon focuses on the figure of John the Baptist and his role in preparing the way for Jesus. It emphasizes the importance of repentance, which begins with confession and requires a change of direction in life. The sermon also highlights the need for Christians to demonstrate their faith in their daily lives, particularly in their concern for issues of poverty and social justice."
 og_image: "/assets/img/posts/advent32018.png"
+tags: Advent
 ---
 [Original PDF](/assets/pdf/advent32018.pdf)    
 3rd Sunday of Advent – Year C - 2018

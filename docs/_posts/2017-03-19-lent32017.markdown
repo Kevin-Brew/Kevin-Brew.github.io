@@ -4,6 +4,7 @@ title:  "Exiles and the Gospel"
 date:   2017-03-19
 blurb: "This sermon, delivered on the Sunday closest to St Patrick's Day in 2017, reflects on the theme of exile, drawing parallels between St Patrick's life and the story of the woman at the well. It also touches on contemporary issues such as human trafficking, societal ostracization, and the treatment of refugees."
 og_image: "/assets/img/posts/lent32017.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent32017.pdf)    
 One of my memories of living in the Rectory in Ahoghill, is standing in the kitchen, drinking that first cup of coffee of the day, looking out of the window across the valley. On the horizon stands the hill of Slemish. Slemish, the core of a long extinct volcano, is the hill where St Patrick is reputed to worked as a shepherd. Raiders had captured the young Patrick and he was brought to Ireland where he worked as a slave before eventually escaping back to England.

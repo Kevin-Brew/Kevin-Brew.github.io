@@ -4,6 +4,7 @@ title:  "Embracing Everlasting Life"
 date:   2012-02-22
 blurb: "In this sermon, Kevin discusses the importance of engaging with the Scriptures, not just reading them, but allowing them to read us. He emphasizes the significance of the Bible in our daily lives and how it can provide both encouragement and challenge. He invites the congregation to join him in shared reflection on the Scriptures during Lent."
 og_image: "/assets/img/posts/ashwednesday2012.png"
+tags: Lent Mid_Week
 ---
 [Original PDF](/assets/pdf/ashwednesday2012.pdf)    
 Blessed Lord,

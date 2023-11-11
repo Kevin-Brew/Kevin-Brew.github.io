@@ -4,6 +4,7 @@ title:  "Becoming Like Jesus"
 date:   2020-05-17
 blurb: "In this family service sermon, Kevin draws parallels between pet owners starting to resemble their pets and Christians becoming more like Jesus. He emphasizes the importance of spending time with Jesus, seeking His presence, and understanding His will. Kevin reminds us that Jesus' commandments are not just rules but a part of our response to His love and sacrifice."
 og_image: "/assets/img/posts/6ofeaster2020 - family service.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/6ofeaster2020 - family service.pdf)    
 Over these last few weeks we have had to spend a lot of time with each other. Sometimes funny things can happen in situations like this. You may have heard it said that owners of pets can start looking like their pets. Crazy idea? Well just have a look at these (3 slides). I suppose owners choose pets that suit their personalities, how they want other people to see them – or could part of it be the amount of time they spend with each other?

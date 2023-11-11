@@ -4,6 +4,7 @@ title:  "The Greatest Artist of All"
 date:   2010-05-30
 blurb: "Kevin explores the relationship between science and faith, emphasizing that the order and purpose observed in creation point to a personal God. He draws from biblical texts and scientific perspectives to illustrate that acknowledging God as Creator leads to recognizing order in our lives. The sermon encourages harmony with the Creator for both physical healing and peace beyond understanding."
 og_image: "/assets/img/posts/trinity2010.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinity2010.pdf)    
 TRINITY SUNDAY 2010 – year C

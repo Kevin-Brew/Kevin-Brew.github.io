@@ -4,6 +4,7 @@ title:  "The Good Samaritan"
 date:   2013-07-28
 blurb: "This sermon is centered around the parable of the Good Samaritan from Luke 10:30-37. It challenges the listeners to measure their lives against the promises of baptism, using the metaphor of a plumbline. The sermon also presents a practical challenge, urging the listeners to live out their faith in their daily lives."
 og_image: "/assets/img/posts/proper102013.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper102013.pdf)    
 Do you reject the devil and all proud rebellion against God?

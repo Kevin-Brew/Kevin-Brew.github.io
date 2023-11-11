@@ -4,6 +4,7 @@ title:  "Salvation in Scripture"
 date:   2015-05-31
 blurb: "Kevin's sermon on Trinity Sunday explores the multifaceted concept of salvation as presented in the Bible. Through a series of scriptural excerpts, he delves into the past, present, and future aspects of being saved, emphasizing the power of faith, the ongoing process of salvation, and the ultimate deliverance through endurance."
 og_image: "/assets/img/posts/trinity2015 - notes.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinity2015 - notes.pdf)    
 HAS BEEN SAVED

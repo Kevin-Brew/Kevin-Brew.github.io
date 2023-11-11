@@ -4,6 +4,7 @@ title:  "Easter 2020 - Year A"
 date:   2020-04-12
 blurb: "This sermon reflects on the unique circumstances of Easter 2020, during which the congregation is unable to gather due to lockdown measures. Drawing parallels between the disciples' fear and isolation on the first Easter and the current situation, the sermon emphasizes the transformative power of the Resurrection and the enduring presence of Jesus in times of crisis."
 og_image: "/assets/img/posts/easter2020.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/easter2020.pdf)    
 This is an Easter Day like no other that we have experienced. Normally on Easter morning a large crowd gathers at the summit car park in Howth for the Ecumenical Sun Rise Service followed by breakfast in one of our Church centres. Our Churches would have been full as we gather to celebrate the Resurrection of Jesus. Then we would have headed off to meet with family and friends. Instead this morning the Summit Car Park is cordoned off, our Churches are empty and we are confined to our homes. We are in lockdown and likely to remain so for a few weeks yet.

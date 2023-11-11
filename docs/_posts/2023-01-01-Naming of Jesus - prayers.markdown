@@ -4,6 +4,7 @@ title:  "Naming of Jesus"
 date:   2023-01-01
 blurb: "In this sermon, the importance of understanding God's journey with us through all our celebrations and tragedies is highlighted. The prayer emphasizes the need for love, forgiveness, and peace in our relationships, societies, and the world at large. It also acknowledges the suffering of refugees and those mourning the loss of loved ones."
 og_image: "/assets/img/posts/Naming of Jesus - prayers.png"
+tags: Christmas
 ---
 [Original PDF](/assets/pdf/Naming of Jesus - prayers.pdf)    
 Sunday 1st January 2023

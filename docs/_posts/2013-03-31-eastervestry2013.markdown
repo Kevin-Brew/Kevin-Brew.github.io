@@ -4,6 +4,7 @@ title:  "Belonging and Fellowship"
 date:   2013-03-31
 blurb: "Kevin reflects on his 7th year at the Parish of Howth, emphasizing the sense of belonging and care within the community. He discusses the personal and parish developments, including family milestones, the building of a new Rectory, and the establishment of a Youth Worker post. Kevin also highlights the parish's social initiatives and expresses gratitude to various individuals for their contributions to the parish life."
 og_image: "/assets/img/posts/eastervestry2013.png"
+tags: Easter Vestry
 ---
 [Original PDF](/assets/pdf/eastervestry2013.pdf)    
 Easter General Vestry – 2013

@@ -4,6 +4,7 @@ title:  "Love and Commitment"
 date:   2011-09-24
 blurb: "In this sermon, Kevin celebrates the marriage of Sinead and Ron, emphasizing the themes of commitment, faithfulness, and love. He draws parallels between the couple's love and the bond between Christ and his Church, urging them to embody self-giving love. Kevin also reflects on the significance of their wedding attire as an expression of their personalities and the spiritual clothing of compassion, kindness, and patience as taught by St. Paul."
 og_image: "/assets/img/posts/Ronan and Adele - 24 Sept 2011.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Ronan and Adele - 24 Sept 2011.pdf)    
 This afternoon here in St Mary’s Church Sinead and Ron are celebrating their marriage. For you, this is the celebration of a life of commitment to one another that has been at the heart of your shared life together. In that shared life, you have discovered love and healing in one another. Within that love, you have become a family unit. Today, your friends and your family come to share with you in celebrating the love and joy you have found in each other and to ask God’s richest blessing upon you in the days that lie ahead.

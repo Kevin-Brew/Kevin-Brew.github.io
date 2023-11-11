@@ -4,6 +4,7 @@ title:  "Building the House"
 date:   2017-11-19
 blurb: "Archbishop Jackson delivers a sermon on the occasion of the dedication of St Mary’s Church in Howth. He commends the parish for their respect and love for the church, and encourages them to continue their efforts. He reflects on the history of Christianity in Ireland and the heritage of the parish, urging them to claim their heritage and continue their spiritual journey. He also discusses the upcoming 150th anniversary of Disestablishment and the need for the church to avoid self-generosity."
 og_image: "/assets/img/posts/Archbishop Jackson - Dedication of Church 19 Nov 2017.png"
+tags: 
 ---
 [Original PDF](/assets/pdf/Archbishop Jackson - Dedication of Church 19 Nov 2017.pdf)    
 Service of Thanksgiving for St Mary’s Church Howth on Sunday 19th November 2017, The Second Sunday before Advent. Psalm 127: Unless the Lord builds the house, those who built in labour in vain.

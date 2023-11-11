@@ -4,6 +4,7 @@ title:  "Kingdom in Matthew"
 date:   2011-04-17
 blurb: "This sermon explores the use of the word 'Kingdom' in the book of Matthew. It highlights various verses where the term is used, offering a comprehensive understanding of its meaning and significance. The sermon also touches on barriers to the kingdom and who the inheritors of the kingdom are."
 og_image: "/assets/img/posts/Kingdom - notes.png"
+tags: Holy_Week Lent
 ---
 [Original PDF](/assets/pdf/Kingdom - notes.pdf)    
 This sermon focuses on the use of the word 'Kingdom' in Matthew. It begins with Matthew 3:1 where John the Baptist proclaims, 'Repent, for the kingdom of heaven has come near.' It continues with references from Matthew 4:17, Luke 6:20, and Matthew 4:23, where Jesus proclaims the good news of the kingdom and cures every disease and sickness among the people.

@@ -4,6 +4,7 @@ title:  "Funeral of Mrs Frances Mary Smeed"
 date:   2020-02-12
 blurb: "This sermon was given at the funeral of Mrs Frances Mary Smeed on 12th February 2020. It is a tribute to her long, graciously lived life and the ways in which she touched and enriched the lives of those around her. The sermon also offers comfort and support to her family, reminding them of the enduring nature of love and the hope found in the cycle of death and resurrection."
 og_image: "/assets/img/posts/Mrs Mary Smeed.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Mary Smeed.pdf)    
 Nearly six years ago, we gathered here for the funeral of Mr Peter Smeed. Today we gather for the funeral of his wife Mary, who died last Saturday at the great age of 98 in the Care Choice Nursing Home where she had been cared for over the last four years. Ten years ago Peter and Mary had moved from their home in England and set up home in Corr Castle to be close to their son Paul on the Howth Peninsula.

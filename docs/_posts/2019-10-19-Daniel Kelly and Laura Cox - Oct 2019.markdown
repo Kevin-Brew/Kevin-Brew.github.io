@@ -4,6 +4,7 @@ title:  "Harmony in Marriage"
 date:   2019-10-19
 blurb: "Kevin's sermon for the wedding of Laura and Daniel focuses on the journey of love and commitment leading to marriage. He speaks about the unique rhythm of life each person has and how love finds harmony between these rhythms. The sermon draws from Ecclesiastes and John's Gospel, highlighting life's highs and lows and the transformative presence of Christ in marriage."
 og_image: "/assets/img/posts/Daniel Kelly and Laura Cox - Oct 2019.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Daniel Kelly and Laura Cox - Oct 2019.pdf)    
 Marriage of Daniel Kelly and Laura Cox – 19th October 2019 – St Mary’s

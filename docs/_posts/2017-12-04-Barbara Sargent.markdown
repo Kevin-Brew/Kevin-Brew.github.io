@@ -4,6 +4,7 @@ title:  "Remembering Barbara Sargent"
 date:   2017-12-04
 blurb: "This sermon is a tribute to Barbara Sargent, a beloved member of the parish and community. Barbara was known for her energy, compassion, and practical faith. She was deeply involved in the life of the parish, from the choir to the Bridge Club, and she will be greatly missed. The sermon also reflects on the Christian understanding of death and the hope of eternal life."
 og_image: "/assets/img/posts/Barbara Sargent.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Barbara Sargent.pdf)    
 We come together today for the funeral of Barbara Sargent, of one who was so much part of the life of this Parish and this community. Where do we begin? Barbara was Barbara, full of life, full of energy, always ready to give of herself whether in the context of a big project or in just standing alongside someone. Her death, in the early hours of Thursday morning, after a battle fiercely fought in the ICU of Beaumont Hospital, has come as a dreadful blow to Gerry and the family and a huge shock to the Parish and the wider community to which Barbara contributed so much.

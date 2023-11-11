@@ -4,6 +4,7 @@ title:  "Beyond Labels to Love"
 date:   2023-06-11
 blurb: "In this sermon, Kevin reflects on the story of Jesus calling Matthew, a tax collector, to follow him, challenging societal norms and Pharisees' prejudices. He emphasizes the importance of seeing beyond labels and categories to recognize the individuality and common humanity in others. Kevin urges us to engage with people as individuals, embodying Christ's love and service, and to seek understanding rather than judgment."
 og_image: "/assets/img/posts/proper52023mountmellick.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper52023mountmellick.pdf)    
 Trinity 1 – Proper 5 – Year A – Mountmellick - 2023

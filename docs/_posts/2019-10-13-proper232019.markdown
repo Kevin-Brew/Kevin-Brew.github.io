@@ -4,6 +4,7 @@ title:  "Gratitude with Grace"
 date:   2019-10-13
 blurb: "The sermon discusses the healing of ten lepers as narrated in St Luke's Gospel, emphasizing the gratitude shown by the lone Samaritan who returned to give thanks. The sermon highlights the transformative power of gratitude and the grace at the heart of true thankfulness. It encourages the practice of gratitude in daily life and a genuine concern for those less fortunate."
 og_image: "/assets/img/posts/proper232019.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper232019.pdf)    
 This morning’s Gospel reading is that well-known account in St Luke’s Gospel of the healing of ten men who had leprosy, only one of whom, a Samaritan, a despised foreigner, returned to give thanks. There is a lot more to this passage than a lesson in good manners.

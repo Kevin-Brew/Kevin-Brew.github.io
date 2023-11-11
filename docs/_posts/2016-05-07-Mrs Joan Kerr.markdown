@@ -4,6 +4,7 @@ title:  "Remembering Joan Kerr"
 date:   2016-05-07
 blurb: "This sermon is a tribute to Joan Kerr, a cherished member of the Parish of Howth, who passed away on 7th May 2016. The sermon reflects on Joan's life, her contributions to the community, and her unwavering faith. It also addresses the challenges she faced in her later years with profound deafness and dementia, and the strength and commitment shown by her husband, Eddie."
 og_image: "/assets/img/posts/Mrs Joan Kerr.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Joan Kerr.pdf)    
 Funeral of Joan Kerr – 7th May 2016

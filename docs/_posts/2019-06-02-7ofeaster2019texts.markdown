@@ -4,6 +4,7 @@ title:  "Unified in Christ"
 date:   2019-06-02
 blurb: "In this sermon, Kevin explores the deep unity and oneness that Jesus prayed for in John 17.20-26. He emphasizes the unity and love that should exist among believers, reflecting the unity and love between the Father and the Son. Kevin also highlights the importance of the world knowing that the Father sent Jesus, and the transformative power of His love."
 og_image: "/assets/img/posts/7ofeaster2019texts.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/7ofeaster2019texts.pdf)    
 Long before there ever was a world, Jesus looked up to heaven and prayed: 'Holy Father, I ask not only on behalf of these, but also on behalf of those who will believe in me through their word, that they may all be one. As you, Father, are in me and I am in you, may they also be in us, so that the world may believe that you have sent me. The glory that you have given me I have given them, so that they may be one, as we are one, I in them and you in me, that they may become completely one, so that the world may know that you have sent me and have loved them even as you have loved me. Father, I desire that those also, whom you have given me, may be with me where I am, to see my glory, which you have given me because you loved me before the foundation of the world.'

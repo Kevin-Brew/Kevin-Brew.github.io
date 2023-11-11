@@ -4,6 +4,7 @@ title:  "Funeral of Mr Patrick Reilly"
 date:   2020-09-10
 blurb: "This sermon was delivered during the funeral of Mr. Patrick Reilly, a beloved family man, husband, father, and grandfather. The sermon reflects on the suddenness of his death, the memories shared by his family, and the Christian faith's perspective on death and life. It offers comfort, strength, and hope in the face of loss."
 og_image: "/assets/img/posts/Mr Patrick Reilly.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mr Patrick Reilly.pdf)    
 This morning we have gathered in St Mary’s for the funeral of Patrick Reilly. His daughter Vicky has already shared with us some of the family’s memories and affection for him. They remember a family man, a man who enjoyed his work, his cars, his dogs (who I gather were beginning to edge out his wife and daughters in the attention he bestowed on them).

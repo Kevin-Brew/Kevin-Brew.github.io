@@ -4,6 +4,7 @@ title:  "Reflection on Corona Virus Epidemic"
 date:   2020-03-07
 blurb: "This sermon reflects on the Corona Virus Epidemic, drawing parallels with biblical stories and the human tendency to believe in our own omnipotence. It emphasizes the importance of community and our responsibilities to each other during such times."
 og_image: "/assets/img/posts/lent32020.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent32020.pdf)    
 LENT 3 – Year A – 2020

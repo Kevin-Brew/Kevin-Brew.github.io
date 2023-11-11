@@ -4,6 +4,7 @@ title:  "Peace and Wariness"
 date:   1994-08-30
 blurb: "Kevin reflects on the complex emotions surrounding the IRA ceasefires, acknowledging the wariness and suspicion that years of conflict have instilled in the people of Northern Ireland. He emphasizes the need for patience, trust, and a common purpose to establish true peace beyond the absence of conflict. Kevin encourages prayer for political leaders and a collective desire for healing, urging the community to seek God's help in overcoming bitterness and anger."
 og_image: "/assets/img/posts/1994-08-30-Trinity14-IRA-ceasefires.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/1994-08-30-Trinity14-IRA-ceasefires.pdf)    
 Over the past 25 years, amidst the murder and mayhem, we have prayed for peace in Northern Ireland. How long can this go on, we have asked. Do our children have to grow up in this atmosphere of suspicion and fear? In addition to the human toll, the situation here has had a devastating effect on the local economy. Potential investors have been scared off. Many of our young people have felt the need to emigrate, never to return.

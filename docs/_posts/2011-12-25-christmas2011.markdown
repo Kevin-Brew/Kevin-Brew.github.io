@@ -4,6 +4,7 @@ title:  "Everyday Story of Country Folk"
 date:   2011-12-25
 blurb: "The sermon discusses the Incarnation and its impact on everyday life. It emphasizes how God's divine intervention breaks through our daily routines, transforming ordinary lives into extraordinary ones. The sermon invites us to embark on a journey of faith, allowing Christ's teachings to influence every aspect of our lives."
 og_image: "/assets/img/posts/christmas2011.png"
+tags: Christmas
 ---
 [Original PDF](/assets/pdf/christmas2011.pdf)    
 Not far from where I grew up, to the South West of Birmingham lies the village of Alvechurch. This village was the inspiration of the village of Ambridge, well known to followers of 'The Archers', a long running radio soap, often referred to as 'an everyday story of country folk'. It told the story of the goings on of different characters in a village community. Periodically issues affecting the wider world, be they wars, Royal weddings or divorces, foot and mouth would impact on the lives of those who gathered in the 'The Bull' for a pint.

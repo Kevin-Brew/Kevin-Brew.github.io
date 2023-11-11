@@ -4,6 +4,7 @@ title:  "Reflections on Righteousness"
 date:   2011-07-03
 blurb: "Kevin's sermon on Proper 8, year A, emphasizes the transformative power of the Gospel in our lives. He draws on St. Francis of Assisi's teachings to illustrate the importance of living the Gospel beyond words, and cites C.S. Lewis on the pervasive influence of faith. The sermon encourages us to reflect Christ's light in the world, to see through His eyes, and to act justly and lovingly in His name."
 og_image: "/assets/img/posts/proper82011.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper82011.pdf)    
 Proper 8 – 2011 – year A – Trinity 1

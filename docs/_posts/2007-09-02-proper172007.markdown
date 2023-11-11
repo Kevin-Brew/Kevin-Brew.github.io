@@ -4,6 +4,7 @@ title:  "Faith Amidst Suffering"
 date:   2007-09-02
 blurb: "In this sermon, Kevin reflects on the profound contrast between the joy of his son's wedding and the somber visit to Auschwitz. He explores the crisis of faith faced by many during the Holocaust and the enduring message of hope found in the Epistle to the Hebrews. Kevin emphasizes the presence of God in both joy and suffering, and the moral choices that define our humanity."
 og_image: "/assets/img/posts/proper172007.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper172007.pdf)    
 Proper 17 – 2007 – year C – Trinity 13

@@ -4,6 +4,7 @@ title:  "Journey of Faith"
 date:   2023-04-30
 blurb: "This sermon, delivered on the 3rd Sunday of Easter in 2023, reflects on the journey from doubt to faith, mirroring the journey of the disciples on the road to Emmaus. The speaker, Kevin, emphasizes the importance of being 'Christ for each other', listening, sharing, and acknowledging each other's pain. He also highlights the presence of the Risen Christ in the world today, even amidst our doubts and fears."
 og_image: "/assets/img/posts/3ofeaster2023.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/3ofeaster2023.pdf)    
 We had hoped .... Words to a stranger on the road; words spoken by someone for whom life had turned sour, whose dreams had been shattered, who was getting out of town. It is the start of what is for me one of the most telling of the resurrection experiences recounted in the Gospels. It is the account of a journey, a journey from doubt to faith, a journey of encounter with the Risen Christ.

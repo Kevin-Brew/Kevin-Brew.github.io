@@ -4,6 +4,7 @@ title:  "Harvest Thanksgiving 2011"
 date:   2011-10-02
 blurb: "This sermon, given on Harvest Thanksgiving 2011, emphasizes the importance of gratitude for the blessings of harvest and the earth's resources. It also highlights the need for care and concern for others, especially those in less fortunate circumstances. The sermon calls for action in contributing to emergency appeals and supporting fair trade."
 og_image: "/assets/img/posts/harvest2011.png"
+tags: Harvest Special_Occasions
 ---
 [Original PDF](/assets/pdf/harvest2011.pdf)    
 ## PART 1

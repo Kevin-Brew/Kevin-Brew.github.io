@@ -4,6 +4,7 @@ title:  "Instruments of Faith"
 date:   2009-11-01
 blurb: "Kevin reflects on the Christian pilgrimage on All Saints Day, using the metaphor of 'the only instruments we have to work with' to describe our souls and bodies offered in service to God. He emphasizes our journey into Christ, growing into the person God wants us to be, and the communal aspect of worship in communion with saints past and present."
 og_image: "/assets/img/posts/All Saints - 2009.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/All Saints - 2009.pdf)    
 All Saints – 2009 – year B

@@ -4,6 +4,7 @@ title:  "The Great I AM"
 date:   Unknown
 blurb: "The sermon explores the various instances in the Gospels where Jesus identifies Himself with the powerful statement 'I AM.' These declarations across Matthew, Mark, Luke, and John reveal Jesus' divine identity and mission, emphasizing His role as the bread of life, the light of the world, the good shepherd, the resurrection and the life, the way, the truth, and the life, and the true vine."
 og_image: "/assets/img/posts/GREAT I AM NOTES.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/GREAT I AM NOTES.pdf)    
 ### Matthew

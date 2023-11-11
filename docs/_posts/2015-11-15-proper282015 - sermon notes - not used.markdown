@@ -4,6 +4,7 @@ title:  "Mount of Olives Teachings"
 date:   2015-11-15
 blurb: "Kevin's sermon reflects on the significance of the Mount of Olives in the life and teachings of Jesus. It explores various biblical passages where the Mount of Olives serves as a backdrop for key events and parables, emphasizing its role in prophecy and as a place of teaching and reflection."
 og_image: "/assets/img/posts/proper282015 - sermon notes - not used.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper282015 - sermon notes - not used.pdf)    
 2 Samuel 15:29-30 describes a poignant scene of David ascending the Mount of Olives in mourning, setting a precedent for this location's significance. Similarly, in Matthew 26:29, Jesus speaks of a future communion in the Father's kingdom, a promise reiterated in Mark 14:25 about not drinking the fruit of the vine until in God's kingdom.

@@ -4,6 +4,7 @@ title:  "All Saints' Reflection"
 date:   2017-11-01
 blurb: "Kevin reflects on the concept of sainthood, emphasizing that it is not reserved for an elite few but is a call for every Christian in their baptism. He draws from the history of the Parish of Howth and its 200-year celebration, the discovery of an ancient burial ground, and the lives of notable saints and ordinary faithful individuals. The sermon encourages us to recognize our own value and calling as saints in the Church of God, highlighting the diversity and faithfulness of the Christian community across time and culture."
 og_image: "/assets/img/posts/allsaints2017 - broadcast.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/allsaints2017 - broadcast.pdf)    
 ALL SAINTS – 2017 – Broadcast Service

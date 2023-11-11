@@ -4,6 +4,7 @@ title:  "Funeral of Mrs Millie Brown"
 date:   2014-01-27
 blurb: "This sermon is a tribute to Mrs Millie Brown, a strong and compassionate woman who lived a full life and touched many others. Despite her physical decline in her later years, she remained a source of love and strength for her family. Her death, while a loss, is also seen as a release from her struggles."
 og_image: "/assets/img/posts/Mrs Millie Brown.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Millie Brown.pdf)    
 We gather here this morning for the funeral of Mrs Millie Brown, who died as she lived, quietly and without fuss, in Brymore Nursing Home where she had been cared for over the last two years. Prior to that she had been cared for in her home off the Kilbarrack Road by her family who were determined that, even with the advance of dementia, she would remain as long as possible in her own home, retaining her own independence.

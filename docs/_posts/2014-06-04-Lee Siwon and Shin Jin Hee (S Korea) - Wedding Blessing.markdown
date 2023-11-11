@@ -4,6 +4,7 @@ title:  "Blessing of Love"
 date:   2014-06-04
 blurb: "Kevin's sermon on the occasion of Lee Siwon and Shin Jin Hee's wedding blessing emphasizes the spiritual clothing of compassion, kindness, humility, and love as described in Colossians 3:12 and 1 Corinthians 13:4-7. He encourages the couple to embody these virtues in their marriage, dealing with challenges through Christ-like love, and wishes them joy and happiness in their life together."
 og_image: "/assets/img/posts/Lee Siwon and Shin Jin Hee (S Korea) - Wedding Blessing.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Lee Siwon and Shin Jin Hee (S Korea) - Wedding Blessing.pdf)    
 Blessing of Marriage of Lee Siwon and Shin Jin Hee – 4th June 2014

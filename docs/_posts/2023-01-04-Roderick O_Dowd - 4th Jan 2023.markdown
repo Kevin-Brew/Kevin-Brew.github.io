@@ -4,6 +4,7 @@ title:  "Remembering Roderick O'Dowd"
 date:   2023-01-04
 blurb: "This sermon, delivered at the funeral of Roderick O'Dowd, reflects on the nature of love and light in times of loss and separation. It emphasizes the enduring nature of love and the unquenchable light of Christ, even in the face of death. The sermon invites the congregation to hold onto their memories of Roderick and give thanks for his life."
 og_image: "/assets/img/posts/Roderick O_Dowd - 4th Jan 2023.png"
+tags: Conor_Diocese Funeral
 ---
 [Original PDF](/assets/pdf/Roderick O_Dowd - 4th Jan 2023.pdf)    
 Funeral of Roderick O’Dowd – 3rd January 2023 – Brown’s Funeral Parlour

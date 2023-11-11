@@ -4,6 +4,7 @@ title:  "Doubting Thomas"
 date:   2023-04-09
 blurb: "This sermon revolves around the story of 'Doubting Thomas' and the struggle between doubt and faith. It discusses how people may question their beliefs due to various reasons, such as trauma, bereavement, or illness. The sermon emphasizes that doubt is a common part of faith, as even some of Jesus' disciples doubted him."
 og_image: "/assets/img/posts/easter2023 - alternative.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/easter2023 - alternative.pdf)    
 'Rector, I'm not sure what I believe anymore.' Many is the time that I have heard that comment in the privacy of someone's home. People will have come to that position for a number of reasons. It could be trauma or bereavement, or serious illness in themselves or in someone they love. Or perhaps news of some terrible natural disaster leaving many innocents suffering or dead. Or it may be just simply the spark has gone out of living, out of faith.

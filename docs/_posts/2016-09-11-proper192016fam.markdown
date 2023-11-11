@@ -4,6 +4,7 @@ title:  "The Lost and Found"
 date:   2016-09-11
 blurb: "Kevin reflects on the anxiety of losing important items like keys and phones, drawing parallels to the parables of the lost sheep and the lost coin. He emphasizes the value and urgency of the search, relating it to God's relentless pursuit of us. The sermon concludes with the message that God's love never gives up on us, and we should respond to that love by caring for one another."
 og_image: "/assets/img/posts/proper192016fam.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper192016fam.pdf)    
 One of the things I dread is losing my keys or my phone. Tracing the phone can be easy enough. Now losing the keys, that can be a different situation – you know the scene, you are heading out the door, possibly a bit late and you reach for the keys.

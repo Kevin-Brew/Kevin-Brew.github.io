@@ -4,6 +4,7 @@ title:  "Love and Commitment"
 date:   2015-09-26
 blurb: "Kevin's sermon on the occasion of Vicky Reilly and Garry Millar's wedding emphasizes the Christian understanding of marriage as a reflection of Christ's love for the Church. He discusses the importance of commitment, faithfulness, and self-giving love, drawing parallels between the couple's union and the spiritual teachings of St. Paul on love and harmony."
 og_image: "/assets/img/posts/Vicky Reilly and Garry Millar.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Vicky Reilly and Garry Millar.pdf)    
 Wedding of Vicky Reilly and Garry Millar – Durrow – 26th September 2015

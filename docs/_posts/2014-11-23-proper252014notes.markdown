@@ -4,6 +4,7 @@ title:  "Holy Nation Covenant"
 date:   2014-11-23
 blurb: "Kevin's sermon reflects on the covenant between God and His people, emphasizing the themes of obedience, blessing, and being a holy nation. The sermon draws from various biblical texts to illustrate the idea that God's people are called to a special relationship with Him, marked by justice, kindness, and humility. The sermon also touches on the concept of being made in God's image and the responsibility that comes with it."
 og_image: "/assets/img/posts/proper252014notes.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper252014notes.pdf)    
 Exodus 19:5,6

@@ -4,6 +4,7 @@ title:  "Encouragement in Faith: St. Barnabas"
 date:   2012-06-10
 blurb: "Kevin's sermon on St. Barnabas Day emphasizes the importance of encouragement within the Christian community. He reflects on the life of Barnabas, an early church figure known as the 'son of encouragement', and how his actions exemplify the supportive spirit that should permeate Christian fellowship. The sermon calls for emulation of Barnabas's example by offering comfort and challenging each other to live up to our Christian values."
 og_image: "/assets/img/posts/barnabas2012.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/barnabas2012.pdf)    
 One of the features of the worship of the Church of Ireland is our use of the liturgical year. There are the seasons of Advent, Christmas, Epiphany, Lent, Easter, and Trinity. These seasons encourage us to focus on particular aspects of our faith story. At Christmas, we focus on the Incarnation, the mystery of God made man in the person of Jesus; on Good Friday and Easter, we focus on redemption; at Pentecost, our attention turns to the activity of the Holy Spirit. And then, dotted among these, there are a number of days designated as Saints' Days when we remember with thanksgiving the work of particular individuals.

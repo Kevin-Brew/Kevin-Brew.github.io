@@ -4,6 +4,7 @@ title:  "Gifts of Faith and Love"
 date:   2015-11-08
 blurb: "Kevin reflects on the importance of the spirit in which we give, rather than the amount. He shares a touching story of 'Bert', who despite his own hardships, gave his Christmas disability bonus to those in need. The sermon emphasizes that our offerings, whether they be money, time, or compassion, are valuable to God and can make a significant difference in the lives of others."
 og_image: "/assets/img/posts/proper272015familyservice.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper272015familyservice.pdf)    
 ### 3rd Sunday before Advent – Proper 27 – Year B – 2015 – Family Service

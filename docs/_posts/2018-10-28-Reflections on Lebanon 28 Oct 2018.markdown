@@ -4,6 +4,7 @@ title:  "Reflections on Lebanon"
 date:   2018-10-28
 blurb: "Kevin shares his experiences from a recent trip to Beirut, Lebanon, reflecting on the country's history, the impact of civil war, and the current refugee crisis. He emphasizes the unconditional love and healing presence of the Church across denominations, offering dignity to the vulnerable. The core message is about serving before preaching and showing solidarity with those who have suffered greatly."
 og_image: "/assets/img/posts/Reflections on Lebanon 28 Oct 2018.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/Reflections on Lebanon 28 Oct 2018.pdf)    
 Trinity 22 – Reflections on Lebanon

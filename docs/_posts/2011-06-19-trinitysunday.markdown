@@ -4,6 +4,7 @@ title:  "Embracing Faith's Journey"
 date:   2011-06-19
 blurb: "Kevin reflects on the importance of taking scripture seriously, drawing from the Gospel reading for Trinity Sunday. He emphasizes the 'poverty of our faith' as a humble acknowledgment of our partial and provisional understanding, likening our spiritual journey to a child's growth. The sermon also touches on the inclusive nature of Jesus' commission to make disciples, even among those who doubt, and the constant presence of God in our lives regardless of our clarity or doubts about faith."
 og_image: "/assets/img/posts/trinitysunday.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinitysunday.pdf)    
 Trinity Sunday – 2011 – year A

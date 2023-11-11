@@ -4,6 +4,7 @@ title:  "The Good Shepherd"
 date:   2015-04-26
 blurb: "In this sermon, Kevin explores the concept of Jesus as the Good Shepherd. He discusses the relationship between a shepherd and his flock, drawing parallels to Jesus' relationship with his followers. Kevin also touches on the themes of love, forgiveness, and God's constant vigilance over his flock, using the parable of the Prodigal Son as an illustration."
 og_image: "/assets/img/posts/4ofeaster2015.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/4ofeaster2015.pdf)    
 4th Sunday of Easter – 2015 – Year B

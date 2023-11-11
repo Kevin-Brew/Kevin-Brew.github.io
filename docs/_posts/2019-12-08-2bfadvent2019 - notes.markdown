@@ -4,6 +4,7 @@ title:  "Truth in Scripture"
 date:   2019-12-08
 blurb: "This sermon focuses on the theme of 'Truth' as depicted in various verses of the Bible. It explores the concept of truth in relation to God, salvation, wisdom, and the Spirit of truth. The sermon also addresses the distortion of truth and the importance of speaking the truth in love for spiritual growth."
 og_image: "/assets/img/posts/2bfadvent2019 - notes.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/2bfadvent2019 - notes.pdf)    
 Psalm 25.5

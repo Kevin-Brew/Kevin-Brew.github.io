@@ -4,6 +4,7 @@ title:  "Reflections on Authority"
 date:   2014-11-23
 blurb: "Kevin reflects on his visit to Berlin and the lessons of history, contrasting the dark kingdoms of the past with the true Kingship of Christ. He draws parallels between the authority of oppressive regimes and the servant leadership exemplified by Jesus. The sermon culminates with the Parable of the Sheep and the Goats, urging us to recognize Christ in serving the marginalized."
 og_image: "/assets/img/posts/sundaybeforeadvent2014.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent2014.pdf)    
 Sunday before Advent – Year A – 2014

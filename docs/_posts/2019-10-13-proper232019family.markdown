@@ -4,6 +4,7 @@ title:  "The Attitude is Gratitude"
 date:   2019-10-13
 blurb: "In this sermon, Kevin talks about the importance of gratitude and thankfulness. He discusses how we should be thankful for our world, despite its scars from pollution, and how we should appreciate our lives and uniqueness. He emphasizes the importance of seeing everyone as unique and special, as we are all made in the image of God. The sermon also touches on the theme of love and faith, and how these can lead to healing and salvation."
 og_image: "/assets/img/posts/proper232019family.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper232019family.pdf)    
 PROPER 23 – YEAR C – 2019 – Family Service

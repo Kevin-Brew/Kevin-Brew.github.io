@@ -4,6 +4,7 @@ title:  "The Heart of Forgiveness"
 date:   2020-09-13
 blurb: "Kevin's sermon on Proper 19, Year A, reflects on the complexities of forgiveness, using examples from Northern Ireland's reconciliation efforts and the biblical story of the Unmerciful Servant. He emphasizes that forgiveness is not about keeping score but a matter of the heart, requiring inner healing and a recognition of our own forgiven status through Jesus."
 og_image: "/assets/img/posts/proper1920.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper1920.pdf)    
 ## PROPER 19 – Year A - 2020 – Trinity 14

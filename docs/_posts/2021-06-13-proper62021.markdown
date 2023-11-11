@@ -4,6 +4,7 @@ title:  "The Essence of Church"
 date:   2021-06-13
 blurb: "Kevin reflects on the challenging times faced by the Confirmation Group due to Covid-19 and the innovative ways they adapted, including virtual classes. He emphasizes that the Church is not just a building but a community of people, each with their own importance. The sermon also serves as a farewell to Elke, who has been instrumental in fostering 'Fun, Fellowship, Faith' within the community."
 og_image: "/assets/img/posts/proper62021.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper62021.pdf)    
 ### PROPER 6 – 2021 – Year B – Trinity 2

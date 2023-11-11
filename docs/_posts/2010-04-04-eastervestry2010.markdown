@@ -4,6 +4,7 @@ title:  "Gratitude and Parish Development"
 date:   2010-04-04
 blurb: "Kevin reflects on the contributions of various parish members and the progress of the parish over the past year. He expresses gratitude to those who have served in different capacities and highlights the importance of youth engagement and parish development. The sermon also touches on the economic downturn's impact on the community and the church's response to provide support."
 og_image: "/assets/img/posts/eastervestry2010.png"
+tags: Easter Vestry
 ---
 [Original PDF](/assets/pdf/eastervestry2010.pdf)    
 ## Easter General Vestry – 2010

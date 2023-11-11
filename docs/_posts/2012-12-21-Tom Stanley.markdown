@@ -4,6 +4,7 @@ title:  "Remembering Tom Stanley"
 date:   2012-12-21
 blurb: "This sermon is a tribute to Tom Stanley, a beloved member of the church community, who passed away on 21st December 2012. The sermon reflects on Tom's life, his values, and his commitment to the church. It also offers comfort and hope to the grieving family, reminding them of the Christian faith's promise of eternal life."
 og_image: "/assets/img/posts/Tom Stanley.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Tom Stanley.pdf)    
 Funeral of Tom Stanley – 21st December 2012 - Howth

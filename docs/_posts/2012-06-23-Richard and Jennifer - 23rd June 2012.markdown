@@ -4,6 +4,7 @@ title:  "Love and Commitment"
 date:   2012-06-23
 blurb: "Kevin's sermon for the wedding of Jennifer and Richard focuses on the themes of love, commitment, and the Christian understanding of marriage. He reflects on the couple's journey, the significance of their choices on this special day, and the spiritual clothing of compassion, kindness, and patience. Drawing from the Bible, Kevin emphasizes the selfless love exemplified by Christ and its importance in nurturing a lifelong partnership."
 og_image: "/assets/img/posts/Richard and Jennifer - 23rd June 2012.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Richard and Jennifer - 23rd June 2012.pdf)    
 Wedding of Jennifer Gibson and Richard McMurtry – Killarney – 23rd June 2012

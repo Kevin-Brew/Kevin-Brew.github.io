@@ -4,6 +4,7 @@ title:  "Legacy of St Columba"
 date:   2013-06-09
 blurb: "Kevin reflects on the Feast of St Columba, emphasizing the importance of Christian witness and the legacy of evangelization by Irish monks. He draws parallels between the historical figures of St Columba, Rev George McLeod, and the Iona community's impact on justice, peace, and Celtic spirituality. The sermon calls on contemporary Christians to bear witness to Christ in their own time and place, inspired by the past but looking beyond to the wider world."
 og_image: "/assets/img/posts/stcolumba2013.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/stcolumba2013.pdf)    
 Today is the Feast of St Columba, one of the towering figures of the early Irish Church. A native of Donegal, of noble birth, he was one of several famous Irish saints who came under the influence of St Finian. He was one of a number of Irish monks who were to embark upon a programme of evangelisation of Scotland, Northern England and on into Northern Europe. Columba himself, along with twelve others sailed from North Antrim to establish the community in Iona, where he was to spend the rest of his life.

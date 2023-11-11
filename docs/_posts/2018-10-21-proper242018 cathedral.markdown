@@ -4,6 +4,7 @@ title:  "Breaking and Remaking"
 date:   2018-10-21
 blurb: "Kevin discusses the concept of 'breaking and remaking' through the story of a Japanese general and the art of kintsugi, where broken pottery is repaired with silver and lacquer, embracing its history. He relates this to the Gospel's message of servanthood and the transformation through baptism, calling for a community of servants, following Christ's example of humility and service."
 og_image: "/assets/img/posts/proper242018 cathedral.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper242018 cathedral.pdf)    
 PROPER 24 – Year B – 2018 – Trinity 21

@@ -4,6 +4,7 @@ title:  "Wholeness and Healing"
 date:   2010-11-07
 blurb: "In this sermon, Kevin reflects on the concept of health and healing from a Christian perspective. He draws a distinction between symptoms and root causes, using a personal anecdote about jogging and knee discomfort. Kevin also discusses the World Health Organization's definition of health and critiques the societal view of health as an ideal state, arguing instead for an understanding of health as 'the strength to be human'."
 og_image: "/assets/img/posts/allsaints2010.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/allsaints2010.pdf)    
 All Saints 2010 – year C – Service of Wholeness and Healing

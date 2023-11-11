@@ -4,6 +4,7 @@ title:  "Easter Day 2011"
 date:   2011-04-24
 blurb: "This sermon delivered on Easter Day 2011, reflects on the meaning of resurrection not just for Jesus, but also for his disciples. It emphasizes that the Church is an 'Easter people', shaped by the death and resurrection of Jesus. The sermon also highlights the transformative power of the resurrection, which not only gave new life to Jesus but also to his disciples, releasing new life into the world."
 og_image: "/assets/img/posts/easterday2011.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/easterday2011.pdf)    
 I remember one Easter when I was in Mountmellick going to visit a retired priest in hospital. We had established a friendship early in my time there. He had left Clonaslee (a village that formed part of my Parish) and spent his entire ministry in Birmingham, finishing up as Parish Priest of a Church not far from the part of Birmingham I came from. I had left Birmingham and found myself as Rector of the village of Clonaslee.

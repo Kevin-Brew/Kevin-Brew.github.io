@@ -4,6 +4,7 @@ title:  "Prayers of Faith"
 date:   2023-05-21
 blurb: "This sermon is a prayer session held on Sunday 21st May 2023. The prayers are directed towards the church, states, children, the elderly, and the sick. It also includes prayers for world peace, especially for Ukraine and Sudan, and for world leaders. The sermon ends with a plea for God's healing and comfort for those in need."
 og_image: "/assets/img/posts/7ofeaster2023 - prayers.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/7ofeaster2023 - prayers.pdf)    
 Let us pray together to our heavenly father, knowing his love for us. Father, we want to live your way and do your will, offer you true worship, and serve one another in love. Empower your church to serve you in faithfulness and love. We pray for the work of Christian Aid, serving those in need in the name of Christ. We pray for this diocese and for George our Bishop. We pray for this parish in this time of transition. Lord, in your mercy: hear our prayer.

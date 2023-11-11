@@ -4,6 +4,7 @@ title:  "Hierarchy and Service"
 date:   2016-06-05
 blurb: "Kevin's sermon explores the concept of hierarchy through the lens of the Gospel, contrasting human structures of power with Jesus' model of servitude. He reflects on personal experiences and biblical teachings to emphasize the importance of service over authority, highlighting the radical reversal of hierarchy embodied by Jesus' incarnation and ministry."
 og_image: "/assets/img/posts/proper42016.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper42016.pdf)    
 ### PROPER 4 – Year C – 2016 - Trinity 1

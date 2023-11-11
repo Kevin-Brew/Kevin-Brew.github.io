@@ -4,6 +4,7 @@ title:  "Orla's Farewell"
 date:   2011-08-11
 blurb: "This sermon was delivered at the funeral of Mrs. Orla Ennis, a woman known for her resilience and love for life. Despite her illness, she continued to live a full life, caring for her family and animals. The sermon invites the attendees to remember Orla's life and the ways she enriched theirs. It also offers comfort and hope in the face of death, drawing on Christian faith."
 og_image: "/assets/img/posts/Mrs Orla Ennis - 11th August 2011.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Orla Ennis - 11th August 2011.pdf)    
 I remember going to see Orla shortly after she got news of her diagnosis that the cancer was back. She was getting me a cup of tea in the kitchen in 'Green Ivies' while she cleared a cat off the counter and gave off to a dog. She paused and looked straight at me and said, 'Well I can either fight this or go and jump off the nearest cliff.' Fighting for Orla meant living a normal life, not allowing the illness (which she knew full well was serious) to totally dominate her life.

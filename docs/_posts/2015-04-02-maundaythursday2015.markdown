@@ -4,6 +4,7 @@ title:  "Servant Love"
 date:   2015-04-02
 blurb: "This sermon, delivered on Maundy Thursday, 2015, explores the concept of 'Servant Love' as exemplified by Jesus washing the feet of his disciples. It emphasizes the importance of humility, service, and love in the Christian life. The sermon also underscores the importance of receiving God's love before being able to effectively show it to others."
 og_image: "/assets/img/posts/maundaythursday2015.png"
+tags: Holy_Week Lent
 ---
 [Original PDF](/assets/pdf/maundaythursday2015.pdf)    
 I remember one of my last Confirmation groups in Ahoghill was a group of adults. The Confirmation Service was held on Maundy Thursday in the context of a Holy Week series lead by the Bishop of Connor at the time, Alan Harper, later to become Archbishop of Armagh. In planning the service Bishop Alan and myself thought it would be lovely to incorporate the washing of feet into the service, in which Bishop Alan would wash the feet of the candidates.

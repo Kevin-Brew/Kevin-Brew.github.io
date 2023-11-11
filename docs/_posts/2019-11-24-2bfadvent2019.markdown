@@ -4,6 +4,7 @@ title:  "Seeking Truth Amidst Chaos"
 date:   2019-11-24
 blurb: "In this sermon, Kevin discusses the importance of discerning truth amidst the chaos of political campaigns and social media. Drawing parallels between the 1st century Jerusalem and the 21st century, he emphasizes the need for critical thinking, educating our conscience, and standing firm for truth. He also highlights the role of the Church in testifying to the truth and addressing issues of justice and reconciliation."
 og_image: "/assets/img/posts/2bfadvent2019.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/2bfadvent2019.pdf)    
 2nd Sunday before Advent – Year C – 2019

@@ -4,6 +4,7 @@ title:  "Identity in Christ"
 date:   2019-11-24
 blurb: "Kevin's sermon focuses on the theme of identity, as marked by the sign of the cross in baptism, and how it shapes our lives and responsibilities. He draws parallels between the identity given to us through Christ and the identity markers in our world, such as a dog's microchip. Kevin emphasizes the importance of embodying Christ in the world, serving others, and being Christ's hands, feet, and eyes on Earth, as inspired by Teresa of Avila."
 og_image: "/assets/img/posts/sundaybeforeadvent2019.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent2019.pdf)    
 Christ claims you for his own.

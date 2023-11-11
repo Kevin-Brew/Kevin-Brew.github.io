@@ -4,6 +4,7 @@ title:  "Celebrating Commitment and Love"
 date:   2013-04-11
 blurb: "In this sermon, Kevin speaks at the wedding of Clodagh McCartan and Glenn Watson, emphasizing the importance of commitment, faithfulness, and the love they have found in each other. He draws parallels between their bond and the love between Christ and his Church, urging them to clothe themselves in virtues like compassion, kindness, and patience. Kevin encourages the couple to live in harmony, support each other, and grow in love that reflects Christ's selfless love."
 og_image: "/assets/img/posts/Glenn and Clodagh - 11th April 2013.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Glenn and Clodagh - 11th April 2013.pdf)    
 Wedding of Clodagh McCartan & Glenn Watson – 11th April 2013

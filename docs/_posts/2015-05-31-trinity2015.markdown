@@ -4,6 +4,7 @@ title:  "Healing and Salvation"
 date:   2015-05-31
 blurb: "Kevin's sermon on Trinity Sunday, 2015, focuses on the intertwined concepts of healing and salvation, as exemplified in the story of Zacchaeus and the baptism of Jacob Warburton. He draws parallels between biblical stories of healing and the ongoing process of spiritual restoration, emphasizing the role of the community in nurturing faith and embodying the 'aroma of Christ'."
 og_image: "/assets/img/posts/trinity2015.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinity2015.pdf)    
 ## TRINITY SUNDAY – 2015 – Year B Baptism of Jacob Warburton

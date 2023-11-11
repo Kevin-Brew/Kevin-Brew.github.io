@@ -4,6 +4,7 @@ title:  "Patience in Faith"
 date:   2016-07-03
 blurb: "Kevin's sermon on St Thomas' Day reflects on the themes of patience and growth within the Christian faith. He draws parallels between the journey of the Apostle Thomas towards belief and the baptism of a child into the church. Emphasizing the church as a work in progress, he encourages patience and understanding as each individual grapples with faith, highlighting the importance of personal experience in developing a genuine belief."
 og_image: "/assets/img/posts/stthomas2016.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/stthomas2016.pdf)    
 St Thomas' Day – Trinity 6 – year C – 2016

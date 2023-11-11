@@ -4,6 +4,7 @@ title:  "Easter Vestry 2020"
 date:   2020-04-12
 blurb: "The sermon discusses the impact of the Covid-19 pandemic on the church and the community. It highlights the changes in worship, education, social development, and business. The sermon also pays tribute to individuals who have served the Parish over the last year and discusses the future of the church in these challenging times."
 og_image: "/assets/img/posts/Easter Vestry 2020.png"
+tags: Easter Vestry
 ---
 [Original PDF](/assets/pdf/Easter Vestry 2020.pdf)    
 Welcome to a very different Easter General Vestry Meeting. So much has changed since the initial lockdown on 15th March in the way we have had to manage our life as a Parish, as a Church.

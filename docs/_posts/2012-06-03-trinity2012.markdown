@@ -4,6 +4,7 @@ title:  "The Unpredictable Trinity"
 date:   2012-06-03
 blurb: "Kevin reflects on the unpredictable nature of God's presence, drawing parallels between gardening and the divine. He discusses the Trinity, emphasizing the otherness of God and the limitations of human understanding. Through biblical examples, Kevin illustrates how God's presence is both undeniable and elusive, and how our attempts to define God often limit us rather than God."
 og_image: "/assets/img/posts/trinity2012.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinity2012.pdf)    
 ### TRINITY SUNDAY 2012- year B

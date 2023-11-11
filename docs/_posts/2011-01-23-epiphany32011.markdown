@@ -4,6 +4,7 @@ title:  "Light in Darkness"
 date:   2011-01-23
 blurb: "In this sermon, Kevin explores the theme of light and darkness in the scriptures, and how it parallels the contrast between good and evil. He highlights the role of light as a sign of God's presence and the call for Christians to be channels of this light. He also discusses the societal changes in Ireland and challenges the Christian community to be a beacon of light and justice in the midst of these changes."
 og_image: "/assets/img/posts/epiphany32011.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany32011.pdf)    
 As you may have gathered over the last few weeks, the Gospel passage we read at Christmas, from the opening of St John’s Gospel, has struck a particular resonance with me this year. As I read our Old Testament, Psalm and Gospel for this 3rd Sunday after the Epiphany, with their many allusions to light, my mind returned to that Christmas Gospel:

@@ -4,6 +4,7 @@ title:  "Understanding the Trinity"
 date:   2020-06-07
 blurb: "Kevin's sermon on Trinity Sunday explores the vastness of the universe and the intimate care of God. He uses the scale of the solar system to illustrate God's greatness and the variety of creation. He emphasizes that God, who created everything, also understands and cares for each individual, as seen in the life of Jesus and the presence of the Holy Spirit."
 og_image: "/assets/img/posts/trinitysunday2020.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinitysunday2020.pdf)    
 TRINITY SUNDAY – Year A – 2020 – Zoom Service

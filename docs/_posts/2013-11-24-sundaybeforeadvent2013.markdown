@@ -4,6 +4,7 @@ title:  "The Image of His Father"
 date:   2013-11-24
 blurb: "This sermon explores the concept of Jesus as the 'image of the invisible God', drawing parallels between the familial resemblance between parents and children and the spiritual resemblance between God and Jesus. It emphasizes the humility and servitude of Jesus, who came not to be served, but to serve. The sermon concludes with an invitation to follow Jesus, the Servant King."
 og_image: "/assets/img/posts/sundaybeforeadvent2013.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent2013.pdf)    
 Isn’t he the image of his father? How often has that been said over many a child lying in a cot or starting to toddle around a room. Of course, we should not be surprised at this when you think of the very sharing of DNA in the bringing to birth of a child.

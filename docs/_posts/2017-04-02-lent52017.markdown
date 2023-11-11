@@ -4,6 +4,7 @@ title:  "Raising of Lazarus"
 date:   2017-04-02
 blurb: "This sermon is about the story of Lazarus, a man who was raised from the dead by Jesus. The sermon explores the themes of love, death, and resurrection, and how these themes relate to our own lives. It suggests that Jesus' love for Lazarus, and his power to bring him back to life, is a metaphor for the spiritual resurrection that we can all experience."
 og_image: "/assets/img/posts/lent52017.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent52017.pdf)    
 We have read as our Gospel reading this morning, John’s account of the raising of Lazarus. It is a well known passage. Lazarus, the brother of Martha and Mary has died. Jesus comes to visit the family.

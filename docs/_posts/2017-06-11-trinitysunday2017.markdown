@@ -4,6 +4,7 @@ title:  "Embracing Faith's Poverty"
 date:   2017-06-11
 blurb: "On Trinity Sunday, Kevin reflects on the importance of taking scripture seriously and approaching it with an open mind, open to fresh insights. He discusses the concept of 'poverty of faith' as a recognition that our understanding of God is always partial and provisional. The sermon emphasizes that regardless of our doubts or clarity of faith, God is with us, and we are each a focus of His love."
 og_image: "/assets/img/posts/trinitysunday2017.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinitysunday2017.pdf)    
 As I look over the lessons appointed for a particular Sunday, I often reflect on advice given to my class by our New Testament Lecturer, the late Professor F. E. Vokes, affectionately known to us all as Freddy. In the course of a series of lectures on St John's Gospel, he had been dealing with the passage describing the raising of Lazarus and the nature of his emergence from the tomb.

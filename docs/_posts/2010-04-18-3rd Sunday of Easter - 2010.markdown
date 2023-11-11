@@ -4,6 +4,7 @@ title:  "Diversity in Faith"
 date:   2010-04-18
 blurb: "In this sermon, Kevin explores the diversity of human beings and how this diversity enriches our understanding and experience of God. He uses the story of the blind men and the elephant to illustrate how different perspectives can provide a fuller picture of the truth. He also discusses the different faith journeys of Paul and Peter, emphasizing that God speaks to each person in a way that is appropriate to them."
 og_image: "/assets/img/posts/3rd Sunday of Easter - 2010.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/3rd Sunday of Easter - 2010.pdf)    
 I have always had a fascination with people. Even wandering down Grafton Street. So many different people, different backgrounds, there for different reasons; different thoughts going through their minds – everyone different to everyone else. For each human being is unique. There is no other human being on this planet, no-one who has ever lived, no-one who will live in times to come who is, or was, or will be exactly like you. That thought occurred to me as I read the portion from Revelation appointed as our second lesson for today – the vision of the heavenly worship, the voices of myriads of myriads, thousands and thousands, numbers beyond imagination all united in worship:

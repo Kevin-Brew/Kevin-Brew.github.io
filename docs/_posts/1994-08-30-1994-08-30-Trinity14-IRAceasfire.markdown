@@ -4,6 +4,7 @@ title:  "Thoughts about the ceasefire"
 date:   1994-08-30
 blurb: "This sermon reflects on the ceasefire in Northern Ireland, expressing a mixture of hope and fear. The speaker emphasizes the need for calm, patience, and sensitivity, and urges the congregation to pray for political leaders. The sermon also acknowledges the feelings of suspicion, anger, and bitterness that have arisen from past events, but encourages the loosening of these feelings for the future."
 og_image: "/assets/img/posts/1994-08-30-Trinity14-IRAceasfire.png"
+tags: 
 ---
 [Original PDF](/assets/pdf/1994-08-30-Trinity14-IRAceasfire.pdf)    
 Over the last twenty five years, amidst the murder and mayhem, we have prayed for peace in our province. How long can this go on we have asked. Do our children have to grow up in this atmosphere of suspicion and fear. In addition to the human toll, the situation here has had a devastating effect on the local economy. Potential investors have been scared off. Many of our young people have felt the need to emigrate, many never to return.

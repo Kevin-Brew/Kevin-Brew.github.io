@@ -4,6 +4,7 @@ title:  "Remembering Mrs Doris Blennerhassett"
 date:   2012-07-16
 blurb: "This sermon is a heartfelt remembrance of Mrs Doris Blennerhassett, a beloved figure in the Howth parish. It reflects on her life, her contributions to the community, and her deep faith. The sermon also expresses gratitude for her life and prays for her soul."
 og_image: "/assets/img/posts/Mrs Doris Blennerhassett.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Doris Blennerhassett.pdf)    
 Funeral of Mrs Doris Blennerhassett – 16th July 2012

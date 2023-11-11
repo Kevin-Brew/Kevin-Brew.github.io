@@ -4,6 +4,7 @@ title:  "Voices of the Voiceless"
 date:   2012-10-21
 blurb: "In this sermon, Kevin reflects on the theme of seeking position and power, drawing parallels between the Gospel narrative of James and John and contemporary societal issues. He emphasizes the importance of advocating for the voiceless in society, such as children, the elderly, and the vulnerable, especially in the face of economic challenges and budget cuts that affect the less fortunate."
 og_image: "/assets/img/posts/proper242012.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper242012.pdf)    
 PROPER 24 – YEAR B – 2012 – Trinity 20

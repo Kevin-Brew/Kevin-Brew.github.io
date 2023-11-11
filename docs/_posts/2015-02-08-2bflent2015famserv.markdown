@@ -4,6 +4,7 @@ title:  "Wonderful World"
 date:   2015-02-08
 blurb: "In this sermon, Kevin speaks about the beauty of the world we live in and how we often overlook it due to our busy lives. He emphasizes that we are all unique creations of God and that we are all made in God's image. He encourages us to appreciate and marvel at God's creation and to understand our purpose in life as God's children."
 og_image: "/assets/img/posts/2bflent2015famserv.png"
+tags: Epiphany Lent
 ---
 [Original PDF](/assets/pdf/2bflent2015famserv.pdf)    
 2nd Sunday before Lent – 2015 – Year B

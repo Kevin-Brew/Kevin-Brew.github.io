@@ -4,6 +4,7 @@ title:  "Breaking Through Barriers"
 date:   2015-02-22
 blurb: "Kevin reflects on Lent as a time not just for giving up things, but for introspection and creating space in our lives. He emphasizes the importance of meditation, generosity, and new beginnings. The sermon draws connections between the tearing of the heavens during Jesus' baptism and the tearing of the Temple veil, symbolizing the breaking down of barriers between God and humanity. Kevin encourages us to be instruments of peace and to break down barriers in our own lives, following the example of Jesus."
 og_image: "/assets/img/posts/lent12015.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent12015.pdf)    
 ### Lent 1 – Year B – 2015

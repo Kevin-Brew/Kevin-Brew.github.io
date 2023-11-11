@@ -4,6 +4,7 @@ title:  "Unity in Crisis"
 date:   2020-03-22
 blurb: "Kevin's sermon reflects on the unprecedented challenges posed by the Covid-19 pandemic, emphasizing the importance of solidarity and community spirit. He urges everyone to practice social distancing, support healthcare workers, and maintain hope during this national emergency. The core message is about coming together by staying apart, and the power of collective action in the face of a global crisis."
 og_image: "/assets/img/posts/lent42020 - Leo Varadkar address.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent42020 - Leo Varadkar address.pdf)    
 Lá Fhéile Pádraig shona daoibh!

@@ -4,6 +4,7 @@ title:  "Tears Over Jerusalem"
 date:   1996-07-14
 blurb: "Kevin reflects on the tumultuous events in Northern Ireland, drawing parallels with Christ's lament over Jerusalem. He emphasizes the need for a Christian spirit in politics and daily life, advocating for peace and a return to spiritual core values. The sermon calls for love and peace, even towards those with differing views, as fundamental Christian principles."
 og_image: "/assets/img/posts/1996-08-14-proper10-Sunday-after-Drumcree.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/1996-08-14-proper10-Sunday-after-Drumcree.pdf)    
 July 14th 1996 – Proper 10 – Year A – Sunday after Drumcree

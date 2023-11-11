@@ -4,6 +4,7 @@ title:  "Unity for a Purpose"
 date:   2019-06-02
 blurb: "This sermon emphasizes the importance of unity in the church community, not for its own sake, but for the sake of the world beyond the church doors. It draws on the teachings of William Temple and the words of Jesus, stressing that the church exists for the benefit of those who are not its members. The sermon also highlights the need for a unity of purpose as the church navigates a rapidly changing society."
 og_image: "/assets/img/posts/7ofeaster2019.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/7ofeaster2019.pdf)    
 7th Sunday of Easter – Year C – 2019

@@ -4,6 +4,7 @@ title:  "Advent: A Life-Changing Encounter"
 date:   2011-11-27
 blurb: "This sermon, delivered on the first Sunday of Advent in 2011, explores the themes of life-changing and life-challenging encounters, drawing parallels between the anticipation of significant life events, such as weddings or retirements, and the spiritual anticipation of Advent. The sermon emphasizes the presence of Christ in every aspect of our lives and in every person we encounter, challenging us to see and serve Christ in others."
 og_image: "/assets/img/posts/advent12011.png"
+tags: Advent
 ---
 [Original PDF](/assets/pdf/advent12011.pdf)    
 ADVENT 1 – year B – 2011

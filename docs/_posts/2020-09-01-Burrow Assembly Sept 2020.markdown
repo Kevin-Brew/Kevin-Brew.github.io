@@ -4,6 +4,7 @@ title:  "New Beginnings"
 date:   2020-09-01
 blurb: "In this sermon, Kevin welcomes everyone to the new school year at Burrow School, especially the new Junior Infant Class. He acknowledges the fear and excitement that come with new experiences and assures the students that they are not alone. He uses a personal anecdote about a parachute jump to illustrate this point. Kevin also acknowledges the challenges posed by Covid-19 and emphasizes the importance of taking care of each other."
 og_image: "/assets/img/posts/Burrow Assembly Sept 2020.png"
+tags: School School Special_Occasions
 ---
 [Original PDF](/assets/pdf/Burrow Assembly Sept 2020.pdf)    
 Good morning everyone and welcome to the first School Assembly at the Burrow School of the new School year. A very special welcome to our new Junior Infant Class. I am missing not being with you in person. Normally at this Assembly you would be sitting at my feet in the front row. This is all very new for you – new School, new Teacher, new friends, new things to learn. It all may seem a bit scary at the minute but you will soon settle in, get to know your teacher, get to know your class – get to do and learn all sorts of new exciting things.

@@ -4,6 +4,7 @@ title:  "Love and Marriage"
 date:   2016-12-11
 blurb: "The sermon for the wedding of John Robinson and Kim Sargent in December 2016 emphasizes the depth of commitment and love in marriage, drawing parallels between the love shared by a couple and the love Christ has for his Church. It reflects on the teachings of St. Paul on love's enduring qualities and the role of Christian love in overcoming challenges within marriage. The core message is that marital love should mirror the self-giving love of Christ, fostering unity, forgiveness, and joy."
 og_image: "/assets/img/posts/John Robinson and Kim Sargent Dec 2016.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/John Robinson and Kim Sargent Dec 2016.pdf)    
 We gather this afternoon to celebrate the marriage of Karl and Nicola. As we do so we join with them as they celebrate and rejoice in what they have already shared together, in the love and the companionship, the encouragement and the strength they have found in each other.

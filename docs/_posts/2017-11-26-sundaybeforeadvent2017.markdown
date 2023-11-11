@@ -4,6 +4,7 @@ title:  "Generosity and Inclusion"
 date:   2017-11-26
 blurb: "Kevin's sermon reflects on the Archbishop's message of 'Generous Christianity' and the parable of the sheep and the goats. He emphasizes the importance of serving the poor and marginalized as a way of serving Christ, and challenges the congregation to consider the future of their worshipping community. The sermon calls for a community that embodies a 'Garland of Generosity and Inclusion' and warns against 'Self-Generosity'."
 og_image: "/assets/img/posts/sundaybeforeadvent2017.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent2017.pdf)    
 Sunday before Advent – Year A – 2017

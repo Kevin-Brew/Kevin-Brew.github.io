@@ -4,6 +4,7 @@ title:  "Recognizing Jesus"
 date:   2011-05-08
 blurb: "The sermon emphasizes the importance of recognizing Jesus not by his physical appearance but by his actions. It highlights the need for followers of Jesus to emulate his actions and compassion. The sermon concludes with a powerful reminder that as followers, we are the body of Christ on earth."
 og_image: "/assets/img/posts/3ofeaster2011 - Family Service.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/3ofeaster2011 - Family Service.pdf)    
 3rd Sunday of Easter - 2011 - Family Service

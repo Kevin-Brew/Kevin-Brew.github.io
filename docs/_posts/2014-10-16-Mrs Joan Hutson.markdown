@@ -4,6 +4,7 @@ title:  "Joan Hutson's Funeral"
 date:   2014-10-16
 blurb: "This sermon was delivered at the funeral of Mrs Joan Hutson on 16th October 2014. It highlights Joan's vibrant life, her faith, and her love for gardening. The sermon draws parallels between the life cycle of a seed and human life, emphasizing the importance of faith and worship."
 og_image: "/assets/img/posts/Mrs Joan Hutson.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Joan Hutson.pdf)    
 Funeral of Mrs Joan Hutson – 16th October 2014

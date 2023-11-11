@@ -4,6 +4,7 @@ title:  "Identity in Christ"
 date:   2015-07-26
 blurb: "Kevin's sermon on Proper 12, Year B, reflects on the theme of identity through the lens of Christian faith. He discusses the significance of baptism in understanding one's identity in relation to family lineage and the broader Christian community. Using the metaphor of the Body of Christ, he emphasizes our role as Christ's representatives on earth, inspired by the words of Teresa of Avila."
 og_image: "/assets/img/posts/proper122015.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper122015.pdf)    
 There is something about the arrival of a child in a family – new birth speaks of future. It brings to mind the births of other members of the family. Grandparents remember the birth of the parents of this new child, their childhood and early development. There is that reaffirmation of identity as we welcome the arrival of one who is 'flesh of my flesh.'

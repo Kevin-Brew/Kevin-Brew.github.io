@@ -4,6 +4,7 @@ title:  "Back to Church Sunday"
 date:   2012-09-30
 blurb: "Kevin's sermon on 'Back to Church Sunday' emphasizes the importance of community and belonging within the church family. He reflects on the diverse nature of families and the church, and the need for both young and old to support each other in faith. The sermon also includes a personal anecdote about the impact of a kind couple on Kevin's own journey back to church."
 og_image: "/assets/img/posts/proper21back2church2012.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper21back2church2012.pdf)    
 ### Proper 21 – 2012- year B

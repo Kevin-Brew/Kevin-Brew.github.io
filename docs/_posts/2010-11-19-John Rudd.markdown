@@ -4,6 +4,7 @@ title:  "Remembering John Rudd"
 date:   2010-11-19
 blurb: "This sermon is a tribute to Mr. John Rudd, a man of great pride in his family and achievements. Despite his declining health, he fought bravely and continued to attend church services. He was a man of great interest in sports and held a significant position in his professional life. His life is celebrated with affection and thanksgiving."
 og_image: "/assets/img/posts/John Rudd.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/John Rudd.pdf)    
 Funeral of Mr John Rudd – Howth – 19th November 2010

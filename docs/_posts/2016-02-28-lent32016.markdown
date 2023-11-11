@@ -4,6 +4,7 @@ title:  "The God of Second Chances"
 date:   2016-02-28
 blurb: "In this sermon, Kevin uses the metaphor of a gardener and a fig tree to illustrate God's patience and willingness to give second chances. He emphasizes that God sees potential in us, even when we fail to see it in ourselves. He also highlights the importance of the concept of Covenant in the Old Testament, and how it signifies God's enduring invitation for us to return to Him, despite our repeated failures."
 og_image: "/assets/img/posts/lent32016.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent32016.pdf)    
 As we read through the bible there are a number of very powerful images used to illustrate the relationship between God and his people. One that would often come to mind would be that of God as shepherd. Passages such as Psalm 23 would come readily to mind, 'The Lord is my shepherd, therefore can I lack nothing' and the hymns that we associate with it, 'The King of love my shepherd is'. Jesus will speak of himself as the Good Shepherd, and many a picture will appear in a Victorian Bible with Jesus bringing home the lost sheep.

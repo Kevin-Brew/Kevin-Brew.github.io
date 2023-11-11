@@ -4,6 +4,7 @@ title:  "Pentecost 2016: A New Beginning"
 date:   2016-05-15
 blurb: "This sermon celebrates the baptism of a child named Cass on the Feast of Pentecost, which is also considered the birthday of the Church. The sermon emphasizes the role of the Holy Spirit in helping us become more like Jesus, embodying his qualities of wisdom, compassion, love, and forgiveness. It encourages us to reveal the 'lovely person' within us, guided by the Holy Spirit."
 og_image: "/assets/img/posts/pentecost2016family.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/pentecost2016family.pdf)    
 PENTECOST – year C – 2016

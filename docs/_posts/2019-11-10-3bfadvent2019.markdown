@@ -4,6 +4,7 @@ title:  "The Mystery of God's Love"
 date:   2019-11-10
 blurb: "In this sermon, Kevin explores the concept of questioning and seeking understanding in the face of life's challenges. He discusses the importance of acknowledging our limitations in understanding God and the value of faith in the face of uncertainty. He encourages us to embrace the mystery of God's love and to open our hearts to the transformative power of faith."
 og_image: "/assets/img/posts/3bfadvent2019.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/3bfadvent2019.pdf)    
 3rd Sunday before Advent – Year C – 2019

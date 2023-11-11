@@ -4,6 +4,7 @@ title:  "Transition and Engagement"
 date:   2015-04-05
 blurb: "The Rector's address at the Easter Vestry 2015 reflected on the Parish's period of transition as it approached its 150th anniversary. He acknowledged the loss of faithful members and a decline in attendance and income. However, he highlighted the strength of the Youth Worker Programme and the reintroduction of the Sunday School. He emphasized the importance of younger families engaging in parish roles and concluded by appointing new wardens for the year."
 og_image: "/assets/img/posts/Easter Vestry 2015 - summary.png"
+tags: Easter Vestry
 ---
 [Original PDF](/assets/pdf/Easter Vestry 2015 - summary.pdf)    
 Rector's Address

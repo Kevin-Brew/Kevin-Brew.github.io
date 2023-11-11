@@ -4,6 +4,7 @@ title:  "Memorial Service for Christopher Wren"
 date:   2019-07-27
 blurb: "This sermon is a memorial service for Christopher Wren, who passed away from cancer. The sermon reflects on Christopher's life, his journey from England to Australia, and his zest for life. It also discusses the importance of remembering the good and true in a person's life, and the peace that can be found in God's love."
 og_image: "/assets/img/posts/Memorial Service Christopher Wren.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Memorial Service Christopher Wren.pdf)    
 A few weeks ago Garrett got word that his brother Christopher, who was suffering from cancer, was now close to the end of his life. Garrett and Fiona set off on the long journey to Australia to be with Christopher and his partner, Yves, before he died.

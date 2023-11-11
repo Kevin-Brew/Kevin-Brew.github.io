@@ -4,6 +4,7 @@ title:  "The First Step of Faith"
 date:   2019-07-14
 blurb: "Kevin's sermon explores the challenge of taking the first step in faith, drawing parallels with everyday life's hesitations. He reflects on St. Augustine's struggle for chastity and the universal fear of change, emphasizing the Christian belief that we are not meant to face life's trials alone. The sermon reassures us that God's presence and the guidance of the Holy Spirit empower us to embark on our faith journey, despite our fears and failures."
 og_image: "/assets/img/posts/proper82019.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper82019.pdf)    
 Every so often as we read the Gospels, as we read the teaching of Jesus, we come across passages where I certainly find myself saying, 'Hmm, that is a bit harsh. I wish you hadn't said that Lord.' The Gospel passage appointed for today would fall into that category as Jesus seems to dismiss those potential followers who say to him, 'Lord, first let me go and bury my father.' 'But let me first say farewell to those at my home.' This seems to fly in the face of compassion, of loyalty to family. So, what are we to make of this?

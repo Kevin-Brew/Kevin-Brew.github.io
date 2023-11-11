@@ -4,6 +4,7 @@ title:  "Journey of Faith"
 date:   2019-10-27
 blurb: "The sermon reflects on the Christian journey from baptism to the end of life, using the metaphor of a race. It emphasizes the importance of living as a disciple of Christ, fighting the good fight, and keeping the faith. The sermon also highlights the significance of baptism as the starting point of this journey, with a special focus on baby Tadhg's baptism."
 og_image: "/assets/img/posts/5th before Advent - notes.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/5th before Advent - notes.pdf)    
 Christ claims you for his own.

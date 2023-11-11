@@ -4,6 +4,7 @@ title:  "The Presentation of Christ"
 date:   2019-02-03
 blurb: "This sermon discusses the presentation of Christ in the Temple, reflecting on the power of hymns to convey deep spiritual truths. It explores the concept of God becoming human through Jesus, experiencing all aspects of humanity, and the calling for the Church to be the Body of Christ in the world today."
 og_image: "/assets/img/posts/presentation2019.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/presentation2019.pdf)    
 Presentation of Christ in the Temple – 2019

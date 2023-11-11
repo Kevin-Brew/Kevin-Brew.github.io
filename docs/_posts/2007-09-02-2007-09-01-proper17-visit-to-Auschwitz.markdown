@@ -4,6 +4,7 @@ title:  "Reflections on Auschwitz"
 date:   2007-09-02
 blurb: "In this sermon, Kevin reflects on a visit to Auschwitz, juxtaposing the joy of his son's wedding with the somber history of the Holocaust. He grapples with the theological challenges posed by such immense suffering and finds solace in the enduring presence of God, even in the darkest of times. The sermon emphasizes the power of moral choice and the resonance of faith in the face of evil."
 og_image: "/assets/img/posts/2007-09-01-proper17-visit-to-Auschwitz.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/2007-09-01-proper17-visit-to-Auschwitz.pdf)    
 Proper 17 – 2007 – year C – Trinity 13

@@ -4,6 +4,7 @@ title:  "Funeral of Mrs Joan Byrne"
 date:   2012-05-28
 blurb: "This sermon reflects on the life and passing of Mrs Joan Byrne, a dearly loved mother, grandmother, and friend. It discusses the Christian perspective on death, the hope in Christ, and the comfort found in faith during times of loss. The sermon also shares memories of Joan and highlights the support of her family."
 og_image: "/assets/img/posts/Mrs Joan Byrne.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Joan Byrne.pdf)    
 This morning we have gathered here in St Mary’s for the funeral of Joan Byrne, a dearly loved mother, grandmother, friend. At the end of a long life graciously lived, we come to remember with thanksgiving one who has been taken from us, one we have loved and whose love has sustained us, one who has been part of our lives. Along with our thankfulness we come with a very proper sadness and loss. However much we know the end is coming, however much we want the suffering of a loved one to be over, there is still that loss, that gap in our lives that no one else can fill in quite the same way. Those of us outside the immediate family circle come to support those who will miss her most, her children.

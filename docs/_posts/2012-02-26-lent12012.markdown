@@ -4,6 +4,7 @@ title:  "The Image of Faith"
 date:   2012-02-26
 blurb: "Kevin reflects on the importance of engaging with the Scriptures, not just as stories to be heard, but as transformative teachings that shape our lives. He uses the analogy of becoming 'illustrators' of the stories we hear, embodying the teachings of Jesus in our daily lives. The sermon encourages us to be 'people of the Beatitudes', living expressions of Jesus' teachings, and to allow the Bible to resonate with and challenge our daily living."
 og_image: "/assets/img/posts/lent12012.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent12012.pdf)    
 Lent 1 – 2012 – year B

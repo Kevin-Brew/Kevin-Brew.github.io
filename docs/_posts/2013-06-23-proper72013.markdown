@@ -4,6 +4,7 @@ title:  "Rediscovering Faith"
 date:   2013-06-23
 blurb: "Kevin reflects on the journey of faith, drawing parallels between the story of Elijah and the experiences of Bishop Richard Holloway. He explores the theme of feeling God's absence and the subsequent rediscovery of faith. The sermon emphasizes the presence of God even in times of doubt, encouraging believers to seek stillness to sense God's presence."
 og_image: "/assets/img/posts/proper72013.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper72013.pdf)    
 PROPER 7 – 2013 – Year C – Trinity 4

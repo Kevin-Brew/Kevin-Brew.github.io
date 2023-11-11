@@ -4,6 +4,7 @@ title:  "Telling the Timeless Tale"
 date:   2019-07-07
 blurb: "Kevin reflects on the importance of storytelling within the church and society, particularly in the context of baptism and the changing landscape of journalism. He draws parallels between the early Church adapting to new cultures and the modern Church's need to engage with contemporary forms of communication. The sermon emphasizes the enduring story of God's love and the Church's role in sharing this narrative in a world of isolation and fear."
 og_image: "/assets/img/posts/proper92019.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper92019.pdf)    
 PROPER 9 – 2019 – Year C - Trinity 3

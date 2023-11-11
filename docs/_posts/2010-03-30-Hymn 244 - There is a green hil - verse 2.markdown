@@ -4,6 +4,7 @@ title:  "The Green Hill Far Away"
 date:   2010-03-30
 blurb: "This sermon reflects on the power of hymns in spiritual formation, specifically focusing on the hymn 'There is a green hill far away'. It explores the mystery of the Cross, the pain Jesus had to bear, and the extravagant, unconditional love of God. The sermon encourages listeners to not only use their intellect but also their heart and soul to comprehend the depth of Christ's love."
 og_image: "/assets/img/posts/Hymn 244 - There is a green hil - verse 2.png"
+tags: Holy_Week Lent
 ---
 [Original PDF](/assets/pdf/Hymn 244 - There is a green hil - verse 2.pdf)    
 In the course of life we are gifted with chance meetings, chance encounters that can have an impact far beyond that particular moment. The chance meeting between man and woman, one among many such meetings, that blossoms into love, into marriage, into lifelong commitment and all that flows from that in shared sorrow, shared joys, shared pain, shared life and destiny.

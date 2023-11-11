@@ -4,6 +4,7 @@ title:  "Transfigured and Transformed"
 date:   2017-02-26
 blurb: "This sermon focuses on the concept of transformation, using biblical references from Matthew 17:2, 2 Corinthians 3:18, and Romans 12:2. It discusses the transfiguration of Jesus and how we, as believers, are being transformed into the same image from one degree of glory to another. The sermon emphasizes the importance of not conforming to the world but being transformed by the renewing of our minds."
 og_image: "/assets/img/posts/1beforelent2017 - notes.png"
+tags: Epiphany Lent
 ---
 [Original PDF](/assets/pdf/1beforelent2017 - notes.pdf)    
 TRANSFIGURED

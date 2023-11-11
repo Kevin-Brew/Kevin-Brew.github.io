@@ -4,6 +4,7 @@ title:  "The Good Shepherd"
 date:   2021-04-25
 blurb: "In this sermon, Kevin explores the concept of Jesus as the 'Good Shepherd', drawing parallels between the shepherd's intimate relationship with his flock and God's love for humanity. He emphasizes that God's love is not just an action, but a fundamental part of His nature. This sermon encourages us to reflect God's love in our own lives, showing kindness and compassion even to those who may seem undeserving."
 og_image: "/assets/img/posts/4ofeaster2021.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/4ofeaster2021.pdf)    
 It has often been said that the Bible was written to be heard as well as read. That is not surprising as the scriptures were first brought together as oral tradition and when they were first written down, most people would have experienced the Scriptures as something that was read to them. Of course, Jesus himself was heard rather than read. From the Gospel accounts as we have them, Jesus taught with stories, with images that would have connected with the daily experiences of his hearers. Take our Gospel reading for this Fourth Sunday of Easter; Jesus speaks of himself as the Good Shepherd.

@@ -4,6 +4,7 @@ title:  "The Unpredictable Gift"
 date:   2021-05-30
 blurb: "Kevin reflects on the unpredictability of life and God's presence, drawing parallels between his gardening experiences and spiritual insights. He discusses the doctrine of the Trinity, the otherness of God, and the varied ways God reveals Himself, as seen through biblical testimonies. The sermon encourages openness to God's unique work in our lives and a dedication to His service."
 og_image: "/assets/img/posts/trinity2021.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinity2021.pdf)    
 TRINITY SUNDAY 2021- year B

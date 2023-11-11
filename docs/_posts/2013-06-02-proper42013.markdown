@@ -4,6 +4,7 @@ title:  "Journey of Faith and Healing"
 date:   2013-06-02
 blurb: "Kevin reflects on the Old Testament stories of Elijah and Elisha, emphasizing God's presence in both grand and subtle ways. He draws parallels between these stories and the healing of the centurion's servant in the Gospel, highlighting the theme of journeying through life's challenges with faith. The sermon reassures us that God is present in our struggles, even when we feel alone, and encourages us to invite God into our journey."
 og_image: "/assets/img/posts/proper42013.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper42013.pdf)    
 PROPER 4 – 2013 – Year C – Trinity 1

@@ -4,6 +4,7 @@ title:  "Being Different"
 date:   2014-01-05
 blurb: "This sermon, delivered on the first Sunday of Epiphany in 2014, discusses the concept of being different and standing out in a crowd. The sermon emphasizes the importance of choosing to follow Christ, which means dying to sin and rising to new life with him. It also highlights the concept of repentance, using the Greek word 'metanoia', which means to turn around, change direction, and take a different journey through life."
 og_image: "/assets/img/posts/epiphany12014famserv.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany12014famserv.pdf)    
 Can anyone tell me where this place is? St Andrew’s – home ground of Birmingham City Football Club. There can be some pretty scary supporters. In recent years we haven’t had much to cheer about. We did win the League Cup back in 2008. I won’t gloat about one side that was knocked out of the League Cup. There aren’t many supporters here in Howth – Maurice Bishop and I used to console each other on a Sunday morning. In fact you could say that to be a supporter of Birmingham City is to stand out as different from everyone else.

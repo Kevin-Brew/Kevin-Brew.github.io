@@ -4,6 +4,7 @@ title:  "Epiphany 2013"
 date:   2013-01-06
 blurb: "This sermon discusses the Feast of Epiphany, marking the end of the Christmas season. It emphasizes the profound change brought about by the birth of Jesus, breaking down barriers between clean and unclean, Jew and Gentile. The sermon encourages listeners to not just be spectators, but participants in the ongoing manifestation of Christ to the world."
 og_image: "/assets/img/posts/epiphany2013.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany2013.pdf)    
 FEAST OF THE EPIPHANY – 2019 – YEAR C

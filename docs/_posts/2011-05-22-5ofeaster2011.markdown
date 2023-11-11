@@ -4,6 +4,7 @@ title:  "Healing and History"
 date:   2011-05-22
 blurb: "In this sermon, Kevin reflects on the historical events of the Queen's visit to Ireland and the Belfast Agreement, drawing parallels to the spiritual healing process. He emphasizes that healing is more than dealing with external symptoms, and it often involves faith, forgiveness, and dealing with deeper issues. He concludes with a prayer for healing of the nations, our land, and individuals."
 og_image: "/assets/img/posts/5ofeaster2011.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/5ofeaster2011.pdf)    
 5th Sunday of Easter – 2011 – year A

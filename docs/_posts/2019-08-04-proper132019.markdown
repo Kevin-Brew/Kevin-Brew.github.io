@@ -4,6 +4,7 @@ title:  "The Extravagance of Mercy"
 date:   2019-08-04
 blurb: "Kevin's sermon reflects on the concept of mercy as an extravagant, gracious act that goes beyond justice, drawing from the story of a mother's plea to Napoleon for her son and the biblical texts from Hosea and the Psalms. It emphasizes God's enduring love and mercy, the steadfast love (chesed) that persists despite human disobedience. The sermon connects this Old Testament theme to the New Covenant through Jesus' incarnation, highlighting the transformative power of God's love and the call for believers to embody this love in the world."
 og_image: "/assets/img/posts/proper132019.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper132019.pdf)    
 PROPER 13 – 2019 – Year C Trinity 7

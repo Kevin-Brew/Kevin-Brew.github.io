@@ -4,6 +4,7 @@ title:  "Cultivating Faith"
 date:   2020-07-12
 blurb: "Kevin reflects on the importance of preparing oneself for spiritual growth, likening it to cultivating a vegetable patch. He emphasizes the need for personal effort in nurturing one's faith, drawing parallels between gardening and spiritual practices. The sermon encourages listeners to be receptive to God's teachings and to invest time in prayer and reflection to foster a deeper connection with the divine."
 og_image: "/assets/img/posts/proper102020 family youtube.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper102020 family youtube.pdf)    
 PROPER 10 – Year A – 2020 – Trinity 5 – YouTube Family Service

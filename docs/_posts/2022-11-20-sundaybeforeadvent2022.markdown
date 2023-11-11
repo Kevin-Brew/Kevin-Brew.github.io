@@ -4,6 +4,7 @@ title:  "The Kingship of Christ"
 date:   2022-11-20
 blurb: "Kevin reflects on the Kingship of Christ on the Sunday before Advent, contrasting worldly expectations of power with the humility and self-giving love of Jesus. He draws from the Gospel and the example of Jesus' crucifixion to illustrate the nature of true kingship. The sermon calls us to embody the values of Christ's kingdom in our daily lives, embracing forgiveness, redemption, and discipleship."
 og_image: "/assets/img/posts/sundaybeforeadvent2022.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent2022.pdf)    
 Sunday before Advent – Year C – 2022 - Loughile

@@ -4,6 +4,7 @@ title:  "Hope in Times of Uncertainty"
 date:   2010-09-26
 blurb: "Kevin draws parallels between the financial struggles of the Irish Government and the biblical story of Jeremiah's land purchase during Jerusalem's siege. He emphasizes the importance of hope and confidence in the future, as exemplified by the baptism of a child in the congregation. The sermon underlines the need to invest in the future through education and health, and to instill values that will shape the next generation."
 og_image: "/assets/img/posts/proper212010.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper212010.pdf)    
 PROPER 21 – 2010 – year C – Trinity 17

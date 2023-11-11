@@ -4,6 +4,7 @@ title:  "Journey Towards God"
 date:   2014-04-06
 blurb: "In this sermon, Kevin discusses the concept of life as a journey towards God, and how each person's journey is a personal pilgrimage. He explores the distractions and negative feelings that can lead us astray, such as fear, despair, and guilt. Despite these challenges, Kevin emphasizes that God is always with us, even in our moments of pain and despair."
 og_image: "/assets/img/posts/lent52014.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent52014.pdf)    
 LENT 5 – YEAR A – 2014

@@ -4,6 +4,7 @@ title:  "Journey of Faith"
 date:   2017-05-07
 blurb: "This sermon, given on the 4th Sunday of Easter in 2017, discusses the theme of journey. It marks the last service in St Mary’s before moving into the Parish Centre for nearly five months due to roof work. The sermon also celebrates the baptism of Zoe Groarke, symbolising the start of a lifelong journey of faith. The sermon draws parallels between the congregation's temporary displacement and the biblical stories of wandering and journeying, emphasizing that the church is not a building, but a people."
 og_image: "/assets/img/posts/4ofeaster2017.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/4ofeaster2017.pdf)    
 4th Sunday of Easter – YEAR A – 2017

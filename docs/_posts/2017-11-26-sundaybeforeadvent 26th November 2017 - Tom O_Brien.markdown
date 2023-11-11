@@ -4,6 +4,7 @@ title:  "Community and Faith"
 date:   2017-11-26
 blurb: "Kevin discusses the challenges of living in a world burdened by anxiety and stress, focusing on the high suicide rates among young people and the fears they face. He emphasizes the importance of community and the role of the church in providing hope and support. The sermon concludes with the message of the Great Commission, urging the congregation to share the good news and engage with all communities, following Jesus' example."
 og_image: "/assets/img/posts/sundaybeforeadvent 26th November 2017 - Tom O_Brien.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent 26th November 2017 - Tom O_Brien.pdf)    
 Family Service Talk for 26th November 2017

@@ -4,6 +4,7 @@ title:  "Christ the King"
 date:   2011-11-20
 blurb: "In the sermon before Advent in 2011, Kevin reflects on the profound truth of Christian witness and the core message of love. He emphasizes the importance of moving beyond self-centered individualism towards a faith that focuses on God and our neighbors. The sermon also discusses the societal values that align with Christian teachings, advocating for an inclusive society that recognizes the divine image in every individual."
 og_image: "/assets/img/posts/sundaybeforeadvent2011.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent2011.pdf)    
 Sunday before Advent – Year A – 2011

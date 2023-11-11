@@ -4,6 +4,7 @@ title:  "Render to God and Caesar"
 date:   2014-10-19
 blurb: "In this sermon, Kevin discusses the teaching of Jesus about the dual responsibilities to secular and divine authorities. Using the metaphor of Roman coins, he explains that while we must fulfill our civic duties, our true image and allegiance belong to God. We are called to love and serve God and others, reflecting Jesus' love and sacrifice."
 og_image: "/assets/img/posts/proper242014famserv.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper242014famserv.pdf)    
 ### Family Service - PROPER 24

@@ -4,6 +4,7 @@ title:  "All Saints' Reflection"
 date:   2014-11-01
 blurb: "Kevin's sermon on All Saints' Day reflects on the true meaning of sainthood, emphasizing that it is not about perfection but about God's claim on individuals who follow Jesus. He encourages the congregation to recognize the value of every person as made in God's image, and to celebrate the faithfulness of God towards those who are faithful to Him. The sermon concludes with a reminder of God's broad love and mercy, as expressed in a hymn."
 og_image: "/assets/img/posts/allsaints2014.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/allsaints2014.pdf)    
 ALL SAINTS – 2014

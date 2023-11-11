@@ -4,6 +4,7 @@ title:  "Shared Faith and Fellowship"
 date:   2009-05-17
 blurb: "This sermon focuses on the importance of shared faith and fellowship in the Christian community. The speaker emphasizes the importance of worship, participation in the Eucharist, identification with Christ, and charitable actions as key aspects of Christian life."
 og_image: "/assets/img/posts/6th Sunday of Easter - 2009 - koinonia notes.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/6th Sunday of Easter - 2009 - koinonia notes.pdf)    
 Shared faith 1 John 1.3 We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father, and with his son Jesus Christ.

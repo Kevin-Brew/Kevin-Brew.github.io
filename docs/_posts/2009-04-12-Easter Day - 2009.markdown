@@ -4,6 +4,7 @@ title:  "Easter Resurrection Movement"
 date:   2009-04-12
 blurb: "Kevin reflects on the Easter story, emphasizing the theme of movement and the underlying journey from despair to faith. He highlights Mary Magdalene's experience at the empty tomb and the disciples' initial confusion, leading to the realization of Christ's living presence. The sermon reassures us that Christ's presence offers hope and purpose, even in times of doubt, fear, and loss."
 og_image: "/assets/img/posts/Easter Day - 2009.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/Easter Day - 2009.pdf)    
 EASTER 2009 – Year B

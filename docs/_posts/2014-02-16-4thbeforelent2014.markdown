@@ -4,6 +4,7 @@ title:  "Who Am I?"
 date:   2014-02-16
 blurb: "In this sermon, Kevin Brew explores the fundamental questions of identity, purpose, and our relationship with God. He emphasizes the importance of understanding ourselves in relation to God and others, and the need for our spirituality to inspire and transform our daily lives. The sermon calls for justice, love, and mercy, and the need to live out our dignity and vocation as ones made in the image of God."
 og_image: "/assets/img/posts/4thbeforelent2014.png"
+tags: Epiphany Lent
 ---
 [Original PDF](/assets/pdf/4thbeforelent2014.pdf)    
 4th Sunday before Lent – 2014 – Year A

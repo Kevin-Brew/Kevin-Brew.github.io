@@ -4,6 +4,7 @@ title:  "The Healing of Easter"
 date:   2019-05-26
 blurb: "This sermon from Easter Sunday in 2019 focuses on the theme of healing and health. It explores the question of whether anyone would prefer sickness to health, and uses the story of Jesus healing a man at the Pool of Beth-zatha as a central narrative. The sermon emphasizes the importance of faith and the desire for healing."
 og_image: "/assets/img/posts/6ofeaster2019.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/6ofeaster2019.pdf)    
 6th Sunday of Easter – Year C – 2019

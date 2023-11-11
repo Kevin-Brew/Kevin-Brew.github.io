@@ -4,6 +4,7 @@ title:  "Palm Sunday - Year A"
 date:   2020-04-05
 blurb: "In this sermon, Kevin explores the concept of 'I' crossed out, symbolizing selflessness and obedience, as exemplified by Jesus. He emphasizes the importance of living a life of encouragement, love, and honor, rejecting prejudice and hatred. He also encourages us to be the 'aroma of Christ' and 'letters of Christ', being a presence and witness of Christ beyond words and actions."
 og_image: "/assets/img/posts/palmsunday2020.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/palmsunday2020.pdf)    
 PALM SUNDAY – Year A – Palm Sunday

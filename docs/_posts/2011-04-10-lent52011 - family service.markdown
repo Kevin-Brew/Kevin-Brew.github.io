@@ -4,6 +4,7 @@ title:  "Apollo 13 - Telling the Whole Story"
 date:   2011-04-10
 blurb: "This sermon uses the story of Apollo 13 to illustrate the importance of understanding the whole story of Easter. It emphasizes that to fully appreciate the wonder of resurrection, we need to know the reality of the Cross. The sermon concludes with a reminder of God's love for us, demonstrated through the life, death, and resurrection of Jesus."
 og_image: "/assets/img/posts/lent52011 - family service.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent52011 - family service.pdf)    
 Apollo 13 – Telling the whole story

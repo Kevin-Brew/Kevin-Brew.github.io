@@ -4,6 +4,7 @@ title:  "Who is my Neighbour?"
 date:   2010-07-11
 blurb: "This sermon, delivered in 2010, explores the concept of 'neighbour' in the context of the Christian faith. Drawing on the parable of the Good Samaritan, it challenges the listener to broaden their understanding of who they are obliged to love as themselves. It emphasizes the importance of transcending barriers of prejudice and extending love and concern to all, reflecting the love of Christ in a wounded and hurting world."
 og_image: "/assets/img/posts/proper102010.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper102010.pdf)    
 Who is my neighbour?

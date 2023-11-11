@@ -4,6 +4,7 @@ title:  "Remembering Mrs Mary Martin"
 date:   2010-06-08
 blurb: "This sermon is a tribute to Mrs Mary Martin, a beloved member of the Finglas community. It highlights her selflessness, hard work, and spiritual sincerity. The sermon also draws parallels between Mrs Martin's life and the teachings of the Beatitudes, emphasizing her embodiment of God's love and care."
 og_image: "/assets/img/posts/Mrs Mary Martin (Finglas).png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Mary Martin (Finglas).pdf)    
 Twenty nine years ago, as a young couple with our one year old son, Anthony, Rachel and I moved into the Rectory in Finglas. Over the following three years we faced a number of ups and downs. A number of figures stand out for us over that period for the warmth of their welcome and the practical help they gave to Rachel and myself. One of those we remember with huge affection is Mrs Martin. We remember her coming to the Rectory to babysit to let us out for a night. Not only would Anthony be well looked after (probably spoilt!) but the kitchen would be spotless. It wasn’t just a matter of her saying yes when we asked her; there were the offers that were made, cheerfully and without fuss, as well as the sympathetic ear and word of advice.

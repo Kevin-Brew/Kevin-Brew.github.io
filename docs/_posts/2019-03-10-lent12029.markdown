@@ -4,6 +4,7 @@ title:  "Temptation and Faith"
 date:   2019-03-10
 blurb: "This sermon discusses the personal experience of temptation and how it relates to Christian faith and discipleship. It emphasizes the importance of free will and personal responsibility in making moral decisions. The sermon also highlights the role of faith in overcoming temptation, drawing on biblical examples of encounters with God in the wilderness."
 og_image: "/assets/img/posts/lent12029.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent12029.pdf)    
 1st Sunday of Lent – 2019 – year C

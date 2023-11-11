@@ -4,6 +4,7 @@ title:  "The Lord is Near"
 date:   2015-12-13
 blurb: "In this sermon, Kevin explores the concept of God's nearness, drawing on references from literature and a prayer of blessing. He challenges the audience to consider their understanding of God and His presence in their lives. The sermon emphasizes the comforting and understanding nature of God, encouraging the audience to bring their anxieties and concerns to Him."
 og_image: "/assets/img/posts/advent32015.png"
+tags: Advent
 ---
 [Original PDF](/assets/pdf/advent32015.pdf)    
 Advent 3 – 2015 – year C

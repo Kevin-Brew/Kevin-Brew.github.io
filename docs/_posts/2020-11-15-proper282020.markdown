@@ -4,6 +4,7 @@ title:  "Treasures of the Church"
 date:   2020-11-15
 blurb: "Kevin's sermon reflects on the true treasures of the Church, drawing parallels between the story of St. Lawrence and the Parable of the Talents. He emphasizes the importance of community, interdependence, and using our gifts in service to God. The sermon encourages us to see each other as treasures of the Church, to support and uplift one another, and to live out the Gospel in our daily lives."
 og_image: "/assets/img/posts/proper282020.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper282020.pdf)    
 PROPER 28 – 2020 – Year A – 2nd Sunday before Advent

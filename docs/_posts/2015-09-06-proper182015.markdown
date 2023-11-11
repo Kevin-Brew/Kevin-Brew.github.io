@@ -4,6 +4,7 @@ title:  "Unity in Faith and Charity"
 date:   2015-09-06
 blurb: "Kevin's sermon emphasizes the common dignity and unity of all people before God, regardless of social status. He draws from the Book of Proverbs and the teachings of St. Paul to highlight the Christian value of treating everyone as equals in Christ. The sermon also addresses the refugee crisis, urging the congregation to remember their own history of exile and to respond with compassion and practical support to those in need."
 og_image: "/assets/img/posts/proper182015.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper182015.pdf)    
 ## PROPER 18 – Year B – 2015 – Trinity 14

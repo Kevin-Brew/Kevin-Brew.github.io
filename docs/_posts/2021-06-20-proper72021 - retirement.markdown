@@ -4,6 +4,7 @@ title:  "Farewell to Howth"
 date:   2021-06-20
 blurb: "Kevin reflects on the resilience of faith through personal experiences and historical challenges faced by the Church of Ireland. He recounts his visit to Budapest and the emotional service at Kalvin Ter Presbyterian Church. The sermon emphasizes the importance of resilience in the face of adversity, drawing parallels between the early Church's endurance and the parish's recent efforts during the pandemic and church restoration."
 og_image: "/assets/img/posts/proper72021 - retirement.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper72021 - retirement.pdf)    
 PROPER 7 – 2021 – Trinity 3 – Farewell to Howth

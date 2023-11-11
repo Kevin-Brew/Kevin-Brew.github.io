@@ -4,6 +4,7 @@ title:  "Remembering Irene Trimble"
 date:   2012-04-02
 blurb: "This sermon was given during the funeral of Mrs. Irene Trimble, a long-time member of the parish and a faithful choir member. The sermon reflects on Irene's life, her dedication to her family, her love for teaching, and her passion for music. It also addresses the hope and faith in the resurrection of Jesus Christ, providing comfort and solace during a time of loss."
 og_image: "/assets/img/posts/Mrs Irene Trimble.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Irene Trimble.pdf)    
 We gather here today on this Monday of Holy Week for the funeral of Mrs Irene Trimble, long time member of this Parish, faithful in her membership of the choir, of the Parish. Holy Week is a time of remembering, remembering the events that lead up to the death of Jesus on the Cross. Good Friday gives way to Easter, death gives way to resurrection. And so we come today to set our sadness and our loss in the context of the death and resurrection of Jesus.

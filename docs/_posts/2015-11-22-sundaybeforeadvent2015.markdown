@@ -4,6 +4,7 @@ title:  "Truth Amidst Turmoil"
 date:   2015-11-22
 blurb: "In the sermon delivered on the Sunday before Advent in 2015, Kevin reflects on the recent terrorist attacks in Paris and the broader context of violence in the name of faith. He explores the role of sacred texts in shaping values and responding to contemporary challenges. Kevin emphasizes the importance of listening to the teachings of Jesus, especially in the face of adversity, and calls for maintaining values of justice, tolerance, freedom, and reconciliation."
 og_image: "/assets/img/posts/sundaybeforeadvent2015.png"
+tags: Advent Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/sundaybeforeadvent2015.pdf)    
 Sunday before Advent – 2015 – Year B

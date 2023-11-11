@@ -4,6 +4,7 @@ title:  "Presentation of Christ in the Temple"
 date:   2021-02-02
 blurb: "This sermon reflects on the Presentation of Christ in the Temple, drawing parallels with the liberation of Auschwitz. It emphasizes the importance of recognizing the humanity in others and warns against the dangers of racism, sectarianism, and other forms of discrimination. The sermon underscores the message of Jesus as a beacon of righteousness, truth, and reconciliation in a broken world."
 og_image: "/assets/img/posts/presentationofchrist2021.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/presentationofchrist2021.pdf)    
 This Sunday we remember the Presentation of Christ in the Temple in Jerusalem as told to us by St Luke. Mary and Joseph have taken their new born son, their first born to the Temple in Jerusalem to make the sacrifices as laid down in the Law. This Christian festival is close to another, darker remembrance, the anniversary of the liberation of the Nazi Concentration Camp at Auschwitz Birkenau in Poland by the Soviet Army in 1945. To this day, the word ‘Auschwitz’ summons up images of a brutal human depravity that is even now hard to comprehend.

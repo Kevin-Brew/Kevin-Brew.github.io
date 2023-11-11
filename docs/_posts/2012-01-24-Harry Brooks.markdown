@@ -4,6 +4,7 @@ title:  "Remembering Harry Brooks"
 date:   2012-01-24
 blurb: "This sermon is a tribute to Mr. Harry Brooks, who passed away just short of his 85th birthday. It reflects on his life, his love for his family, and his passion for rugby. The sermon also discusses the concept of mortality and the hope of resurrection, drawing parallels with the life cycle of a seed."
 og_image: "/assets/img/posts/Harry Brooks.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Harry Brooks.pdf)    
 Funeral of Mr Harry Brooks – 24th January 2012 – St Mary’s

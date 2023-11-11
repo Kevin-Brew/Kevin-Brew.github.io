@@ -4,6 +4,7 @@ title:  "Letter of Christ"
 date:   2012-03-11
 blurb: "This sermon reflects on the life of St. Patrick and his spiritual awakening during his time as a slave. It emphasizes the concept of self-surrender and humility, drawing parallels to the teachings of Christ. The sermon concludes with a powerful prayer from the Methodist Covenant Service, expressing a commitment to selfless service and surrender to God's will."
 og_image: "/assets/img/posts/lent32012930.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent32012930.pdf)    
 3rd Sunday of Lent - 2012 – year B

@@ -4,6 +4,7 @@ title:  "Reflections on Trinity Sunday"
 date:   2013-05-26
 blurb: "On Trinity Sunday 2013, Kevin reflects on the relationship between God as Father, Son, and Holy Spirit, and the world. He discusses the personal nature of God's wisdom and the importance of living in harmony with creation. The sermon emphasizes the need to respect nature as God's creation and to consider our environmental responsibilities."
 og_image: "/assets/img/posts/trinity2013.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/trinity2013.pdf)    
 Today is Trinity Sunday, when we think upon God as Father, Son, and Holy Spirit. It is one of those days for standing back and taking a look at the big picture, for thinking of the wonder of God, the wonder of this world and our place in it.

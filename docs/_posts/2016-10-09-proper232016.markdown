@@ -4,6 +4,7 @@ title:  "Gratitude with Grace"
 date:   2016-10-09
 blurb: "Kevin's sermon reflects on the Gospel account of the healing of ten lepers, emphasizing the transformative power of gratitude. He draws connections between the act of thanksgiving and the Eucharist, highlighting how true thankfulness can bridge the distances of exclusion, alienation, and fear. The sermon concludes with a call to live out our gratitude in concern for others, embodying Christ's risen life in service to the world."
 og_image: "/assets/img/posts/proper232016.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper232016.pdf)    
 PROPER 23 – year C – 2016 – Trinity 19

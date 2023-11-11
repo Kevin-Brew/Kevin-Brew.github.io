@@ -4,6 +4,7 @@ title:  "Journey of Faith"
 date:   2023-01-15
 blurb: "This sermon reflects on the journeys of Jesus, his disciples, and us. It emphasizes the beginning of these journeys, particularly how Jesus' baptism marked the start of his public ministry. The sermon also explores the disciples' initial encounters with Jesus and their decision to follow him, despite not fully understanding his message. The sermon ends with a call to be faithful to Jesus' call and to bear a rich harvest of love, integrity, justice, and peace."
 og_image: "/assets/img/posts/epiphany22023.png"
+tags: Epiphany
 ---
 [Original PDF](/assets/pdf/epiphany22023.pdf)    
 Last Sunday, the first Sunday after Epiphany, our Lessons were grouped under the heading of 'The Baptism of Jesus'. We have left behind the stable, the child in the manger, the shepherds, the wise men, Joseph and Mary. We have leapt forward some thirty years or so. Last Sunday we heard of the Baptism of Jesus by John in the river Jordan.

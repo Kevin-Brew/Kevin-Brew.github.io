@@ -4,6 +4,7 @@ title:  "All Saints Reflection"
 date:   2017-10-31
 blurb: "Kevin's sermon on All Saints' night at Raheny Church emphasizes the universal call to sainthood within the Christian faith. He contrasts the New Testament's inclusive definition of sainthood with the often narrow modern interpretation, reminding the congregation that all Christians are called to sainthood through baptism. The sermon also reflects on the history of the local church and the unknown faithful who have served God throughout the ages."
 og_image: "/assets/img/posts/allsaints2017 -Raheny.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/allsaints2017 -Raheny.pdf)    
 All Saints – Raheny 2017-10-31

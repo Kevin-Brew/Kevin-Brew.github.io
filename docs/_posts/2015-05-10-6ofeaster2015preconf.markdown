@@ -4,6 +4,7 @@ title:  "Chosen to Bear Fruit"
 date:   2015-05-10
 blurb: "In this sermon, Kevin reflects on the importance of remembering key events and personal milestones, tying it to the act of Confirmation. He emphasizes that each person is special and chosen by God to make a difference in the world. The sermon also highlights the role of faith in promoting justice, peace, and reconciliation."
 og_image: "/assets/img/posts/6ofeaster2015preconf.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/6ofeaster2015preconf.pdf)    
 6th Sunday of Easter – 2015 – year B – Preconfirmation

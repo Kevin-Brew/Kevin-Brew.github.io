@@ -4,6 +4,7 @@ title:  "Steadfast in Adversity"
 date:   2021-01-03
 blurb: "Kevin speaks about the challenges faced during the Christmas season amidst the pandemic, emphasizing the importance of staying apart to keep everyone safe. He acknowledges the hard work of teachers and the community's efforts during the first lockdown, offering hope with the arrival of vaccines. Kevin encourages everyone to stay steady and avoid mistakes as we approach the end of this difficult period."
 og_image: "/assets/img/posts/On line assembly Jan 2021.png"
+tags: School
 ---
 [Original PDF](/assets/pdf/On line assembly Jan 2021.pdf)    
 Good morning everyone! First of all I hope you all had a great Christmas, enjoying each other, enjoying your presents. It was different this year, we couldn't see as many people as we normally did. After Church on Christmas Day (and boy was that different) we headed across to our son in Blackrock and his family and we had a lovely time.

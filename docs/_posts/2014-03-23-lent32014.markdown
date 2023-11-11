@@ -4,6 +4,7 @@ title:  "Unity in Diversity"
 date:   2014-03-23
 blurb: "This sermon, delivered on the third Sunday of Lent in 2014, discusses the importance of unity in the Church, despite differences in race, culture, class, and gender. It emphasizes the teachings of Jesus, who broke down barriers and promoted inclusion. The sermon also touches on the future of the Parish, stressing the need for mutual understanding, respect, and willingness to defer to one another."
 og_image: "/assets/img/posts/lent32014.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent32014.pdf)    
 Each Sunday in Church, in the course of our worship, we read from the Bible. Our lessons are drawn from the Old Testament, the Acts and Epistles and of course the Gospels. In the course of our worship we reflect on the Psalms either in chant or spoken form. Reading from the word, reflecting on the word lies at the heart of our life and worship. Over this season of Lent, in our Gospel passages we are reading some of the big passages from John’s Gospel – Jesus and Nicodemus, Jesus and the Samaritan woman at the well, Jesus in dispute with the religious authorities over healing on the Sabbath, Jesus and the raising of Lazarus. Each of these represent key stages in the development of the ministry of Jesus on his journey towards Good Friday and Easter. John is very careful in the way he puts his Gospel together, the material he chooses, very clear in his overall purpose.

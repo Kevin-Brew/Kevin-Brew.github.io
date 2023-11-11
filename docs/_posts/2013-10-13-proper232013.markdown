@@ -4,6 +4,7 @@ title:  "Faith in Exile"
 date:   2013-10-13
 blurb: "Kevin's sermon reflects on the Jewish people's exile in Babylon and the timeless advice from Jeremiah to seek the welfare of the city. He draws parallels to the contributions of Desmond Tutu, Dietrich Bonhoeffer, and Martin Luther King in their fight for social justice and emphasizes the Christian duty to impact society positively through faith and action."
 og_image: "/assets/img/posts/proper232013.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper232013.pdf)    
 Our Old Testament Lesson is set in one of the bleakest periods in the history of the Jewish people, the period of Exile in Babylon following the conquest of Judah and the destruction of the city of Jerusalem by the Babylonians. Years earlier the Northern Kingdom of Israel had suffered a similar fate at the hands of the Assyrians. That spelled the end of the Kingdom of Israel not just as a political entity but also as a nation. From then on people talk of the lost tribes of Israel with all sorts of speculation as to where they eventually ended up.

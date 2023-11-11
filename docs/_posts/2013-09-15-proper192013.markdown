@@ -4,6 +4,7 @@ title:  "Persistent Search for the Lost"
 date:   2013-09-15
 blurb: "This sermon, delivered by Kevin in 2013, discusses the theme of God's persistent search for the lost and His unwavering patience. Drawing from the Old Testament, Kevin explores the concept of 'remnant' and the idea of new beginnings arising from destruction. The sermon emphasizes God's desire not for the death of a sinner, but for their repentance and life."
 og_image: "/assets/img/posts/proper192013.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper192013.pdf)    
 Last Sunday, in our Old Testament Lesson, we read the story from the Book of the Prophet Jeremiah. The prophet tells of going down to watch a potter at work, making pots on his wheel. He would have watched as the potter patiently prepared the clay, kneading it to exclude any air bubbles, centering it, then firmly and patiently working with the clay as it spins around on the wheel until finally a pot is formed. If something goes wrong, he starts all over again, working the clay with the same patience and firmness.

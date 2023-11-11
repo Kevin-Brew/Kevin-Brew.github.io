@@ -4,6 +4,7 @@ title:  "Embracing Change"
 date:   2013-04-28
 blurb: "This sermon, delivered on the 5th Sunday of Easter in 2013, discusses the need for change and adaptation within the Church. It emphasizes the importance of inclusivity and love, drawing on the story of Peter's acceptance of Gentiles into the Church. The sermon also highlights the commandment of Jesus to love one another, urging the congregation to extend this love to all, including those on the fringes of society."
 og_image: "/assets/img/posts/easter52013.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/easter52013.pdf)    
 There is the story of a man who came upon two workmen. One man was carefully digging holes at regular intervals along the roadside. The second man followed along behind, carefully filling in the holes. When the second man was asked what he was doing, he said; ‘Planting trees.’ ‘What do you mean? Where are the trees?’ ‘Well, you see, Ed here digs the holes; Chris puts in the trees; then I fill the holes. Unfortunately Chris is off sick.’

@@ -4,6 +4,7 @@ title:  "Mothering Sunday - Year A"
 date:   2020-03-22
 blurb: "This sermon, delivered on Mothering Sunday in 2020, reflects on the profound effects of the Covid-19 pandemic on society. It emphasizes the importance of community in these trying times and the hope symbolized by children, who represent the future. The sermon also draws parallels between the current crisis and the biblical story of Jeremiah, highlighting the resilience and hope inherent in humanity."
 og_image: "/assets/img/posts/lent42020.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent42020.pdf)    
 This has been some week. As the Taoiseach said on Tuesday night, St Patrick’s Day 2020 will be a St Patrick’s Day we will remember for the rest of our lives; no parades, no crowds out enjoying themselves, an eerie quiet on the streets all over Ireland.

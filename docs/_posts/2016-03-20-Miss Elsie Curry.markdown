@@ -4,6 +4,7 @@ title:  "Elsie Curry's Funeral"
 date:   2016-03-20
 blurb: "This sermon was delivered at the funeral of Elsie Curry on 20th March 2016. It recounts the life of Elsie and her twin sister Doris, their contribution to the community, and their unwavering faith. The sermon also reflects on the acceptance of mortality and the Christian belief in eternal life."
 og_image: "/assets/img/posts/Miss Elsie Curry.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Miss Elsie Curry.pdf)    
 Funeral of Elsie Curry – 20th March 2016

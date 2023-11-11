@@ -4,6 +4,7 @@ title:  "Baptism: The Journey of Faith"
 date:   2013-03-03
 blurb: "This sermon, delivered during Lent in 2013, focuses on the sacrament of Baptism. It explores the significance of Baptism as a sacrament of beginning and inclusion, rooted in the death and resurrection of Jesus. The sermon emphasizes the journey of faith that begins with Baptism and continues throughout a Christian's life, highlighting the importance of community and the promises made during the Baptismal service."
 og_image: "/assets/img/posts/lent32013.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent32013.pdf)    
 Baptism – receive the sign of the Cross

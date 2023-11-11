@@ -4,6 +4,7 @@ title:  "The Image of the Invisible"
 date:   2019-07-28
 blurb: "Kevin delves into the profound relationship between Jesus and God, as expressed in the Letter to the Colossians. He explores the concepts of visibility and invisibility in the divine context, illustrating how Jesus serves as the 'image of the invisible God' and a window to the heavenly world. The sermon emphasizes the mystery of God revealed in Christ and the calling for believers to be windows through which others can experience Christ."
 og_image: "/assets/img/posts/proper112019.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper112019.pdf)    
 ### PROPER 11 – YEAR C – 2019 – Trinity 4 – Christ Church Cathedral

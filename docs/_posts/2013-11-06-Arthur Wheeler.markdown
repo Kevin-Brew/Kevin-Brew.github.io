@@ -4,6 +4,7 @@ title:  "Arthur Wheeler's Funeral"
 date:   2013-11-06
 blurb: "This sermon was given at the funeral of Arthur Wheeler, a man of many accomplishments and a loving husband and father. Despite the darkness of Alzheimer's that had come over him, the sermon emphasizes the light of Christ that shines in even the darkest places of our human frailty. It speaks of hope for Arthur, that all his weakness and frailty are stripped away, swallowed up by life, and he is at peace."
 og_image: "/assets/img/posts/Arthur Wheeler.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Arthur Wheeler.pdf)    
 Today we gather in St Mary’s Church in Howth to celebrate the life of Arthur Wheeler; husband to Gaye, father to Mark, Gail and Guy, grandfather, friend. Mark has shared with us something of Arthur’s life story, his many accomplishments in the field of law, serving in high judicial office in Nigeria, returning to a senior position in the imperial Civil Service; his love of sport. But what has come across for me is the lovely humanity of the man, his devotion to Gaye, which was obviously a love match. Then there has been Gaye’s devotion to Arthur over these last difficult years.

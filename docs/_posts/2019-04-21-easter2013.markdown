@@ -4,6 +4,7 @@ title:  "Easter Day 2019"
 date:   2019-04-21
 blurb: "On Easter Day 2019, Kevin reflects on the profound transformation of Mary and the disciples after encountering the risen Jesus. He emphasizes that the risen Christ comes to us in unexpected ways, offering hope, forgiveness, and peace in our moments of sorrow, weakness, and confusion. He encourages us to be open to Christ's presence in others and to serve as channels of His presence."
 og_image: "/assets/img/posts/easter2013.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/easter2013.pdf)    
 EASTER DAY 2019

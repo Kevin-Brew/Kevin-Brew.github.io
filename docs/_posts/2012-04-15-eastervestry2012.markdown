@@ -4,6 +4,7 @@ title:  "Tradition and Change"
 date:   2012-04-15
 blurb: "In this sermon, Kevin reflects on the evolving nature of tradition within the church, emphasizing that change is not for its own sake but to adapt to the times while upholding the Gospel's timeless truths. He discusses initiatives to engage youth and maintain church traditions, acknowledging the contributions of various community members in supporting the church's growth and fellowship."
 og_image: "/assets/img/posts/eastervestry2012.png"
+tags: Easter Vestry
 ---
 [Original PDF](/assets/pdf/eastervestry2012.pdf)    
 Easter General Vestry - 15th April 2012

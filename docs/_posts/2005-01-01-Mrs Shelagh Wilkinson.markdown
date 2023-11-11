@@ -4,6 +4,7 @@ title:  "Remembering Shelagh Wilkinson"
 date:   2005-01-01
 blurb: "This sermon was given at the funeral of Mrs Shelagh Wilkinson, a woman remembered for her free thinking, ground-breaking work in social sciences, and her commitment to justice and ecological issues. Despite her physical decline in later years, she maintained a positive outlook and continued to inspire those around her. Her life serves as a reminder of the importance of love, courage, and the power of an enquiring mind."
 og_image: "/assets/img/posts/Mrs Shelagh Wilkinson.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Shelagh Wilkinson.pdf)    
 I will always remember my first visit to the Orchard on Claremont Road not long after I arrived here in 2005. I was invited in with great courtesy and questions about where I was from, my wife and family and their interests, what Parishes I had served in. She spoke of her own life, her late husband and family and her own convictions. Then she looked at me and asked, 'This business of Church ordaining gay people – what is your line on it?' I began to gather my thoughts and she continued, 'For the life of me I cannot understand the problem.' The hair might have been white, ill health may have limited her physical energies, but I realised I was in the presence of a free thinker. I must admit I always enjoyed a visit to Shelagh Wilkinson.

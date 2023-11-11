@@ -4,6 +4,7 @@ title:  "Unity in Love and Faith"
 date:   2011-10-06
 blurb: "In the sermon for Sinead and Ron's wedding, Kevin speaks about the importance of commitment, faithfulness, and love that mirrors the bond between Christ and his Church. He reflects on the journey of the couple's relationship and the Christian dimension of their union. The sermon also touches on the symbolism of clothing in expressing one's nature and the spiritual attire of compassion, kindness, and love as described by St. Paul."
 og_image: "/assets/img/posts/Sinead and Ron - 6th Oct 2011.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Sinead and Ron - 6th Oct 2011.pdf)    
 Wedding of Sinead Kileen and Ron Henderson – 6th October 2011

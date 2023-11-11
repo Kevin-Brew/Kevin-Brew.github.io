@@ -4,6 +4,7 @@ title:  "Holy Innocents - 2014"
 date:   2014-12-28
 blurb: "This sermon, delivered on the Feast of the Holy Innocents in 2014, reflects on the human nature of Jesus Christ and his identification with humanity. Drawing from a sermon by Desmond Tutu, it emphasizes the message of God's understanding of human frailty and his promise to redeem. The sermon also discusses the story of the slaughter of the innocents, reminding us of the world's distance from God and the resistance to the message of Christ in the corridors of power."
 og_image: "/assets/img/posts/holyinnocents2014.png"
+tags: Christmas
 ---
 [Original PDF](/assets/pdf/holyinnocents2014.pdf)    
 In the study at home I have a book by Desmond Tutu, that remarkable man who found himself as Bishop of Johannesburg and Archbishop of Capetown in South Africa in those crucial years of the end of apartheid and the beginning of new era in South Africa. He always reminded me of the Old Testament prophet who spoke truth to power. he was a thorn in the flesh of the white governments and has continued to be a thorn in the flesh for ANC governments. I just want to begin this morning with words from a sermon he preached in Johannesburg Cathedral in the early 1980’s. Words that form the basis of what lay behind his passion for justice and human rights in his native South Africa.

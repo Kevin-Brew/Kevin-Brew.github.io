@@ -4,6 +4,7 @@ title:  "Remembering Pat Trayer"
 date:   2019-01-19
 blurb: "This sermon is a heartfelt tribute to Mrs. Pat Trayer, a long-time member of the St Mary's Parish. It recounts her journey of faith, her questioning nature, and her dedication to the church. Despite her struggles and criticisms of the church, she remained a steadfast believer. The sermon also highlights her caring nature, especially towards the elderly, and her time working for Dr. Eustace in Highgrove."
 og_image: "/assets/img/posts/Pat Trayer.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Pat Trayer.pdf)    
 Funeral of Mrs Pat Trayer – Glasnevin – 19th January 2019

@@ -4,6 +4,7 @@ title:  "Palm Sunday - Family Service 2016"
 date:   2016-03-20
 blurb: "This sermon reflects on the events of Palm Sunday and Holy Week, drawing parallels between the historical events and our modern lives. It emphasizes the importance of selflessness and love, as exemplified by Jesus. The sermon also discusses the power of the word 'I' and how it can be used both positively and negatively, urging us to 'cross out' the 'I' in our lives, symbolizing selflessness and humility."
 og_image: "/assets/img/posts/palmsunday2016familyservice.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/palmsunday2016familyservice.pdf)    
 Last Tuesday morning I called down for a special event in the Burrow School. It was Proclamation Day – in common with Schools across the country they had a simple ceremony of raising the flag, singing the National Anthem and a reading of the 1916 Proclamation. Then members of 6th Class read out their 2016 Proclamation, their own vision of the Ireland they will live and work in – there were wonderful themes of inclusion, of respect, of pride in their country. So it was a time of remembering events that lie at the core of the foundation of the State and a vision of the Ireland they would like to see.

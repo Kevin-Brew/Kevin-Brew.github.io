@@ -4,6 +4,7 @@ title:  "Unity in Christ"
 date:   2013-05-05
 blurb: "The sermon emphasizes the importance of unity and teamwork, drawing parallels between a football team and an orchestra. The message is about the relationship between Jesus and his disciples, and how this relationship should be mirrored in our interactions with each other. The sermon also highlights the importance of love, obedience, and mutual indwelling in our relationships."
 og_image: "/assets/img/posts/easter62013.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/easter62013.pdf)    
 6th Sunday of Easter – 2013 – Year C

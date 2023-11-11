@@ -4,6 +4,7 @@ title:  "Grace in Human Frailty"
 date:   2011-07-10
 blurb: "Kevin reflects on the end of the News of the World paper and draws parallels with the human stories of the Bible, particularly the saga of Jacob. He emphasizes the theme of grace throughout the biblical narrative, illustrating how God works through human imperfection. The sermon concludes with a call to service, recognizing our own strengths and weaknesses, and the transformative power of God's grace."
 og_image: "/assets/img/posts/proper10notused.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper10notused.pdf)    
 Proper 10 – 2011 – year A – Trinity 3

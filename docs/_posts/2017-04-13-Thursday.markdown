@@ -4,6 +4,7 @@ title:  "Holy Week Reflection"
 date:   2017-04-13
 blurb: "This sermon reflects on the significance of Jesus washing the disciples' feet during Holy Week. It emphasizes the importance of understanding and accepting the grace of Jesus' actions, and the call to follow his example of selfless service. The sermon also highlights the eternal significance of these events, not just as historical occurrences, but as cornerstones of Christian faith."
 og_image: "/assets/img/posts/Thursday.png"
+tags: Holy_Week Lent
 ---
 [Original PDF](/assets/pdf/Thursday.pdf)    
 HOLY WEEK 2017 – Thursday

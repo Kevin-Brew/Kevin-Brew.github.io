@@ -4,6 +4,7 @@ title:  "Journey from Doubt to Faith"
 date:   2020-04-26
 blurb: "This sermon reflects on the journey from doubt to faith, using the story of the disciples on the road to Emmaus as an example. It highlights the importance of being Christ for each other, listening and sharing in each other's pain, and being channels of his healing and peace. The sermon concludes with a call to do justice, love mercy, and walk humbly with God."
 og_image: "/assets/img/posts/3ofeaster2020.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/3ofeaster2020.pdf)    
 3rd Sunday of Easter – 2020 –year A

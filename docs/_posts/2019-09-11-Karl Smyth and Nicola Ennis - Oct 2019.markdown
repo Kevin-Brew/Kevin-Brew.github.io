@@ -4,6 +4,7 @@ title:  "Love and Marriage"
 date:   2019-09-11
 blurb: "In the sermon for the marriage of Karl and Nicola, Kevin reflects on the nature of Christian love as it applies to marriage. He draws from St. Paul's teachings, emphasizing patience, kindness, and selflessness as the foundation of a strong marriage. The sermon encourages the couple to mirror Christ's sacrificial love and to make Christ present in their relationship, fostering unity, forgiveness, and joy."
 og_image: "/assets/img/posts/Karl Smyth and Nicola Ennis - Oct 2019.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Karl Smyth and Nicola Ennis - Oct 2019.pdf)    
 Marriage of Nicola Ennis and Karl Smyth 11th September 2019 – St Mary’s, Howth

@@ -4,6 +4,7 @@ title:  "Love and Service"
 date:   2020-10-25
 blurb: "In this sermon, Kevin draws parallels between political campaigns and the challenges Jesus faced from authorities. He emphasizes the greatest commandments: to love God and love our neighbor, as reflected in Jesus' teachings and actions. The sermon concludes with a call to embody these commandments through loving, self-giving service, inspired by Jesus washing the disciples' feet."
 og_image: "/assets/img/posts/proper252020.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper252020.pdf)    
 PROPER 25 – Year A – 2020 – 5th Sunday before Advent

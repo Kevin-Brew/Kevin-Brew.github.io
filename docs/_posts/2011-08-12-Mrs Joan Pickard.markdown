@@ -4,6 +4,7 @@ title:  "Celebrating Joan Pickard"
 date:   2011-08-12
 blurb: "This sermon is a tribute to Mrs. Joan Pickard, a beloved member of the Parish of Howth. It highlights her unwavering faith, her commitment to the church, and her love for the community. Joan's life is celebrated as an example of a faith that is expressed through acts of concern for others. Her sense of humor, love for the young people of the church, and her dedication to prayer are remembered fondly."
 og_image: "/assets/img/posts/Mrs Joan Pickard.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Joan Pickard.pdf)    
 Funeral of Mrs Joan Pickard – 12th August 2011

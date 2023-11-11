@@ -4,6 +4,7 @@ title:  "Harmony of Love"
 date:   2015-12-05
 blurb: "Kevin's sermon on the occasion of Jennifer Guinness and Alex Booth's wedding emphasizes the harmony and unity found in love. He reflects on the couple's journey together, their shared interests, and the way their individual lives have intertwined to create a richer whole. The sermon draws on passages from Ecclesiastes and Corinthians, highlighting the rhythms of life and the qualities of love that endure through all things."
 og_image: "/assets/img/posts/Jennifer Guinness and Alex Booth - Dec 5 2015.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Jennifer Guinness and Alex Booth - Dec 5 2015.pdf)    
 ### Marriage of Jennifer Guinness and Alexander Booth – St Mary’s – 5th December 2015

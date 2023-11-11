@@ -4,6 +4,7 @@ title:  "Transfiguration and Insight"
 date:   2021-02-14
 blurb: "In this sermon, Kevin explores the concept of transfiguration and how it relates to our understanding of Jesus. He discusses the highs and lows of life and faith, and the role of the Church as the Body of Christ in providing support and hope. He also addresses the impact of the ongoing pandemic and the Church's responsibility to be a beacon of light and hope in society."
 og_image: "/assets/img/posts/1bflent2021.png"
+tags: Epiphany Lent
 ---
 [Original PDF](/assets/pdf/1bflent2021.pdf)    
 Sunday before Lent – 2021 – year B (Transfiguration)

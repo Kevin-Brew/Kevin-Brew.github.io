@@ -4,6 +4,7 @@ title:  "Jennifer's Farewell"
 date:   2016-01-26
 blurb: "This sermon was given at the funeral of Mrs. Jennifer Guinness Booth, a beloved mother, wife, grandmother, and friend. Jennifer was remembered for her resilience, determination, and achievements, including her work in the establishment of Victim Support. The sermon emphasizes the Christian belief that death is not the end, and that in the face of death, we affirm life."
 og_image: "/assets/img/posts/Mrs Jennifer Guinness Booth.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Mrs Jennifer Guinness Booth.pdf)    
 Funeral of Mrs Jennifer Guinness Booth

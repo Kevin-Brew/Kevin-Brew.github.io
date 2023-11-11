@@ -4,6 +4,7 @@ title:  "Wonder of Creation"
 date:   2010-08-08
 blurb: "Kevin reflects on the wonder of creation through the eyes of children, drawing parallels between their songs and the Canticle Benedicite. He emphasizes the vastness of the universe and the intricacy of life, from microbes to human DNA, to illustrate the greatness of God. The sermon concludes with a call to recognize God's care for us and to respond with care and service towards others."
 og_image: "/assets/img/posts/proper142010.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper142010.pdf)    
 Family Eucharist

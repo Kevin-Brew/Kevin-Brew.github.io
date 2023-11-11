@@ -4,6 +4,7 @@ title:  "Ordination of Linda Frost"
 date:   2014-09-21
 blurb: "This sermon is about the ordination of Linda Frost to the priesthood. The sermon emphasizes the importance of service, faith, and dedication in the ministry. It also highlights the significance of personal faith and the need for spiritual nourishment and growth through prayer and scripture reading."
 og_image: "/assets/img/posts/Linda_s Ordination - sermon.png"
+tags: Special_Occasions
 ---
 [Original PDF](/assets/pdf/Linda_s Ordination - sermon.pdf)    
 Ordination of Rev Linda Frost to the Priesthood

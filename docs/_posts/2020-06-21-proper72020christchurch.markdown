@@ -4,6 +4,7 @@ title:  "Navigating Life's Mists"
 date:   2020-06-21
 blurb: "In this sermon, Kevin reflects on the challenges of navigating through life's uncertainties, likening it to walking in a misty bogland without landmarks. He emphasizes the importance of faith in Christ as a compass in a disoriented world, drawing from the teachings of John Stott and the example of the cross. The sermon encourages the community to live by the cross, bearing witness to Christ's love and discipline in a confusing world."
 og_image: "/assets/img/posts/proper72020christchurch.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper72020christchurch.pdf)    
 PROPER 7 – Year A – 2020 – Trinity 2 – Christchurch Cathedral

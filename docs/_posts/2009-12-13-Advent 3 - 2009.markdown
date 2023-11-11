@@ -4,6 +4,7 @@ title:  "Advent 3 - 2009"
 date:   2009-12-13
 blurb: "This sermon, delivered on the 3rd Sunday of Advent in 2009, focuses on the figure of John the Baptist and his role in preparing the way for Jesus. The sermon emphasizes the importance of repentance and the need for it to go beyond mere words and start working itself out in daily living. It also highlights the need for Christians to show their trust in Christ through lives committed to his service and the advancement of his kingdom of justice and peace."
 og_image: "/assets/img/posts/Advent 3 - 2009.png"
+tags: Advent
 ---
 [Original PDF](/assets/pdf/Advent 3 - 2009.pdf)    
 3rd Sunday of Advent – Year C - 2009

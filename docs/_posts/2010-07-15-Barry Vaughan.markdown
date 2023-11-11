@@ -4,6 +4,7 @@ title:  "Funeral of Barry Vaughan"
 date:   2010-07-15
 blurb: "This sermon is a tribute to Barry Vaughan, a man of intelligence, humor, and capability. It reflects on his life journey, his love for flying, and his family. The sermon also discusses the concepts of mortality and eternal life, offering hope and comfort in the face of loss."
 og_image: "/assets/img/posts/Barry Vaughan.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Barry Vaughan.pdf)    
 Last Saturday Barry Vaughan died in Beaumount Hospital. While the end came quite quickly, it was for Barry the end of a long period of struggle and decline that must have been hard for him and certainly hard for those who loved him to watch. On this the day of his funeral we meet to honour the memory of an intelligent, reserved, humorous, capable gentleman and to commend him to the love and care of Almighty God.

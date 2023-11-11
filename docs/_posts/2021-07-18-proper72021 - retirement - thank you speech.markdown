@@ -4,6 +4,7 @@ title:  "Farewell and Gratitude"
 date:   2021-07-18
 blurb: "In his retirement speech, Kevin expresses heartfelt thanks for the support received over his 43-year ministry. He reflects on the diversity and unity within the Church of Ireland, his journey through different parishes, and the significance of ending his ministry in Howth. He acknowledges the contributions of various individuals and the importance of family, ending his speech with a hopeful look towards the future."
 og_image: "/assets/img/posts/proper72021 - retirement - thank you speech.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper72021 - retirement - thank you speech.pdf)    
 Howth Retirement – Thank you speech

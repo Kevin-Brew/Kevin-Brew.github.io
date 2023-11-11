@@ -9,13 +9,14 @@ def get_filename_without_extension(path):
     file_name_without_extension = os.path.splitext(base_name)[0]  # Split filename and extension
     return file_name_without_extension
 
-def create_markdown(json_object):
+def create_markdown(json_object, tags):
     ans = """---
 layout: post
 title:  "{}"
 date:   {}
 blurb: "{}"
 og_image: "/assets/img/posts/{}.png"
+tags: {}
 ---
 [Original PDF](/assets/pdf/{}.pdf)    
 {}
@@ -24,11 +25,44 @@ og_image: "/assets/img/posts/{}.png"
         json_object["date"],
         json_object["blurb"],
         get_filename_without_extension(json_object["request"]["file_name"]),
+        " ".join(sorted(tags)),
         get_filename_without_extension(json_object["request"]["file_name"]),
         json_object["raw_text"]
     )
     return ans
 
+
+dir_tags = {"advent" : "Advent",
+            "Burrow" : "School",
+            "christmas" : "Christmas",
+            "cogs": "Church_of_Gaurdian_Spirit",
+            "connor diocese" : "Conor_Diocese",
+            "crucial events" : "Crucial_Events",
+            "easter" : "Easter",
+            "easter vestry" : "Vestry",
+            "epiphany" : "Epiphany",
+            "funeral" : "Funeral",
+            "harvest" : "Harvest",
+            "holy week" : "Holy_Week",
+            "lent" : "Lent",
+            "mid week" : "Mid_Week",
+            "proper" : "Proper",
+            "assembly" : "School",
+            "special occasions" : "Special_Occasions",
+            "wedding" : "Wedding"}
+def find_values_in_path(key_value_map, file_path):
+    found_values = []
+    file_path_lower = file_path.lower()
+
+    for key, value in key_value_map.items():
+        if key.lower() in file_path_lower:
+            found_values.append(value)
+
+    return found_values
+
+def get_tags(json_object, json_file_path):
+    tags = find_values_in_path(file_path=json_file_path, key_value_map=dir_tags)
+    return tags
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert json to markdown post.")
@@ -60,7 +94,8 @@ if __name__ == "__main__":
 
         if overwrite or not exists_already:
             print(f"---> Writing {out_path}")
-            content = create_markdown(json_object)
+            tags = get_tags(json_object, json_file_path)
+            content = create_markdown(json_object, tags)
             with open(out_path, 'w') as file:
                 file.write(content)
     else:

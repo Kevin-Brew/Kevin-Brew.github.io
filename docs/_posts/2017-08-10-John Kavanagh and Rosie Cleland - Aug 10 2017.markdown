@@ -4,6 +4,7 @@ title:  "Harmony of Togetherness"
 date:   2017-08-10
 blurb: "The sermon celebrates the marriage of Rosie and John, reflecting on the journey that brought them together and the love they share. It emphasizes the individuality within unity and the relational nature of love, drawing from the wisdom of the passages chosen by the couple. The message is underscored by the reading from Corinthians about the patience, kindness, and enduring nature of love."
 og_image: "/assets/img/posts/John Kavanagh and Rosie Cleland - Aug 10 2017.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/John Kavanagh and Rosie Cleland - Aug 10 2017.pdf)    
 We come today to celebrate the marriage of Rosie and John. In one sense this has all happened very quickly and in another this is a culmination of your whole life together. We are celebrating the love that you have found in and for each other, a love that has sustained you up to the present moment.

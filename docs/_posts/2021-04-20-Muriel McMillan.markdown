@@ -4,6 +4,7 @@ title:  "Funeral of Muriel McMillan"
 date:   2021-04-20
 blurb: "This sermon was given at the funeral of Muriel McMillan, a beloved member of the parish. The sermon reflects on Muriel's life, her contributions to the church, and the comfort found in faith during times of loss. It emphasizes the Christian belief in the triumph of life over death, as celebrated during Easter."
 og_image: "/assets/img/posts/Muriel McMillan.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Muriel McMillan.pdf)    
 We come today for the funeral of Muriel McMillan. In these strange times only a few of us can gather in Church with John but there are a large number of people outside the Church, those watching us online – we think especially of Muriel’s sons Russell and Murray. We extend our sympathy to John, Russell and Murray on this the day of your Mum’s funeral and assure you of our love and prayers in the days to come.

@@ -4,6 +4,7 @@ title:  "Tradition and Flexibility"
 date:   2011-04-24
 blurb: "The sermon reflects on the importance of tradition within the Church of Ireland, emphasizing the need for flexibility to adapt to changing times. It discusses the balance between respecting inherited traditions and broadening them to remain relevant. The sermon also highlights the Church's efforts to engage with contemporary issues and maintain its relevance in modern society."
 og_image: "/assets/img/posts/eastervestry2011.png"
+tags: Easter Vestry
 ---
 [Original PDF](/assets/pdf/eastervestry2011.pdf)    
 Easter General Vestry 2011

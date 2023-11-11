@@ -4,6 +4,7 @@ title:  "Love and Commitment"
 date:   2016-02-12
 blurb: "In this sermon, Kevin speaks on the occasion of Roger Morrow and Orna Wyse's wedding, emphasizing the Christian values of love, commitment, and faithfulness. He reflects on the couple's journey from friendship to love and the significance of their public declaration before God. Kevin draws from the Bible and St. Paul's teachings to illustrate the depth of Christ-like love that should be present in marriage."
 og_image: "/assets/img/posts/Roger Morrow and Orna Wyse.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Roger Morrow and Orna Wyse.pdf)    
 Wedding of Roger Morrow and Orna Wyse – St Mary’s – 12th February 2016

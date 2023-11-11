@@ -4,6 +4,7 @@ title:  "Farewell to Dr Betty Robinson"
 date:   2017-11-25
 blurb: "This sermon is a touching tribute to Dr Betty Robinson, a woman of strength, resilience, and warmth. It highlights her life journey, her love for gardening, and her peaceful acceptance of life's inevitable end. The sermon draws parallels between the cycle of life and death and the cycle of sowing and reaping, offering comfort and hope in the promise of resurrection."
 og_image: "/assets/img/posts/Dr Betty Robinson.png"
+tags: Funeral
 ---
 [Original PDF](/assets/pdf/Dr Betty Robinson.pdf)    
 Funeral of Dr Betty Robinson – 25th November 2017

@@ -4,6 +4,7 @@ title:  "Speaking Truth to Power"
 date:   2018-10-07
 blurb: "Kevin reflects on the importance of speaking truth to power, drawing parallels between the brutal death of John the Baptist and the challenges Jesus faced. He recalls personal experiences with political figures during the Northern Ireland Peace process and emphasizes the church's role in proclaiming truth. The sermon reminds us of the cost of witnessing truth and the need for a clear declaration of truth in our times."
 og_image: "/assets/img/posts/proper102018.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper102018.pdf)    
 Last week in our Gospel reading Mark spoke of the visit of Jesus to the synagogue in his home town, where he got something of a mixed reception. The whole passage was set in the context of a growing hostility to Jesus and his message on the part of the religious authorities of his day. Mark, speaking of the reaction of the people in the synagogue in Nazareth, says 'And they took offence at him.'

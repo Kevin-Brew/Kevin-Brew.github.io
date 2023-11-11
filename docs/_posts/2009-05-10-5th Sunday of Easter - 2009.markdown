@@ -4,6 +4,7 @@ title:  "Breaking Barriers"
 date:   2009-05-10
 blurb: "In this sermon, Kevin reflects on the early stages of the Christian Church and the remarkable growth it experienced, breaking seemingly immutable societal barriers. He discusses the conversion of the Ethiopian eunuch and Saul of Tarsus, highlighting how their stories represent the breaking down of barriers of race, ceremonial purity, and hostility. Kevin emphasizes that nothing in our past excludes us from the invitation of the crucified and risen Christ."
 og_image: "/assets/img/posts/5th Sunday of Easter - 2009.png"
+tags: Easter
 ---
 [Original PDF](/assets/pdf/5th Sunday of Easter - 2009.pdf)    
 During these Sundays of the season of Easter we have been reading as our first lesson passages from the Acts of the Apostles instead of the Old Testament. In so doing we have read of the early stages in the growth of the Christian Church. We are now approaching the Feast of Pentecost when we celebrate the coming of the Holy Spirit in whose power the disciples and their followers went out to proclaim the Gospel of the Crucified and Risen Christ.

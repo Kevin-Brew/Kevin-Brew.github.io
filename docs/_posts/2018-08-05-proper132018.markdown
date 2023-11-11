@@ -4,6 +4,7 @@ title:  "Path to Repentance"
 date:   2018-08-05
 blurb: "In this sermon, Kevin reflects on the theme of repentance, drawing parallels between King David's confession and the characters in the film 'Shawshank Redemption'. He emphasizes the importance of honesty, vulnerability, and the transformative power of God's forgiveness. The sermon encourages self-reflection and the embrace of God's absolution as a path to peace and renewal."
 og_image: "/assets/img/posts/proper132018.png"
+tags: Proper Special_Occasions
 ---
 [Original PDF](/assets/pdf/proper132018.pdf)    
 PROPER 13 – 2018 – Year B – Trinity 10

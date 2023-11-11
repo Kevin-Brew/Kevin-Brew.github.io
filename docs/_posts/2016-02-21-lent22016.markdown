@@ -4,6 +4,7 @@ title:  "Covenant and Community"
 date:   2016-02-21
 blurb: "Kevin explores the theme of Covenant within the community during Lent, emphasizing the importance of relationships and reconciliation. He reflects on the Old Testament stories of sibling rivalries and their resolutions, drawing parallels to the need for reconciliation within the Christian community. The sermon concludes with a call to embody the peace and love of Christ in our daily lives, inspired by the prayer of St. Francis."
 og_image: "/assets/img/posts/lent22016.png"
+tags: Lent
 ---
 [Original PDF](/assets/pdf/lent22016.pdf)    
 LENT 2 – 2016 – Year C

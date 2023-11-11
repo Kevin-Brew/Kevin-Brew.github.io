@@ -4,6 +4,7 @@ title:  "Blessing of Union"
 date:   2009-06-20
 blurb: "In this sermon, Kevin speaks on the occasion of Ursula Woods and Jed's wedding, reflecting on the significance of marriage and the Christian understanding of love. He emphasizes the importance of being Christ for one another, embodying forgiveness, reconciliation, and sacrificial love. Kevin also highlights the need for individual growth within the unity of marriage, drawing on the wisdom of 'The Prophet' and the biblical passage from 1 Corinthians 13:4-7."
 og_image: "/assets/img/posts/Wedding Blessing - Jed and Ursula.png"
+tags: Wedding
 ---
 [Original PDF](/assets/pdf/Wedding Blessing - Jed and Ursula.pdf)    
 Wedding Blessing – June 20th – Ursula Woods and Jed

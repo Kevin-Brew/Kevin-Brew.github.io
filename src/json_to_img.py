@@ -133,6 +133,9 @@ if __name__ == "__main__":
         out_path = f"{dir}/{name}.png"
 
         exists_already = os.path.isfile(out_path)
+        print("operating on file {} "
+              "its out_path {} already exists?: {}, "
+              "we will overwrite? {} ".format(json_file_path, out_path, exists_already, overwrite))
         if exists_already:
             print(f"{out_path} is a file and it already exists!")
         else:

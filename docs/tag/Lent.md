@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Lent"
+title: "Posts tagged <i>Lent</i>" 
 tag: Lent
 robots: noindex
----
+--- 

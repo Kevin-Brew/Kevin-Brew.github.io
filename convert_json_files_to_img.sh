@@ -8,7 +8,7 @@ fi
 
 DIRECTORY="$1"
 
-# Find .doc and .docx files in the specified directory and execute the python script on each
+# Find .json files in the specified directory and execute the python script on each
 find "$DIRECTORY" \( -name "*.json" \) | xargs -I {} python src/json_to_img.py --file {} --overwrite False
 
 echo "Processing complete."

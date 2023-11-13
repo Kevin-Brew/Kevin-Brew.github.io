@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Vestry"
+title: "Posts tagged <i>Vestry</i>" 
 tag: Vestry
 robots: noindex
----
+--- 

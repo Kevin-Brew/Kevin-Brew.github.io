@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: School"
+title: "Posts tagged <i>School</i>" 
 tag: School
 robots: noindex
----
+--- 

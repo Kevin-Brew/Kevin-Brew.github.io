@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Mid_Week"
+title: "Posts tagged <i>Mid_Week</i>" 
 tag: Mid_Week
 robots: noindex
----
+--- 

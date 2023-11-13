@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Funeral"
+title: "Posts tagged <i>Funeral</i>" 
 tag: Funeral
 robots: noindex
----
+--- 

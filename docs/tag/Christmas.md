@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Christmas"
+title: "Posts tagged <i>Christmas</i>" 
 tag: Christmas
 robots: noindex
----
+--- 

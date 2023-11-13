@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Wedding"
+title: "Posts tagged <i>Wedding</i>" 
 tag: Wedding
 robots: noindex
----
+--- 

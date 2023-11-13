@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Special_Occasions"
+title: "Posts tagged <i>Special_Occasions</i>" 
 tag: Special_Occasions
 robots: noindex
----
+--- 

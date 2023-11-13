@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Crucial_Events"
+title: "Posts tagged <i>Crucial_Events</i>" 
 tag: Crucial_Events
 robots: noindex
----
+--- 

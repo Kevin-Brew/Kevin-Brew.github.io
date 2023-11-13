@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Harvest"
+title: "Posts tagged <i>Harvest</i>" 
 tag: Harvest
 robots: noindex
----
+--- 

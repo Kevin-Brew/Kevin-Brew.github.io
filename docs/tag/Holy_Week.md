@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Holy_Week"
+title: "Posts tagged <i>Holy_Week</i>" 
 tag: Holy_Week
 robots: noindex
----
+--- 

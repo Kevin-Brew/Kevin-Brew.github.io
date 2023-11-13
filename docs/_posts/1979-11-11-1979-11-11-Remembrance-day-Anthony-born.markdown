@@ -9,7 +9,7 @@ tags: Crucial_Events Special_Occasions
 <div class="tag-pills">
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+    <a href="{{ site.baseurl }}/tag/{{ tag_name }}" class="tag-pill">{{ tag_name }}</a>
   {% endfor %}
 </div>
 [Original PDF](/assets/pdf/1979-11-11-Remembrance-day-Anthony-born.pdf)

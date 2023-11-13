@@ -9,7 +9,7 @@ tags: Wedding
 <div class="tag-pills">
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}" class="tag-pill">{{ tag_name }}</a>
+    <a href="{{ site.baseurl }}/tag/{{ tag_name }}" class="tag-pill">{{ tag_name }}</a>
   {% endfor %}
 </div>
 [Original PDF](/assets/pdf/Sinead and Ron - 6th Oct 2011.pdf)

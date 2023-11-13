@@ -8,7 +8,7 @@ profile_picture:
 
 <p> Dad's collection of sermons spanned from the late 70's until now. He had a bunch of sermons printed out on rolling printer paper which he has scanned in, some in .doc format and some in .docs. Also during COVID he gave his services online. </p>
 
-<p> The <b>current</b> primary reason for this repository is to put all his sermons (or as many as he can find!) in one place, in a standard format. This is because he is planning to write a book and so having all the content in one place might enable a bit of human and machine analysis to see if there are common threads across his works that he might use as a foundation for his work </p>
+<p> The <b>current</b> primary reason for this repository is to put all his sermons (or as many as he can find!) in one place, in a standard format. This is because he is planning to write a book and so having all the content in one place might enable a bit of human and machine analysis to see if there are common threads across his works that he might use as a foundation for his work. You can navigate the sermons, have a look at the generated summaries and if you wan't interact with the sermons via GPT <a href="https://chat.openai.com/g/g-iDHn6ujDW-the-automated-anglican">the-automated-anglican</a> you can craft Kevin like sermons and get ideas based on his work </p>
 
 <p> It might also be of interest to you, you might want to read his old sermons or it could be a good dataset for some NLP tasks such as topic analysis of sermons over time. Over time I will add some more content here based on what we find!
 
@@ -22,4 +22,5 @@ profile_picture:
    <li> Identify the date </li>
    <li> Create a short summary for the Sermon </li>
    </ul></li>
+<li> Finally to create a DALLE-3 image for each post, I asked GPT to summarise the top 4 concepts out of each sermon and then create a prompt for DALLE based on this. The results were then forwarded to DALLE-3 </li>
 </ol>

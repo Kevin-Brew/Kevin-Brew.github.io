@@ -32,7 +32,8 @@ def getSummaryAndRational(json_object) -> str:
     import openai
     openai.api_key = os.getenv("OPENAI_API_KEY")
     from openai import OpenAI
-
+    title = json_object['title']
+    blurb = json_object['title']
     text = json_object['raw_text']
 
     client = OpenAI()
@@ -41,7 +42,7 @@ def getSummaryAndRational(json_object) -> str:
         messages=[
             {
                 "role": "user",
-                "content": "I want you to extract the top 4 concepts from a sermon I will paste. I want you to then select the concept that you best think can be graphically represented as non religious black and white pencil digram no text only images. Create one detailed prompt that can then be used in DALLE-3 to create an image for that concept.\n\nYou will not be able to generate images depicting scenes of war or conflict due to content policy restrictions.\n"
+                "content": "I want you to extract the top 4 concepts from a sermon I will paste with its title. I want you to then select the concept that you best think can be graphically represented as non religious black and white pencil diagram, ideally incorporating the title and informatioon from the summary. The image should have no text only images. The image should be of a scene or an action only using generic nature based analogies if really encessary.  Create one detailed prompt that can then be used in DALLE-3 to create an image for that concept.\n\nYou will not be able to generate images depicting scenes of war or conflict due to content policy restrictions.\n"
             },
             {
                 "role": "assistant",
@@ -49,7 +50,7 @@ def getSummaryAndRational(json_object) -> str:
             },
             {
                 "role": "user",
-                "content": text
+                "content": "title:\n {}, summary:\n{} main text:\n {}".format(title, blurb, text)
             }
         ],
         temperature=0.31,
